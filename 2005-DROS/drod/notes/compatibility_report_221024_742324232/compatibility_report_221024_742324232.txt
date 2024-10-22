@@ -1,0 +1,226 @@
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\scripts\SCR_PL_MOVE\SCR_PL_MOVE.gml
+String not found: ConversionLog_ConvertedString 4 'Q' "Q"
+String not found: ConversionLog_ConvertedString 4 'W' "W"
+String not found: ConversionLog_ConvertedString 4 'A' "A"
+String not found: ConversionLog_ConvertedString 4 'S' "S"
+String not found: ConversionLog_ConvertedString 15 'Q' "Q"
+String not found: ConversionLog_ConvertedString 16 'W' "W"
+String not found: ConversionLog_ConvertedString 17 'A' "A"
+String not found: ConversionLog_ConvertedString 18 'S' "S"
+String not found: ConversionLog_ConvertedString 55 'Q' "Q"
+String not found: ConversionLog_ConvertedString 56 'W' "W"
+String not found: ConversionLog_ConvertedString 57 'A' "A"
+String not found: ConversionLog_ConvertedString 58 'S' "S"
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\fonts\font1\font1.gms1.png
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_ENEMYI\Step_0.gml
+String not found: ConversionLog_ConvertedString 2 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 2 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_MAIN\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 'data.ini' "data.ini"
+String not found: ConversionLog_ConvertedString 3 'main' "main"
+String not found: ConversionLog_ConvertedString 3 'room' "room"
+String not found: ConversionLog_ConvertedString 5 'deleteme.ini' "deleteme.ini"
+String not found: ConversionLog_ConvertedString 6 'main' "main"
+String not found: ConversionLog_ConvertedString 6 'x' "x"
+String not found: ConversionLog_ConvertedString 7 'main' "main"
+String not found: ConversionLog_ConvertedString 7 'y' "y"
+String not found: ConversionLog_ConvertedString 8 'main' "main"
+String not found: ConversionLog_ConvertedString 8 's' "s"
+String not found: ConversionLog_ConvertedString 22 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_MAIN\Step_2.gml
+String not found: ConversionLog_ConvertedString 4 'Q' "Q"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_MAIN\Other_3.gml
+String not found: ConversionLog_ConvertedString 1 './data.ini' "./data.ini"
+String not found: ConversionLog_ConvertedString 2 './deleteme.ini' "./deleteme.ini"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_MAINB\KeyPress_13.gml
+String not found: ConversionLog_ConvertedString 3 'deleteme.ini' "deleteme.ini"
+String not found: ConversionLog_ConvertedString 4 'main' "main"
+String not found: ConversionLog_ConvertedString 4 'x' "x"
+String not found: ConversionLog_ConvertedString 5 'main' "main"
+String not found: ConversionLog_ConvertedString 5 'y' "y"
+String not found: ConversionLog_ConvertedString 6 'main' "main"
+String not found: ConversionLog_ConvertedString 6 's' "s"
+String not found: ConversionLog_ConvertedString 8 'data.ini' "data.ini"
+String not found: ConversionLog_ConvertedString 9 'main' "main"
+String not found: ConversionLog_ConvertedString 9 'room' "room"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_MISCH\Step_0.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_d8d047c1-6d81-4fb0-9801-29ab529f5005.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_cb8a8c9f-9a8f-43ca-93b6-723764e17f9a.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_3e17936c-29b0-40c6-9d96-cc65c30b30b9.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_9fe4c9de-6bc0-4792-b775-b5b8034c3130.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_f4c2d227-202d-4387-a0db-ca13c0fe6cf0.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_fe034eb0-7a38-49f4-bc8d-168a4928574f.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\O_PLAYER\Collision_598c2fca-66f1-41c7-94de-82322f6e5526.gml
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+String not found: ConversionLog_ConvertedString 1 './abcd.dsg' "./abcd.dsg"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\object47\Draw_0.gml
+String not found: ConversionLog_ConvertedString 3 'Hello Player!
+Now you are going to play a V 0.3 Alpha release of my project D.R.O.S.
+(Doomed Roads Of Skellhood) This project is based on D.R.O.D.
+(www.drod.net). If you dont know how to play this game, please 
+download DROD cause I dont have time
+and patience to descript all this things.
+Controls:
+Numpad 1,2,3,4,6,7,8,9 - Moving
+Numbad 5 - Wait
+Q - Turn sword 45 Left
+W - Turn sword 45 Right
+R - Reloads last save point
+F2 - Restarts room
+I wish you luck!
+Press Any key to continue...
+' "Hello Player!
+Now you are going to play a V 0.3 Alpha release of my project D.R.O.S.
+(Doomed Roads Of Skellhood) This project is based on D.R.O.D.
+(www.drod.net). If you dont know how to play this game, please 
+download DROD cause I dont have time
+and patience to descript all this things.
+Controls:
+Numpad 1,2,3,4,6,7,8,9 - Moving
+Numbad 5 - Wait
+Q - Turn sword 45 Left
+W - Turn sword 45 Right
+R - Reloads last save point
+F2 - Restarts room
+I wish you luck!
+Press Any key to continue...
+"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\object48\Draw_0.gml
+String not found: ConversionLog_ConvertedString 3 'Congratulations!
+You succesfully finished the whole Hold, which I called:
+Babysit Dungeon ;)
+I dont have anything else to say to you player.
+If you noticed any bugs or have and some ideas, please
+visit www.drod.net/forum then enter Development->D.R.O.S.(Skell Drod)
+and adjust to insctructions which you will find on this page.
+Have a nice day ;)
+Preess ESCAPE to exit
+' "Congratulations!
+You succesfully finished the whole Hold, which I called:
+Babysit Dungeon ;)
+I dont have anything else to say to you player.
+If you noticed any bugs or have and some ideas, please
+visit www.drod.net/forum then enter Development->D.R.O.S.(Skell Drod)
+and adjust to insctructions which you will find on this page.
+Have a nice day ;)
+Preess ESCAPE to exit
+"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\objects\object48\KeyPress_27.gml
+String not found: ConversionLog_ConvertedString 1 './data.ini' "./data.ini"
+String not found: ConversionLog_ConvertedString 2 './deleteme.ini' "./deleteme.ini"
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.1\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.1\RoomCreationCode.gml - 1: malformed variable reference got 118826
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.1\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.2\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.2\RoomCreationCode.gml - 1: malformed variable reference got 105708
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.2\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.3\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.3\RoomCreationCode.gml - 1: malformed variable reference got 117846
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\1.3\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.1\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.1\RoomCreationCode.gml - 1: malformed variable reference got 118848
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.1\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.2\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.2\RoomCreationCode.gml - 1: malformed variable reference got 118850
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.2\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.3\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.3\RoomCreationCode.gml - 1: malformed variable reference got 118851
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\2.3\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.1\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.1\RoomCreationCode.gml - 1: malformed variable reference got 118855
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.1\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.2\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.2\RoomCreationCode.gml - 1: malformed variable reference got 118859
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.2\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.3\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.3\RoomCreationCode.gml - 1: malformed variable reference got 118860
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.3\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.4\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.4\RoomCreationCode.gml - 1: malformed variable reference got 118865
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\3.4\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.1\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.1\RoomCreationCode.gml - 1: malformed variable reference got 118867
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.1\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.2\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.2\RoomCreationCode.gml - 1: malformed variable reference got 118868
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.2\RoomCreationCode.gml
+
+Converting GML script: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.3\RoomCreationCode.gml
+ERROR: C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.3\RoomCreationCode.gml - 1: malformed variable reference got 118871
+Too many errors - GML not processed : C:\Users\skell\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\drod_736753597_gmz\mvc\rooms\4.3\RoomCreationCode.gml
+
+Missing audiogroup for sound: 'SND_BD3' - setting to default audio group
+Missing audiogroup for sound: 'SND_BE2' - setting to default audio group
+Missing audiogroup for sound: 'SND_BE3' - setting to default audio group
+Missing audiogroup for sound: 'SND_BL1' - setting to default audio group
+Missing audiogroup for sound: 'SND_BL2' - setting to default audio group
+Missing audiogroup for sound: 'SND_BL3' - setting to default audio group
+Missing audiogroup for sound: 'SND_BO1' - setting to default audio group
+Missing audiogroup for sound: 'SND_BS' - setting to default audio group
+Missing audiogroup for sound: 'SND_KILL1' - setting to default audio group
+Missing audiogroup for sound: 'SND_KILL2' - setting to default audio group
+Missing audiogroup for sound: 'SND_KILL3' - setting to default audio group
+Missing audiogroup for sound: 'SND_EYE' - setting to default audio group
+Missing audiogroup for sound: 'SND_BREAK' - setting to default audio group
+Missing audiogroup for sound: 'SND_MIMIC' - setting to default audio group
+Missing audiogroup for sound: 'SND_ORB1' - setting to default audio group
+Missing audiogroup for sound: 'SND_POT' - setting to default audio group
+Missing audiogroup for sound: 'SND_BRAIN' - setting to default audio group
+Missing audiogroup for sound: 'SND_SWING' - setting to default audio group
+Missing audiogroup for sound: 'SND_READ' - setting to default audio group
+Missing audiogroup for sound: 'SND_TRAP' - setting to default audio group
+Missing audiogroup for sound: 'SND_TAR1' - setting to default audio group
+Missing audiogroup for sound: 'SND_MOVE' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_another_room.gml'
+Added compatibility script 'action\action_current_room.gml'
+Added compatibility script 'action\action_end_game.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_load_game.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

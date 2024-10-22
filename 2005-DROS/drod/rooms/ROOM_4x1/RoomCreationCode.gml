@@ -1,0 +1,3 @@
+inst_4x1_exit_down.ix=576
+inst_4x1_exit_down.iy=0
+inst_4x1_exit_down.goto=ROOM_4x2

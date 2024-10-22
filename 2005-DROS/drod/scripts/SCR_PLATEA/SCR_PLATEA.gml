@@ -1,0 +1,5 @@
+function SCR_PLATEA() {
+
+
+
+}

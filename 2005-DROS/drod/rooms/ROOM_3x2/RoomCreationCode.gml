@@ -1,0 +1,12 @@
+inst_3x2_exit_left.ix = 624
+inst_3x2_exit_left.iy = 448
+inst_3x2_exit_left.goto = ROOM_2x2
+inst_3x2_exit_up.ix = 384;
+inst_3x2_exit_up.iy = 464;
+inst_3x2_exit_up.goto = ROOM_3x1;
+inst_3x2_exit_right.ix = 0;
+inst_3x2_exit_right.iy = 208;
+inst_3x2_exit_right.goto = ROOM_4x2;
+inst_3x2_exit_down.ix = 400;
+inst_3x2_exit_down.iy = 0;
+inst_3x2_exit_down.goto = ROOM_3x3

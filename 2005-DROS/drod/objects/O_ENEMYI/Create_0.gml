@@ -1,0 +1,15 @@
+kill=0
+move=0
+ix=0
+iy=0
+dir=floor(random(8))
+if place_meeting(x,y,O_MA_EYEUP){dir=0}
+if place_meeting(x,y,O_MA_EYEUR){dir=1}
+if place_meeting(x,y,O_MA_EYERI){dir=2}
+if place_meeting(x,y,O_MA_EYEDR){dir=3}
+if place_meeting(x,y,O_MA_EYEDO){dir=4}
+if place_meeting(x,y,O_MA_EYEDL){dir=5}
+if place_meeting(x,y,O_MA_EYELE){dir=6}
+if place_meeting(x,y,O_MA_EYEUL){dir=7}
+image_single=dir
+ende=0

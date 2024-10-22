@@ -1,0 +1,12 @@
+inst_1x3_orb3.open[0]=2
+inst_1x3_orb3.open[1]=3
+inst_1x3_orb3.open[2]=0
+inst_1x3_orb3.close[0]=1
+inst_1x3_orb3.close[1]=0
+inst_1x3_orb1.open[0]=2
+inst_1x3_orb1.open[1]=0
+inst_1x3_orb2.open[0]=4
+inst_1x3_orb2.open[1]=0
+inst_1x3_exit_right.ix = 0;
+inst_1x3_exit_right.iy = 192;
+inst_1x3_exit_right.goto = ROOM_2x3;
