@@ -3,6 +3,7 @@
  - **Alternate Titles:** *"Doomed Roads of Skellhood"* and *"Deadly Rooms of Skell-hat"*
  - **Original Release Date:** *probably* March 2005 (that's the last modified date)
  - **Status:** Abandoned
+ - [Download Game](cdn.evidentlycube.com/games/DROS.zip) - Windows / Linux (Wine)
 
 When I was 14 I've discovered DROD and instantly feel in love with the game. It was my first attempt at creating my own version of DROD, in Game Maker. Unfortunately the original thread in which I published the project was deleted so the only history I have of the project is whatever remains in my memories.
 
