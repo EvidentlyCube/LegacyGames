@@ -4,6 +4,6 @@ This repository contains all of the non-commercial games I've released in the pa
 
 ## DROS
 
-* [Source Code](tree/main/2005-DROS)
+* [Source Code](https://github.com/EvidentlyCube/LegacyGames/tree/main/2005-DROS)
 
 An attempt to make my own version of DROD in Game Maker, from 2005.
