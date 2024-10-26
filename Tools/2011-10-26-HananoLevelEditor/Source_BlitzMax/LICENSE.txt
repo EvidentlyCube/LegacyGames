@@ -1,0 +1,11 @@
+.png files
+----------
+Copyright Qrostar/Tatsunami
+https://qrostar.skr.jp/
+
+
+Editor.bmx
+----------
+Copyright Maurycy Zarzycki
+MIT License
+

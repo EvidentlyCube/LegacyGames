@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Set_Color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Set_Color",
+  "parent":{
+    "name":"Operations",
+    "path":"folders/Scripts/Operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

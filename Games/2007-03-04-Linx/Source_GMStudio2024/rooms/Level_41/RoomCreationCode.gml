@@ -1,0 +1,4 @@
+Generate_Ingame("zbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbtbbbbbbzzzzzbbrbbbrbbzzzzzbbbbbbbbbbbbzzbubbbbbbybtbzzbibbbbbbbbbbzzoubbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbbbbbbbbzzzzzbbbbbbibbzzzzzbbbbbbbboz")
+global.l_title="Hard Turns"
+global.l_author="Cage"
+global.pathx=107

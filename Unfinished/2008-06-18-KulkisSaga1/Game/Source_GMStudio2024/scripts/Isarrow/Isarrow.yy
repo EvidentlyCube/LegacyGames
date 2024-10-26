@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Isarrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Isarrow",
+  "parent":{
+    "name":"Checks",
+    "path":"folders/Scripts/Checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

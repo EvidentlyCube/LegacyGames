@@ -1,0 +1,12 @@
+_gfx/
+tileset.png
+tileset_bg.png
+--------------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+Editor.oep
+----------
+Copyright Maurycy Zarzycki
+MIT License

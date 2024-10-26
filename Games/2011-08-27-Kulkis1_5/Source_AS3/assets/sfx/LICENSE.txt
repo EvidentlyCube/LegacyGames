@@ -1,0 +1,11 @@
+key.mp3
+gameOver.mp3
+extraLife.mp3
+------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+sfxr/
+-----
+Sound effects generated using sfxr

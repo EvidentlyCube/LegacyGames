@@ -1,0 +1,35 @@
+<project>
+  <name>Tactic Engine - DROD</name>
+  <settings>
+    <bgColor>0x000000</bgColor>
+    <defaultWidth>440</defaultWidth>
+    <defaultHeight>440</defaultHeight>
+    <minWidth>220</minWidth>
+    <minHeight>220</minHeight>
+    <maxWidth>2200</maxWidth>
+    <maxHeight>2200</maxHeight>
+    <sizeInTiles>true</sizeInTiles>
+    <tileWidth>22</tileWidth>
+    <tileHeight>22</tileHeight>
+    <workingDirectory>.</workingDirectory>
+  </settings>
+  <tilesets>
+    <tileset name="tiles" image="tileset.png" tileWidth="22" tileHeight="22" paletteScale="1"/>
+  </tilesets>
+  <objects>
+    <object name="citizen" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="88" imageOffsetY="154" />
+    <object name="stalwart" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="88" imageOffsetY="220" />
+    <object name="beethro" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="264" imageOffsetY="110" />
+    <object name="roach"  image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="88" imageOffsetY="110" />
+    <object name="spider" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="264" imageOffsetY="198" />
+    <object name="tarbaby" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="88" imageOffsetY="176" />
+    <object name="goblin" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="264" imageOffsetY="132" />
+    <object name="slayer" image="tileset.png" width="22" height="22" imageWidth="22" imageHeight="22" imageOffsetX="264" imageOffsetY="176" />
+  </objects>
+  <layers>
+    <tiles name="layer0" gridSize="22" tileset="tiles"/>
+    <tiles name="layer1" gridSize="22" tileset="tiles"/>
+    <tiles name="layer2" gridSize="22" tileset="tiles"/>
+    <objects name="actors" gridSize="22"/>
+  </layers>
+</project>

@@ -1,0 +1,9 @@
+inst_4x2_exit_left.ix=624
+inst_4x2_exit_left.iy=208
+inst_4x2_exit_left.goto=ROOM_3x2
+inst_4x2_exit_up.ix=576
+inst_4x2_exit_up.iy=464
+inst_4x2_exit_up.goto=ROOM_4x1
+inst_4x2_exit_down.ix=576
+inst_4x2_exit_down.iy=0
+inst_4x2_exit_down.goto=ROOM_4x3

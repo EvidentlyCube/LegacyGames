@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lev_comp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lev_comp",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

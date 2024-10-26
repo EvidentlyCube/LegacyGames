@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Toggle_Door",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Toggle_Door",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

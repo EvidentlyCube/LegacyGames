@@ -1,0 +1,1 @@
+instance_create(0,0,Main_objects_OtherObjects)

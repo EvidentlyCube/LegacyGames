@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fileread",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fileread",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,221 @@
+<level id="jerzy-031" time="100" wrapsX="false" wrapsY="false">
+  <width>288</width>
+  <height>288</height>
+  <level set="tiles">
+    <tile tx="128" ty="240" x="176" y="16"/>
+    <tile tx="160" ty="240" x="192" y="16"/>
+    <tile tx="128" ty="224" x="192" y="208"/>
+    <tile tx="144" ty="240" x="192" y="224"/>
+    <tile tx="128" ty="240" x="256" y="224"/>
+    <tile tx="128" ty="240" x="240" y="224"/>
+    <tile tx="128" ty="240" x="208" y="224"/>
+    <tile tx="80" ty="16" x="64" y="32"/>
+    <tile tx="80" ty="16" x="48" y="48"/>
+    <tile tx="80" ty="16" x="32" y="48"/>
+    <tile tx="80" ty="16" x="80" y="48"/>
+    <tile tx="80" ty="16" x="96" y="48"/>
+    <tile tx="80" ty="16" x="80" y="80"/>
+    <tile tx="80" ty="16" x="48" y="80"/>
+    <tile tx="80" ty="16" x="64" y="128"/>
+    <tile tx="80" ty="16" x="112" y="96"/>
+    <tile tx="80" ty="16" x="128" y="96"/>
+    <tile tx="80" ty="16" x="192" y="96"/>
+    <tile tx="80" ty="16" x="208" y="96"/>
+    <tile tx="80" ty="16" x="224" y="96"/>
+    <tile tx="80" ty="16" x="240" y="96"/>
+    <tile tx="80" ty="16" x="256" y="96"/>
+    <tile tx="80" ty="16" x="192" y="64"/>
+    <tile tx="80" ty="16" x="208" y="64"/>
+    <tile tx="80" ty="16" x="224" y="64"/>
+    <tile tx="80" ty="16" x="240" y="32"/>
+    <tile tx="80" ty="16" x="224" y="144"/>
+    <tile tx="80" ty="16" x="208" y="144"/>
+    <tile tx="80" ty="16" x="192" y="144"/>
+    <tile tx="80" ty="16" x="176" y="144"/>
+    <tile tx="80" ty="16" x="160" y="144"/>
+    <tile tx="80" ty="16" x="144" y="144"/>
+    <tile tx="80" ty="16" x="128" y="144"/>
+    <tile tx="80" ty="16" x="112" y="144"/>
+    <tile tx="80" ty="16" x="96" y="144"/>
+    <tile tx="80" ty="16" x="16" y="176"/>
+    <tile tx="80" ty="16" x="32" y="176"/>
+    <tile tx="80" ty="16" x="48" y="176"/>
+    <tile tx="80" ty="16" x="64" y="176"/>
+    <tile tx="80" ty="16" x="80" y="176"/>
+    <tile tx="80" ty="16" x="96" y="176"/>
+    <tile tx="80" ty="16" x="112" y="176"/>
+    <tile tx="80" ty="16" x="128" y="176"/>
+    <tile tx="80" ty="16" x="144" y="176"/>
+    <tile tx="80" ty="16" x="160" y="176"/>
+    <tile tx="80" ty="16" x="176" y="176"/>
+    <tile tx="80" ty="16" x="192" y="176"/>
+    <tile tx="80" ty="16" x="208" y="176"/>
+    <tile tx="80" ty="16" x="16" y="256"/>
+    <tile tx="80" ty="16" x="32" y="256"/>
+    <tile tx="80" ty="16" x="112" y="256"/>
+    <tile tx="80" ty="16" x="128" y="256"/>
+    <tile tx="80" ty="16" x="160" y="256"/>
+    <tile tx="80" ty="16" x="176" y="272"/>
+    <tile tx="80" ty="16" x="192" y="272"/>
+    <tile tx="80" ty="16" x="208" y="272"/>
+    <tile tx="80" ty="16" x="224" y="272"/>
+    <tile tx="80" ty="16" x="240" y="272"/>
+    <tile tx="80" ty="16" x="256" y="272"/>
+    <tile tx="80" ty="16" x="272" y="0"/>
+    <tile tx="80" ty="16" x="272" y="16"/>
+    <tile tx="80" ty="16" x="240" y="0"/>
+    <tile tx="80" ty="16" x="272" y="32"/>
+    <tile tx="80" ty="16" x="224" y="0"/>
+    <tile tx="80" ty="16" x="272" y="48"/>
+    <tile tx="80" ty="16" x="272" y="64"/>
+    <tile tx="80" ty="16" x="272" y="80"/>
+    <tile tx="80" ty="16" x="176" y="0"/>
+    <tile tx="80" ty="16" x="272" y="96"/>
+    <tile tx="80" ty="16" x="272" y="112"/>
+    <tile tx="80" ty="16" x="144" y="0"/>
+    <tile tx="80" ty="16" x="272" y="128"/>
+    <tile tx="80" ty="16" x="128" y="0"/>
+    <tile tx="80" ty="16" x="272" y="144"/>
+    <tile tx="80" ty="16" x="112" y="0"/>
+    <tile tx="80" ty="16" x="272" y="160"/>
+    <tile tx="80" ty="16" x="96" y="0"/>
+    <tile tx="80" ty="16" x="160" y="64"/>
+    <tile tx="80" ty="16" x="80" y="0"/>
+    <tile tx="80" ty="16" x="160" y="80"/>
+    <tile tx="80" ty="16" x="272" y="192"/>
+    <tile tx="80" ty="16" x="64" y="0"/>
+    <tile tx="80" ty="16" x="160" y="96"/>
+    <tile tx="80" ty="16" x="272" y="208"/>
+    <tile tx="80" ty="16" x="48" y="0"/>
+    <tile tx="80" ty="16" x="32" y="0"/>
+    <tile tx="80" ty="16" x="16" y="0"/>
+    <tile tx="80" ty="16" x="272" y="256"/>
+    <tile tx="80" ty="16" x="0" y="0"/>
+    <tile tx="80" ty="16" x="272" y="272"/>
+    <tile tx="80" ty="16" x="0" y="32"/>
+    <tile tx="80" ty="16" x="0" y="48"/>
+    <tile tx="80" ty="16" x="0" y="64"/>
+    <tile tx="80" ty="16" x="0" y="80"/>
+    <tile tx="80" ty="16" x="0" y="96"/>
+    <tile tx="80" ty="16" x="0" y="112"/>
+    <tile tx="80" ty="16" x="0" y="128"/>
+    <tile tx="80" ty="16" x="0" y="144"/>
+    <tile tx="80" ty="16" x="0" y="176"/>
+    <tile tx="80" ty="16" x="0" y="192"/>
+    <tile tx="80" ty="16" x="0" y="208"/>
+    <tile tx="80" ty="16" x="0" y="224"/>
+    <tile tx="80" ty="16" x="0" y="240"/>
+    <tile tx="80" ty="16" x="0" y="256"/>
+    <tile tx="80" ty="16" x="240" y="48"/>
+    <tile tx="80" ty="16" x="96" y="80"/>
+    <tile tx="80" ty="16" x="96" y="64"/>
+    <tile tx="80" ty="16" x="80" y="96"/>
+    <tile tx="80" ty="16" x="48" y="96"/>
+    <tile tx="80" ty="16" x="32" y="80"/>
+    <tile tx="80" ty="16" x="32" y="64"/>
+    <tile tx="80" ty="16" x="64" y="144"/>
+    <tile tx="80" ty="16" x="224" y="176"/>
+    <tile tx="80" ty="32" x="224" y="160"/>
+    <tile tx="128" ty="240" x="272" y="224"/>
+    <tile tx="80" ty="16" x="80" y="256"/>
+    <tile tx="80" ty="16" x="64" y="256"/>
+    <tile tx="80" ty="16" x="160" y="272"/>
+    <tile tx="80" ty="16" x="128" y="272"/>
+    <tile tx="80" ty="16" x="112" y="272"/>
+    <tile tx="80" ty="16" x="80" y="272"/>
+    <tile tx="80" ty="16" x="64" y="272"/>
+    <tile tx="80" ty="16" x="32" y="272"/>
+    <tile tx="80" ty="16" x="0" y="272"/>
+    <tile tx="144" ty="240" x="160" y="16"/>
+    <tile tx="128" ty="224" x="160" y="0"/>
+    <tile tx="128" ty="224" x="192" y="0"/>
+    <tile tx="144" ty="256" x="192" y="192"/>
+    <tile tx="128" ty="224" x="144" y="256"/>
+    <tile tx="128" ty="224" x="144" y="272"/>
+    <tile tx="128" ty="224" x="96" y="256"/>
+    <tile tx="128" ty="224" x="96" y="272"/>
+    <tile tx="128" ty="224" x="48" y="256"/>
+    <tile tx="128" ty="224" x="48" y="272"/>
+    <tile tx="80" ty="32" x="0" y="160"/>
+    <tile tx="80" ty="32" x="0" y="16"/>
+    <tile tx="80" ty="32" x="160" y="48"/>
+    <tile tx="80" ty="32" x="224" y="112"/>
+    <tile tx="80" ty="32" x="16" y="272"/>
+    <tile tx="80" ty="32" x="272" y="176"/>
+    <tile tx="80" ty="32" x="256" y="0"/>
+    <tile tx="80" ty="16" x="160" y="32"/>
+    <tile tx="80" ty="16" x="288" y="240"/>
+    <tile tx="80" ty="16" x="272" y="240"/>
+    <tile x="144" y="96" tx="80" ty="0"/>
+    <tile x="176" y="32" tx="32" ty="0"/>
+    <tile x="192" y="32" tx="32" ty="0"/>
+    <tile x="176" y="64" tx="16" ty="0"/>
+    <tile x="176" y="48" tx="16" ty="0"/>
+    <tile x="192" y="32" tx="48" ty="0"/>
+    <tile x="192" y="48" tx="32" ty="0"/>
+    <tile x="208" y="32" tx="48" ty="0"/>
+    <tile x="208" y="32" tx="48" ty="0"/>
+    <tile x="224" y="32" tx="16" ty="0"/>
+    <tile x="176" y="96" tx="96" ty="0"/>
+    <tile x="224" y="224" tx="128" ty="0"/>
+  </level>
+  <actors>
+    <spikes x="64" y="64" timeUp="120" timeDown="120" timeOffset="0"/>
+    <keyRed x="48" y="64"/>
+    <keyGreen x="80" y="64"/>
+    <keyOrange x="64" y="48"/>
+    <crate x="80" y="144"/>
+    <eyeLeft x="208" y="112"/>
+    <crateSteel x="32" y="128"/>
+    <turtleCWRight x="32" y="112" speed="16" turnWait="8"/>
+    <waste x="96" y="128"/>
+    <waste x="128" y="128"/>
+    <waste x="160" y="128"/>
+    <waste x="192" y="128"/>
+    <blob x="224" y="128" speed="8"/>
+    <crate x="208" y="128"/>
+    <barrel x="16" y="48"/>
+    <ammo1 x="16" y="32"/>
+    <crateSteel x="128" y="48"/>
+    <turtleCWRight x="128" y="32" speed="16" turnWait="8"/>
+    <waste x="112" y="80"/>
+    <waste x="144" y="80"/>
+    <fishRight x="16" y="16" speed="16"/>
+    <waste x="48" y="32"/>
+    <waste x="80" y="32"/>
+    <waste x="192" y="160"/>
+    <waste x="96" y="160"/>
+    <eyeDown x="208" y="0"/>
+    <fishLeft x="256" y="80" speed="16"/>
+    <crate x="224" y="16"/>
+    <waste x="208" y="48"/>
+    <waste x="240" y="16"/>
+    <ammo1 x="224" y="48"/>
+    <spikes x="240" y="176" timeUp="120" timeDown="120" timeOffset="0"/>
+    <spikes x="256" y="176" timeUp="120" timeDown="120" timeOffset="0"/>
+    <waste x="256" y="208"/>
+    <waste x="240" y="192"/>
+    <waste x="224" y="208"/>
+    <waste x="208" y="192"/>
+    <fishRight x="176" y="256" speed="16"/>
+    <crate x="144" y="192"/>
+    <crate x="144" y="224"/>
+    <crate x="144" y="240"/>
+    <crate x="144" y="208"/>
+    <crate x="128" y="240"/>
+    <crate x="128" y="224"/>
+    <crate x="96" y="192"/>
+    <crate x="96" y="192"/>
+    <crate x="80" y="192"/>
+    <crate x="96" y="240"/>
+    <crate x="64" y="240"/>
+    <crate x="48" y="240"/>
+    <crate x="96" y="224"/>
+    <crate x="64" y="208"/>
+    <crate x="48" y="224"/>
+    <crate x="96" y="208"/>
+    <waste x="16" y="192"/>
+    <waste x="16" y="240"/>
+    <player x="208" y="160"/>
+  </actors>
+</level>

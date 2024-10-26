@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55 D....            0            0  LogicalPack1
+2013-04-21 19:52:55 D....            0            0  LogicalPack1/Sounds
+2008-06-08 17:55:25 ....A      3974884      7943926  LogicalPack1/LogicalPack.zip
+2006-12-24 10:24:39 ....A        68472               LogicalPack1/Sounds/blim1.wav
+2006-12-24 10:24:45 ....A        71410               LogicalPack1/Sounds/blim2.wav
+2006-12-24 10:24:53 ....A        73090               LogicalPack1/Sounds/blim3.wav
+2006-12-24 10:39:09 ....A        76328               LogicalPack1/Sounds/blim4.wav
+2006-12-24 10:25:07 ....A        71412               LogicalPack1/Sounds/blim5.wav
+2006-12-24 10:25:16 ....A        76448               LogicalPack1/Sounds/blim6.wav
+2006-12-24 10:25:26 ....A        58208               LogicalPack1/Sounds/blim7.wav
+2006-12-24 13:53:43 ....A        33452               LogicalPack1/Sounds/break.wav
+2006-12-24 10:37:49 ....A         8168               LogicalPack1/Sounds/moves.wav
+2006-12-24 10:27:49 ....A        35800               LogicalPack1/Sounds/rymps1.wav
+2006-12-24 10:27:57 ....A        30756               LogicalPack1/Sounds/rymps2.wav
+2006-12-24 10:28:02 ....A        33964               LogicalPack1/Sounds/rymps3.wav
+2006-12-24 10:28:08 ....A        35798               LogicalPack1/Sounds/rymps4.wav
+2006-12-24 10:28:14 ....A        35340               LogicalPack1/Sounds/rymps5.wav
+2006-12-24 10:28:21 ....A        33964               LogicalPack1/Sounds/rymps6.wav
+2006-12-24 10:28:28 ....A        34882               LogicalPack1/Sounds/rymps7.wav
+2006-12-24 10:37:19 ....A        33026               LogicalPack1/Sounds/selected.wav
+2006-12-24 10:47:21 ....A        47552               LogicalPack1/Sounds/silup.wav
+2006-12-24 10:33:09 ....A       265456               LogicalPack1/Sounds/Winns.wav
+2008-06-08 17:18:30 ....A          328               LogicalPack1/Read Me!.txt
+2006-11-19 20:45:16 ....A         9215               LogicalPack1/Game1.GB1
+2006-12-24 11:08:25 ....A      2882416               LogicalPack1/Logical_Games.GB1
+2006-11-26 16:53:39 ....A        91765               LogicalPack1/Logical_Games_LG.GB1
+2008-10-28 06:37:40 ....A      2907094               LogicalPack1/Logical_Games_v11.gb1
+2006-12-24 11:09:10 ....A      2882449               LogicalPack1/Logical_Games.GM6
+2007-06-25 17:37:22 ....A        92701               LogicalPack1/Logical_Games_LG.GM6
+2008-10-28 06:38:47 ....A      2907096               LogicalPack1/Logical_Games_v11.GM6
+2008-06-08 17:53:05 ....A          133               LogicalPack1/game_errors.log
+2006-11-26 16:13:56 ....A        13016               LogicalPack1/_save605190.SAV
+2008-06-08 17:54:14 ....A      4105095      3969825  LogicalPack1/Logical Pack.exe
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55           20989718     11913751  31 files, 2 folders

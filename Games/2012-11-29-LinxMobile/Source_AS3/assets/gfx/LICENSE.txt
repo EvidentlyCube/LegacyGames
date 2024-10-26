@@ -1,0 +1,28 @@
+unused/tiles_path.png
+unused/title_lite.png
+unused/bg_title_old.jpg
+unused/background_old.png
+unused/tiles_path_old.png
+unused/tiles_path_big.png
+unused/tile_floor_old.png
+unused/tile_floor_old2.png
+unused/tile_floor - Copy.png
+unused/tiles_path_hlight.png
+unused/tiles_path_pattern.png
+unused/tiles_base_hlight_old.png
+unused/tiles_base_hlight_old2.png
+unused/background_victory1_old.png
+unused/background_victory2_old.png
+unused/tiles_path_pattern_hlight.png
+unused/tiles_base_pattern_hlight_old.png
+unused/tiles_base_pattern_hlight_old2.png
+-----------------------------------------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+unused/bBack.png
+unused/bErase.png
+-----------------
+Copyright Aleksander Kowalczyk (Cage) (the background) and Maurycy Zarzycki (the icon)
+Creative Commons Attribution 4.0 International

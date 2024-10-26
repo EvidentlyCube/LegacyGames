@@ -1,0 +1,64 @@
+Loca# File: tiles.txt
+
+# This file contains information about tiles - how they work, look and interact
+# with the world around.
+
+# Understanding tiles.txt:
+
+# N : tile ID : Name of tile
+# G : graphic ID
+# F : flags
+## E : Event name : Event effect : Target/Power/Value
+
+# N - Indicates the beginning of an entry, ID must be unique
+# G - ID of the graphic (See graphics.txt), default character code indicates the
+      the character which represents this tile in level
+# F - List of flags Separated by spaces
+# E - (Multiple E can be used per tile)
+
+# List of Flags:
+#  ENTER_8           - Not possible to enter this tile in any direction;
+#  ENTER_0 - ENTER_7 - Not possible to enter this tile in specified direction;
+#  LEAVE_8           - Not possible to leave this tile in any direction;
+#  LEAVE_0 - LEAVE_7 - Not possible to leave this tile in specified direction;
+
+N:0:Empty Floor
+G:0
+
+N:1:Wall
+G:2
+F:ENTER_8
+
+N:2:Arrow Right
+G:3
+F:ENTER_3 ENTER_4 ENTER_5 LEAVE_3 LEAVE_4 LEAVE_5
+
+N:3:Arrow Bottom-Right
+G:4
+F:ENTER_4 ENTER_5 ENTER_6 LEAVE_4 LEAVE_5 LEAVE_6
+
+N:4:Arrow Bottom
+G:5
+F:ENTER_5 ENTER_6 ENTER_7 LEAVE_5 LEAVE_6 LEAVE_7
+
+N:5:Arrow Bottom-Left
+G:6
+F:ENTER_6 ENTER_7 ENTER_0 LEAVE_6 LEAVE_7 LEAVE_0
+
+N:6:Arrow Left
+G:7
+F:ENTER_7 ENTER_0 ENTER_1 LEAVE_7 LEAVE_0 LEAVE_1
+
+N:7:Arrow Top-Left
+G:8
+F:ENTER_0 ENTER_1 ENTER_2 LEAVE_0 LEAVE_1 LEAVE_2
+
+N:8:Arrow Top
+G:9
+F:ENTER_1 ENTER_2 ENTER_3 LEAVE_1 LEAVE_2 LEAVE_3
+
+N:9:Arrow Top-Right
+G:10
+F:ENTER_2 ENTER_3 ENTER_4 LEAVE_2 LEAVE_3 LEAVE_4
+
+

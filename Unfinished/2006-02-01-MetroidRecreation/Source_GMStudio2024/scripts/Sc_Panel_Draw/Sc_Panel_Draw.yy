@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sc_Panel_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_Panel_Draw",
+  "parent":{
+    "name":"Panel",
+    "path":"folders/Scripts/Panel.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_Face",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_Face",
+  "parent":{
+    "name":"Talker",
+    "path":"folders/Scripts/Talker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

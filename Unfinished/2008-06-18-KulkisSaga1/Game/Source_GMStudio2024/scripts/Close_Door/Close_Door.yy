@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Close_Door",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Close_Door",
+  "parent":{
+    "name":"Operations",
+    "path":"folders/Scripts/Operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

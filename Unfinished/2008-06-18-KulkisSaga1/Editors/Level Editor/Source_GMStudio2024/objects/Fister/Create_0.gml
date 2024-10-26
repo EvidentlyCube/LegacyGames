@@ -1,0 +1,9 @@
+koko=x/32+y
+file_bin_seek(global.file,koko)
+lev=file_bin_read_byte(global.file)
+file_bin_seek(global.file,koko+928+928+928)
+va=file_bin_read_byte(global.file)
+file_bin_seek(global.file,koko+928+928+928+928)
+vb=file_bin_read_byte(global.file)
+file_bin_seek(global.file,koko+928+928+928+928+928)
+vc=file_bin_read_byte(global.file)

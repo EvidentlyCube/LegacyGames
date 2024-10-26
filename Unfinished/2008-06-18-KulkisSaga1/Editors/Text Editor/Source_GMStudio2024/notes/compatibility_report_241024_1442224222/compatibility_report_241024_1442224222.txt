@@ -1,0 +1,12 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Text Generator_1369811726_gmz\mvc\rooms\room0\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'Kulkis I Special|*.kis' "Kulkis I Special|*.kis"
+String not found: ConversionLog_ConvertedString 3 'fdsf' "fdsf"
+String not found: ConversionLog_ConvertedString 7 'Add another line of text?' "Add another line of text?"
+String not found: ConversionLog_ConvertedString 8 'Shall this words be on the Down side of the screen?' "Shall this words be on the Down side of the screen?"
+String not found: ConversionLog_ConvertedString 9 'Type the face number:' "Type the face number:"
+String not found: ConversionLog_ConvertedString 10 'Type the speaker name:' "Type the speaker name:"
+String not found: ConversionLog_ConvertedString 10 '' ""
+String not found: ConversionLog_ConvertedString 16 'Type the text:' "Type the text:"
+String not found: ConversionLog_ConvertedString 16 '' ""
+
+Game speed set to 30

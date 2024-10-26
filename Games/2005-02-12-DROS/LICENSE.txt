@@ -1,0 +1,11 @@
+(graphics)
+(sound effects)
+---------------
+Taken from DROD: Architect's Edition
+Copyright Caravel Games
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

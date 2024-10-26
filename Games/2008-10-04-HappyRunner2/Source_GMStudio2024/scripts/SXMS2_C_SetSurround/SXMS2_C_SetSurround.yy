@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SXMS2_C_SetSurround",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SXMS2_C_SetSurround",
+  "parent":{
+    "name":"SXMS2v02",
+    "path":"folders/Scripts/SXMS2v02.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

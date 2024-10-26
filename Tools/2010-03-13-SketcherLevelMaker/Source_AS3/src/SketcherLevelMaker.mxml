@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" width="800" height="600" initialize="self = this;" addedToStage="stage.addEventListener(KeyboardEvent.KEY_DOWN, keyboard); stage.align=StageAlign.RIGHT;">
+    <mx:Canvas id="canver" x="0" y="0" width="600" height="600" click="clicked();">
+        <mx:Image source="@Embed(source='../assets/image.jpg')"/>
+    </mx:Canvas>
+    <mx:Canvas id="smashers" includeInLayout="false" width="600" height="600" />
+    <mx:Canvas id="points"   includeInLayout="false" width="600" height="600" />
+    <mx:CheckBox x="608" y="36" label="Loop" width="182" id="_loop" click="update()"/>
+    <mx:CheckBox x="608" y="66" label="New Body" width="182" id="_newBody" click="update()"/>
+    <mx:CheckBox x="608" y="96" label="Last Body" width="182" id="_lastBody" click="update()"/>
+    <mx:Label x="608" y="10" text="POINT CONTROL:" width="182" textAlign="center" fontSize="16" fontWeight="bold"/>
+    <mx:Label x="608" y="126" text="POINT ALPHA:" width="182" textAlign="center" fontSize="16" fontWeight="bold"/>
+    <mx:Label x="608" y="184" text="MOVE POINT:" width="182" textAlign="center" fontSize="16" fontWeight="bold"/>
+    <mx:Label x="608" y="332" text="LEVEL CODE:" width="182" textAlign="center" fontSize="16" fontWeight="bold"/>
+    <mx:HSlider x="608" y="158" width="182" id="_alpher" enabled="true" maximum="1" minimum="0" liveDragging="true" value="1"/>
+    <mx:Button x="678" y="221" label="^" height="32" click="moveUp()" id="_up"/>
+    <mx:Button x="678" y="292" label="v" height="32" click="moveDown()" id="_down"/>
+    <mx:Button x="608" y="355" label="GENERATE" height="20" click="SAVE()" id="_down0" width="182"/>
+    <mx:Button x="608" y="257" label="&lt;" height="32" click="moveLeft()" id="_left"/>
+    <mx:Button x="654" y="265" label="DELETE POINT" height="13" click="remove()" id="_left0" fontSize="7" width="93"/>
+    <mx:Button x="750" y="257" label="&gt;" height="32" click="moveRight()" id="_right"/>
+
+    <mx:Script>
+        <![CDATA[
+            import mx.graphics.codec.PNGEncoder;
+            public static var selected:pnt;
+            public static var self:SketcherLevelMaker;
+
+            public function clicked():void{
+                select(new pnt());
+                selected.x = canver.mouseX;
+                selected.y = canver.mouseY;
+
+                pnt.pts.push(selected);
+
+                selected.created();
+
+                points.addChild(selected);
+            }
+
+            public function update():void{
+                for each (var p:pnt in pnt.pts){
+                    if (p == selected){
+                        p.update();
+                    } else {
+                        p.loopUpdate();
+                    }
+                }
+            }
+
+            public function update2():void{
+                for each (var p:pnt in pnt.pts){
+                    p.newResmash()
+                }
+            }
+
+            public function moveUp():void{
+                if (selected && selected.y>0){
+                    selected.y--;
+                }
+            }
+
+            public function moveDown():void{
+                if (selected && selected.y<600){
+                    selected.y++;
+                }
+            }
+
+            public function moveLeft():void{
+                if (selected && selected.x>0){
+                    selected.x--;
+                }
+            }
+
+            public function moveRight():void{
+                if (selected && selected.x<600){
+                    selected.x++;
+                }
+            }
+
+            public static function select(t:pnt):void{
+                if (selected){selected.unsel();}
+                t.sel();
+                selected = t;
+            }
+
+            public static function remove():void{
+                if (selected){
+                    selected.kill();
+                    selected = null;
+                    self.update();
+                }
+            }
+
+            public static function keyboard(e:KeyboardEvent):void{
+                if (pnt.pts.length == 0){ return; }
+                if (e.keyCode == Keyboard.LEFT){
+                    if (selected && pnt.pts.indexOf(selected) > 0){
+                        select(pnt.pts[pnt.pts.indexOf(selected)-1]);
+                    } else {
+                        select(pnt.pts[0]);
+                    }
+                } else if (e.keyCode == Keyboard.RIGHT){
+                    if (selected && pnt.pts.indexOf(selected) < pnt.pts.length-1){
+                        select(pnt.pts[pnt.pts.indexOf(selected)+1]);
+                    } else {
+                        select(pnt.pts[pnt.pts.length-1]);
+                    }
+                } else if (e.keyCode == Keyboard.DELETE || e.keyCode == 68){
+                    remove();
+                }
+                trace("key");
+            }
+
+            public static function SAVE():void{
+                var ent:String = String.fromCharCode(13);
+                var s:String = "";
+                for each( var i:pnt in pnt.pts){
+                    if (i._newBody){
+                        s += "GamePoint._newBody();"+ent;
+                    }
+                    s += "new GamePoint(";
+                    s += i.x;
+                    s += ", ";
+                    s += i.y;
+
+                    if (i._loop){
+                        s += ", true);"+ent;
+                    } else {
+                        s += ", false);"+ent;
+                    }
+
+                    if (i._last){
+                        s += "GamePoint._endBodies();"
+                    }
+                    self.SAVE_DATA.text = s;
+                }
+            }
+        ]]>
+    </mx:Script>
+    <mx:Text x="608" y="383" width="182" height="207" fontSize="6" selectable="true" id="SAVE_DATA"/>
+</mx:Application>

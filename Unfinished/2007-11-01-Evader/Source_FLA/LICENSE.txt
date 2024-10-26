@@ -1,0 +1,10 @@
+Evader.fla (graphics)
+---------------------
+Copyright Maurycy Zarzycki
+Creative Commons 0 / Public Domain
+
+
+Evader.fla (code/scripts)
+-------------------------
+Copyright Maurycy Zarzycki
+MIT License

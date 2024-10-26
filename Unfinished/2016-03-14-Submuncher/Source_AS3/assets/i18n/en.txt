@@ -1,0 +1,207 @@
+##########
+# GLOBAL #
+##########
+
+key8=Backspace
+key9=Tab
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Space
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Left
+key38=Up
+key39=Right
+key40=Down
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=R.Win
+key93=Menu
+key96=Numpad 0
+key97=Numpad 1
+key98=Numpad 2
+key99=Numpad 3
+key100=Numpad 4
+key101=Numpad 5
+key102=Numpad 6
+key103=Numpad 7
+key104=Numpad 8
+key105=Numpad 9
+key106=Numpad *
+key107=Numpad +
+key109=Numpad -
+key110=Numpad .
+key111=Numpad /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+#####################
+# Disclaimer screen #
+#####################
+
+disclaimer.header=Disclaimer!
+disclaimer.body=This game is not finished! It lacks polish, sounds, musics and features.//
+    The levels until the boss should all be possible - the ones afterwards were///
+    not checked so things may break, maybe even the whole game will crash.////
+    Have fun!
+disclaimer.button.start_game=Start game
+
+################
+# Title screen #
+################
+
+title.button.start_game=Start game
+title.button.quit=Quit
+
+################
+# Pause window #
+################
+window.pause.header=Main control
+window.pause.resume=Resume
+window.pause.levelSelect=Change level
+window.pause.returnToHub=Return to hub
+window.pause.knowledgebase=Knowledgebase
+window.pause.options=Options
+window.pause.quit=Quit game
+
+##################
+# Options window #
+##################
+window.options.header=Options
+window.options.par_time_display=Time display: %%
+window.options.par_time_display.seconds=Seconds
+window.options.par_time_display.frames=Frames
+window.options.volume_music=Music volume: %%%
+window.options.sound_music=Sound volume: %%%
+window.options.close=Return to main control
+
+##########################
+# Level selection window #
+##########################
+window.level_selection.header=Select level
+window.level_selection.exit=Exit
+
+##########################
+# Level completed window #
+##########################
+window.level_completed.header=Level completed
+window.level_completed.restart=Restart level
+window.level_completed.next=Next: %%
+window.level_completed.return=Return to hub
+window.level_completed.time=Your time:
+
+##########
+# Editor #
+##########
+editor.info.f1=Space - Scroll around///
+    Ctrl - Change tool/layer
+editor.info.ctrl=A/D - Change Tool///
+    W/S - Change Layer
+
+###############
+# Level names #
+###############
+level.name.001=Waste storage
+level.name.001.0=Waste storage #1
+level.name.001.1=Waste facility #2
+level.name.001.2=Waste facility #3
+level.name.001.3=Waste facility #4
+level.name.001.4=Waste facility #5
+level.name.001.5=Waste collectivism [optional]
+
+level.name.002=Junkyard
+level.name.002.0=Junkyard #1
+level.name.002.1=Junkyard #2
+level.name.002.2=Junkyard #3
+level.name.002.3=Junkyard #4
+level.name.002.4=Junkyard #5
+level.name.002.5=Junk collectivism [optional]
+
+level.name.003=Fishtanks
+level.name.003.0=Fishtanks #1
+level.name.003.1=Fishtanks #2
+level.name.003.2=Fishtanks #3
+level.name.003.3=Fishtanks #4
+level.name.003.4=Fishtanks #5
+level.name.003.5=Fishy timing [optional]
+
+level.name.004=Ammory
+level.name.004.0=Ammory #1
+level.name.004.1=Ammory #2
+level.name.004.2=Ammory #3
+level.name.004.3=Ammory #4
+level.name.004.4=Ammory #5
+level.name.004.5=Fishy timing [optional]
+
+level.name.005=Boss arena
+level.name.005.0=Boss fish

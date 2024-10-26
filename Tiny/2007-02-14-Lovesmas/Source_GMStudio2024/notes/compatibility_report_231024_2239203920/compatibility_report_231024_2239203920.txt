@@ -1,0 +1,17 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Lovesmas_1659198202_gmz\mvc\rooms\room2\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 '0' "0"
+
+Missing audiogroup for sound: 'sound20' - setting to default audio group
+Missing audiogroup for sound: 'sound21' - setting to default audio group
+Missing audiogroup for sound: 'sound22' - setting to default audio group
+Missing audiogroup for sound: 'sound23' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_set_friction.gml'
+Added compatibility script 'action\action_set_gravity.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

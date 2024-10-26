@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"copybuffer2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"copybuffer2",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

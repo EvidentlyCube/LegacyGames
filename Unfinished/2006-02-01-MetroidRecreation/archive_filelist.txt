@@ -1,0 +1,10 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55 D....            0            0  Metroid Recreation
+2006-08-07 18:16:00 ....A        90048        45783  Metroid Recreation/Metroid_-_Recreation_V-017.GM6
+2006-10-19 19:15:57 ....A        91206               Metroid Recreation/Metroid_-_Recreation_V-018.GM6
+2006-10-19 20:15:40 ....A        92441               Metroid Recreation/Metroid_-_Recreation_V-019.GM6
+2007-02-22 23:41:19 ....A        91966               Metroid Recreation/Metroid_-_Recreation_V-020_-_Array_to_Grid.GM6
+2007-04-24 15:45:25 ....A        91235               Metroid Recreation/Metroid_-_Recreation_V-021.GM6
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55             456896        45783  5 files, 1 folders

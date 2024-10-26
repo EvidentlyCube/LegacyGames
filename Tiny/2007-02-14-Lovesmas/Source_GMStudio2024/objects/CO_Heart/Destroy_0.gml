@@ -1,0 +1,9 @@
+bla=instance_create(x,y,CO_Heart_Die)
+bla.gravity=gravity
+bla.gravity_direction=gravity_direction
+bla.hspeed=hspeed
+bla.vspeed=vspeed
+bla.friction=friction
+bla.image_angle=image_angle
+bla.image_speed=0
+global.sc+=1*global.lv*CO_Master.spd

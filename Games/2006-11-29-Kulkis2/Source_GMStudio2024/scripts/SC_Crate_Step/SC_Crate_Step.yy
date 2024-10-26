@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_Crate_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_Crate_Step",
+  "parent":{
+    "name":"OBjects",
+    "path":"folders/Scripts/OBjects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lastinIP",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lastinIP",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

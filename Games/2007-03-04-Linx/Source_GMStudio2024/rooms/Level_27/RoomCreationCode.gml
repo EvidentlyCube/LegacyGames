@@ -1,0 +1,4 @@
+Generate_Ingame("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbtbtbebebbbbbbbebbrbbtbbbbbbqbbbbbbbbqbbbbbbbbrbbbbbbbbbbbbbbbbbbbbbbbbbrbbbrbbbbbbbbbbbbbbbbbbb")
+global.l_title="Out-Between"
+global.l_author="Maurice Zarzycki"
+global.pathx=105

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"writefloat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"writefloat",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

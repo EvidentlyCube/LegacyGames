@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Block_Grouping",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Block_Grouping",
+  "parent":{
+    "name":"Creations",
+    "path":"folders/Scripts/Creations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

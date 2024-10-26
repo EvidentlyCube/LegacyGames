@@ -1,0 +1,1 @@
+global.hpbonus=0

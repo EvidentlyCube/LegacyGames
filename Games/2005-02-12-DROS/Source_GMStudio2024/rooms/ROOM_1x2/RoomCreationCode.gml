@@ -1,0 +1,9 @@
+inst_1x2_orb.togle[0] = 1
+inst_1x2_orb.togle[1] = 0
+inst_1x2_orb.open[0] = 3
+inst_1x2_orb.open[1] = 0
+inst_1x2_orb.close[0] = 2
+inst_1x2_orb.close[1] = 0
+inst_1x2_exit_right.ix = 0
+inst_1x2_exit_right.iy = 80
+inst_1x2_exit_right.goto = ROOM_2x2;

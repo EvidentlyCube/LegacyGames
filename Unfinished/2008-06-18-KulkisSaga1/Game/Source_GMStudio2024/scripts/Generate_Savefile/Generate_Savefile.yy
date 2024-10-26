@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Generate_Savefile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Generate_Savefile",
+  "parent":{
+    "name":"Operations",
+    "path":"folders/Scripts/Operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

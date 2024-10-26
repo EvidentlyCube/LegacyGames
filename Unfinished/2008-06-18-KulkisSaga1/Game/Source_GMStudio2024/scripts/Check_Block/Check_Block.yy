@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Check_Block",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Check_Block",
+  "parent":{
+    "name":"Checks",
+    "path":"folders/Scripts/Checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Block_Align",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Block_Align",
+  "parent":{
+    "name":"Creations",
+    "path":"folders/Scripts/Creations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

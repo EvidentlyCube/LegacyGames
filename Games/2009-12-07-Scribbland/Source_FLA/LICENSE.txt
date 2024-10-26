@@ -1,0 +1,21 @@
+assets/ (entire directory)
+--------------------------
+Each subdirectory has its own LICENSE.txt, please refer to that.
+
+
+Code (.as files + embedded in .fla)
+-----------------------------------
+Unless the file has a copyright notice at the top all the code is copyrighted
+to Maurycy Zarzycki and is released under MIT License.
+
+
+Sketcher.fla (embedded assets)
+-------------------------------
+FLA files have the same assets embedded as in the "assets/" directory so please
+refer to appropriate licenses in their subdirectories
+
+
+Sketcher.fla (code and project)
+--------------------------------
+Copyright Maurycy Zarzycki
+MIT License

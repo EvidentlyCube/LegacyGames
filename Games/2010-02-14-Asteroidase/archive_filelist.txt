@@ -1,0 +1,58 @@
+
+7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
+ 64-bit locale=en_US.UTF-8 Threads:16 OPEN_MAX:1024
+
+Scanning the drive for archives:
+1 file, 4586834 bytes (4480 KiB)
+
+Listing archive: Asteroidase.7z
+
+--
+Path = Asteroidase.7z
+Type = 7z
+Physical Size = 4586834
+Headers Size = 693
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:54:24 D....            0            0  Asteroidase
+2015-12-04 15:54:23 D....            0            0  Asteroidase/com
+2015-12-04 15:54:23 D....            0            0  Asteroidase/com/mauft
+2015-12-04 15:54:24 D....            0            0  Asteroidase/com/mauft/DataVault
+2015-12-04 15:54:24 D....            0            0  Asteroidase/mochi
+2015-12-04 15:54:24 D....            0            0  Asteroidase/mochi/as2
+2015-12-04 15:54:24 D....            0            0  Asteroidase/mochi/as3
+2014-04-06 10:30:34 ....A      4413028      4586141  Asteroidase/Pixelease 1.fla
+2014-04-06 10:21:37 ....A       703056               Asteroidase/Pixelease_1.swf
+2014-04-06 07:39:42 ....A         2485               Asteroidase/M.as
+2010-01-26 17:17:14 ....A        30458               Asteroidase/mochi/as2/MochiAd.as
+2010-01-26 17:17:14 ....A        41767               Asteroidase/mochi/as3/MochiAd.as
+2010-01-26 17:17:14 ....A         3495               Asteroidase/mochi/as2/MochiCoins.as
+2010-01-26 17:17:14 ....A         4425               Asteroidase/mochi/as3/MochiCoins.as
+2010-01-26 17:17:14 ....A         2049               Asteroidase/mochi/as2/MochiDigits.as
+2010-01-26 17:17:14 ....A         2332               Asteroidase/mochi/as3/MochiDigits.as
+2010-01-26 17:17:14 ....A         1322               Asteroidase/mochi/as3/MochiEventDispatcher.as
+2010-01-26 17:17:14 ....A         2084               Asteroidase/mochi/as2/MochiEventDispatcher.as
+2010-01-26 17:17:14 ....A         2948               Asteroidase/mochi/as2/MochiEvents.as
+2010-01-26 17:17:14 ....A         2990               Asteroidase/mochi/as3/MochiEvents.as
+2010-01-26 17:17:14 ....A         8470               Asteroidase/mochi/as3/MochiInventory.as
+2010-01-26 17:17:14 ....A         8141               Asteroidase/mochi/as2/MochiScores.as
+2010-01-26 17:17:14 ....A         9704               Asteroidase/mochi/as3/MochiScores.as
+2010-01-26 17:17:14 ....A        16757               Asteroidase/mochi/as2/MochiServices.as
+2010-01-26 17:17:14 ....A        24980               Asteroidase/mochi/as3/MochiServices.as
+2010-01-26 17:17:14 ....A         3126               Asteroidase/mochi/as2/MochiSocial.as
+2010-01-26 17:17:14 ....A         4271               Asteroidase/mochi/as3/MochiSocial.as
+2010-01-26 17:17:14 ....A         1015               Asteroidase/mochi/as2/MochiSync.as
+2010-01-26 17:17:14 ....A         1270               Asteroidase/mochi/as3/MochiSync.as
+2010-01-26 17:17:14 ....A         5711               Asteroidase/mochi/as3/MochiUserData.as
+2009-11-07 15:00:48 ....A         1531               Asteroidase/com/mauft/DataVault/Safe.as
+2009-11-07 15:00:38 ....A         2247               Asteroidase/com/mauft/DataVault/Safe_0.as
+2009-11-07 15:00:42 ....A         2431               Asteroidase/com/mauft/DataVault/Safe_1.as
+2009-11-07 15:00:46 ....A         2457               Asteroidase/com/mauft/DataVault/Safe_2.as
+2010-03-14 17:00:50 ....A         1124               Asteroidase/Star.as
+2010-02-13 00:52:08 ....A         4236               Asteroidase/com/mauft/DataVault/Vault.as
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:54:24            5309910      4586141  29 files, 7 folders

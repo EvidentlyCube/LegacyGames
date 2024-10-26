@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"udpconnect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"udpconnect",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,7 @@
+ui/
+bgs/
+gameplay/
+achievements/
+-------------
+Copyright Aleksander Kowalczyk
+Creative Commons Attribution 4.0 International

@@ -1,0 +1,4 @@
+Generate_Ingame("bbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbqbebbbbbzbbbbbbrbbbbbbzbbrbbbbbbbrbbzbbbbbbrbbbbbbzbbbbbbbbbbbbbzbbbbbezqbbbbbzbbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbbbbbbbbbzzzzzzzzzzzzzzz")
+global.l_title="Mirroring?"
+global.l_author="Maurice Zarzycki"
+global.pathx=60

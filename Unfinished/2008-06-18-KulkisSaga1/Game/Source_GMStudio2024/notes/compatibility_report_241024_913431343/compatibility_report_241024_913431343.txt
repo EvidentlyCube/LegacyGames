@@ -1,0 +1,208 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Add_Bmp\Add_Bmp.gml
+String not found: ConversionLog_ConvertedString 12 './gfx/' "./gfx/"
+String not found: ConversionLog_ConvertedString 19 '.bmp' ".bmp"
+String not found: ConversionLog_ConvertedString 20 '.bmp' ".bmp"
+String not found: ConversionLog_ConvertedString 21 '.bmp' ".bmp"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Generate_Savefile\Generate_Savefile.gml
+String not found: ConversionLog_ConvertedString 3 'Yo! How are you?' "Yo! How are you?"
+String not found: ConversionLog_ConvertedString 21 'save' "save"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Make_Level\Make_Level.gml
+String not found: ConversionLog_ConvertedString 13 '' ""
+String not found: ConversionLog_ConvertedString 20 './levels/lev' "./levels/lev"
+String not found: ConversionLog_ConvertedString 20 '.kil' ".kil"
+String not found: ConversionLog_ConvertedString 31 'color' "color"
+String not found: ConversionLog_ConvertedString 32 'group' "group"
+String not found: ConversionLog_ConvertedString 37 'color' "color"
+String not found: ConversionLog_ConvertedString 42 'image_index' "image_index"
+String not found: ConversionLog_ConvertedString 47 'spd' "spd"
+String not found: ConversionLog_ConvertedString 52 'spd' "spd"
+String not found: ConversionLog_ConvertedString 57 'direction' "direction"
+String not found: ConversionLog_ConvertedString 62 'direction' "direction"
+String not found: ConversionLog_ConvertedString 67 'direction' "direction"
+String not found: ConversionLog_ConvertedString 72 'movx' "movx"
+String not found: ConversionLog_ConvertedString 73 'movy' "movy"
+String not found: ConversionLog_ConvertedString 78 'image_index' "image_index"
+String not found: ConversionLog_ConvertedString 79 'type' "type"
+String not found: ConversionLog_ConvertedString 80 'image_blend' "image_blend"
+String not found: ConversionLog_ConvertedString 81 'color' "color"
+String not found: ConversionLog_ConvertedString 82 'group' "group"
+String not found: ConversionLog_ConvertedString 84 'movx' "movx"
+String not found: ConversionLog_ConvertedString 84 'movy' "movy"
+String not found: ConversionLog_ConvertedString 85 'movy' "movy"
+String not found: ConversionLog_ConvertedString 85 'movx' "movx"
+String not found: ConversionLog_ConvertedString 86 'movx' "movx"
+String not found: ConversionLog_ConvertedString 86 'movy' "movy"
+String not found: ConversionLog_ConvertedString 87 'movy' "movy"
+String not found: ConversionLog_ConvertedString 87 'movx' "movx"
+String not found: ConversionLog_ConvertedString 93 'image_blend' "image_blend"
+String not found: ConversionLog_ConvertedString 99 'image_blend' "image_blend"
+String not found: ConversionLog_ConvertedString 100 'image_index' "image_index"
+String not found: ConversionLog_ConvertedString 110 'direction' "direction"
+String not found: ConversionLog_ConvertedString 115 'file' "file"
+String not found: ConversionLog_ConvertedString 116 'mode' "mode"
+String not found: ConversionLog_ConvertedString 117 'spec' "spec"
+String not found: ConversionLog_ConvertedString 154 'num' "num"
+String not found: ConversionLog_ConvertedString 155 'len' "len"
+String not found: ConversionLog_ConvertedString 167 'Master_Create()' "Master_Create()"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Talker_Get_Special\Talker_Get_Special.gml
+String not found: ConversionLog_ConvertedString 16 '' ""
+String not found: ConversionLog_ConvertedString 22 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Write_Code\Write_Code.gml
+String not found: ConversionLog_ConvertedString 15 '(' "("
+String not found: ConversionLog_ConvertedString 15 ').' ")."
+String not found: ConversionLog_ConvertedString 15 '=' "="
+String not found: ConversionLog_ConvertedString 15 ';' ";"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Master_Create\Master_Create.gml
+Converted builtin - line 52: background_index[0]=global.background -> __background_set( e__BG.Index, 0, global.background )
+Converted builtin - line 67: background_index[1]=global.foreground -> __background_set( e__BG.Index, 1, global.foreground )
+Converted builtin - line 53: background_alpha[0]=0.2 -> __background_set( e__BG.Alpha, 0, 0.2 )
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\scripts\Add_Face\Add_Face.gml
+String not found: ConversionLog_ConvertedString 3 'facea.ztr' "facea.ztr"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\Master\Draw_0.gml
+String not found: ConversionLog_ConvertedString 25 'Red Key - Opens Red Doors' "Red Key - Opens Red Doors"
+String not found: ConversionLog_ConvertedString 30 'Orange Key - Opens Orange Doors' "Orange Key - Opens Orange Doors"
+String not found: ConversionLog_ConvertedString 35 'Yellow Key - Opens Yellow Doors' "Yellow Key - Opens Yellow Doors"
+String not found: ConversionLog_ConvertedString 40 'Green Key - Opens Green Doors' "Green Key - Opens Green Doors"
+String not found: ConversionLog_ConvertedString 45 'Turquoise Key - Opens Turquoise Doors' "Turquoise Key - Opens Turquoise Doors"
+String not found: ConversionLog_ConvertedString 50 'Blue Key - Opens Blue Doors' "Blue Key - Opens Blue Doors"
+String not found: ConversionLog_ConvertedString 55 'Violet Key - Opens Violet Doors' "Violet Key - Opens Violet Doors"
+String not found: ConversionLog_ConvertedString 60 'White Key - Opens White Doors' "White Key - Opens White Doors"
+String not found: ConversionLog_ConvertedString 65 'Black Key - Opens Black Doors' "Black Key - Opens Black Doors"
+String not found: ConversionLog_ConvertedString 70 'Strange Key - Runes on it say "For Bigger purposes"' "Strange Key - Runes on it say \"For Bigger purposes\""
+String not found: ConversionLog_ConvertedString 75 'Surronding Calculator made by Cazio - It gives you no info though' "Surronding Calculator made by Cazio - It gives you no info though"
+String not found: ConversionLog_ConvertedString 80 'Crystal - Is filled with chips and all that stuff' "Crystal - Is filled with chips and all that stuff"
+String not found: ConversionLog_ConvertedString 85 '' ""
+String not found: ConversionLog_ConvertedString 90 '' ""
+String not found: ConversionLog_ConvertedString 95 '' ""
+String not found: ConversionLog_ConvertedString 100 '' ""
+String not found: ConversionLog_ConvertedString 105 '' ""
+String not found: ConversionLog_ConvertedString 110 '' ""
+String not found: ConversionLog_ConvertedString 115 '' ""
+String not found: ConversionLog_ConvertedString 120 '' ""
+String not found: ConversionLog_ConvertedString 125 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Red\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Orn\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Yll\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Grn\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Trq\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Blu\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Vio\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Wht\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\mc_Blk\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 './bugs.txt' "./bugs.txt"
+String not found: ConversionLog_ConvertedString 3 'Type:Color  Name:' "Type:Color  Name:"
+String not found: ConversionLog_ConvertedString 3 ' XY: ' " XY: "
+String not found: ConversionLog_ConvertedString 3 ':' ":"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\Talker\Create_0.gml
+Converted builtin - line 9: background_visible[1]=0 -> __background_set( e__BG.Visible, 1, 0 )
+String not found: ConversionLog_ConvertedString 1 'talka.ztr' "talka.ztr"
+String not found: ConversionLog_ConvertedString 2 'talkb.ztr' "talkb.ztr"
+String not found: ConversionLog_ConvertedString 3 'arrow.ztr' "arrow.ztr"
+String not found: ConversionLog_ConvertedString 20 '' ""
+String not found: ConversionLog_ConvertedString 21 '' ""
+String not found: ConversionLog_ConvertedString 23 '' ""
+String not found: ConversionLog_ConvertedString 24 '' ""
+String not found: ConversionLog_ConvertedString 32 '' ""
+String not found: ConversionLog_ConvertedString 37 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\Talker\Destroy_0.gml
+Converted builtin - line 2: background_visible[1]=1 -> __background_set( e__BG.Visible, 1, 1 )
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\Talker\Draw_0.gml
+String not found: ConversionLog_ConvertedString 16 ':' ":"
+String not found: ConversionLog_ConvertedString 20 ':' ":"
+String not found: ConversionLog_ConvertedString 31 ':' ":"
+String not found: ConversionLog_ConvertedString 35 ':' ":"
+String not found: ConversionLog_ConvertedString 51 '' ""
+String not found: ConversionLog_ConvertedString 55 '' ""
+String not found: ConversionLog_ConvertedString 71 '' ""
+String not found: ConversionLog_ConvertedString 73 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\objects\Waiten\Draw_0.gml
+String not found: ConversionLog_ConvertedString 1 'Generating Level, Please Wait Patiently!' "Generating Level, Please Wait Patiently!"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Kulkis Saga 1 v06_220637969_gmz\mvc\rooms\VS\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 6 '!' "!"
+String not found: ConversionLog_ConvertedString 23 '' ""
+String not found: ConversionLog_ConvertedString 63 './saves/stefan.ksv' "./saves/stefan.ksv"
+
+Game speed set to 69
+Added compatibility script 'background\background_create_from_surface.gml'
+Added compatibility script 'background\background_delete.gml'
+Added compatibility script 'background\background_exists.gml'
+Added compatibility script 'background\draw_background.gml'
+Added compatibility script 'background\draw_background_part_ext.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'draw\draw_set_blend_mode_ext.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'tile\room_tile_clear.gml'
+Added compatibility script 'tile\tile_delete.gml'
+Added compatibility script 'tile\tile_exists.gml'
+Added compatibility script 'tile\tile_get_background.gml'
+Added compatibility script 'tile\tile_get_height.gml'
+Added compatibility script 'tile\tile_get_left.gml'
+Added compatibility script 'tile\tile_get_top.gml'
+Added compatibility script 'tile\tile_get_width.gml'
+Added compatibility script 'tile\tile_get_x.gml'
+Added compatibility script 'tile\tile_get_y.gml'
+Added compatibility script 'tile\tile_layer_delete.gml'
+Added compatibility script 'tile\tile_layer_find.gml'
+Added compatibility script 'tile\tile_layer_shift.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,19 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:54:23 D....            0            0  SketcherLevelMaker
+2015-12-04 15:54:23 D....            0            0  SketcherLevelMaker/.settings
+2015-12-04 16:29:22 D....            0            0  SketcherLevelMaker/bin-debug
+2010-03-17 18:19:14 D....            0            0  SketcherLevelMaker/bin-release
+2010-03-17 18:19:14 D....            0            0  SketcherLevelMaker/libs
+2015-12-04 15:54:23 D....            0            0  SketcherLevelMaker/src
+2011-07-24 21:37:31 ....A       457301       463083  SketcherLevelMaker/bin-debug/SketcherLevelMaker.swf
+2010-03-03 19:12:18 ....A         8641               SketcherLevelMaker/bin-debug/AC_OETags.js
+2011-07-22 19:42:33 ....A         1186               SketcherLevelMaker/.actionScriptProperties
+2011-07-22 19:42:33 ....A          202               SketcherLevelMaker/.flexProperties
+2010-03-13 18:14:07 ....A         5571               SketcherLevelMaker/src/pnt.mxml
+2011-07-24 21:37:15 ....A         6285               SketcherLevelMaker/src/SketcherLevelMaker.mxml
+2010-03-03 21:03:16 ....A         2362               SketcherLevelMaker/src/smash.mxml
+2010-03-03 18:47:28 ....A           88               SketcherLevelMaker/.settings/org.eclipse.core.resources.prefs
+2010-03-03 18:47:28 ....A          481               SketcherLevelMaker/.project
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 16:29:22             482117       463083  9 files, 6 folders

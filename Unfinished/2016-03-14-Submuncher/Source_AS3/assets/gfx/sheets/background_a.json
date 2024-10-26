@@ -1,0 +1,444 @@
+{
+    "frames": [
+        {
+            "filename": "ingame_background_A_0",
+            "frame": {
+                "x": 240,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_1",
+            "frame": {
+                "x": 1440,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_10",
+            "frame": {
+                "x": 480,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_11",
+            "frame": {
+                "x": 720,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_12",
+            "frame": {
+                "x": 0,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_13",
+            "frame": {
+                "x": 240,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_14",
+            "frame": {
+                "x": 480,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_15",
+            "frame": {
+                "x": 720,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_16",
+            "frame": {
+                "x": 960,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_17",
+            "frame": {
+                "x": 960,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_18",
+            "frame": {
+                "x": 1200,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_19",
+            "frame": {
+                "x": 1200,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_2",
+            "frame": {
+                "x": 0,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_20",
+            "frame": {
+                "x": 240,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_21",
+            "frame": {
+                "x": 480,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_22",
+            "frame": {
+                "x": 720,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_23",
+            "frame": {
+                "x": 960,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_24",
+            "frame": {
+                "x": 1200,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_25",
+            "frame": {
+                "x": 1440,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_26",
+            "frame": {
+                "x": 1440,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_27",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_28",
+            "frame": {
+                "x": 0,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_29",
+            "frame": {
+                "x": 240,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_3",
+            "frame": {
+                "x": 480,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_30",
+            "frame": {
+                "x": 720,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_31",
+            "frame": {
+                "x": 960,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_32",
+            "frame": {
+                "x": 1200,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_33",
+            "frame": {
+                "x": 1440,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_34",
+            "frame": {
+                "x": 1680,
+                "y": 0,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_35",
+            "frame": {
+                "x": 1680,
+                "y": 409,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_36",
+            "frame": {
+                "x": 1680,
+                "y": 818,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_37",
+            "frame": {
+                "x": 1680,
+                "y": 1227,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_38",
+            "frame": {
+                "x": 0,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_39",
+            "frame": {
+                "x": 240,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_4",
+            "frame": {
+                "x": 480,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_5",
+            "frame": {
+                "x": 720,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_6",
+            "frame": {
+                "x": 960,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_7",
+            "frame": {
+                "x": 1200,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_8",
+            "frame": {
+                "x": 1440,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "ingame_background_A_9",
+            "frame": {
+                "x": 1680,
+                "y": 1636,
+                "w": 240,
+                "h": 409
+            },
+            "rotated": false,
+            "trimmed": false
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+show_message("You have found a secret! While playing Carder type 'proceedwithcautionsenpai' and then 'hacker'. Then press Ctrl+V, and enter! This way you can get the level easier. Repeat it as much as you want!")

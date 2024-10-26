@@ -1,0 +1,16 @@
+(font)
+------
+Copyright original authors (unknown)
+
+
+(graphics)
+(sound effects)
+---------------
+Copyright original authors (unknown)
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

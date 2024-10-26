@@ -1,0 +1,405 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:56:57 D...A            0            0  Squario2
+2015-12-04 15:56:57 D...A            0            0  Squario2/GFX
+2015-12-04 15:56:57 D...A            0            0  Squario2/GFX/fua kagerton
+2008-10-28 20:37:29 ....A        70751      2340022  Squario2/GFX/Untitled
+2010-05-22 13:20:54 ....A        71633               Squario2/GFX/GFX_BACK_BACK_1.png
+2008-10-14 11:56:24 ....A        35578               Squario2/GFX/GFX_BACK_BACK_2.png
+2010-05-23 13:11:08 ....A        53466               Squario2/GFX/GFX_BACK_BACK_3.png
+2010-05-20 14:16:51 ....A        78105               Squario2/GFX/GFX_BACK_BACK_4.png
+2010-05-23 19:44:44 ....A        80601               Squario2/GFX/GFX_BACK_BACK_5.png
+2010-05-26 14:35:04 ....A        10589               Squario2/GFX/GFX_BACK_CLOUDS_1.png
+2010-05-26 14:38:21 ....A        10253               Squario2/GFX/GFX_BACK_CLOUDS_2.png
+2010-05-26 14:38:59 ....A         6444               Squario2/GFX/GFX_BACK_CLOUDS_3.png
+2010-05-26 14:41:45 ....A        43334               Squario2/GFX/GFX_BACK_CLOUDS_4.png
+2010-05-26 14:43:03 ....A        27134               Squario2/GFX/GFX_BACK_CLOUDS_5.png
+2010-05-26 14:44:40 ....A        39830               Squario2/GFX/GFX_BACK_CLOUDS_6.png
+2010-05-26 15:17:26 ....A        55986               Squario2/GFX/GFX_BACK_CLOUDS_7.png
+2010-05-26 15:04:58 ....A        54825               Squario2/GFX/GFX_BACK_CLOUDS_8.png
+2010-05-26 16:44:32 ....A         5067               Squario2/GFX/GFX_BACK_CLOUD_0.png
+2010-05-26 16:46:32 ....A         4904               Squario2/GFX/GFX_BACK_CLOUD_1.png
+2010-05-26 16:45:57 ....A         4915               Squario2/GFX/GFX_BACK_CLOUD_2.png
+2010-05-26 16:45:40 ....A         4962               Squario2/GFX/GFX_BACK_CLOUD_3.png
+2010-05-26 16:44:41 ....A         4904               Squario2/GFX/GFX_BACK_CLOUD_4.png
+2010-05-26 16:44:56 ....A         4876               Squario2/GFX/GFX_BACK_CLOUD_5.png
+2010-05-26 16:45:03 ....A         4867               Squario2/GFX/GFX_BACK_CLOUD_6.png
+2010-05-26 16:45:10 ....A         4864               Squario2/GFX/GFX_BACK_CLOUD_7.png
+2010-05-26 16:45:17 ....A         4898               Squario2/GFX/GFX_BACK_CLOUD_8.png
+2010-05-26 16:45:23 ....A         4875               Squario2/GFX/GFX_BACK_CLOUD_9.png
+2010-05-25 22:08:58 ....A        33697               Squario2/GFX/GFX_BACK_CRYSTAL_1.png
+2010-05-25 22:16:47 ....A        76269               Squario2/GFX/GFX_BACK_CRYSTAL_2.png
+2010-05-25 22:18:25 ....A        25045               Squario2/GFX/GFX_BACK_CRYSTAL_3.png
+2010-05-23 17:53:46 ....A         2950               Squario2/GFX/GFX_BACK_FENCE_1.png
+2010-05-23 17:53:28 ....A         3773               Squario2/GFX/GFX_BACK_FENCE_2.png
+2010-05-23 17:53:53 ....A         2938               Squario2/GFX/GFX_BACK_FENCE_3.png
+2010-05-20 18:18:39 ....A       103785               Squario2/GFX/GFX_BACK_FOREST_1.png
+2010-05-20 18:17:13 ....A        27241               Squario2/GFX/GFX_BACK_FOREST_2.png
+2010-05-20 18:17:54 ....A        52220               Squario2/GFX/GFX_BACK_FOREST_3.png
+2010-05-20 18:21:53 ....A       214696               Squario2/GFX/GFX_BACK_FOREST_4.png
+2010-07-07 18:17:12 ....A         4115               Squario2/GFX/GFX_BACK_GRADIENT1.png
+2010-05-23 19:21:07 ....A         2999               Squario2/GFX/GFX_BACK_GRADIENT2.png
+2010-05-21 15:45:04 ....A        29606               Squario2/GFX/GFX_BACK_HILL.png
+2010-05-21 15:47:01 ....A       140505               Squario2/GFX/GFX_BACK_HILLS_GROUP.png
+2010-05-21 15:41:46 ....A       174711               Squario2/GFX/GFX_BACK_HILL_BIG.png
+2010-05-23 21:54:28 ....A         4941               Squario2/GFX/GFX_BACK_TREE2_2.png
+2010-05-23 21:55:10 ....A         4893               Squario2/GFX/GFX_BACK_TREE2_3.png
+2010-05-23 21:54:41 ....A         4155               Squario2/GFX/GFX_BACK_TREE2_4.png
+2010-05-23 21:16:17 ....A         3270               Squario2/GFX/GFX_BACK_TREE_1.png
+2010-05-25 20:34:22 ....A         4379               Squario2/GFX/GFX_BACK_TREE_2.png
+2010-05-23 21:08:37 ....A         4340               Squario2/GFX/GFX_BACK_TREE_3.png
+2010-05-23 21:09:20 ....A         3889               Squario2/GFX/GFX_BACK_TREE_4.png
+2010-05-23 20:16:18 ....A         3771               Squario2/GFX/GFX_BON_BONUS_1.png
+2010-05-23 20:17:03 ....A         3778               Squario2/GFX/GFX_BON_BONUS_2.png
+2010-05-23 20:17:39 ....A         3842               Squario2/GFX/GFX_BON_BONUS_3.png
+2010-05-23 20:18:05 ....A         3887               Squario2/GFX/GFX_BON_BONUS_4.png
+2010-05-21 23:23:51 ....A         4177               Squario2/GFX/GFX_BON_BRICK.png
+2010-05-22 00:13:49 ....A         4061               Squario2/GFX/GFX_BON_BRICK_2.png
+2010-05-25 21:41:14 ....A         4064               Squario2/GFX/GFX_BON_BRICK_3.png
+2010-05-23 20:22:48 ....A         3556               Squario2/GFX/GFX_BON_USED.png
+2010-05-23 20:24:09 ....A         3475               Squario2/GFX/GFX_BON_USED_2.png
+2010-05-23 20:25:44 ....A         3476               Squario2/GFX/GFX_BON_USED_3.png
+2010-05-31 00:14:02 ....A         2022               Squario2/GFX/GFX_BOWSER_FLAME_1.PNG
+2010-05-31 00:14:02 ....A         2027               Squario2/GFX/GFX_BOWSER_FLAME_2.PNG
+2010-05-31 00:14:02 ....A         2027               Squario2/GFX/GFX_BOWSER_FLAME_3.PNG
+2010-05-31 00:14:02 ....A         2009               Squario2/GFX/GFX_BOWSER_FLAME_4.png
+2010-05-31 00:14:02 ....A         1979               Squario2/GFX/GFX_BOWSER_FLAME_5.png
+2010-05-31 00:14:02 ....A         1971               Squario2/GFX/GFX_BOWSER_FLAME_6.png
+2010-05-31 00:14:02 ....A         1971               Squario2/GFX/GFX_BOWSER_FLAME_7.png
+2010-05-31 00:14:02 ....A         2047               Squario2/GFX/GFX_BOWSER_FLAME_8.png
+2010-05-31 00:14:02 ....A         2020               Squario2/GFX/GFX_BOWSER_FLAME_9.png
+2010-06-19 13:43:31 ....A         5551               Squario2/GFX/GFX_BOWSER_WALK_0.PNG
+2010-06-19 13:43:31 ....A         5520               Squario2/GFX/GFX_BOWSER_WALK_1.PNG
+2010-06-19 13:43:31 ....A         5489               Squario2/GFX/GFX_BOWSER_WALK_10.PNG
+2010-06-19 13:43:31 ....A         5513               Squario2/GFX/GFX_BOWSER_WALK_11.PNG
+2010-06-19 13:43:31 ....A         5540               Squario2/GFX/GFX_BOWSER_WALK_12.PNG
+2010-06-19 13:43:31 ....A         5527               Squario2/GFX/GFX_BOWSER_WALK_13.PNG
+2010-06-19 13:43:31 ....A         5534               Squario2/GFX/GFX_BOWSER_WALK_14.PNG
+2010-06-19 13:43:31 ....A         5505               Squario2/GFX/GFX_BOWSER_WALK_2.PNG
+2010-06-19 13:43:31 ....A         5529               Squario2/GFX/GFX_BOWSER_WALK_3.PNG
+2010-06-19 13:43:31 ....A         5541               Squario2/GFX/GFX_BOWSER_WALK_4.PNG
+2010-06-19 13:43:31 ....A         5551               Squario2/GFX/GFX_BOWSER_WALK_5.PNG
+2010-06-19 13:43:31 ....A         5522               Squario2/GFX/GFX_BOWSER_WALK_6.PNG
+2010-06-19 13:43:31 ....A         5541               Squario2/GFX/GFX_BOWSER_WALK_7.PNG
+2010-06-19 13:43:31 ....A         5521               Squario2/GFX/GFX_BOWSER_WALK_8.PNG
+2010-06-19 13:43:31 ....A         5500               Squario2/GFX/GFX_BOWSER_WALK_9.PNG
+2010-05-25 00:46:39 ....A        87249               Squario2/GFX/GFX_CASTLE.png
+2010-06-01 03:39:52 ....A         3954               Squario2/GFX/GFX_EFF_FINISH_4.png
+2010-06-01 02:47:46 ....A         3972               Squario2/GFX/GFX_EFF_FIRE_BOOM.png
+2010-06-06 21:01:55 ....A         3457               Squario2/GFX/GFX_EFF_GOOMBA_STOMPED.png
+2010-06-06 21:04:19 ....A         3474               Squario2/GFX/GFX_EFF_GOOMBA_STOMPED2.png
+2010-06-07 22:59:25 ....A         3489               Squario2/GFX/GFX_EFF_HAMMER.PNG
+2008-10-28 18:54:26 ....A          843               Squario2/GFX/GFX_EFF_POINTS_100.png
+2008-10-28 18:54:47 ....A         1013               Squario2/GFX/GFX_EFF_POINTS_1000.png
+2008-10-28 18:54:19 ....A          985               Squario2/GFX/GFX_EFF_POINTS_1UP.png
+2008-10-28 18:54:32 ....A         1010               Squario2/GFX/GFX_EFF_POINTS_200.png
+2008-10-28 18:54:52 ....A         1204               Squario2/GFX/GFX_EFF_POINTS_2000.png
+2008-10-28 18:54:38 ....A         1011               Squario2/GFX/GFX_EFF_POINTS_500.png
+2008-10-28 18:55:00 ....A         1233               Squario2/GFX/GFX_EFF_POINTS_5000.png
+2008-10-28 18:55:06 ....A         1169               Squario2/GFX/GFX_EFF_POINTS_8000.png
+2010-05-20 18:59:47 ....A         3550               Squario2/GFX/GFX_ELEVATOR_1.png
+2010-05-20 18:58:59 ....A         3652               Squario2/GFX/GFX_ELEVATOR_2.png
+2010-05-20 18:59:21 ....A         3658               Squario2/GFX/GFX_ELEVATOR_3.png
+2010-05-20 18:59:44 ....A         3675               Squario2/GFX/GFX_ELEVATOR_4.png
+2010-06-07 02:24:36 ....A         4152               Squario2/GFX/GFX_EN_BBEETLE_1.png
+2010-06-07 02:24:51 ....A         4148               Squario2/GFX/GFX_EN_BBEETLE_2.png
+2010-06-07 02:25:04 ....A         4139               Squario2/GFX/GFX_EN_BBEETLE_3.png
+2010-05-24 21:56:50 ....A         4091               Squario2/GFX/GFX_EN_BULLET_1.png
+2010-05-24 21:57:08 ....A         4088               Squario2/GFX/GFX_EN_BULLET_2.png
+2010-05-24 21:57:29 ....A         4083               Squario2/GFX/GFX_EN_BULLET_3.png
+2010-06-07 04:12:04 ....A         4953               Squario2/GFX/GFX_EN_FLY_GREEN_1.png
+2010-06-07 04:11:09 ....A         4941               Squario2/GFX/GFX_EN_FLY_GREEN_2.png
+2010-06-07 04:11:34 ....A         4956               Squario2/GFX/GFX_EN_FLY_GREEN_3.png
+2010-06-07 17:28:37 ....A         4892               Squario2/GFX/GFX_EN_FLY_RED_1.png
+2010-06-07 17:28:53 ....A         4875               Squario2/GFX/GFX_EN_FLY_RED_2.png
+2010-06-07 17:28:44 ....A         4894               Squario2/GFX/GFX_EN_FLY_RED_3.png
+2010-06-06 19:45:30 ....A         1527               Squario2/GFX/GFX_EN_GOOMBA2_00.png
+2010-06-06 19:45:30 ....A         1547               Squario2/GFX/GFX_EN_GOOMBA2_01.png
+2010-06-06 19:45:30 ....A         1523               Squario2/GFX/GFX_EN_GOOMBA2_02.png
+2010-06-06 19:45:30 ....A         1547               Squario2/GFX/GFX_EN_GOOMBA2_03.png
+2010-06-06 19:45:30 ....A         1527               Squario2/GFX/GFX_EN_GOOMBA2_04.png
+2010-06-06 19:45:30 ....A         1547               Squario2/GFX/GFX_EN_GOOMBA2_05.png
+2010-06-06 19:45:30 ....A         1523               Squario2/GFX/GFX_EN_GOOMBA2_06.png
+2010-06-06 19:45:30 ....A         1547               Squario2/GFX/GFX_EN_GOOMBA2_07.png
+2010-06-06 19:43:42 ....A         1485               Squario2/GFX/GFX_EN_GOOMBA_00.png
+2010-06-06 19:43:42 ....A         1512               Squario2/GFX/GFX_EN_GOOMBA_01.png
+2010-06-06 19:43:42 ....A         1486               Squario2/GFX/GFX_EN_GOOMBA_02.png
+2010-06-06 19:43:42 ....A         1512               Squario2/GFX/GFX_EN_GOOMBA_03.png
+2010-06-06 19:43:42 ....A         1485               Squario2/GFX/GFX_EN_GOOMBA_04.png
+2010-06-06 19:43:42 ....A         1512               Squario2/GFX/GFX_EN_GOOMBA_05.png
+2010-06-06 19:43:42 ....A         1486               Squario2/GFX/GFX_EN_GOOMBA_06.png
+2010-06-06 19:43:42 ....A         1512               Squario2/GFX/GFX_EN_GOOMBA_07.png
+2010-06-07 23:44:39 ....A         4475               Squario2/GFX/GFX_EN_HAMMER_1.png
+2010-06-07 23:43:43 ....A         4410               Squario2/GFX/GFX_EN_HAMMER_2.png
+2010-06-14 22:18:10 ....A         3726               Squario2/GFX/GFX_EN_JUMPER_1.png
+2010-06-14 22:19:37 ....A         3801               Squario2/GFX/GFX_EN_JUMPER_2.png
+2010-06-14 22:19:46 ....A         3799               Squario2/GFX/GFX_EN_JUMPER_3.png
+2010-06-14 22:19:59 ....A         3831               Squario2/GFX/GFX_EN_JUMPER_4.png
+2010-06-14 22:20:17 ....A         3831               Squario2/GFX/GFX_EN_JUMPER_5.png
+2010-06-06 23:44:04 ....A         4517               Squario2/GFX/GFX_EN_KOOPA_GREEN_1.png
+2010-06-06 23:44:01 ....A         4491               Squario2/GFX/GFX_EN_KOOPA_GREEN_2.png
+2010-06-06 23:44:00 ....A         4473               Squario2/GFX/GFX_EN_KOOPA_GREEN_3.png
+2010-06-06 23:45:17 ....A         4491               Squario2/GFX/GFX_EN_KOOPA_RED_1.png
+2010-06-06 23:45:26 ....A         4484               Squario2/GFX/GFX_EN_KOOPA_RED_2.png
+2010-06-06 23:45:33 ....A         4441               Squario2/GFX/GFX_EN_KOOPA_RED_3.png
+2010-06-14 14:57:45 ....A         5307               Squario2/GFX/GFX_EN_LAKITU_1.png
+2010-06-14 15:05:59 ....A         5237               Squario2/GFX/GFX_EN_LAKITU_2.png
+2010-06-14 15:09:30 ....A         4835               Squario2/GFX/GFX_EN_LAKITU_3.png
+2010-05-21 23:44:00 ....A         4444               Squario2/GFX/GFX_EN_MILL.png
+2010-05-29 21:24:57 ....A         4981               Squario2/GFX/GFX_EN_PFLAME_1.png
+2010-05-29 21:25:11 ....A         4823               Squario2/GFX/GFX_EN_PFLAME_2.png
+2010-05-29 21:25:20 ....A         4574               Squario2/GFX/GFX_EN_PFLAME_3.png
+2010-05-29 21:25:29 ....A         4358               Squario2/GFX/GFX_EN_PFLAME_4.png
+2010-05-29 20:06:44 ....A         4394               Squario2/GFX/GFX_EN_PPLANT_1.png
+2010-05-29 20:06:54 ....A         4273               Squario2/GFX/GFX_EN_PPLANT_2.png
+2010-05-29 20:07:02 ....A         3986               Squario2/GFX/GFX_EN_PPLANT_3.png
+2010-05-29 20:07:13 ....A         3672               Squario2/GFX/GFX_EN_PPLANT_4.png
+2010-05-29 19:11:57 ....A         3314               Squario2/GFX/GFX_EN_PSTATIC_1.png
+2010-05-29 19:12:06 ....A         3322               Squario2/GFX/GFX_EN_PSTATIC_2.png
+2010-05-29 19:12:17 ....A         3291               Squario2/GFX/GFX_EN_PSTATIC_3.png
+2010-05-29 19:12:31 ....A         3337               Squario2/GFX/GFX_EN_PSTATIC_4.png
+2010-05-29 19:12:47 ....A         3335               Squario2/GFX/GFX_EN_PSTATIC_5.png
+2010-06-07 18:28:16 ....A         3965               Squario2/GFX/GFX_EN_SPINY_1.png
+2010-06-07 18:28:23 ....A         3969               Squario2/GFX/GFX_EN_SPINY_2.png
+2010-06-07 18:28:31 ....A         3903               Squario2/GFX/GFX_EN_SPINY_3.png
+2010-06-07 18:28:39 ....A         3975               Squario2/GFX/GFX_EN_SPINY_4.png
+2010-06-07 18:28:46 ....A         3995               Squario2/GFX/GFX_EN_SPINY_5.png
+2010-06-07 18:32:30 ....A         4160               Squario2/GFX/GFX_EN_SPINY_SHELL_1.png
+2008-10-14 14:50:30 ....A         1102               Squario2/GFX/GFX_EN_SPINY_SHELL_2.png
+2008-10-28 18:48:26 ....A          342               Squario2/GFX/GFX_FONT_-.png
+2008-10-28 18:48:19 ....A          476               Squario2/GFX/GFX_FONT_0.png
+2008-10-28 18:48:13 ....A          399               Squario2/GFX/GFX_FONT_1.png
+2008-10-28 18:48:05 ....A          538               Squario2/GFX/GFX_FONT_2.png
+2008-10-28 18:48:01 ....A          522               Squario2/GFX/GFX_FONT_3.png
+2008-10-28 18:47:54 ....A          494               Squario2/GFX/GFX_FONT_4.png
+2008-10-28 18:47:48 ....A          519               Squario2/GFX/GFX_FONT_5.png
+2008-10-28 18:47:40 ....A          533               Squario2/GFX/GFX_FONT_6.png
+2008-10-28 18:47:34 ....A          457               Squario2/GFX/GFX_FONT_7.png
+2008-10-28 18:47:30 ....A          503               Squario2/GFX/GFX_FONT_8.png
+2008-10-28 18:47:25 ....A          529               Squario2/GFX/GFX_FONT_9.png
+2010-06-22 00:26:24 ....A         3373               Squario2/GFX/GFX_FONT_COIN_1.png
+2010-06-22 00:26:41 ....A         3409               Squario2/GFX/GFX_FONT_COIN_2.png
+2010-06-22 00:26:51 ....A         3461               Squario2/GFX/GFX_FONT_COIN_3.png
+2010-06-03 13:17:44 ....A         3452               Squario2/GFX/GFX_FONT_HEAD.png
+2008-10-28 18:49:15 ....A         1597               Squario2/GFX/GFX_FONT_MARIO.png
+2008-10-28 18:49:07 ....A         1222               Squario2/GFX/GFX_FONT_TIME.png
+2008-10-28 18:48:59 ....A         1647               Squario2/GFX/GFX_FONT_WORLD.png
+2008-10-28 18:48:35 ....A          517               Squario2/GFX/GFX_FONT_X.png
+2010-06-24 15:54:31 ....A        10689               Squario2/GFX/GFX_GAMEOVER.png
+2010-06-24 12:05:08 ....A        30373               Squario2/GFX/GFX_KISS.png
+2010-06-03 22:02:35 ....A         3864               Squario2/GFX/GFX_MARIO0_BRAKE.png
+2010-06-01 20:40:49 ....A         3840               Squario2/GFX/GFX_MARIO0_ENTER.png
+2010-06-03 13:11:45 ....A         4123               Squario2/GFX/GFX_MARIO0_JUMP.png
+2010-06-01 20:43:57 ....A         3838               Squario2/GFX/GFX_MARIO0_STAND_1.png
+2010-06-02 16:59:52 ....A         1430               Squario2/GFX/GFX_MARIO0_WALK_00.png
+2010-06-02 16:59:52 ....A         1395               Squario2/GFX/GFX_MARIO0_WALK_01.png
+2010-06-02 16:59:52 ....A         1246               Squario2/GFX/GFX_MARIO0_WALK_02.png
+2010-06-02 16:59:52 ....A         1204               Squario2/GFX/GFX_MARIO0_WALK_03.png
+2010-06-02 16:59:52 ....A         1216               Squario2/GFX/GFX_MARIO0_WALK_04.png
+2010-06-02 16:59:52 ....A         1224               Squario2/GFX/GFX_MARIO0_WALK_05.png
+2010-06-02 16:59:52 ....A         1265               Squario2/GFX/GFX_MARIO0_WALK_06.png
+2010-06-02 16:59:52 ....A         1285               Squario2/GFX/GFX_MARIO0_WALK_07.png
+2010-06-02 16:59:52 ....A         1367               Squario2/GFX/GFX_MARIO0_WALK_08.png
+2010-06-02 16:59:52 ....A         1357               Squario2/GFX/GFX_MARIO0_WALK_09.png
+2010-06-02 16:59:52 ....A         1219               Squario2/GFX/GFX_MARIO0_WALK_10.png
+2010-06-02 16:59:52 ....A         1206               Squario2/GFX/GFX_MARIO0_WALK_11.png
+2010-06-02 16:59:52 ....A         1258               Squario2/GFX/GFX_MARIO0_WALK_12.png
+2010-06-02 16:59:52 ....A         1151               Squario2/GFX/GFX_MARIO0_WALK_13.png
+2010-06-02 16:59:52 ....A         1228               Squario2/GFX/GFX_MARIO0_WALK_14.png
+2010-06-02 16:56:07 ....A         1336               Squario2/GFX/GFX_MARIO0_WALK_15.png
+2010-06-03 22:49:14 ....A         3890               Squario2/GFX/GFX_MARIO1_BRAKE.png
+2010-06-03 22:42:55 ....A         3841               Squario2/GFX/GFX_MARIO1_ENTER.png
+2010-06-03 22:48:04 ....A         4161               Squario2/GFX/GFX_MARIO1_JUMP.png
+2010-06-03 22:45:53 ....A         3856               Squario2/GFX/GFX_MARIO1_STAND_1.png
+2010-06-03 22:52:27 ....A         1454               Squario2/GFX/GFX_MARIO1_WALK_00.png
+2010-06-03 22:52:27 ....A         1426               Squario2/GFX/GFX_MARIO1_WALK_01.png
+2010-06-03 22:52:27 ....A         1269               Squario2/GFX/GFX_MARIO1_WALK_02.png
+2010-06-03 22:52:27 ....A         1228               Squario2/GFX/GFX_MARIO1_WALK_03.png
+2010-06-03 22:52:27 ....A         1238               Squario2/GFX/GFX_MARIO1_WALK_04.png
+2010-06-03 22:52:27 ....A         1259               Squario2/GFX/GFX_MARIO1_WALK_05.png
+2010-06-03 22:52:27 ....A         1301               Squario2/GFX/GFX_MARIO1_WALK_06.png
+2010-06-03 22:52:27 ....A         1312               Squario2/GFX/GFX_MARIO1_WALK_07.png
+2010-06-03 22:52:27 ....A         1390               Squario2/GFX/GFX_MARIO1_WALK_08.png
+2010-06-03 22:52:27 ....A         1399               Squario2/GFX/GFX_MARIO1_WALK_09.png
+2010-06-03 22:52:27 ....A         1258               Squario2/GFX/GFX_MARIO1_WALK_10.png
+2010-06-03 22:52:27 ....A         1244               Squario2/GFX/GFX_MARIO1_WALK_11.png
+2010-06-03 22:52:27 ....A         1285               Squario2/GFX/GFX_MARIO1_WALK_12.png
+2010-06-03 22:52:27 ....A         1183               Squario2/GFX/GFX_MARIO1_WALK_13.png
+2010-06-03 22:52:27 ....A         1252               Squario2/GFX/GFX_MARIO1_WALK_14.png
+2010-06-20 15:12:16 ....A         4005               Squario2/GFX/GFX_MARIO1_WALK_15.png
+2010-06-02 17:25:11 ....A         4204               Squario2/GFX/GFX_MARIO_DEAD.png
+2010-06-22 00:29:16 ....A         4039               Squario2/GFX/GFX_OB_COIN_1.png
+2010-06-22 00:29:27 ....A         4106               Squario2/GFX/GFX_OB_COIN_2.png
+2010-06-22 00:29:31 ....A         4110               Squario2/GFX/GFX_OB_COIN_3.png
+2010-06-21 20:15:53 ....A         4083               Squario2/GFX/GFX_OB_COIN_4.png
+2010-06-22 00:29:23 ....A         4088               Squario2/GFX/GFX_OB_COIN_5.png
+2010-06-22 00:29:20 ....A         4068               Squario2/GFX/GFX_OB_COIN_6.png
+2010-06-01 03:23:36 ....A         4056               Squario2/GFX/GFX_OB_KILLSHROOM.png
+2010-06-01 02:52:39 ....A         4349               Squario2/GFX/GFX_OB_LIFESHROOM.png
+2010-06-01 02:47:15 ....A         3196               Squario2/GFX/GFX_OB_RADISH.png
+2010-06-01 03:09:56 ....A         3964               Squario2/GFX/GFX_OB_SHROOM.png
+2010-06-22 00:20:16 ....A         9461               Squario2/GFX/GFX_TITLE.png
+2008-11-27 18:54:15 ....A         4144               Squario2/GFX/GFX_Z_CONTINUE.png
+2008-11-27 18:55:23 ....A        24435               Squario2/GFX/GFX_Z_GAMEOVER.png
+2008-11-27 18:54:41 ....A         2541               Squario2/GFX/GFX_Z_QUIT.png
+2008-11-27 18:56:52 ....A         5655               Squario2/GFX/GFX_Z_SCORE.png
+2008-11-27 19:11:42 ....A         6409               Squario2/GFX/GFX_Z_TYPE.png
+2010-05-25 20:38:39 ....A         4884               Squario2/GFX/fua kagerton/Wall_0.png
+2010-05-25 20:38:39 ....A         4884               Squario2/GFX/Wall_0.png
+2010-05-25 21:24:32 ....A         3720               Squario2/GFX/Wall_0_a.png
+2010-05-25 21:44:58 ....A         4441               Squario2/GFX/Wall_0_b.png
+2010-05-23 19:01:28 ....A         4331               Squario2/GFX/Wall_0_c.png
+2010-05-25 20:39:00 ....A         4750               Squario2/GFX/fua kagerton/Wall_1.png
+2010-05-25 20:39:00 ....A         4750               Squario2/GFX/Wall_1.png
+2010-05-25 21:24:26 ....A         3573               Squario2/GFX/Wall_1_a.png
+2010-05-25 21:44:43 ....A         4237               Squario2/GFX/Wall_1_b.png
+2010-05-23 19:01:20 ....A         4214               Squario2/GFX/Wall_1_c.png
+2010-05-21 19:41:49 ....A         4203               Squario2/GFX/fua kagerton/Wall_2.png
+2010-05-21 19:41:49 ....A         4203               Squario2/GFX/Wall_2.png
+2010-05-25 21:24:32 ....A         3720               Squario2/GFX/Wall_2_a.png
+2010-05-23 18:15:18 ....A         4149               Squario2/GFX/Wall_2_b.png
+2010-05-23 19:01:13 ....A         4376               Squario2/GFX/Wall_2_c.png
+2010-05-21 19:42:16 ....A         4476               Squario2/GFX/fua kagerton/Wall_3.png
+2010-05-21 19:42:16 ....A         4476               Squario2/GFX/Wall_3.png
+2010-05-25 21:24:26 ....A         3573               Squario2/GFX/Wall_3_a.png
+2010-05-23 18:15:24 ....A         3936               Squario2/GFX/Wall_3_b.png
+2010-05-23 19:01:07 ....A         3964               Squario2/GFX/Wall_3_c.png
+2010-05-25 20:39:28 ....A         4947               Squario2/GFX/fua kagerton/Wall_4.png
+2010-05-25 20:39:28 ....A         4947               Squario2/GFX/Wall_4.png
+2010-05-25 21:24:32 ....A         3720               Squario2/GFX/Wall_4_a.png
+2010-05-25 21:44:27 ....A         4495               Squario2/GFX/Wall_4_b.png
+2010-05-25 21:53:23 ....A         4527               Squario2/GFX/Wall_4_c.png
+2010-05-25 20:39:42 ....A         4815               Squario2/GFX/fua kagerton/Wall_5.png
+2010-05-25 20:39:42 ....A         4815               Squario2/GFX/Wall_5.png
+2010-05-25 21:24:26 ....A         3573               Squario2/GFX/Wall_5_a.png
+2010-05-25 21:44:14 ....A         4258               Squario2/GFX/Wall_5_b.png
+2010-05-25 21:53:36 ....A         4293               Squario2/GFX/Wall_5_c.png
+2010-05-25 20:40:37 ....A         4902               Squario2/GFX/fua kagerton/Wall_6.png
+2010-05-25 20:40:37 ....A         4902               Squario2/GFX/Wall_6.png
+2010-05-25 21:24:46 ....A         3759               Squario2/GFX/Wall_6_a.png
+2010-05-25 21:46:34 ....A         4482               Squario2/GFX/Wall_6_b.png
+2010-05-23 19:02:28 ....A         4301               Squario2/GFX/Wall_6_c.png
+2010-05-21 22:05:09 ....A         4415               Squario2/GFX/fua kagerton/Wall_7.png
+2010-05-21 22:05:09 ....A         4415               Squario2/GFX/Wall_7.png
+2010-05-25 21:24:46 ....A         3759               Squario2/GFX/Wall_7_a.png
+2010-05-23 18:16:02 ....A         4357               Squario2/GFX/Wall_7_b.png
+2010-05-23 19:02:20 ....A         4195               Squario2/GFX/Wall_7_c.png
+2010-05-25 20:40:28 ....A         4925               Squario2/GFX/fua kagerton/Wall_8.png
+2010-05-25 20:40:28 ....A         4925               Squario2/GFX/Wall_8.png
+2010-05-25 21:24:46 ....A         3759               Squario2/GFX/Wall_8_a.png
+2010-05-25 21:46:03 ....A         4494               Squario2/GFX/Wall_8_b.png
+2010-05-23 19:02:10 ....A         4304               Squario2/GFX/Wall_8_c.png
+2010-05-25 20:40:16 ....A         4768               Squario2/GFX/fua kagerton/Wall_9.png
+2010-05-25 20:40:16 ....A         4768               Squario2/GFX/Wall_9.png
+2010-05-25 21:31:08 ....A         3702               Squario2/GFX/Wall_9_a.png
+2010-05-25 21:45:49 ....A         4274               Squario2/GFX/Wall_9_b.png
+2010-05-25 21:54:56 ....A         4320               Squario2/GFX/Wall_9_c.png
+2010-05-21 22:05:38 ....A         4467               Squario2/GFX/fua kagerton/Wall_a.png
+2010-05-21 22:05:38 ....A         4467               Squario2/GFX/Wall_a.png
+2010-05-25 21:31:18 ....A         3583               Squario2/GFX/Wall_a_a.png
+2010-05-23 18:16:22 ....A         3962               Squario2/GFX/Wall_a_b.png
+2010-05-23 19:01:56 ....A         4006               Squario2/GFX/Wall_a_c.png
+2010-05-25 20:40:47 ....A         4812               Squario2/GFX/fua kagerton/Wall_b.png
+2010-05-25 20:40:47 ....A         4812               Squario2/GFX/Wall_b.png
+2010-05-25 21:31:28 ....A         3660               Squario2/GFX/Wall_b_a.png
+2010-05-25 21:45:32 ....A         4261               Squario2/GFX/Wall_b_b.png
+2010-05-25 21:54:47 ....A         4318               Squario2/GFX/Wall_b_c.png
+2010-05-19 23:45:32 ....A         4093               Squario2/GFX/fua kagerton/Wall_c.png
+2010-05-19 23:45:32 ....A         4093               Squario2/GFX/Wall_c.png
+2010-05-20 13:22:15 ....A         3941               Squario2/GFX/Wall_c_a.png
+2010-05-20 15:27:49 ....A         4284               Squario2/GFX/Wall_c_c.png
+2010-05-19 23:40:11 ....A         4339               Squario2/GFX/fua kagerton/Wall_d.png
+2010-05-19 23:40:11 ....A         4339               Squario2/GFX/Wall_d.png
+2010-05-20 13:22:23 ....A         3952               Squario2/GFX/Wall_d_a.png
+2010-05-20 15:28:17 ....A         4264               Squario2/GFX/Wall_d_c.png
+2010-05-19 23:43:04 ....A         4298               Squario2/GFX/fua kagerton/Wall_e.png
+2010-05-19 23:43:04 ....A         4298               Squario2/GFX/Wall_e.png
+2010-05-20 13:22:30 ....A         3975               Squario2/GFX/Wall_e_a.png
+2010-05-20 15:28:00 ....A         4298               Squario2/GFX/Wall_e_c.png
+2010-05-19 23:45:19 ....A         4224               Squario2/GFX/fua kagerton/Wall_f.png
+2010-05-19 23:45:19 ....A         4224               Squario2/GFX/Wall_f.png
+2010-05-20 13:22:53 ....A         3930               Squario2/GFX/Wall_f_a.png
+2010-05-19 23:28:02 ....A         4091               Squario2/GFX/fua kagerton/Wall_g.png
+2010-05-19 23:28:02 ....A         4091               Squario2/GFX/Wall_g.png
+2010-05-20 13:22:42 ....A         3932               Squario2/GFX/Wall_g_a.png
+2010-05-19 23:28:27 ....A         4073               Squario2/GFX/fua kagerton/Wall_h.png
+2010-05-19 23:28:27 ....A         4073               Squario2/GFX/Wall_h.png
+2010-05-20 13:22:37 ....A         3930               Squario2/GFX/Wall_h_a.png
+2010-05-20 16:14:47 ....A         4297               Squario2/GFX/fua kagerton/Wall_i.png
+2010-05-25 21:34:39 ....A         4376               Squario2/GFX/Wall_i.png
+2010-05-25 21:35:22 ....A         4109               Squario2/GFX/Wall_i_a.png
+2010-05-20 16:16:40 ....A         4244               Squario2/GFX/fua kagerton/Wall_j.png
+2010-05-25 21:34:49 ....A         4388               Squario2/GFX/Wall_j.png
+2010-05-25 21:35:28 ....A         4089               Squario2/GFX/Wall_j_a.png
+2010-05-20 16:16:46 ....A         4217               Squario2/GFX/fua kagerton/Wall_k.png
+2010-05-25 21:34:55 ....A         4370               Squario2/GFX/Wall_k.png
+2010-05-25 21:35:38 ....A         4090               Squario2/GFX/Wall_k_a.png
+2010-05-20 16:14:47 ....A         4297               Squario2/GFX/Wall_l.png
+2010-05-20 16:16:52 ....A         4225               Squario2/GFX/fua kagerton/Wall_l.png
+2010-05-20 16:13:04 ....A         4282               Squario2/GFX/fua kagerton/Wall_m.png
+2010-05-20 16:16:40 ....A         4244               Squario2/GFX/Wall_m.png
+2010-05-20 15:33:01 ....A         4261               Squario2/GFX/fua kagerton/Wall_n.png
+2010-05-20 16:16:46 ....A         4217               Squario2/GFX/Wall_n.png
+2010-05-20 15:32:43 ....A         4255               Squario2/GFX/fua kagerton/Wall_o.png
+2010-05-20 16:16:52 ....A         4225               Squario2/GFX/Wall_o.png
+2010-05-20 15:32:54 ....A         4237               Squario2/GFX/fua kagerton/Wall_p.png
+2010-05-20 16:13:04 ....A         4282               Squario2/GFX/Wall_p.png
+2010-05-20 13:22:15 ....A         3941               Squario2/GFX/fua kagerton/Wall_q.png
+2010-05-20 15:33:01 ....A         4261               Squario2/GFX/Wall_q.png
+2010-05-20 13:22:23 ....A         3952               Squario2/GFX/fua kagerton/Wall_r.png
+2010-05-20 15:32:43 ....A         4255               Squario2/GFX/Wall_r.png
+2010-05-20 13:22:30 ....A         3975               Squario2/GFX/fua kagerton/Wall_s.png
+2010-05-20 15:32:54 ....A         4237               Squario2/GFX/Wall_s.png
+2010-05-20 13:22:53 ....A         3930               Squario2/GFX/fua kagerton/Wall_t.png
+2010-05-20 13:22:42 ....A         3932               Squario2/GFX/fua kagerton/Wall_u.png
+2010-05-20 13:22:37 ....A         3930               Squario2/GFX/fua kagerton/Wall_v.png
+2010-05-20 15:27:49 ....A         4284               Squario2/GFX/fua kagerton/Wall_w.png
+2010-05-20 15:28:17 ....A         4264               Squario2/GFX/fua kagerton/Wall_x.png
+2010-05-20 15:28:00 ....A         4298               Squario2/GFX/fua kagerton/Wall_y.png
+2010-05-21 17:52:57 ....A         4034               Squario2/GFX/fua kagerton/Wall__A.png
+2010-05-21 17:52:57 ....A         4034               Squario2/GFX/Wall__A.png
+2010-05-21 17:52:49 ....A         4029               Squario2/GFX/fua kagerton/Wall__B.png
+2010-05-21 17:52:49 ....A         4029               Squario2/GFX/Wall__B.png
+2010-05-21 17:51:58 ....A         4086               Squario2/GFX/fua kagerton/Wall__C.png
+2010-05-21 17:51:58 ....A         4086               Squario2/GFX/Wall__C.png
+2010-05-25 21:53:23 ....A         4527               Squario2/GFX/Wall__c4.png
+2010-05-21 17:52:14 ....A         4131               Squario2/GFX/fua kagerton/Wall__D.png
+2010-05-21 17:52:14 ....A         4131               Squario2/GFX/Wall__D.png
+2010-05-21 16:36:23 ....A         4173               Squario2/GFX/fua kagerton/Wall__E.png
+2010-05-21 16:36:23 ....A         4173               Squario2/GFX/Wall__E.png
+2010-05-21 16:36:36 ....A         4153               Squario2/GFX/fua kagerton/Wall__F.png
+2010-05-21 16:36:36 ....A         4153               Squario2/GFX/Wall__F.png
+2010-05-21 16:36:50 ....A         4176               Squario2/GFX/fua kagerton/Wall__G.png
+2010-05-21 16:36:50 ....A         4176               Squario2/GFX/Wall__G.png
+2010-05-21 16:37:05 ....A         4149               Squario2/GFX/fua kagerton/Wall__H.png
+2010-05-21 16:37:05 ....A         4149               Squario2/GFX/Wall__H.png
+2010-05-21 16:37:17 ....A         4095               Squario2/GFX/fua kagerton/Wall__I.png
+2010-05-21 16:37:17 ....A         4095               Squario2/GFX/Wall__I.png
+2010-05-21 16:37:28 ....A         4152               Squario2/GFX/fua kagerton/Wall__J.png
+2010-05-21 16:37:28 ....A         4152               Squario2/GFX/Wall__J.png
+2010-05-21 16:37:48 ....A         4119               Squario2/GFX/fua kagerton/Wall__K.png
+2010-05-21 16:37:48 ....A         4119               Squario2/GFX/Wall__K.png
+2010-05-21 16:37:57 ....A         4117               Squario2/GFX/fua kagerton/Wall__L.png
+2010-05-21 16:37:57 ....A         4117               Squario2/GFX/Wall__L.png
+2010-05-25 21:51:38 ....A         4505               Squario2/GFX/fua kagerton/Wall__M.png
+2010-05-25 21:51:38 ....A         4505               Squario2/GFX/Wall__M.png
+2010-05-25 21:52:21 ....A         4139               Squario2/GFX/fua kagerton/Wall__N.png
+2010-05-25 21:52:21 ....A         4139               Squario2/GFX/Wall__N.png
+2010-05-22 12:51:28 ....A         3590               Squario2/GFX/fua kagerton/Wall__O.png
+2010-05-22 12:51:28 ....A         3590               Squario2/GFX/Wall__O.png
+2010-05-23 17:49:44 ....A         4437               Squario2/GFX/fua kagerton/Wall__P.PNG
+2010-05-23 17:49:44 ....A         4437               Squario2/GFX/Wall__P.PNG
+2010-05-23 17:57:34 ....A         3545               Squario2/GFX/fua kagerton/Wall__Q.png
+2010-05-23 17:57:34 ....A         3545               Squario2/GFX/Wall__Q.png
+2010-05-24 21:40:58 ....A         4014               Squario2/GFX/fua kagerton/Wall__R.png
+2010-05-24 21:40:58 ....A         4014               Squario2/GFX/Wall__R.png
+2010-05-24 21:45:00 ....A         4342               Squario2/GFX/fua kagerton/Wall__S.png
+2010-05-24 21:45:00 ....A         4342               Squario2/GFX/Wall__S.png
+2010-05-24 21:44:54 ....A         3565               Squario2/GFX/fua kagerton/Wall__T.png
+2010-05-24 21:44:54 ....A         3565               Squario2/GFX/Wall__T.png
+2010-05-23 18:31:46 ....A         4327               Squario2/GFX/fua kagerton/Wall__U.png
+2010-05-23 18:31:46 ....A         4327               Squario2/GFX/Wall__U.png
+2010-05-19 23:46:47 ....A       273378               Squario2/GFX/squarmock.psd
+2010-08-12 09:01:51 ....A       452848               Squario2/GFX/gagadfs.rdw
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:56:57            3725334      2340022  398 files, 3 folders

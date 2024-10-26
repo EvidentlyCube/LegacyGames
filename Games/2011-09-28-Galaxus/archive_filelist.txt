@@ -1,0 +1,611 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 12:34:57 D....            0            0  Galaxus
+2021-11-16 12:34:56 D.H..            0            0  Galaxus/.git
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/hooks
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/info
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/logs
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/logs/refs
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/logs/refs/heads
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/logs/refs/remotes
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/logs/refs/remotes/origin
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/00
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/02
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/05
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/07
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/08
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/0c
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/0d
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/0e
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/10
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/13
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/15
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/1c
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/1d
+2021-11-16 12:34:54 D....            0            0  Galaxus/.git/objects/21
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/23
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/25
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/2c
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/33
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/34
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/36
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/38
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/3a
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/3b
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/3f
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/40
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/42
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/47
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/49
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/4a
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/4b
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/4e
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/4f
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/51
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/52
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/54
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/55
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/59
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/5a
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/5b
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/5c
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/5e
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/5f
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/60
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/62
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/63
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/64
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/65
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/67
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/6a
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/6b
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/6c
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/6d
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/6e
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/72
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/73
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/74
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/75
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/79
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/7a
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/7c
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/7d
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/7f
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/80
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/81
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/82
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/85
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/86
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/87
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/88
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/8b
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/8e
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/8f
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/90
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/92
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/93
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/96
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/97
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/99
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/9d
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a0
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a1
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a2
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a3
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a6
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a8
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/a9
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/aa
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/ac
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/ad
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/ae
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/af
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b0
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b3
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b5
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b6
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b8
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/b9
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/ba
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/be
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c1
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c2
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c3
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c4
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c5
+2021-11-16 12:34:55 D....            0            0  Galaxus/.git/objects/c6
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/cd
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/ce
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/cf
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d0
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d1
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d2
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d4
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d8
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/d9
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/da
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/db
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/dc
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/dd
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/de
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/e2
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/e3
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/e4
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/e5
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/e6
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/eb
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/ed
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/ee
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f0
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f1
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f2
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f3
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f5
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f8
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/f9
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/fa
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/fb
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/fc
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/fd
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/fe
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/objects/ff
+2017-01-07 20:04:02 D....            0            0  Galaxus/.git/objects/info
+2017-01-07 20:04:02 D....            0            0  Galaxus/.git/objects/pack
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/refs
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/refs/heads
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/refs/remotes
+2021-11-16 12:34:56 D....            0            0  Galaxus/.git/refs/remotes/origin
+2017-01-07 20:04:02 D....            0            0  Galaxus/.git/refs/tags
+2021-11-16 12:34:56 D....            0            0  Galaxus/.idea
+2021-11-16 12:34:56 D....            0            0  Galaxus/.idea/inspectionProfiles
+2021-11-16 12:34:56 D....            0            0  Galaxus/.readme
+2021-11-16 12:34:56 D....            0            0  Galaxus/bin
+2021-11-16 12:34:57 D....            0            0  Galaxus/src
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/core
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/display
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/global
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/objects
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/standalone
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/states
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/game/windows
+2021-11-16 12:34:57 D....            0            0  Galaxus/src/preloader
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.assets
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.assets/global
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.assets/languages
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/data
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/functions
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/helpers
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/components
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/core
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/display
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/display/flash
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/display/global
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/display/layers
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/effects
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/global
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/interfaces
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/locale
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/particles
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/retrocamel/sound
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/sfxr
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.framework/net/retrocade/signal
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.graphics
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.graphics/raw
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.music
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.music/originals
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net/retrocade
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net/retrocade/collision
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net/retrocade/constants
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net/retrocade/utils
+2021-11-16 12:34:57 D....            0            0  Galaxus/src.utils/net/retrocade/vault
+2017-01-07 20:07:37 ....A           22      3636204  Galaxus/.git/COMMIT_EDITMSG
+2017-01-23 14:12:09 ....A          329               Galaxus/.git/config
+2017-01-07 20:04:02 ....A           73               Galaxus/.git/description
+2017-01-07 20:04:02 ....A           23               Galaxus/.git/HEAD
+2017-01-07 20:04:02 ....A          478               Galaxus/.git/hooks/applypatch-msg.sample
+2017-01-07 20:04:02 ....A          896               Galaxus/.git/hooks/commit-msg.sample
+2017-01-07 20:04:02 ....A          189               Galaxus/.git/hooks/post-update.sample
+2017-01-07 20:04:02 ....A          424               Galaxus/.git/hooks/pre-applypatch.sample
+2017-01-07 20:04:02 ....A         1642               Galaxus/.git/hooks/pre-commit.sample
+2017-01-07 20:04:02 ....A         1348               Galaxus/.git/hooks/pre-push.sample
+2017-01-07 20:04:02 ....A         4951               Galaxus/.git/hooks/pre-rebase.sample
+2017-01-07 20:04:02 ....A         1239               Galaxus/.git/hooks/prepare-commit-msg.sample
+2017-01-07 20:04:02 ....A         3610               Galaxus/.git/hooks/update.sample
+2017-06-13 21:34:02 ....A        17529               Galaxus/.git/index
+2017-01-07 20:04:02 ....A          240               Galaxus/.git/info/exclude
+2017-01-07 20:07:37 ....A          373               Galaxus/.git/logs/HEAD
+2017-01-07 20:07:37 ....A          373               Galaxus/.git/logs/refs/heads/master
+2017-01-23 14:12:09 ....A          170               Galaxus/.git/logs/refs/remotes/origin/master
+2017-01-07 20:04:21 .R..A         2510               Galaxus/.git/objects/00/6797808bdbfa8967613ae9606989b07c6b83f3
+2017-01-07 20:04:20 .R..A         4518               Galaxus/.git/objects/02/ee09867841091ea2503b8855b33432238f45d6
+2017-01-07 20:04:14 .R..A         3130               Galaxus/.git/objects/05/0700b591ce061806fc557897c5e25c94e6e6b7
+2017-01-07 20:04:08 .R..A          714               Galaxus/.git/objects/05/93215daee16da9d01b5b3b47ead097bc7cb6b7
+2017-01-07 20:04:14 .R..A         1275               Galaxus/.git/objects/05/9ece8a2705ea646eafc9a3096b4db0910a4931
+2017-01-07 20:07:36 .R..A          121               Galaxus/.git/objects/07/89710b6aab4c4616e7dd40cb996b2819992da5
+2017-01-07 20:04:20 .R..A         5787               Galaxus/.git/objects/08/41a4ca005ffd5d64510eb8355b7b9cbd3d57bc
+2017-01-07 20:07:31 .R..A         2463               Galaxus/.git/objects/0c/492e6abb1a9c1e0bbe2e8f751ca67c34896d00
+2017-01-07 20:04:30 .R..A          105               Galaxus/.git/objects/0d/15a92d6acc18880714660deb5e5bdcbbebecc9
+2017-01-07 20:04:08 .R..A          409               Galaxus/.git/objects/0d/c62e92e0172d4d0dcd2926043af7c488b503ce
+2017-01-07 20:04:21 .R..A        10563               Galaxus/.git/objects/0e/c5651a588bebdc1f8d154dbd2d102bfdd00ba7
+2017-01-07 20:04:21 .R..A         1583               Galaxus/.git/objects/10/c6487c5f2c3bf06847f0e3b89279be03ff2064
+2017-01-07 20:04:21 .R..A          132               Galaxus/.git/objects/13/478944afac1e1dc88b245ef3538b61814e01a4
+2017-01-07 20:04:08 .R..A          523               Galaxus/.git/objects/13/949ab6ac66c869e7a15a7dcac7877cc46b21c0
+2017-01-07 20:04:30 .R..A          173               Galaxus/.git/objects/15/654e1e3147a17283ee1b965f9c7a1da55c18fe
+2017-01-07 20:04:14 .R..A         1111               Galaxus/.git/objects/1c/6d39227bf90ad3ae7f3fcab6a7cd4a9191531c
+2017-01-07 20:04:21 .R..A          284               Galaxus/.git/objects/1c/bbc16e85b77d181d4d77ebdca4467f0fc280dd
+2017-01-07 20:04:21 .R..A          246               Galaxus/.git/objects/1d/e8e0e82e8c1e948dd0f8960a12f6287c33f5f8
+2017-01-07 20:04:20 .R..A         6547               Galaxus/.git/objects/21/48b02c0c8b6d3aa12da16c00c5bb17e5b16bb3
+2017-01-07 20:04:30 .R..A          194               Galaxus/.git/objects/21/59c27196afffc2cc649fd5ebda6f0f7258035c
+2017-01-07 20:04:21 .R..A          506               Galaxus/.git/objects/21/96570dd7260c8f35d16322d04fb40e3468f937
+2017-01-07 20:04:14 .R..A         5757               Galaxus/.git/objects/23/037234422ab7a0bd7b0c681f77a0c1ee9401c5
+2017-01-07 20:04:21 .R..A         1998               Galaxus/.git/objects/23/1e4227fff629ec89945ebaedd8b37deae3a525
+2017-01-07 20:04:14 .R..A          489               Galaxus/.git/objects/23/6542543d738141773ac4c984d973e2173e43c2
+2017-01-07 20:04:08 .R..A          718               Galaxus/.git/objects/25/7b8af3c32d3e62803099fc3c6a46313fef43d4
+2017-01-07 20:04:08 .R..A          662               Galaxus/.git/objects/25/9e3596544ce2b9ffa699afe15fbb2a1f21089a
+2017-01-07 20:04:08 .R..A         1247               Galaxus/.git/objects/2c/6a33f92dfc570991f964d5e58260f2c4df74f6
+2017-01-07 20:04:21 .R..A          695               Galaxus/.git/objects/33/66da14e5e1b4cbc947bf626960d45b40592310
+2017-01-07 20:04:20 .R..A         7885               Galaxus/.git/objects/33/b0ca921a74efc63a77013d7e0d33bf60ec5dad
+2017-01-07 20:04:08 .R..A         1080               Galaxus/.git/objects/33/b5c31716a79f1129aee3618c99188765640a3b
+2017-01-07 20:04:30 .R..A          170               Galaxus/.git/objects/33/f87d8ed508af3ae595b725d6a4c7abdba7b782
+2017-01-07 20:07:36 .R..A          470               Galaxus/.git/objects/34/51492122f9e55556ce1efa6711f32bf00fb265
+2017-01-07 20:04:08 .R..A          582               Galaxus/.git/objects/34/a834336b7488da4ca6cd32afb4198949c5741f
+2017-01-07 20:04:14 .R..A          347               Galaxus/.git/objects/36/48ad07331036abfe5626a34b4ad3ae10ea0425
+2017-06-12 19:52:33 .R..A           90               Galaxus/.git/objects/38/a7f400aa3cd4c69f65ca799e895c15f448eedf
+2017-01-07 20:04:30 .R..A           53               Galaxus/.git/objects/38/f8d45b1f69a21fe845398cc9565625e4c666be
+2017-01-07 20:04:08 .R..A          609               Galaxus/.git/objects/3a/9b729dafb390fdaa06c27416672d503f4eeedb
+2017-01-07 20:04:21 .R..A          326               Galaxus/.git/objects/3a/f9de90ed4fd01cea94d3ed31c3d73eb2e371d6
+2017-01-07 20:04:23 .R..A          158               Galaxus/.git/objects/3b/312839bf2e939fea3ebdef15630a4b33e57caf
+2017-01-07 20:04:23 .R..A          412               Galaxus/.git/objects/3b/e74eb7da514bd9defdbbd91595757d698d5db7
+2017-01-07 20:04:08 .R..A         1552               Galaxus/.git/objects/3f/de2f606da73b6d6812b34c56bebc12d7be79ba
+2017-01-07 20:04:30 .R..A          155               Galaxus/.git/objects/40/3ba56023bf6ef949f7d89f98c83289c9777d9b
+2017-01-07 20:04:14 .R..A         1519               Galaxus/.git/objects/42/63ea771c197ea8c7ce14e414190f28306a2740
+2017-01-07 20:04:30 .R..A          298               Galaxus/.git/objects/47/1d97bd24b85858425b32a2a55d765d3f6689cd
+2017-01-07 20:07:31 .R..A         1011               Galaxus/.git/objects/49/13660a22cbb08dad829d537209e0b44a14e010
+2017-01-07 20:04:14 .R..A          391               Galaxus/.git/objects/49/e3b038ed5eab3c3ade093afb0836422e695801
+2017-01-07 20:04:30 .R..A          252               Galaxus/.git/objects/4a/739bbde7d2bd86115dab608baaa4b1544e6b95
+2017-01-07 20:04:14 .R..A         3557               Galaxus/.git/objects/4a/c31622fdaabd46bb5c3d45122b4e0f0b2bc3f8
+2017-01-07 20:04:30 .R..A           57               Galaxus/.git/objects/4b/b0fd072d44359ab68fb77b68d8dadc778f17c5
+2017-06-12 19:53:12 .R..A          104               Galaxus/.git/objects/4e/1078a148120b6a79c2ef39f1303a9c46713951
+2017-01-07 20:04:30 .R..A          469               Galaxus/.git/objects/4f/1f8ddbf90833bb75d46a621be33eab69e7e019
+2017-01-07 20:04:20 .R..A          655               Galaxus/.git/objects/4f/2f036b0dd0e987bbab3fc59765f4fc65a3a549
+2017-01-07 20:04:08 .R..A          539               Galaxus/.git/objects/51/4d13b130d6a00e4a262b6cbe3103ca9212726f
+2017-01-07 20:04:14 .R..A          987               Galaxus/.git/objects/51/6dcb693adbc95686cca7e1cb46113c5c32ef79
+2017-01-07 20:04:08 .R..A          319               Galaxus/.git/objects/52/1442822e2756c4d72fe3b96b4860f1bdddd6de
+2017-01-07 20:04:30 .R..A          192               Galaxus/.git/objects/52/2aecb542c8d933ed1dd14cb6ecfd9a94ce11c8
+2017-01-07 20:04:30 .R..A          112               Galaxus/.git/objects/52/78ece15766de5a6da26cdb7054b9a766f4139a
+2017-01-07 20:04:30 .R..A           88               Galaxus/.git/objects/52/86445c72388193b5286db8f05fa9b32620a5c8
+2017-01-07 20:04:14 .R..A          679               Galaxus/.git/objects/52/e058a45362f52da5350c814deb2d967740c4fa
+2017-01-07 20:04:14 .R..A          923               Galaxus/.git/objects/54/2b9dcb1a563593ce93cf079831d892e525f2e0
+2017-01-07 20:04:30 .R..A          676               Galaxus/.git/objects/54/92b224cbda2da2e9675e2f36eb63979f695f81
+2017-01-07 20:04:14 .R..A         4787               Galaxus/.git/objects/55/57f43fa9a03cb885a5ac0ad96c554c22cced79
+2017-01-07 20:04:30 .R..A          225               Galaxus/.git/objects/59/a671951adcc3073ae6f881b37a73cfecc4a4d3
+2017-01-07 20:04:08 .R..A          558               Galaxus/.git/objects/59/d564df0064b4c638c6ffed36e5fcefa55976e0
+2017-01-07 20:07:36 .R..A          258               Galaxus/.git/objects/5a/6b5243faec010ad8eb06423ac10ea17fd69f9a
+2017-01-07 20:04:14 .R..A         1418               Galaxus/.git/objects/5a/946bcd63b976e49c3de517039ed55b01f111bf
+2017-01-07 20:04:14 .R..A         1000               Galaxus/.git/objects/5b/9db5b198bf1fe29fe35d823ba6620b8d8d10a3
+2017-01-07 20:04:30 .R..A          191               Galaxus/.git/objects/5c/fa5be0cd4a559b1334d3d2b44075e9ce536dd2
+2017-01-07 20:04:30 .R..A           54               Galaxus/.git/objects/5e/913aa59c8c057b8ed2790a1c0965ce4d06e8b6
+2017-01-07 20:04:14 .R..A          160               Galaxus/.git/objects/5e/f6361beb95743367608cd1ba10757e793b0b7d
+2017-01-07 20:07:31 .R..A          494               Galaxus/.git/objects/5f/9b3ee12b12f12c2bf038605606887d0b51dd4a
+2017-01-07 20:04:21 .R..A          246               Galaxus/.git/objects/60/4fa3533061dd1d6e162f42a64a6918814c26cb
+2017-01-07 20:04:08 .R..A          626               Galaxus/.git/objects/62/a0b5297d93b32dde4df37a0cb3ebdf109bb30a
+2017-01-07 20:04:14 .R..A          319               Galaxus/.git/objects/63/71a521b114b4babc4f67bba80baa805ea1e13a
+2017-01-07 20:07:36 .R..A          203               Galaxus/.git/objects/64/527aaa6061e1c9a650d7ce38ef5306750a8cf4
+2017-01-07 20:04:08 .R..A         2239               Galaxus/.git/objects/64/b12b3b22e18288d44c450f562cf8898556f6df
+2017-01-07 20:04:30 .R..A          258               Galaxus/.git/objects/65/9e0812751549165e8a0333cc0ccce6e392655d
+2017-01-07 20:04:14 .R..A         2179               Galaxus/.git/objects/67/19e909671e0e8b63c13fb770170b79ed0aaec4
+2017-01-07 20:04:30 .R..A           93               Galaxus/.git/objects/67/7792f423352739d81882501dbbe68f6a492607
+2017-01-07 20:04:30 .R..A           57               Galaxus/.git/objects/67/ac3990c0656c47ffefe675ff4736f18f1fb428
+2017-01-07 20:04:14 .R..A         2143               Galaxus/.git/objects/6a/9387ee33ea2e3a6b87352cbd6aba6dc5b44f71
+2017-01-07 20:04:14 .R..A         1738               Galaxus/.git/objects/6b/43f4133fc7800c19f258acf90dd5e74847a7da
+2017-01-07 20:04:14 .R..A         1958               Galaxus/.git/objects/6c/40e3822cf1206db2840d6f6c0205cfd9bc876e
+2017-01-07 20:07:31 .R..A         1438               Galaxus/.git/objects/6c/5ce9494a4e6324a7b68e7a780579fa08f73b85
+2017-01-07 20:04:14 .R..A         2751               Galaxus/.git/objects/6d/51467d220d5bbb77ba23cf235a7ef9d064387f
+2017-01-07 20:04:20 .R..A         6246               Galaxus/.git/objects/6e/19eb04fb51221626685783b5ca84c61fece0f7
+2017-01-07 20:04:08 .R..A          561               Galaxus/.git/objects/72/308e2bac220021ed2c2f3ff50053b075d49883
+2017-01-07 20:04:21 .R..A          648               Galaxus/.git/objects/73/08d32e90579048560ce3010a8766a4ea5e8ee0
+2017-01-07 20:07:36 .R..A           57               Galaxus/.git/objects/74/4da0da9dc99a8ccd9afdd4727ffe45c8732ddb
+2017-01-07 20:04:14 .R..A          146               Galaxus/.git/objects/75/1b0a0b3bc1475d34219f2543cc81c3a7b653ce
+2017-01-07 20:04:30 .R..A          142               Galaxus/.git/objects/75/3d21535a5472950f35e1fb83ac2d482058b68c
+2017-01-07 20:04:30 .R..A          203               Galaxus/.git/objects/79/ad38373a90bae53d771b01a4ed68bce39306cf
+2017-01-07 20:07:31 .R..A         1426               Galaxus/.git/objects/7a/e1d24e6e0c2197d4ae326f5fa56d22a152d9dc
+2017-01-07 20:04:14 .R..A          337               Galaxus/.git/objects/7c/74e685d9f50182c9b3c7ece8a93eb557b040a0
+2017-01-07 20:04:08 .R..A          810               Galaxus/.git/objects/7d/215daf04bd2d62340cf6c7ad141935a901bc53
+2017-01-07 20:07:36 .R..A          675               Galaxus/.git/objects/7f/b051d15adb6db827ad3756fb048721c594257c
+2017-01-07 20:04:14 .R..A          607               Galaxus/.git/objects/80/2f2d3679565f1993f1d857e34649adee9ade14
+2017-01-07 20:04:21 .R..A          416               Galaxus/.git/objects/81/5b832d0b659f8dac44cdcf953cfe75760f1860
+2017-01-07 20:04:21 .R..A         1505               Galaxus/.git/objects/81/95eadb3d302331c112723f6a00870799314c4d
+2017-01-07 20:07:36 .R..A           57               Galaxus/.git/objects/82/22791c2afd2574562d901a7eb6979fbe744f59
+2017-01-07 20:04:21 .R..A         2040               Galaxus/.git/objects/82/2e14caa45dc89cfb54e7e34407e49181e3f2b0
+2017-01-07 20:04:08 .R..A         1191               Galaxus/.git/objects/82/b99fe12260a4a31e40b6aad9f7d421af4c9c30
+2017-01-07 20:04:14 .R..A         7521               Galaxus/.git/objects/85/428b043e828575981fb141a3cd0ae6ec9ea52c
+2017-01-07 20:07:36 .R..A          298               Galaxus/.git/objects/85/52b71bef2c5a558f2f6b0e35cd931f79a80768
+2017-01-07 20:04:21 .R..A         2723               Galaxus/.git/objects/86/e9fab534317a97930c72344d5c14a6b7bbbf89
+2017-01-07 20:04:30 .R..A           71               Galaxus/.git/objects/87/5fa7d96efd549e3cb8e9910d8b23afd7844699
+2017-01-07 20:04:14 .R..A          296               Galaxus/.git/objects/87/c77b48128fd41d27a8e27f0a7cc6f4f8c948ef
+2017-01-07 20:04:08 .R..A          421               Galaxus/.git/objects/88/e1ea11b5e0148e84a787aa6c507a08e1d9e7bd
+2017-01-07 20:04:30 .R..A           56               Galaxus/.git/objects/8b/04f595918d05bc50f8be04c49b376783de4b10
+2017-01-07 20:04:14 .R..A         1158               Galaxus/.git/objects/8b/0cfe523ee90751e41beaab056f9dce57bd7bcc
+2017-01-07 20:04:30 .R..A           68               Galaxus/.git/objects/8e/101935860a82cf1ebce761b840751d1972fc22
+2017-01-07 20:04:21 .R..A         1464               Galaxus/.git/objects/8e/549a260461b61bf6c0add8c2058482f961a38d
+2017-01-07 20:04:08 .R..A          298               Galaxus/.git/objects/8e/6930604951a186adcecd867235c16deb396453
+2017-01-07 20:04:30 .R..A           78               Galaxus/.git/objects/8e/8c77f4c8cda217da9f103c1f03b74cc5e4ab43
+2017-01-07 20:04:14 .R..A          190               Galaxus/.git/objects/8e/bc13911590b74d684f07cc019a12380eef0900
+2017-01-07 20:04:21 .R..A          156               Galaxus/.git/objects/8f/7f05a446f04d6be4205f601312a30f17e16803
+2017-01-07 20:04:20 .R..A          717               Galaxus/.git/objects/8f/acb175723848d178bb9e37cc04a92c7da4da8d
+2017-01-07 20:07:31 .R..A          662               Galaxus/.git/objects/8f/c205d47b962739677888dd4bf6f56c0c683f13
+2017-01-07 20:04:08 .R..A         1362               Galaxus/.git/objects/90/a1a6635f0cc462fd267e19b53725561a7e0bed
+2017-01-07 20:04:21 .R..A          375               Galaxus/.git/objects/92/5d378a1c3a5ce3fe7246ac48bb0f7cb583b837
+2017-01-07 20:04:30 .R..A          259               Galaxus/.git/objects/93/ec02d55d004ae8fe5ae7e417cd5e893cc20c9c
+2017-01-07 20:04:21 .R..A         2666               Galaxus/.git/objects/96/996c2893a4e1b0ea8e5ececb65b8680dbce27b
+2017-01-07 20:04:23 .R..A          296               Galaxus/.git/objects/96/cc43efa6a0885098044e976cd780bb42c68a70
+2017-01-07 20:04:21 .R..A         2265               Galaxus/.git/objects/96/f3e74bcfab8c9271456c52f3ab57f22d57df1b
+2017-01-07 20:04:23 .R..A          137               Galaxus/.git/objects/97/626ba45445dc9f3afa66e6a149914dc39e3df6
+2017-01-07 20:04:30 .R..A           72               Galaxus/.git/objects/97/80cc913a77a08f79c2a6900b2f04db707544de
+2017-01-07 20:04:21 .R..A         1360               Galaxus/.git/objects/99/96412a1b27e46e485496049c65fff450785016
+2017-01-07 20:07:37 .R..A          180               Galaxus/.git/objects/99/9cc99fa23ce1561e3069d757cba0e496bdeca5
+2017-01-07 20:04:08 .R..A         1036               Galaxus/.git/objects/9d/5b5597c1acbfef3c6957beea76eb859cddac1a
+2017-01-07 20:07:36 .R..A          120               Galaxus/.git/objects/9d/6ce94ed0a60553676ee95efb5490dc8ad56a1f
+2017-01-07 20:04:14 .R..A         8853               Galaxus/.git/objects/a0/bba6e6f68f417644ed156cd1b7c1daf6895b07
+2017-01-07 20:04:30 .R..A           62               Galaxus/.git/objects/a1/8181367f1eacd00f2d31c1d07db0b16089a848
+2017-01-07 20:04:08 .R..A          398               Galaxus/.git/objects/a2/038c54b4e3a076fb5bc42ff3f99e5d026a2eac
+2017-01-07 20:04:08 .R..A         1079               Galaxus/.git/objects/a3/328b0f8b62d473ef67b47a77886018b832d5e1
+2017-01-07 20:04:08 .R..A          541               Galaxus/.git/objects/a6/09540a9a2f1e7684ba368cdb89b73a12a6c0ef
+2017-01-07 20:07:36 .R..A           83               Galaxus/.git/objects/a6/92906c27325d6b5a96236026b0bbfa2c7b3463
+2017-01-07 20:04:08 .R..A          570               Galaxus/.git/objects/a8/36f7ed8115c58e35964f145a7252054fabc717
+2017-01-07 20:04:21 .R..A         1412               Galaxus/.git/objects/a9/22eea14c5e89f5567b9c2fff50ba91af22ee8a
+2017-01-07 20:04:08 .R..A          960               Galaxus/.git/objects/a9/31e8496a3dbe2036df1f3c7eaa9213ba8e57b7
+2017-01-07 20:04:14 .R..A          721               Galaxus/.git/objects/aa/c9104bd244170f52ebc8242c8133d1183c7490
+2017-01-07 20:04:30 .R..A           52               Galaxus/.git/objects/ac/3b9161b54e6b51e23b7ae92976e62dbd6c2bec
+2017-01-07 20:04:14 .R..A          295               Galaxus/.git/objects/ad/1a58335ab451244bd124d49430830ab258b656
+2017-01-07 20:04:14 .R..A          659               Galaxus/.git/objects/ad/90fc65b7ad186d339d747aac484044600fc0af
+2017-01-07 20:07:36 .R..A           51               Galaxus/.git/objects/ad/e59690b575e1219c1ce22971a779fd82ccc2b1
+2017-01-07 20:07:31 .R..A          168               Galaxus/.git/objects/ae/4b22da0df544700a41b03c5c322abcd5e691a9
+2017-01-07 20:04:14 .R..A         2239               Galaxus/.git/objects/af/a251a4cb9e839a7d19304c1ea499c841d0ff63
+2017-01-07 20:04:08 .R..A          586               Galaxus/.git/objects/af/df8ab41d621ce256ea1dd6a84e93ba439214da
+2017-01-07 20:04:30 .R..A           72               Galaxus/.git/objects/b0/363aafb2653c151d04eab66c5df1e4965b723a
+2017-01-07 20:04:23 .R..A          323               Galaxus/.git/objects/b0/583adf63a2c9f5af23db7706c305c9442ef4df
+2017-01-07 20:07:36 .R..A          259               Galaxus/.git/objects/b3/8105ed202231f6dda8a836aba288d7247f4cb5
+2017-01-07 20:04:14 .R..A         1708               Galaxus/.git/objects/b3/aa687a84fe004d298108c60a1c851ad23ac831
+2017-01-07 20:04:30 .R..A          233               Galaxus/.git/objects/b5/d9d61ddd779412ad9e2afcd2bbdb71f281348b
+2017-01-07 20:04:14 .R..A          423               Galaxus/.git/objects/b6/68ab24afa8b8dd2f950dae8597cdd78768f39e
+2017-01-07 20:04:30 .R..A           64               Galaxus/.git/objects/b8/b2f77274b504595fe94815567fbf6690573c42
+2017-01-07 20:04:08 .R..A         2466               Galaxus/.git/objects/b8/fffb948df7ef1df8742b122af867aab8b46aaf
+2017-01-07 20:04:30 .R..A          121               Galaxus/.git/objects/b9/2471b8166bf73630cf75785b7139c897edd402
+2017-01-07 20:04:23 .R..A           96               Galaxus/.git/objects/ba/4ba36c51541ff880df23f589511e7133d25f44
+2017-01-07 20:04:30 .R..A           83               Galaxus/.git/objects/ba/708b790b7085cb529bccad4d1c0116ce6f9a27
+2017-01-07 20:04:30 .R..A          315               Galaxus/.git/objects/ba/bf16f843320afc9a96efc4953e2221a404833c
+2017-01-07 20:04:23 .R..A          144               Galaxus/.git/objects/be/46c8b200024a83e9df81344f95793f3160a718
+2017-01-07 20:04:08 .R..A          346               Galaxus/.git/objects/be/f72ccc9dd2e346652e843380a2a4142c9d984a
+2017-01-07 20:04:30 .R..A          322               Galaxus/.git/objects/c1/5df48eff7933f9f2cb157a552d7a45211998ac
+2017-01-07 20:04:20 .R..A         5953               Galaxus/.git/objects/c1/c5771eec755bac0711d8ffa8f8805e2fa8c42f
+2017-01-07 20:04:30 .R..A          226               Galaxus/.git/objects/c1/fd4a16b0c306362600fc9d911775be03dc2bef
+2017-01-07 20:04:14 .R..A          195               Galaxus/.git/objects/c2/51c9a520861f5e833422e21cd22acdfe53cce3
+2017-01-07 20:04:21 .R..A         2105               Galaxus/.git/objects/c2/d8b31eeb5defa28c374be54d9ef11490223c9e
+2017-01-07 20:04:30 .R..A           62               Galaxus/.git/objects/c3/c34a5e94f2707f329a0bd8fe9557c8b8aea878
+2017-01-07 20:04:30 .R..A           51               Galaxus/.git/objects/c4/366e96af433fad0b604543ba7176d9d4f9e9de
+2017-01-07 20:04:08 .R..A         1105               Galaxus/.git/objects/c5/424b29492cccdac3cd48b8d001684889fe2ab4
+2017-01-07 20:04:08 .R..A          691               Galaxus/.git/objects/c5/641927946acdebc2d39eba7efcaed3abe0dbc5
+2017-01-07 20:04:30 .R..A          121               Galaxus/.git/objects/c6/862e949643ece5db47bece86c93dfd92109be0
+2017-01-07 20:04:08 .R..A         1280               Galaxus/.git/objects/cd/a99f27ec55a9a8207f5a88b53a2af1a7f10241
+2017-01-07 20:04:14 .R..A          726               Galaxus/.git/objects/ce/d1b252c7ffbf35eb85a42ea32577048b1f4012
+2017-01-07 20:04:21 .R..A         2800               Galaxus/.git/objects/cf/93ccfc2af57e8ede794cca30c043b3567a25bd
+2017-01-07 20:07:36 .R..A          202               Galaxus/.git/objects/d0/3cccd0b08b296aecc2364bb68961ab4fb4ea4d
+2017-01-07 20:04:20 .R..A          514               Galaxus/.git/objects/d1/12f7b9cb55d542606f4be49125d04cc4117199
+2017-01-07 20:04:30 .R..A          107               Galaxus/.git/objects/d1/68679fc933dfb7f55bbe20e6f2c16ea70fa3d5
+2017-01-07 20:04:30 .R..A          143               Galaxus/.git/objects/d1/80d4defbe9c60c2ab912ac32b0054709575584
+2017-01-07 20:04:30 .R..A           52               Galaxus/.git/objects/d1/a040bdc42c5670d950f5a94d33b4829020ba29
+2017-01-07 20:04:08 .R..A         1065               Galaxus/.git/objects/d1/a89b0428fa56bd962a856fede80f064a33d058
+2017-01-07 20:04:20 .R..A         8473               Galaxus/.git/objects/d2/30465cd28bd63c511cf23c42dd3695314f5cda
+2017-01-07 20:04:20 .R..A         7051               Galaxus/.git/objects/d2/e710abff3f6d022826353f44427bea2d15a26c
+2017-01-07 20:04:08 .R..A         1328               Galaxus/.git/objects/d4/3ef40e9218b1ab70cb7bfd9222530c321c395d
+2017-01-07 20:07:36 .R..A          142               Galaxus/.git/objects/d4/d2c7fcb89b6362d8ba458f1a6b40842afc4815
+2017-01-07 20:04:14 .R..A          846               Galaxus/.git/objects/d8/a8e3311a2541161e2792fb2b60086c6bd7f0cd
+2017-06-13 13:12:44 .R..A          101               Galaxus/.git/objects/d9/11e6d02bf4782dd465baad1538b66086b489e2
+2017-01-07 20:04:30 .R..A          125               Galaxus/.git/objects/da/2bbd9d1d02036911f716383932f81bdab26e87
+2017-01-07 20:04:14 .R..A          610               Galaxus/.git/objects/da/e4dd51c752abc3dbc6ab43c5b2d61240736902
+2017-01-07 20:04:08 .R..A          501               Galaxus/.git/objects/db/d5ce52740f80130d9be94133d463a692f3d603
+2017-01-07 20:04:14 .R..A          115               Galaxus/.git/objects/dc/d9022abb586a551a6f52b1dbf3cafeea3bc64b
+2017-01-07 20:04:08 .R..A         1086               Galaxus/.git/objects/dd/162fb16c8b7fca09533bfe3e1c75b36fedbf22
+2017-01-07 20:07:36 .R..A          226               Galaxus/.git/objects/dd/2ab34cd55a20c21c8ac2dde3e93279877b083a
+2017-01-07 20:07:31 .R..A          353               Galaxus/.git/objects/de/2c0b3d1491cf3149dfa1aedba50e6f1c049f26
+2017-01-07 20:04:14 .R..A          272               Galaxus/.git/objects/e2/c5ba33a96c233cd47f7f7a18f75287ac5e7ef5
+2017-01-07 20:04:30 .R..A          202               Galaxus/.git/objects/e3/03c03419f226cf39689bd120a9990fab55abbe
+2017-01-07 20:04:14 .R..A         2995               Galaxus/.git/objects/e4/2758c1dcf25e7b3f74d84ef3c938ab9c64a6a5
+2017-01-07 20:04:20 .R..A         7973               Galaxus/.git/objects/e5/6a5efc1ec67770516ab7202a8f07b15da1d8a1
+2017-01-07 20:04:14 .R..A          774               Galaxus/.git/objects/e6/6c4bec745c6a222fc2daee3a22b78057b347dd
+2017-01-07 20:04:30 .R..A           45               Galaxus/.git/objects/e6/74d7e5944f3ebac9df95738429d767448897a3
+2017-01-07 20:04:20 .R..A         1327               Galaxus/.git/objects/eb/b0b773a81add483eaadfb69e648655710bd14c
+2017-01-07 20:07:31 .R..A         1299               Galaxus/.git/objects/ed/97d46f81d5eb76b9dcaa5d0dbf9536ea378a10
+2017-01-07 20:04:14 .R..A          584               Galaxus/.git/objects/ee/c0d4e318ae4e21a62a9b4c9ca2eac3a7e7c3ec
+2017-01-07 20:04:21 .R..A         5575               Galaxus/.git/objects/f0/34a80916a6f6d8b6c2d206ba7d9750676e495c
+2017-01-07 20:04:21 .R..A         2781               Galaxus/.git/objects/f0/48352200c44e7753b87f2d0e37012492a3ab77
+2017-01-07 20:04:20 .R..A           46               Galaxus/.git/objects/f1/62b06514f208b02f06759bb9298e9858132163
+2017-01-07 20:04:23 .R..A          182               Galaxus/.git/objects/f2/933ec2ff38792ed0a7420709432773d1eaacb8
+2017-01-07 20:04:21 .R..A         1181               Galaxus/.git/objects/f2/af562132003832b8a71068d5379523cb057dfb
+2017-01-07 20:04:08 .R..A         1304               Galaxus/.git/objects/f3/034f5159c6b9ed622bc261406c401e5bb3c4be
+2017-01-07 20:04:21 .R..A         1571               Galaxus/.git/objects/f3/c52bd0736edb91f7aa327b2b5e3a2906251469
+2017-01-07 20:07:31 .R..A          604               Galaxus/.git/objects/f5/5dd96c47274c96e221d34d91729f8af2580bec
+2017-01-07 20:04:30 .R..A           69               Galaxus/.git/objects/f8/d45a3772ab12a54ea421f54977dcf8b64c9184
+2017-01-07 20:04:08 .R..A          622               Galaxus/.git/objects/f9/9405a64e3fe66657efadd1a7063801ec15818b
+2017-01-07 20:04:08 .R..A          663               Galaxus/.git/objects/fa/3f70fd064b0776d7f44cef314f6fc07348d698
+2017-01-07 20:04:20 .R..A         6927               Galaxus/.git/objects/fa/9c64ab88672e7f760339b8dafb9a0ffad2171f
+2017-01-07 20:04:08 .R..A         1452               Galaxus/.git/objects/fb/f9042e33da648cf3f7cfe9c3582649ed61f542
+2017-01-07 20:04:21 .R..A         2275               Galaxus/.git/objects/fc/229f3401772f60ae4e1ac74b6f7968737a0b96
+2017-01-07 20:04:20 .R..A         7684               Galaxus/.git/objects/fc/27ebcf01b174bf38361c513abaad61c62001f9
+2017-01-07 20:04:14 .R..A       749568               Galaxus/.git/objects/fc/a58f72d279d70771041f06f8f630a2a4668833
+2017-01-07 20:04:14 .R..A          182               Galaxus/.git/objects/fd/eed130982e0483c5803c7c19b4c70433ab2d44
+2017-01-07 20:04:20 .R..A         9761               Galaxus/.git/objects/fe/d72317341023ea365b21a16d408e532374d508
+2017-01-07 20:04:08 .R..A         1466               Galaxus/.git/objects/ff/940b4bdc823761a3b32cd2396b60eb45f2ed6f
+2017-01-07 20:07:37 ....A           41               Galaxus/.git/refs/heads/master
+2017-01-23 14:12:09 ....A           41               Galaxus/.git/refs/remotes/origin/master
+2016-12-15 00:38:04 ....A           92               Galaxus/.gitignore
+2017-01-05 12:22:23 ....A          686               Galaxus/.idea/compiler.xml
+2017-01-05 12:22:23 ....A          159               Galaxus/.idea/encodings.xml
+2017-01-05 12:22:30 ....A          173               Galaxus/.idea/flexCompiler.xml
+2017-01-05 13:09:06 ....A          241               Galaxus/.idea/inspectionProfiles/profiles_settings.xml
+2017-01-05 13:16:34 ....A         1120               Galaxus/.idea/inspectionProfiles/Project_Default.xml
+2017-01-23 14:05:38 ....A          318               Galaxus/.idea/misc.xml
+2017-01-05 13:15:02 ....A          254               Galaxus/.idea/modules.xml
+2017-06-13 19:52:12 ....A          216               Galaxus/.idea/php.xml
+2017-01-07 20:06:05 ....A          167               Galaxus/.idea/vcs.xml
+2017-06-13 22:26:03 ....A        88914               Galaxus/.idea/workspace.xml
+2017-01-07 20:03:39 ....A         7927               Galaxus/.readme/logo.png
+2017-01-05 14:42:06 ....A         8987               Galaxus/.readme/screen_1.png
+2017-01-05 14:48:55 ....A         7157               Galaxus/.readme/screen_1_thumb.png
+2017-01-05 14:46:28 ....A         6908               Galaxus/.readme/screen_2.png
+2017-01-05 14:48:49 ....A         6022               Galaxus/.readme/screen_2_thumb.png
+2017-01-05 14:47:00 ....A        10309               Galaxus/.readme/screen_3.png
+2017-01-05 14:48:43 ....A         8115               Galaxus/.readme/screen_3_thumb.png
+2017-01-05 14:47:25 ....A         7698               Galaxus/.readme/screen_4.png
+2017-01-05 14:47:57 ....A         6182               Galaxus/.readme/screen_4_thumb.png
+2017-01-05 14:41:22 ....A         8653               Galaxus/.readme/screen_5.png
+2017-01-05 14:47:52 ....A         6775               Galaxus/.readme/screen_5_thumb.png
+2017-06-13 22:09:42 ....A       836634               Galaxus/bin/Galaxus.swf
+2017-06-13 21:45:07 ....A       947567               Galaxus/bin/Galaxus_DEBUG.swf
+2017-01-07 19:56:49 ....A         1154               Galaxus/build.cmd
+2017-01-07 19:53:58 ....A         2318               Galaxus/Galaxus.iml
+2016-12-12 14:17:55 ....A        12803               Galaxus/LICENSE-MEDIA.txt
+2017-01-07 20:00:47 ....A           30               Galaxus/LICENSE-MUSIC.txt
+2016-12-12 14:18:43 ....A         1093               Galaxus/LICENSE-SOURCE-CODE.txt
+2017-01-07 20:01:18 ....A         2950               Galaxus/readme.md
+2017-06-12 19:51:20 ....A          692               Galaxus/src/core/Main.as
+2016-12-26 23:34:55 ....A         1736               Galaxus/src/game/display/PixelBugEffect.as
+2017-01-07 20:05:20 ....A         1256               Galaxus/src/game/global/Cursor.as
+2017-01-07 19:58:03 ....A         4563               Galaxus/src/game/global/Game.as
+2017-01-05 14:40:13 ....A         7001               Galaxus/src/game/global/Generator.as
+2017-01-05 12:45:41 ....A         1583               Galaxus/src/game/global/Make.as
+2017-06-13 21:35:44 ....A         3390               Galaxus/src/game/global/Options.as
+2017-01-07 19:57:36 ....A         6012               Galaxus/src/game/global/Pre.as
+2017-01-07 20:05:20 ....A          349               Galaxus/src/game/global/Score.as
+2017-01-05 13:17:40 ....A         2131               Galaxus/src/game/global/Sfx.as
+2017-01-07 20:05:20 ....A         1447               Galaxus/src/game/objects/Starfield.as
+2017-01-05 12:51:22 ....A         1228               Galaxus/src/game/objects/TBulletJumper.as
+2017-01-05 12:51:22 ....A          738               Galaxus/src/game/objects/TBulletPiffer.as
+2017-01-05 13:13:49 ....A         1248               Galaxus/src/game/objects/TBulletRider.as
+2017-01-05 14:40:13 ....A         1983               Galaxus/src/game/objects/TCoin.as
+2017-01-05 13:13:49 ....A          890               Galaxus/src/game/objects/TEnemy.as
+2017-01-05 12:51:22 ....A         3622               Galaxus/src/game/objects/TEnemyCube.as
+2017-01-05 13:05:24 ....A         3032               Galaxus/src/game/objects/TEnemyGlobe.as
+2017-01-07 20:06:15 ....A         4402               Galaxus/src/game/objects/TEnemyJumper.as
+2017-01-05 13:05:34 ....A         2988               Galaxus/src/game/objects/TEnemyPiffer.as
+2017-01-05 13:09:06 ....A         3023               Galaxus/src/game/objects/TEnemyRider.as
+2017-01-05 13:16:34 ....A         2458               Galaxus/src/game/objects/TEnemyShield.as
+2017-01-07 19:58:03 ....A         1651               Galaxus/src/game/objects/TExplosion.as
+2017-01-05 12:51:22 ....A         1825               Galaxus/src/game/objects/TFinish.as
+2017-01-05 12:51:22 ....A         1631               Galaxus/src/game/objects/TGameObject.as
+2017-01-05 13:13:08 ....A         1565               Galaxus/src/game/objects/THud.as
+2017-01-05 13:13:09 ....A         1821               Galaxus/src/game/objects/TIntro.as
+2017-01-05 14:40:05 ....A         5380               Galaxus/src/game/objects/TPlayer.as
+2017-01-05 13:10:01 ....A         1159               Galaxus/src/game/objects/TPlayerBullet.as
+2017-01-05 13:10:01 ....A         1154               Galaxus/src/game/objects/TPlayerBulletRear.as
+2017-01-05 13:10:01 ....A          830               Galaxus/src/game/objects/TPlayerEffect.as
+2017-01-07 20:06:05 ....A        11837               Galaxus/src/game/objects/TShop.as
+2017-01-05 13:15:44 ....A         2946               Galaxus/src/game/standalone/VolumeBar.as
+2017-01-05 13:15:44 ....A         1525               Galaxus/src/game/states/TStateGame.as
+2017-01-05 13:14:25 ....A         5191               Galaxus/src/game/states/TStateLang.as
+2017-01-07 20:06:05 ....A         1743               Galaxus/src/game/states/TStatePreload.as
+2017-01-05 14:06:38 ....A         3775               Galaxus/src/game/windows/TWinCredits.as
+2017-01-07 20:05:20 ....A         3043               Galaxus/src/game/windows/TWinFocusPause.as
+2017-06-13 21:34:23 ....A         3775               Galaxus/src/game/windows/TWinPause.as
+2017-06-13 13:14:41 ....A         4745               Galaxus/src/preloader/Preloader.as
+2017-01-05 12:29:11 ....A          858               Galaxus/src/S.as
+2015-11-06 23:49:11 ....A         3078               Galaxus/src.assets/assets.png
+2015-11-06 23:49:12 ....A          237               Galaxus/src.assets/buttonSystem.png
+2015-11-06 23:49:11 ....A          641               Galaxus/src.assets/explosion.png
+2015-11-06 23:49:11 ....A         1374               Galaxus/src.assets/explosion2.png
+2015-11-06 23:49:11 ....A        10677               Galaxus/src.assets/global/font.png
+2015-11-06 23:49:11 ....A          274               Galaxus/src.assets/global/music.png
+2015-11-06 23:49:11 ....A          316               Galaxus/src.assets/global/sfx.png
+2017-01-05 14:11:30 ....A         3646               Galaxus/src.assets/languages/en.txt
+2017-01-05 14:11:54 ....A         4063               Galaxus/src.assets/languages/pl.txt
+2016-12-12 14:17:55 ....A        12803               Galaxus/src.assets/LICENSE.txt
+2016-12-28 00:13:05 ....A          209               Galaxus/src.framework/ASSERT.as
+2016-12-28 00:13:06 ....A         7596               Galaxus/src.framework/net/retrocade/data/RetrocamelSpatialHash.as
+2016-12-28 00:13:23 ....A          469               Galaxus/src.framework/net/retrocade/functions/printf.as
+2016-12-28 00:13:06 ....A        12396               Galaxus/src.framework/net/retrocade/helpers/ColorMatrixFilterHelper.as
+2016-12-28 00:13:06 ....A         3884               Galaxus/src.framework/net/retrocade/retrocamel/components/RetrocamelDisplayObject.as
+2016-12-28 00:13:06 ....A         1805               Galaxus/src.framework/net/retrocade/retrocamel/components/RetrocamelStateBase.as
+2017-01-05 13:37:15 ....A        12154               Galaxus/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableGroup.as
+2016-12-28 00:13:05 ....A         1110               Galaxus/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableObject.as
+2017-01-05 13:19:41 ....A         6418               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelBitmapManager.as
+2017-01-07 20:06:59 ....A         5280               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelCore.as
+2017-01-05 14:26:07 ....A         8481               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelDisplayManager.as
+2016-12-28 00:13:06 ....A        19797               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelInputManager.as
+2016-12-28 00:13:05 ....A        11934               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelSoundManager.as
+2016-12-28 00:13:06 ....A         3958               Galaxus/src.framework/net/retrocade/retrocamel/core/RetrocamelWindowsManager.as
+2016-12-28 00:13:06 ....A          161               Galaxus/src.framework/net/retrocade/retrocamel/core/retrocamel_int.as
+2016-12-28 00:13:05 ....A         7521               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmap.as
+2016-12-28 00:13:06 ....A         9417               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapFont.as
+2016-12-28 00:13:05 ....A        30118               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapText.as
+2016-12-28 00:13:05 ....A         7595               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelButton.as
+2016-12-28 00:13:06 ....A        12610               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelGrid9.as
+2016-12-27 19:13:08 ....A         9554               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelPreciseGrid9.as
+2016-12-28 00:13:05 ....A         7960               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelSprite.as
+2016-12-28 00:13:05 ....A        20943               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelTextField.as
+2016-12-28 00:13:06 ....A         4011               Galaxus/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelWindowFlash.as
+2016-12-28 00:13:06 ....A        12640               Galaxus/src.framework/net/retrocade/retrocamel/display/global/RetrocamelTooltip.as
+2016-12-28 00:13:05 ....A         1153               Galaxus/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayer.as
+2016-12-28 00:13:06 ....A          310               Galaxus/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlash.as
+2017-01-05 13:21:23 ....A        15568               Galaxus/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashBlit.as
+2016-12-28 00:13:06 ....A         3003               Galaxus/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashSprite.as
+2016-12-28 00:13:06 ....A         2555               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelEasings.as
+2016-12-28 00:13:05 ....A         6799               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectBase.as
+2016-12-28 00:13:05 ....A         2132               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeFlash.as
+2016-12-28 00:13:06 ....A         2610               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeScreen.as
+2016-12-28 00:13:06 ....A         3796               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectQuake.as
+2016-12-28 00:13:05 ....A         1191               Galaxus/src.framework/net/retrocade/retrocamel/effects/RetrocamelScreenEffectBase.as
+2017-06-13 21:44:54 ....A         3147               Galaxus/src.framework/net/retrocade/retrocamel/global/BasicSimpleSave.as
+2017-06-13 13:14:21 ....A          188               Galaxus/src.framework/net/retrocade/retrocamel/global/IDeluxeGame.as
+2017-06-12 22:58:46 ....A          460               Galaxus/src.framework/net/retrocade/retrocamel/global/IRetrocamelSimpleSave.as
+2017-06-12 22:59:15 ....A         3570               Galaxus/src.framework/net/retrocade/retrocamel/global/RetrocamelSimpleSave.as
+2016-12-28 00:13:06 ....A          318               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelMake.as
+2016-12-28 00:13:05 ....A          287               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSettings.as
+2016-12-28 00:13:06 ....A          738               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSound.as
+2016-12-28 00:13:06 ....A          262               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSpatialHashElement.as
+2016-12-28 00:13:05 ....A          135               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelUpdatable.as
+2016-12-28 00:13:05 ....A          435               Galaxus/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelWindow.as
+2016-12-28 00:13:06 ....A         6763               Galaxus/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocale.as
+2016-12-28 00:16:04 ....A          594               Galaxus/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserAbstract.as
+2016-12-28 00:16:04 ....A         1832               Galaxus/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserRetrocadeProperties.as
+2016-12-28 00:13:06 ....A          701               Galaxus/src.framework/net/retrocade/retrocamel/locale/_.as
+2016-12-28 00:13:06 ....A          710               Galaxus/src.framework/net/retrocade/retrocamel/locale/_n.as
+2016-12-28 00:13:06 ....A         4508               Galaxus/src.framework/net/retrocade/retrocamel/particles/RetrocamelParticlesPixel.as
+2016-12-28 00:13:05 ....A         9049               Galaxus/src.framework/net/retrocade/retrocamel/sound/RetrocamelSound.as
+2016-12-28 00:13:05 ....A        32579               Galaxus/src.framework/net/retrocade/sfxr/SfxrParams.as
+2016-12-28 00:13:06 ....A        38847               Galaxus/src.framework/net/retrocade/sfxr/SfxrSynth.as
+2016-12-08 12:08:01 ....A         1344               Galaxus/src.framework/net/retrocade/signal/Signal.as
+2017-01-07 20:09:16 ....A         1548               Galaxus/src.graphics/LICENSE.png
+2016-12-12 12:02:14 ....A        13089               Galaxus/src.graphics/LICENSE.txt
+2017-01-23 14:10:32 ....A        10090               Galaxus/src.graphics/OpenArt-Galaxus.zip
+2015-11-06 23:49:11 ....A         3078               Galaxus/src.graphics/raw/assets.png
+2015-11-06 23:49:12 ....A          237               Galaxus/src.graphics/raw/buttonSystem.png
+2015-11-06 23:49:11 ....A          641               Galaxus/src.graphics/raw/explosion.png
+2015-11-06 23:49:11 ....A         1374               Galaxus/src.graphics/raw/explosion2.png
+2017-01-07 20:09:53 ....A          436               Galaxus/src.graphics/README.txt
+2017-01-07 20:00:47 ....A           30               Galaxus/src.music/LICENSE.txt
+2015-11-06 23:49:11 ....A       788062               Galaxus/src.music/music.mp3
+2015-11-06 23:49:11 ....A        19658               Galaxus/src.music/originals/mod.in vitr0
+2016-12-19 00:53:28 ....A         7773               Galaxus/src.utils/net/retrocade/collision/RetrocamelSimpleCollider.as
+2016-12-28 00:17:15 ....A         6709               Galaxus/src.utils/net/retrocade/constants/KeyConst.as
+2016-12-27 13:35:17 ....A         8958               Galaxus/src.utils/net/retrocade/utils/UtilsBitmapData.as
+2017-01-05 14:01:30 ....A        14097               Galaxus/src.utils/net/retrocade/utils/UtilsDisplay.as
+2016-12-28 00:17:15 ....A        11484               Galaxus/src.utils/net/retrocade/utils/UtilsGraphic.as
+2016-12-28 00:54:11 ....A        14488               Galaxus/src.utils/net/retrocade/utils/UtilsNumber.as
+2017-01-05 13:35:54 ....A         2026               Galaxus/src.utils/net/retrocade/utils/UtilsString.as
+2016-12-28 00:17:15 ....A         5324               Galaxus/src.utils/net/retrocade/vault/Safe.as
+2016-12-28 00:17:15 ....A         2090               Galaxus/src.utils/net/retrocade/vault/Safe0.as
+2016-12-28 00:17:15 ....A         2120               Galaxus/src.utils/net/retrocade/vault/Safe1.as
+2016-12-28 00:17:15 ....A         2494               Galaxus/src.utils/net/retrocade/vault/Safe2.as
+2016-12-28 00:17:15 ....A          826               Galaxus/src.utils/net/retrocade/vault/SafeParent.as
+2016-12-28 00:17:15 ....A         4006               Galaxus/src.utils/net/retrocade/vault/Vault.as
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 12:34:57            4472576      3636204  401 files, 206 folders

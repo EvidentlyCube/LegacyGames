@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"B_Crack_1_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"B_Crack_1_tileset",
+  "out_columns":2,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Tile Sets/Effects.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"B_Crack_1",
+    "path":"sprites/B_Crack_1/B_Crack_1.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":100,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":100,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":4,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"adler32",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"adler32",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

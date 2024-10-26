@@ -1,0 +1,36 @@
+TESTING:
+
+TO TEST:
+Check how the hud looks in bigger levels
+
+DO:
+[2016-01-21 23:26:40] Make it so that bubbles in player and ghost sub are positioned depending on tails
+[2016-01-23 11:22:34] Remove filter from water background
+[2016-02-09 19:28:31] Sponge should eat all enemies
+[2016-02-09 19:28:36] Implement blowfish
+[2016-02-11 14:32:24] Barrels should explode before killing the player
+
+ART:
+
+FINISHED:
+[2016-01-17 21:46:59] Add shell graphics
+[2016-01-18 01:16:00] Shell bullet explosion should rotate like the bullet does
+[2016-01-23 00:29:41] Make detector effect use the proper graphic
+[2016-01-25 00:20:02] Pushed crates are torpedo-resistant
+[2016-01-23 00:29:55] Add disappear animation to barrier
+[2016-02-02 13:22:30] Closing barrier should kill
+[2016-01-17 21:46:52] Basic level selection
+[2016-02-01 22:21:54] Sponge eating animation
+[2016-02-01 22:22:00] Sponge hit with a torpedo should become gray and solid
+[2016-01-16 23:10:45] Optimize TilemapRenderer::refreshTiles()
+[2016-01-23 00:29:36] Add door opening visual effect
+[2016-02-10 15:19:24] Add ammo to the game
+[2016-02-10 15:19:33] Add hud to the game
+[2016-02-10 15:19:06] Backgruond for windows should be a separate window
+[2016-02-11 11:02:12] Add pause menu
+[2016-02-05 00:37:18] Exit option in level selection menu does nothing ? ?? ??????????
+[2016-02-11 11:01:27] Flash for changing screen
+[2016-02-10 23:51:19] Explosion nova displays under fake walls
+[2016-02-11 11:02:20] Add option to toggle display between frames and time
+[2016-02-11 11:02:16] Add options menu
+[2016-02-09 19:30:05] Rework the crossfade effect

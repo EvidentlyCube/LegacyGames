@@ -1,0 +1,688 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 12:35:18 D....            0            0  Slimower
+2021-11-16 12:35:17 D.H..            0            0  Slimower/.git
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/hooks
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/info
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/logs
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/logs/refs
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/logs/refs/heads
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/logs/refs/remotes
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/logs/refs/remotes/origin
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/objects
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/00
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/01
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/02
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/03
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/08
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/09
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/0a
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/0c
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/0d
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/0e
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/0f
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/10
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/11
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/13
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/14
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/17
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/1c
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/1f
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/20
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/21
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/23
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/24
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/27
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/29
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/2c
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/33
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/38
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/39
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/3a
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/3b
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/3c
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/3e
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/41
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/42
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/43
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/44
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/45
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/47
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/49
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/4a
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/4d
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/4f
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/51
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/52
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/53
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/55
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/5a
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/5b
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/5d
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/60
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/61
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/63
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/64
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/65
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/66
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/67
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/68
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/6a
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/6b
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/6c
+2021-11-16 12:35:15 D....            0            0  Slimower/.git/objects/6d
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/6f
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/70
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/71
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/72
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/73
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/75
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/76
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/78
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/7b
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/81
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/82
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/83
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/84
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/86
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/87
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/88
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/8a
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/8b
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/8e
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/8f
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/90
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/92
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/93
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/94
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/95
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/96
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/97
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/99
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/9a
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/9c
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/9d
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/9e
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a0
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a1
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a3
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a4
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a5
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a6
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a8
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/a9
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/aa
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ab
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ac
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ad
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ae
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/af
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b0
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b1
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b5
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b6
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b7
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b8
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/b9
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ba
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/bb
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/bd
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/c1
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/c2
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/c3
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/c4
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ca
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/cb
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/cc
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/cd
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ce
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/cf
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d0
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d1
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d2
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d3
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d4
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d8
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/d9
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/da
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/db
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/dc
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/de
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/e0
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/e2
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/e4
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/e7
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ec
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ed
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/ee
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/f0
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/f1
+2021-11-16 12:35:16 D....            0            0  Slimower/.git/objects/f7
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/objects/f8
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/objects/fc
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/objects/fd
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/objects/fe
+2016-12-30 13:19:13 D....            0            0  Slimower/.git/objects/info
+2016-12-30 13:19:13 D....            0            0  Slimower/.git/objects/pack
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/refs
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/refs/heads
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/refs/remotes
+2021-11-16 12:35:17 D....            0            0  Slimower/.git/refs/remotes/origin
+2016-12-30 13:19:13 D....            0            0  Slimower/.git/refs/tags
+2021-11-16 12:35:17 D....            0            0  Slimower/.idea
+2021-11-16 12:35:17 D....            0            0  Slimower/.idea/copyright
+2021-11-16 12:35:17 D....            0            0  Slimower/.idea/inspectionProfiles
+2021-11-16 12:35:17 D....            0            0  Slimower/.idea/scopes
+2021-11-16 12:35:17 D....            0            0  Slimower/.readme
+2021-11-16 12:35:17 D....            0            0  Slimower/bin
+2021-11-16 12:35:17 D....            0            0  Slimower/src
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/core
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/effects
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/global
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/objects
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/preloader
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/standalone
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/states
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/tiles
+2021-11-16 12:35:17 D....            0            0  Slimower/src/game/windows
+2021-11-16 12:35:18 D....            0            0  Slimower/src.assets
+2021-11-16 12:35:17 D....            0            0  Slimower/src.assets/bgs
+2021-11-16 12:35:17 D....            0            0  Slimower/src.assets/global
+2021-11-16 12:35:17 D....            0            0  Slimower/src.assets/languages
+2021-11-16 12:35:18 D....            0            0  Slimower/src.assets/sfx
+2021-11-16 12:35:18 D....            0            0  Slimower/src.assets/sprites
+2021-11-16 12:35:18 D....            0            0  Slimower/src.assets/tiles
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/data
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/functions
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/helpers
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/components
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/core
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/display
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/display/flash
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/display/global
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/display/layers
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/effects
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/global
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/interfaces
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/locale
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/particles
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/retrocamel/sound
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/sfxr
+2021-11-16 12:35:18 D....            0            0  Slimower/src.framework/net/retrocade/signal
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/explained
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/raw
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/raw/bgs
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/raw/sprites
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/raw/tiles
+2021-11-16 12:35:18 D....            0            0  Slimower/src.graphics/raw/ui
+2021-11-16 12:35:18 D....            0            0  Slimower/src.levels
+2021-11-16 12:35:18 D....            0            0  Slimower/src.level_editor
+2021-11-16 12:35:18 D....            0            0  Slimower/src.music
+2021-11-16 12:35:18 D....            0            0  Slimower/src.music/source
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net/retrocade
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net/retrocade/collision
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net/retrocade/constants
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net/retrocade/utils
+2021-11-16 12:35:18 D....            0            0  Slimower/src.utils/net/retrocade/vault
+2017-01-02 14:06:55 ....A           40      3917934  Slimower/.git/COMMIT_EDITMSG
+2017-01-02 14:05:55 ....A          330               Slimower/.git/config
+2016-12-30 13:19:13 ....A           73               Slimower/.git/description
+2016-12-30 13:19:13 ....A           23               Slimower/.git/HEAD
+2016-12-30 13:19:13 ....A          478               Slimower/.git/hooks/applypatch-msg.sample
+2016-12-30 13:19:13 ....A          896               Slimower/.git/hooks/commit-msg.sample
+2016-12-30 13:19:13 ....A          189               Slimower/.git/hooks/post-update.sample
+2016-12-30 13:19:13 ....A          424               Slimower/.git/hooks/pre-applypatch.sample
+2016-12-30 13:19:13 ....A         1642               Slimower/.git/hooks/pre-commit.sample
+2016-12-30 13:19:13 ....A         1348               Slimower/.git/hooks/pre-push.sample
+2016-12-30 13:19:13 ....A         4951               Slimower/.git/hooks/pre-rebase.sample
+2016-12-30 13:19:13 ....A         1239               Slimower/.git/hooks/prepare-commit-msg.sample
+2016-12-30 13:19:13 ....A         3610               Slimower/.git/hooks/update.sample
+2017-01-02 14:06:55 ....A        20809               Slimower/.git/index
+2016-12-30 13:19:13 ....A          240               Slimower/.git/info/exclude
+2017-01-02 14:06:55 ....A          391               Slimower/.git/logs/HEAD
+2017-01-02 14:06:55 ....A          391               Slimower/.git/logs/refs/heads/master
+2017-01-02 14:07:00 ....A          340               Slimower/.git/logs/refs/remotes/origin/master
+2016-12-30 13:19:31 .R..A         2510               Slimower/.git/objects/00/6797808bdbfa8967613ae9606989b07c6b83f3
+2016-12-30 13:23:00 .R..A           65               Slimower/.git/objects/01/93c2673203020e3726e397a6870107f9e38aa9
+2016-12-30 13:19:27 .R..A         2467               Slimower/.git/objects/01/a4e9aa1071f75a15b4499db3bf11f15e25ec82
+2016-12-30 13:19:27 .R..A         2039               Slimower/.git/objects/02/259b2cebf5ac2c2d6b44670b0c5acc3d751096
+2016-12-30 13:19:37 .R..A         4518               Slimower/.git/objects/02/ee09867841091ea2503b8855b33432238f45d6
+2016-12-30 13:19:37 .R..A         1918               Slimower/.git/objects/03/e8c302b15a0e87002f6122104ac599921d81a3
+2016-12-30 13:19:37 .R..A           43               Slimower/.git/objects/08/75b6875133bebbe7cefb306611c8cdf1f49135
+2016-12-30 13:23:00 .R..A          191               Slimower/.git/objects/09/73b14516e0a35eb83204e8aa992f963fece6ee
+2016-12-30 13:19:27 .R..A          489               Slimower/.git/objects/09/ade6c02dd8e0f7fa1025fa4a456b44be863bd3
+2016-12-30 13:19:26 .R..A         3380               Slimower/.git/objects/0a/e71e9424a604cc65c808bb3cf8b3204c409d7d
+2016-12-30 13:19:27 .R..A          847               Slimower/.git/objects/0c/0984a06bb8a09a9b373e94fdbfc89d8df563a5
+2016-12-30 13:23:00 .R..A          105               Slimower/.git/objects/0d/15a92d6acc18880714660deb5e5bdcbbebecc9
+2016-12-30 13:19:37 .R..A        10563               Slimower/.git/objects/0e/c5651a588bebdc1f8d154dbd2d102bfdd00ba7
+2016-12-30 13:23:00 .R..A          103               Slimower/.git/objects/0f/16a6f5791a03d84b32f3fe3b5e0375b2ce5efa
+2016-12-30 13:19:31 .R..A         1357               Slimower/.git/objects/0f/19e982e39d2c9f878332b83b36bf927a9441ea
+2016-12-30 13:19:37 .R..A         4630               Slimower/.git/objects/10/8e01779bda4425b7f8449f7804b728c2b80f68
+2016-12-30 13:23:00 .R..A          290               Slimower/.git/objects/10/f16562d8a8fa85fd57768cd4d0f1adc21313a0
+2016-12-30 13:19:27 .R..A         1034               Slimower/.git/objects/11/7982bc6e1682f427455fa5724b825d280711e1
+2016-12-30 13:23:00 .R..A          170               Slimower/.git/objects/11/b71b4691c7e8d90c452800c0e5343f59fbda72
+2016-12-30 13:19:27 .R..A          479               Slimower/.git/objects/13/0a028eca2321010f37d039b3f48a9ccdf7f51c
+2016-12-30 13:19:31 .R..A          132               Slimower/.git/objects/13/478944afac1e1dc88b245ef3538b61814e01a4
+2016-12-30 13:19:31 .R..A          461               Slimower/.git/objects/14/9ebab01958e4cca15db351a5a3c3fb1098f6cd
+2016-12-30 13:19:27 .R..A         1067               Slimower/.git/objects/14/c66b450a21d08bfccacbdd52022e66f40db641
+2016-12-30 13:19:38 .R..A         7868               Slimower/.git/objects/17/96fa4c5bad4b9d4c0d2b1601caf73333c3cb6c
+2016-12-30 13:19:26 .R..A       540538               Slimower/.git/objects/1c/386d72a3477e099081a7e953f263c5ea382206
+2016-12-30 13:19:27 .R..A         1111               Slimower/.git/objects/1c/6d39227bf90ad3ae7f3fcab6a7cd4a9191531c
+2016-12-30 13:19:37 .R..A          284               Slimower/.git/objects/1c/bbc16e85b77d181d4d77ebdca4467f0fc280dd
+2016-12-30 13:19:37 .R..A         4614               Slimower/.git/objects/1f/a69b7b2ef9d5b9a5ffe1c577358937a949a4b3
+2016-12-30 13:19:37 .R..A          526               Slimower/.git/objects/20/14a7434d3704c2a13cf81c5d1aede1c92298fa
+2016-12-30 13:19:37 .R..A        17577               Slimower/.git/objects/20/f69d8951403dc00452df72d1c5409b5aae1287
+2016-12-30 13:19:37 .R..A          328               Slimower/.git/objects/21/7af471a9e60576e8c36373fa22c50a63a00b2c
+2016-12-30 13:19:27 .R..A         1471               Slimower/.git/objects/21/85668b19e58dc58c4675ee7d41c8de71faf464
+2016-12-30 13:19:31 .R..A          506               Slimower/.git/objects/21/96570dd7260c8f35d16322d04fb40e3468f937
+2016-12-30 13:19:31 .R..A         5757               Slimower/.git/objects/23/037234422ab7a0bd7b0c681f77a0c1ee9401c5
+2016-12-30 13:23:00 .R..A          259               Slimower/.git/objects/23/0e0897847904915b289132c745b9a9ee0acae7
+2016-12-30 13:23:00 .R..A          563               Slimower/.git/objects/23/5d6781437d705cb2c59b0b5cf4d3dba1409010
+2016-12-30 13:19:31 .R..A          489               Slimower/.git/objects/23/6542543d738141773ac4c984d973e2173e43c2
+2016-12-30 13:23:00 .R..A          180               Slimower/.git/objects/24/59d80d63d275e04a12811d98dde18803277318
+2016-12-30 13:19:31 .R..A         1273               Slimower/.git/objects/24/b13ae85de26f39f60440b0389b970b1ed02c20
+2016-12-30 13:19:27 .R..A          672               Slimower/.git/objects/27/cf145fc90c4a2c6be400465713c20713650676
+2016-12-30 13:23:00 .R..A          296               Slimower/.git/objects/27/e260f0a3fc0ac63b1e48d52f744950dae0cae6
+2016-12-30 13:19:37 .R..A         9650               Slimower/.git/objects/29/7503e62ce808b768730a9d339cdc02c1c75d35
+2016-12-30 13:19:31 .R..A         1989               Slimower/.git/objects/2c/03008d678464506354657c6a88a5157630a855
+2016-12-30 13:19:37 .R..A          635               Slimower/.git/objects/33/0ab9f7e384e2211ebdb60f9fa1277fa305b2de
+2016-12-30 13:19:31 .R..A          695               Slimower/.git/objects/33/66da14e5e1b4cbc947bf626960d45b40592310
+2016-12-30 13:23:00 .R..A          110               Slimower/.git/objects/33/712e06f4b67eee8e169eff1f9d9f162c601dd6
+2016-12-30 13:19:27 .R..A          344               Slimower/.git/objects/33/e43f8121e74836c22192324e094d681a143115
+2016-12-30 13:23:00 .R..A           51               Slimower/.git/objects/38/64527174950b56c34e1df924c39b9da9981b46
+2016-12-30 13:19:37 .R..A          183               Slimower/.git/objects/38/73a978d798acc98d45d0baca5386862717fe9c
+2016-12-30 13:23:00 .R..A           53               Slimower/.git/objects/38/f8d45b1f69a21fe845398cc9565625e4c666be
+2016-12-30 13:19:31 .R..A         3259               Slimower/.git/objects/39/c7c881dde5127ea9ab2f7286f9b166c8c97da9
+2016-12-30 13:19:37 .R..A          326               Slimower/.git/objects/3a/f9de90ed4fd01cea94d3ed31c3d73eb2e371d6
+2016-12-30 13:23:00 .R..A          154               Slimower/.git/objects/3b/0449efa1af33747d3589d13a05f3122816863b
+2016-12-30 13:19:37 .R..A          158               Slimower/.git/objects/3b/312839bf2e939fea3ebdef15630a4b33e57caf
+2016-12-30 13:23:00 .R..A           78               Slimower/.git/objects/3b/caa25394c44468ad64b60b170690d9faabd32d
+2016-12-30 13:19:37 .R..A          412               Slimower/.git/objects/3b/e74eb7da514bd9defdbbd91595757d698d5db7
+2016-12-30 13:19:38 .R..A        16005               Slimower/.git/objects/3c/2976ab2aa08f8ad5d8c2099cfb07a433a62a49
+2016-12-30 13:23:00 .R..A          257               Slimower/.git/objects/3e/14c54b43c76b4d387fee5eaa791abc96db3f4e
+2016-12-30 13:23:00 .R..A          316               Slimower/.git/objects/41/cb47b70fa1832b16f1c3fd6a6d9db16a07126e
+2016-12-30 13:23:00 .R..A          202               Slimower/.git/objects/41/e300b4e6ec81c87e7b2cabe47a0014e2cf54cf
+2016-12-30 13:19:31 .R..A         1519               Slimower/.git/objects/42/63ea771c197ea8c7ce14e414190f28306a2740
+2016-12-30 13:19:38 .R..A          723               Slimower/.git/objects/43/471b448cd155aaad77b1a28da3af575d61651e
+2016-12-30 13:19:31 .R..A          346               Slimower/.git/objects/44/12b11225b6623fb66e7b2c543154bf37ed380e
+2016-12-30 13:19:27 .R..A         1652               Slimower/.git/objects/44/62255c20df6565e44f92975787f8238f27d0d7
+2016-12-30 13:19:27 .R..A          414               Slimower/.git/objects/44/f642d9eb508b716e9717be4e260f8d8d8c8ca3
+2016-12-30 13:19:26 .R..A         3552               Slimower/.git/objects/45/813cb808efee29693709da856a29362354c8ea
+2016-12-30 13:19:37 .R..A        19926               Slimower/.git/objects/47/dc8b865d0b977de274b03fa9effb3ac5786ed9
+2016-12-30 13:19:26 .R..A         6211               Slimower/.git/objects/49/26c7bde1bb3356b417f38a293960a9331163bc
+2016-12-30 13:19:38 .R..A          562               Slimower/.git/objects/49/8ecf1ed1f87c8142fd0156786adc9559c68558
+2016-12-30 13:19:31 .R..A          391               Slimower/.git/objects/49/e3b038ed5eab3c3ade093afb0836422e695801
+2016-12-30 13:23:00 .R..A           63               Slimower/.git/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478
+2016-12-30 13:19:37 .R..A         9025               Slimower/.git/objects/4a/abf1aee0977124baa1b00032e43ae7b21b0d50
+2016-12-30 13:23:00 .R..A          158               Slimower/.git/objects/4d/15497497601a064921aefdd3a459950598d41d
+2016-12-30 13:19:37 .R..A          655               Slimower/.git/objects/4f/2f036b0dd0e987bbab3fc59765f4fc65a3a549
+2016-12-30 13:19:31 .R..A          987               Slimower/.git/objects/51/6dcb693adbc95686cca7e1cb46113c5c32ef79
+2016-12-30 13:23:00 .R..A          112               Slimower/.git/objects/52/78ece15766de5a6da26cdb7054b9a766f4139a
+2016-12-30 13:23:00 .R..A           88               Slimower/.git/objects/52/86445c72388193b5286db8f05fa9b32620a5c8
+2016-12-30 13:22:55 .R..A         1492               Slimower/.git/objects/53/134a1436df044b4b8874d4e3c05b8ec34e3eac
+2016-12-30 13:19:31 .R..A         1704               Slimower/.git/objects/53/7f0819ad33b97f0db20d2e28b2ef577d07cba8
+2016-12-30 13:19:31 .R..A         4787               Slimower/.git/objects/55/57f43fa9a03cb885a5ac0ad96c554c22cced79
+2016-12-30 13:19:26 .R..A         1418               Slimower/.git/objects/5a/946bcd63b976e49c3de517039ed55b01f111bf
+2016-12-30 13:19:26 .R..A         1000               Slimower/.git/objects/5b/9db5b198bf1fe29fe35d823ba6620b8d8d10a3
+2016-12-30 13:19:31 .R..A         2630               Slimower/.git/objects/5d/292e3239aee532ad798d958e3e9e3bee63ee78
+2016-12-30 13:19:27 .R..A         2158               Slimower/.git/objects/5d/635c28e2a24cdeb8b7876ed872459bd17c8d22
+2016-12-30 13:23:00 .R..A          121               Slimower/.git/objects/60/0d187c14333ca69ad37979e56e5c53e19cac4b
+2016-12-30 13:19:27 .R..A          506               Slimower/.git/objects/61/5fdbed115eb017574e592115383d788094d83d
+2016-12-30 13:19:27 .R..A          319               Slimower/.git/objects/63/71a521b114b4babc4f67bba80baa805ea1e13a
+2016-12-30 13:19:31 .R..A         2671               Slimower/.git/objects/64/4aa96aef2f81cec2445e08fbc1aeee6d138d29
+2016-12-30 13:22:55 .R..A         1488               Slimower/.git/objects/64/673fec82878cb008a0e1ff1b8b33401a5146be
+2016-12-30 13:19:26 .R..A         3824               Slimower/.git/objects/65/36eb8e63c419391257ef80e01ba40305aa4a83
+2016-12-30 13:23:00 .R..A          107               Slimower/.git/objects/66/a63e0a7242840cf6c5355540c08f41996cb7d1
+2016-12-30 13:19:27 .R..A         1830               Slimower/.git/objects/66/a8779dbba4b474ddfaa5e117b276cee7e96782
+2016-12-30 13:19:31 .R..A         2179               Slimower/.git/objects/67/19e909671e0e8b63c13fb770170b79ed0aaec4
+2016-12-30 13:23:00 .R..A           53               Slimower/.git/objects/68/45e6e267292388e59caa8611cd7bf93cf06064
+2016-12-30 13:19:27 .R..A          592               Slimower/.git/objects/6a/870b7e962e42647fb82458df1dfca7be9e1e1b
+2016-12-30 13:19:26 .R..A         2143               Slimower/.git/objects/6a/9387ee33ea2e3a6b87352cbd6aba6dc5b44f71
+2016-12-30 13:19:31 .R..A         1738               Slimower/.git/objects/6b/43f4133fc7800c19f258acf90dd5e74847a7da
+2016-12-30 13:19:26 .R..A         1958               Slimower/.git/objects/6c/40e3822cf1206db2840d6f6c0205cfd9bc876e
+2016-12-30 13:19:27 .R..A          931               Slimower/.git/objects/6c/98650710b6010ac7e64c1c3e41cdaf05b65717
+2016-12-30 13:19:37 .R..A          250               Slimower/.git/objects/6c/b177904e37f20f6f43c2a696d4aa369a0ca1cf
+2016-12-30 13:19:37 .R..A         1628               Slimower/.git/objects/6d/6f871d05c2207c34d94252f629c449b18016d4
+2017-01-02 14:06:46 .R..A         1628               Slimower/.git/objects/6f/4084f02c6c8bec4f8cdec24160e5499d2bda5c
+2016-12-30 13:19:31 .R..A         3075               Slimower/.git/objects/6f/4924f0677d3e4a8500099b108714fd3f182f3c
+2016-12-30 13:19:38 .R..A         3828               Slimower/.git/objects/70/4e19943f0cf2e88f9616fc8c5c12c14ead1f52
+2016-12-30 13:23:00 .R..A          315               Slimower/.git/objects/71/b9af1bc9fafde21b0684c2f48ba25a24daeac5
+2016-12-30 13:19:31 .R..A          552               Slimower/.git/objects/72/2c59d60cd9a172fa60cbae4bd27c9b6dfe406f
+2016-12-30 13:19:37 .R..A        15006               Slimower/.git/objects/72/fe0a2e464402680827e9b19f67ef4d87a7046b
+2016-12-30 13:19:31 .R..A         2751               Slimower/.git/objects/73/d47bd3072236218b5593a915e1eceb7355edb2
+2016-12-30 13:19:31 .R..A          146               Slimower/.git/objects/75/1b0a0b3bc1475d34219f2543cc81c3a7b653ce
+2016-12-30 13:19:27 .R..A          653               Slimower/.git/objects/75/7855fae1e0ba1d061bc44a5284d28fa163c7bf
+2016-12-30 13:19:38 .R..A       270220               Slimower/.git/objects/75/a538e6710cbadceb48891cfce8ef707f44a0ea
+2016-12-30 13:19:37 .R..A          232               Slimower/.git/objects/76/4a5b394037b404e5ae0008f01124810f5c32d6
+2016-12-30 13:19:27 .R..A         1072               Slimower/.git/objects/76/cbe0802f1dbdb6216116ae2f0110523902faba
+2016-12-30 13:19:37 .R..A        24254               Slimower/.git/objects/78/3c045440187d1d5322fa108b54bc3762b3a28f
+2016-12-30 13:19:27 .R..A          678               Slimower/.git/objects/7b/f4825e07465b48be223797ae62750bdb4a8177
+2016-12-30 13:19:37 .R..A          511               Slimower/.git/objects/81/40dbe1e3b7c2d1f9674eedf50c01049881b4b7
+2016-12-30 13:19:31 .R..A         2040               Slimower/.git/objects/82/2e14caa45dc89cfb54e7e34407e49181e3f2b0
+2016-12-30 13:23:00 .R..A           52               Slimower/.git/objects/83/bf42e90fa85efb790d2cccac0cd5383a36cc47
+2016-12-30 13:19:31 .R..A          724               Slimower/.git/objects/83/de0bf089b54a7ab5252e89a1542faf01ee1205
+2016-12-30 13:19:27 .R..A         1090               Slimower/.git/objects/84/be2a21484f8080c723ac9b2c20f1e3e198277b
+2016-12-30 13:19:31 .R..A         2723               Slimower/.git/objects/86/e9fab534317a97930c72344d5c14a6b7bbbf89
+2016-12-30 13:23:00 .R..A           65               Slimower/.git/objects/87/3150b775a7dbbd6977a2c1187b9599a74a90d0
+2016-12-30 13:19:37 .R..A         8535               Slimower/.git/objects/87/747562cee39f77c0f4d45daf21d739fc08b14a
+2016-12-30 13:19:38 .R..A        10053               Slimower/.git/objects/87/ff124b9e1fe6a93faa8f89c2b7edfb9d019127
+2016-12-30 13:19:31 .R..A          397               Slimower/.git/objects/88/5a2d2ea8f9037cb5826cd38ec6a7027462f513
+2017-01-02 14:06:55 .R..A          563               Slimower/.git/objects/8a/304f1b3c54f4ae8d0c080571b66f2fe6fd78c8
+2016-12-30 13:23:00 .R..A           56               Slimower/.git/objects/8b/04f595918d05bc50f8be04c49b376783de4b10
+2016-12-30 13:19:31 .R..A         1158               Slimower/.git/objects/8b/0cfe523ee90751e41beaab056f9dce57bd7bcc
+2016-12-30 13:19:31 .R..A         1464               Slimower/.git/objects/8e/549a260461b61bf6c0add8c2058482f961a38d
+2016-12-30 13:19:31 .R..A         5578               Slimower/.git/objects/8e/ae3daa9703ea2ab99ed5a4186e47dfbd43d2b6
+2016-12-30 13:19:31 .R..A          190               Slimower/.git/objects/8e/bc13911590b74d684f07cc019a12380eef0900
+2016-12-30 13:23:00 .R..A           57               Slimower/.git/objects/8e/be70bbb636cb3da37091613cb2b1ee32541f28
+2016-12-30 13:23:00 .R..A           56               Slimower/.git/objects/8f/eb08cc82751d70dd0fcae24e7123066c85d41d
+2016-12-30 13:19:38 .R..A         5095               Slimower/.git/objects/90/2624e854f8331e40580ddf1c3b14eff177c1a2
+2016-12-30 13:19:37 .R..A          130               Slimower/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389
+2016-12-30 13:19:31 .R..A          375               Slimower/.git/objects/92/5d378a1c3a5ce3fe7246ac48bb0f7cb583b837
+2016-12-30 13:19:31 .R..A          577               Slimower/.git/objects/93/b246863fd7e9014528a263707c54696e17b902
+2016-12-30 13:23:00 .R..A          139               Slimower/.git/objects/94/5cb6bec7a47242a9e18c4d474bdd8a28e3a9f8
+2016-12-30 13:23:00 .R..A          194               Slimower/.git/objects/95/605883d8c9f61b2cbe1ba3a65e0bf37f549fd8
+2016-12-30 13:23:00 .R..A           61               Slimower/.git/objects/95/63bb91fe2035a97047e160b954a495234ce2cd
+2016-12-30 13:19:27 .R..A         2817               Slimower/.git/objects/96/f1497e017ab6a94f9468b8688c6d24d1614e8b
+2016-12-30 13:19:31 .R..A         2265               Slimower/.git/objects/96/f3e74bcfab8c9271456c52f3ab57f22d57df1b
+2016-12-30 13:23:00 .R..A           72               Slimower/.git/objects/97/80cc913a77a08f79c2a6900b2f04db707544de
+2016-12-30 13:19:38 .R..A          497               Slimower/.git/objects/99/04f2715c4efae36455048cbb9bc1511768f547
+2016-12-30 13:19:38 .R..A         5225               Slimower/.git/objects/99/671a00aea337d28b3ccdd25715e5af3536620b
+2016-12-30 13:19:31 .R..A         1360               Slimower/.git/objects/99/96412a1b27e46e485496049c65fff450785016
+2016-12-30 13:23:00 .R..A           45               Slimower/.git/objects/9a/7bcf65cee5ed2252ef0ce8a9ecb2a054a00221
+2016-12-30 13:19:27 .R..A         1619               Slimower/.git/objects/9c/39236c3470b47a87f614d949fbf87636375eb0
+2016-12-30 13:19:27 .R..A         1033               Slimower/.git/objects/9c/68705bb28ed9a09690461e0cd3f066586207cb
+2016-12-30 13:23:00 .R..A          107               Slimower/.git/objects/9d/e96273e59b0c551eb18c21ef0b3584518fc580
+2016-12-30 13:23:00 .R..A          142               Slimower/.git/objects/9e/3374e92c33a9e8ce76d4b2583516b89f94be6c
+2016-12-30 13:19:31 .R..A         8853               Slimower/.git/objects/a0/bba6e6f68f417644ed156cd1b7c1daf6895b07
+2016-12-30 13:23:00 .R..A          142               Slimower/.git/objects/a0/ebb8abb12d2946f3e43a5fae52873f8b4f130f
+2016-12-30 13:19:31 .R..A          785               Slimower/.git/objects/a1/5ac72174fb22986439ca78cee6365b53cc5381
+2016-12-30 13:19:37 .R..A         5764               Slimower/.git/objects/a3/a3e4c3de10b598f146efcb9bf6de0a27944fa2
+2016-12-30 13:19:38 .R..A         1186               Slimower/.git/objects/a4/1bcd76339e77ee733ffab9cedbd478f0dc0aab
+2016-12-30 13:19:27 .R..A          273               Slimower/.git/objects/a4/514ed4904877e79e9321ac14a961f10092190a
+2016-12-30 13:19:31 .R..A         1475               Slimower/.git/objects/a4/d0e03bcb77fd1609250dea02c31c5247f2287a
+2016-12-30 13:23:00 .R..A          233               Slimower/.git/objects/a5/b1a76f748c29d5866cc020b42ee123ec232374
+2016-12-30 13:23:00 .R..A          190               Slimower/.git/objects/a6/ed9929933572afe374b7f8fa58742dc270d8c1
+2016-12-30 13:19:38 .R..A          221               Slimower/.git/objects/a8/627605c450b59e569c5d51bc52d3c79655c846
+2016-12-30 13:23:00 .R..A          324               Slimower/.git/objects/a8/73f1586438bee37c5f11a30f013f3c026e2d10
+2016-12-30 13:19:31 .R..A         1412               Slimower/.git/objects/a9/22eea14c5e89f5567b9c2fff50ba91af22ee8a
+2016-12-30 13:19:27 .R..A          721               Slimower/.git/objects/aa/c9104bd244170f52ebc8242c8133d1183c7490
+2016-12-30 13:23:00 .R..A          284               Slimower/.git/objects/ab/2fec0e099e7309d416b8d874c76eed0cc7df75
+2016-12-30 13:19:27 .R..A          616               Slimower/.git/objects/ac/6558afd74c17e3333645b310166b93b0f00de1
+2016-12-30 13:19:26 .R..A          659               Slimower/.git/objects/ad/90fc65b7ad186d339d747aac484044600fc0af
+2016-12-30 13:19:31 .R..A         2951               Slimower/.git/objects/ad/b2ab33f583015ce8f655fac1913e0d1a5f5e0c
+2017-01-02 14:06:55 .R..A          195               Slimower/.git/objects/ae/519b1684f6ade28c852bfff63df7c32dadc554
+2016-12-30 13:23:00 .R..A           65               Slimower/.git/objects/ae/cabd170d2f1a7ca300dda17d79966dd1e68fb2
+2016-12-30 13:19:26 .R..A         2239               Slimower/.git/objects/af/a251a4cb9e839a7d19304c1ea499c841d0ff63
+2016-12-30 13:19:27 .R..A          601               Slimower/.git/objects/af/cd07bc4c2b73f2d2c2dcd013e50b0d278e00ec
+2016-12-30 13:19:27 .R..A         1019               Slimower/.git/objects/b0/6fe510c3326dc4fe0ec1d9279df86a9edb946c
+2016-12-30 13:19:31 .R..A          336               Slimower/.git/objects/b1/cbfad86a2184b33502f66e0709d24b2132f395
+2016-12-30 13:23:00 .R..A          330               Slimower/.git/objects/b5/17828b55be434b549c35e3626cb052d074b929
+2016-12-30 13:19:37 .R..A          978               Slimower/.git/objects/b5/3bc959b8366fe6011680476436598f4ff0f584
+2016-12-30 13:19:31 .R..A          423               Slimower/.git/objects/b6/68ab24afa8b8dd2f950dae8597cdd78768f39e
+2016-12-30 13:19:37 .R..A          348               Slimower/.git/objects/b6/79570e027b5be586769fa6b495f7361a74f307
+2016-12-30 13:19:38 .R..A        62377               Slimower/.git/objects/b7/6a4ad2a28172a5d0ae3ee453962d14f72e14fd
+2016-12-30 13:19:31 .R..A         1287               Slimower/.git/objects/b7/e0e6d0b48e4ae7d4dfd6e50d009c4a6bdf469d
+2016-12-30 13:23:00 .R..A          185               Slimower/.git/objects/b8/02d3cd106d31f01096a2708acdd35615f275a4
+2016-12-30 13:19:40 .R..A           23               Slimower/.git/objects/b9/a5fae4aa9f13235d721212ed730309b9732f6b
+2016-12-30 13:19:40 .R..A           96               Slimower/.git/objects/ba/4ba36c51541ff880df23f589511e7133d25f44
+2016-12-30 13:19:38 .R..A         8694               Slimower/.git/objects/ba/d92aae41e03db9f4e4f8aaf44cf992ade76fe1
+2016-12-30 13:19:27 .R..A          825               Slimower/.git/objects/bb/7f96c9feb36a1393f833a869b6c0daf2f704b7
+2016-12-30 13:19:27 .R..A          917               Slimower/.git/objects/bd/9398ba49314ab2d4e35408a2886468ca38b6fe
+2016-12-30 13:19:31 .R..A         2082               Slimower/.git/objects/bd/95d8b86dc2a4e5ca369a124181718f6f7f2065
+2016-12-30 13:19:27 .R..A          607               Slimower/.git/objects/bd/ecf9880c6d41151c28a358a953da54a14fcc09
+2016-12-30 13:23:00 .R..A          233               Slimower/.git/objects/c1/41d4e0648ec1e47ba1c605ec033323f8906349
+2016-12-30 13:19:31 .R..A          162               Slimower/.git/objects/c1/cbe5ad91176d5e6a8993aab04da2a505e6e037
+2016-12-30 13:19:31 .R..A          195               Slimower/.git/objects/c2/51c9a520861f5e833422e21cd22acdfe53cce3
+2016-12-30 13:23:00 .R..A           62               Slimower/.git/objects/c3/c34a5e94f2707f329a0bd8fe9557c8b8aea878
+2016-12-30 13:19:26 .R..A         9383               Slimower/.git/objects/c4/39ff1d8bf40dda91ecdefcdf88194d4075740d
+2016-12-30 13:23:00 .R..A          148               Slimower/.git/objects/ca/c0eadf40cf52d58f1306e148971f5ecb0e16f1
+2016-12-30 13:23:00 .R..A          119               Slimower/.git/objects/ca/f3b02890736dd285e364ab4862ca37782c6fe6
+2016-12-30 13:19:37 .R..A          145               Slimower/.git/objects/cb/07bfc8aec0239fa23b791932e662ab2f92c7ae
+2016-12-30 13:19:27 .R..A         2415               Slimower/.git/objects/cb/b692c94d75cfb3707b2406bb7da2e319e8e09f
+2016-12-30 13:19:37 .R..A         7759               Slimower/.git/objects/cc/47b6e37d56a89edbdfaca389a89b50dd45aaa1
+2016-12-30 13:19:27 .R..A         1274               Slimower/.git/objects/cc/54ede46fe6cb6a828dc357763a6c2a6a4f2a69
+2016-12-30 13:19:38 .R..A         1591               Slimower/.git/objects/cd/2c164f503f68265e91843c92b9dceb09f916a5
+2016-12-30 13:19:38 .R..A          759               Slimower/.git/objects/ce/2370bbc21dd25cb24b8e9d0a897105e2ea7ac5
+2016-12-30 13:23:00 .R..A          205               Slimower/.git/objects/cf/001218977ab12a6b4617c580c9aee9d5c9f1b5
+2016-12-30 13:19:37 .R..A         1434               Slimower/.git/objects/cf/6d2c7bb39a184cf65ab5ee69ebb8de340d39f2
+2016-12-30 13:19:31 .R..A         3118               Slimower/.git/objects/d0/235ef48bcfcd3d13cf6c07302a7edb730438e0
+2016-12-30 13:19:31 .R..A          345               Slimower/.git/objects/d0/7074748184a917f3217d8f2c533dd886f621b9
+2016-12-30 13:19:37 .R..A        18978               Slimower/.git/objects/d1/6e70788d6ef7307839516de64ee2cb9d14cf8b
+2016-12-30 13:19:27 .R..A         1065               Slimower/.git/objects/d1/a89b0428fa56bd962a856fede80f064a33d058
+2016-12-30 13:23:00 .R..A           68               Slimower/.git/objects/d2/e743686ef7b4824ba484c12420b20d6ddc157c
+2016-12-30 13:19:31 .R..A         1293               Slimower/.git/objects/d3/ebf7bcddb6d230879e41e687c0b9a82c549b6b
+2016-12-30 13:19:37 .R..A          919               Slimower/.git/objects/d4/cd9af71ef7f6f605318f81e8a50fdb7c023f88
+2016-12-30 13:19:27 .R..A          291               Slimower/.git/objects/d8/d7fe08138a2aa256425b44d1943ead136f9839
+2016-12-30 13:19:27 .R..A          667               Slimower/.git/objects/d9/903342371851586401ec5152ccb5ac6151a8f3
+2016-12-30 13:19:27 .R..A          738               Slimower/.git/objects/da/1cac94c75e17fc898cff320f7f1515f0b66081
+2016-12-30 13:22:55 .R..A         1974               Slimower/.git/objects/da/3f9c92cc21285d694f5ab5b1ee60203854a2c2
+2016-12-30 13:23:00 .R..A           92               Slimower/.git/objects/db/4003b71585a2571947132af4e4e0bf32675a94
+2016-12-30 13:19:27 .R..A          776               Slimower/.git/objects/dc/a9d9d3010d24790db7ba7e208e87a6037ade92
+2016-12-30 13:19:31 .R..A          115               Slimower/.git/objects/dc/d9022abb586a551a6f52b1dbf3cafeea3bc64b
+2016-12-30 13:19:37 .R..A         5488               Slimower/.git/objects/de/6d6263d66960bbc23d063ffe4d1468ccffe80f
+2016-12-30 13:19:38 .R..A          224               Slimower/.git/objects/de/a0ca33adf58a7c39ded5edc7e4fba2c8acbcd0
+2016-12-30 13:23:00 .R..A           54               Slimower/.git/objects/e0/164e200bfeaed88c7b852de912fab40acfb4b8
+2016-12-30 13:19:37 .R..A          145               Slimower/.git/objects/e2/06d70d8595e2a50675ba11de48efcfa012497d
+2016-12-30 13:19:31 .R..A          272               Slimower/.git/objects/e2/c5ba33a96c233cd47f7f7a18f75287ac5e7ef5
+2016-12-30 13:19:26 .R..A         5735               Slimower/.git/objects/e2/c6f4962f2e6a0dbe789a6bc24b28b348495934
+2016-12-30 13:19:27 .R..A         1667               Slimower/.git/objects/e4/9984d21a25817100d96362c340b4a3b02e4214
+2016-12-30 13:19:37 .R..A           83               Slimower/.git/objects/e7/bedf3377d40335424fd605124d4761390218bb
+2016-12-30 13:19:38 .R..A         3897               Slimower/.git/objects/ec/27c44a7cc5bd40b27bd9a1ff81ccc5642a03e3
+2016-12-30 13:19:31 .R..A          705               Slimower/.git/objects/ed/cffa09c7571be713bb1706ead70ae26c0d0137
+2016-12-30 13:19:37 .R..A         7908               Slimower/.git/objects/ee/349170c75d0b951f97a5d8fc5bf7efca58626d
+2016-12-30 13:19:31 .R..A          584               Slimower/.git/objects/ee/c0d4e318ae4e21a62a9b4c9ca2eac3a7e7c3ec
+2016-12-30 13:23:00 .R..A           79               Slimower/.git/objects/f0/3470f0ad5b69afa644e9e12bed98ba7f0560d9
+2016-12-30 13:19:31 .R..A          849               Slimower/.git/objects/f1/ac263fe80efe272a6a5e858fe9cdfa5fe64146
+2016-12-30 13:19:27 .R..A         1493               Slimower/.git/objects/f7/5d914bd8037254ce01d694ff3331f36e88e5de
+2016-12-30 13:23:00 .R..A          452               Slimower/.git/objects/f8/5304cd9e103f08568c549eb2f7905c91514ce3
+2016-12-30 13:19:31 .R..A         1349               Slimower/.git/objects/fc/fbe7dbff497153ba3e238be1229ad00cd57180
+2016-12-30 13:23:00 .R..A           51               Slimower/.git/objects/fd/eaaef2a10afa6b0fe153e969fef67a3d6f6a24
+2016-12-30 13:19:31 .R..A          182               Slimower/.git/objects/fd/eed130982e0483c5803c7c19b4c70433ab2d44
+2016-12-30 13:19:27 .R..A          666               Slimower/.git/objects/fe/e80ade2fe5e7664bcca87db5c0c036e2060fa1
+2017-01-02 14:06:55 ....A           41               Slimower/.git/refs/heads/master
+2017-01-02 14:07:00 ....A           41               Slimower/.git/refs/remotes/origin/master
+2016-12-15 00:38:04 ....A           92               Slimower/.gitignore
+2016-12-19 01:04:40 ....A            8               Slimower/.idea/.name
+2015-11-06 23:49:14 ....A          734               Slimower/.idea/compiler.xml
+2015-11-06 23:49:14 ....A           76               Slimower/.idea/copyright/profiles_settings.xml
+2015-11-06 23:49:14 ....A          171               Slimower/.idea/encodings.xml
+2015-11-06 23:49:14 ....A          182               Slimower/.idea/flexCompiler.xml
+2016-12-18 14:02:58 ....A          241               Slimower/.idea/inspectionProfiles/profiles_settings.xml
+2016-12-18 15:45:06 ....A         1120               Slimower/.idea/inspectionProfiles/Project_Default.xml
+2016-12-18 13:53:02 ....A          346               Slimower/.idea/misc.xml
+2016-12-28 00:22:00 ....A          263               Slimower/.idea/modules.xml
+2015-11-06 23:49:14 ....A          143               Slimower/.idea/scopes/scope_settings.xml
+2016-12-30 14:52:27 ....A        78309               Slimower/.idea/workspace.xml
+2016-12-30 13:12:17 ....A         5799               Slimower/.readme/logo.png
+2016-12-29 22:34:36 ....A        25242               Slimower/.readme/screen_1.png
+2016-12-29 22:41:06 ....A         9876               Slimower/.readme/screen_1_thumb.png
+2016-12-29 22:35:29 ....A        16135               Slimower/.readme/screen_2.png
+2016-12-29 22:40:59 ....A         7982               Slimower/.readme/screen_2_thumb.png
+2016-12-29 22:36:57 ....A        20157               Slimower/.readme/screen_3.png
+2016-12-29 22:40:50 ....A         9256               Slimower/.readme/screen_3_thumb.png
+2016-12-29 22:37:30 ....A        21682               Slimower/.readme/screen_4.png
+2016-12-29 22:40:43 ....A         8136               Slimower/.readme/screen_4_thumb.png
+2016-12-29 22:38:05 ....A        18595               Slimower/.readme/screen_5.png
+2016-12-29 22:38:58 ....A         8768               Slimower/.readme/screen_5_thumb.png
+2016-12-30 14:00:35 ....A       780586               Slimower/bin/Slimower.swf
+2016-12-30 14:00:39 ....A       908085               Slimower/bin/Slimower_DEBUG.swf
+2016-12-29 23:39:44 ....A         1190               Slimower/build.cmd
+2016-12-12 14:18:53 ....A        13206               Slimower/LICENSE-LEVELS.txt
+2016-12-12 14:17:55 ....A        12803               Slimower/LICENSE-MEDIA.txt
+2016-12-30 13:08:26 ....A           27               Slimower/LICENSE-MUSIC.txt
+2016-12-12 14:18:43 ....A         1093               Slimower/LICENSE-SOURCE-CODE.txt
+2017-01-02 14:06:40 ....A         3756               Slimower/readme.md
+2016-12-19 01:05:26 ....A         3477               Slimower/Slimower.iml
+2016-12-18 15:51:03 ....A          705               Slimower/src/game/core/Main.as
+2016-12-18 14:08:14 ....A         1741               Slimower/src/game/effects/PreloaderPixelBug.as
+2016-12-19 00:39:33 ....A         5088               Slimower/src/game/global/Game.as
+2016-12-30 00:01:55 ....A         7112               Slimower/src/game/global/Level.as
+2016-12-18 14:08:14 ....A         1796               Slimower/src/game/global/Make.as
+2016-12-19 00:38:11 ....A         3367               Slimower/src/game/global/Options.as
+2016-12-19 00:55:18 ....A         6792               Slimower/src/game/global/Pre.as
+2016-12-18 13:58:46 ....A         1838               Slimower/src/game/global/rDebug.as
+2015-11-06 23:49:14 ....A         1651               Slimower/src/game/global/Score.as
+2015-11-06 23:49:14 ....A         2552               Slimower/src/game/global/Sfx.as
+2016-12-19 00:53:27 ....A         2437               Slimower/src/game/objects/TCoin.as
+2016-12-19 00:38:11 ....A         1672               Slimower/src/game/objects/TEscButton.as
+2016-12-18 22:35:28 ....A         2762               Slimower/src/game/objects/TGameObject.as
+2016-12-19 00:38:11 ....A         3008               Slimower/src/game/objects/THud.as
+2016-12-18 22:40:27 ....A         1067               Slimower/src/game/objects/TMonster.as
+2016-12-19 00:53:27 ....A         5216               Slimower/src/game/objects/TMonsterSlimeBlue.as
+2016-12-19 00:53:27 ....A         5106               Slimower/src/game/objects/TMonsterSlimeGreen.as
+2016-12-19 00:53:27 ....A         9647               Slimower/src/game/objects/TMonsterSlimePink.as
+2016-12-19 00:53:28 ....A         5725               Slimower/src/game/objects/TMonsterSlimeRed.as
+2016-12-19 00:53:27 ....A         7183               Slimower/src/game/objects/TMonsterSlimeYellow.as
+2016-12-19 00:38:11 ....A         7379               Slimower/src/game/objects/TPlayer.as
+2016-12-19 00:53:27 ....A         2325               Slimower/src/game/objects/TPlayerBullet.as
+2016-12-18 15:32:20 ....A         3062               Slimower/src/game/objects/TRibbon.as
+2016-12-19 00:53:27 ....A         2441               Slimower/src/game/objects/TSlimeBullet.as
+2016-12-19 00:58:50 ....A         3568               Slimower/src/game/preloader/Preloader.as
+2016-12-18 15:36:18 ....A         1197               Slimower/src/game/standalone/HelpMessage.as
+2016-12-18 13:53:02 ....A         2129               Slimower/src/game/standalone/ParticleFireworksExt.as
+2016-12-18 22:46:02 ....A         2946               Slimower/src/game/standalone/VolumeBar.as
+2016-12-18 13:53:02 ....A         2211               Slimower/src/game/states/TStateGame.as
+2016-12-18 15:51:03 ....A         7107               Slimower/src/game/states/TStateLang.as
+2016-12-18 15:51:03 ....A         1614               Slimower/src/game/states/TStatePreload.as
+2016-12-19 00:38:11 ....A         1680               Slimower/src/game/tiles/TTile.as
+2016-12-19 00:38:11 ....A          489               Slimower/src/game/tiles/TTileBG.as
+2016-12-18 22:46:02 ....A          691               Slimower/src/game/tiles/TTileWall.as
+2016-12-30 13:20:42 ....A         5687               Slimower/src/game/windows/TWinCredits.as
+2016-12-29 22:32:37 ....A         6331               Slimower/src/game/windows/TWinDiffSelect.as
+2016-12-18 15:53:10 ....A         3280               Slimower/src/game/windows/TWinFocusPause.as
+2016-12-18 15:45:06 ....A         1713               Slimower/src/game/windows/TWinOptions.as
+2016-12-19 00:26:15 ....A         3159               Slimower/src/game/windows/TWinPause.as
+2016-12-28 00:36:45 ....A         1040               Slimower/src/S.as
+2015-11-06 23:49:14 ....A          756               Slimower/src.assets/bgs/bg.png
+2015-11-06 23:49:14 ....A         1196               Slimower/src.assets/bgs/buttonSystem.png
+2015-11-06 23:49:14 ....A          491               Slimower/src.assets/bgs/hudHP.png
+2015-11-06 23:49:14 ....A         1737               Slimower/src.assets/bgs/title.png
+2015-11-06 23:49:14 ....A          857               Slimower/src.assets/bgs/windowSystem.png
+2015-11-06 23:49:14 ....A        10677               Slimower/src.assets/global/font.png
+2015-11-06 23:49:14 ....A          274               Slimower/src.assets/global/music.png
+2015-11-06 23:49:14 ....A          316               Slimower/src.assets/global/sfx.png
+2016-12-30 13:20:42 ....A         3139               Slimower/src.assets/languages/en.txt
+2016-12-30 13:20:50 ....A         3687               Slimower/src.assets/languages/pl.txt
+2016-12-12 14:17:55 ....A        12803               Slimower/src.assets/LICENSE.txt
+2015-11-06 23:49:14 ....A         7306               Slimower/src.assets/sfx/blaster.mp3
+2015-11-06 23:49:14 ....A         5851               Slimower/src.assets/sfx/blob_hit.mp3
+2015-11-06 23:49:14 ....A         8777               Slimower/src.assets/sfx/blob_kill.mp3
+2015-11-06 23:49:14 ....A         5244               Slimower/src.assets/sfx/coin.mp3
+2015-11-06 23:49:14 ....A        66037               Slimower/src.assets/sfx/dead.mp3
+2015-11-06 23:49:14 ....A        11768               Slimower/src.assets/sfx/footstep.mp3
+2015-11-06 23:49:14 ....A        26400               Slimower/src.assets/sfx/gameOver.mp3
+2015-11-06 23:49:14 ....A        10031               Slimower/src.assets/sfx/groan.mp3
+2015-11-06 23:49:14 ....A         5015               Slimower/src.assets/sfx/jump.mp3
+2015-11-06 23:49:14 ....A         6753               Slimower/src.assets/sfx/step_ground.mp3
+2015-11-06 23:49:14 ....A          703               Slimower/src.assets/sprites/blobBullet.png
+2015-11-06 23:49:14 ....A         1608               Slimower/src.assets/sprites/blobs.png
+2015-11-06 23:49:14 ....A          542               Slimower/src.assets/sprites/coin.png
+2015-11-06 23:49:14 ....A          212               Slimower/src.assets/sprites/esc_00.png
+2015-11-06 23:49:14 ....A          213               Slimower/src.assets/sprites/esc_01.png
+2015-11-06 23:49:14 ....A         1165               Slimower/src.assets/sprites/player.png
+2019-09-06 10:51:37 ....A          768               Slimower/src.assets/tiles/tileset.pal
+2019-09-06 10:51:37 ....A        10533               Slimower/src.assets/tiles/tileset.png
+2016-12-19 00:53:28 ....A         7613               Slimower/src.framework/net/retrocade/data/RetrocamelSpatialHash.as
+2016-12-19 00:53:28 ....A         2015               Slimower/src.framework/net/retrocade/data/RetrocamelTileGrid.as
+2016-12-19 00:53:27 ....A          630               Slimower/src.framework/net/retrocade/functions/printf.as
+2016-12-19 00:53:28 ....A        12396               Slimower/src.framework/net/retrocade/helpers/ColorMatrixFilterHelper.as
+2016-12-18 23:42:41 ....A         6339               Slimower/src.framework/net/retrocade/helpers/RetrocamelScrollAssist.as
+2016-12-19 00:53:27 ....A         3884               Slimower/src.framework/net/retrocade/retrocamel/components/RetrocamelDisplayObject.as
+2016-12-19 00:53:27 ....A         1805               Slimower/src.framework/net/retrocade/retrocamel/components/RetrocamelStateBase.as
+2016-12-19 00:55:31 ....A        14256               Slimower/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableGroup.as
+2016-12-19 00:53:28 ....A         1110               Slimower/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableObject.as
+2016-12-19 00:53:28 ....A         6332               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelBitmapManager.as
+2016-12-19 01:01:43 ....A         5457               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelCore.as
+2016-12-19 01:01:43 ....A         8146               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelDisplayManager.as
+2016-12-19 00:53:27 ....A        19797               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelInputManager.as
+2016-12-19 00:53:28 ....A        11998               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelSoundManager.as
+2016-12-19 00:53:27 ....A         5075               Slimower/src.framework/net/retrocade/retrocamel/core/RetrocamelWindowsManager.as
+2016-12-19 00:53:27 ....A          161               Slimower/src.framework/net/retrocade/retrocamel/core/retrocamel_int.as
+2016-12-19 00:53:27 ....A         7521               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmap.as
+2016-12-19 00:53:27 ....A        12169               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapFont.as
+2016-12-19 00:53:27 ....A        30104               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapText.as
+2016-12-19 00:53:27 ....A         7595               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelButton.as
+2016-12-19 00:53:27 ....A        12610               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelGrid9.as
+2016-12-27 14:39:24 ....A         9554               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelPreciseGrid9.as
+2016-12-19 00:53:28 ....A         7960               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelSprite.as
+2016-12-19 00:53:28 ....A        20943               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelTextField.as
+2016-12-19 00:53:28 ....A         4011               Slimower/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelWindowFlash.as
+2016-12-19 00:53:27 ....A        12430               Slimower/src.framework/net/retrocade/retrocamel/display/global/RetrocamelTooltip.as
+2016-12-19 00:53:27 ....A         1153               Slimower/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayer.as
+2016-12-19 00:53:27 ....A          310               Slimower/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlash.as
+2016-12-19 00:53:27 ....A        15034               Slimower/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashBlit.as
+2016-12-19 00:53:27 ....A         2985               Slimower/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashSprite.as
+2016-12-19 00:53:27 ....A         2555               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEasings.as
+2016-12-19 00:53:27 ....A         6799               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectBase.as
+2016-12-19 00:53:27 ....A         2725               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeFlash.as
+2016-12-19 00:53:27 ....A         2609               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeScreen.as
+2016-12-19 00:53:28 ....A         1678               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectMove.as
+2016-12-19 00:53:28 ....A         5055               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectQuake.as
+2016-12-19 00:53:27 ....A         1785               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectSolidScreen.as
+2016-12-19 00:53:28 ....A         1191               Slimower/src.framework/net/retrocade/retrocamel/effects/RetrocamelScreenEffectBase.as
+2016-12-19 00:53:27 ....A         6229               Slimower/src.framework/net/retrocade/retrocamel/global/RetrocamelSimpleSave.as
+2016-12-19 00:53:27 ....A          318               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelMake.as
+2016-12-19 01:02:48 ....A          316               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSettings.as
+2016-12-19 00:53:27 ....A          738               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSound.as
+2016-12-19 00:53:28 ....A          262               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSpatialHashElement.as
+2016-12-19 00:53:28 ....A          135               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelUpdatable.as
+2016-12-19 00:53:27 ....A          435               Slimower/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelWindow.as
+2016-12-19 00:53:27 ....A         6748               Slimower/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocale.as
+2016-12-19 00:53:28 ....A          755               Slimower/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserAbstract.as
+2016-12-19 00:53:27 ....A         1993               Slimower/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserRetrocadeProperties.as
+2016-12-19 00:53:27 ....A          696               Slimower/src.framework/net/retrocade/retrocamel/locale/_.as
+2016-12-19 00:53:27 ....A          705               Slimower/src.framework/net/retrocade/retrocamel/locale/_n.as
+2016-12-19 00:53:27 ....A         5093               Slimower/src.framework/net/retrocade/retrocamel/particles/RetrocamelParticlesFireworks.as
+2016-12-19 00:53:27 ....A         4508               Slimower/src.framework/net/retrocade/retrocamel/particles/RetrocamelParticlesPixel.as
+2016-12-19 00:53:27 ....A         9049               Slimower/src.framework/net/retrocade/retrocamel/sound/RetrocamelSound.as
+2016-12-19 00:53:27 ....A        32579               Slimower/src.framework/net/retrocade/sfxr/SfxrParams.as
+2016-12-19 00:53:28 ....A        38847               Slimower/src.framework/net/retrocade/sfxr/SfxrSynth.as
+2016-12-08 12:08:01 ....A         1344               Slimower/src.framework/net/retrocade/signal/Signal.as
+2012-08-06 08:20:13 ....A       282629               Slimower/src.framework/NewgroundsAPI.swc
+2016-12-30 13:49:00 ....A         2814               Slimower/src.graphics/explained/System-Button.png
+2016-12-30 13:50:44 ....A         2479               Slimower/src.graphics/explained/System-Window.png
+2016-12-30 13:39:26 ....A         1554               Slimower/src.graphics/LICENSE.png
+2016-12-12 12:02:14 ....A        13089               Slimower/src.graphics/LICENSE.txt
+2015-11-06 23:49:14 ....A          491               Slimower/src.graphics/raw/bgs/hudHP.png
+2015-11-06 23:49:14 ....A         1737               Slimower/src.graphics/raw/bgs/title.png
+2015-11-06 23:49:14 ....A          703               Slimower/src.graphics/raw/sprites/blobBullet.png
+2015-11-06 23:49:14 ....A         1608               Slimower/src.graphics/raw/sprites/blobs.png
+2015-11-06 23:49:14 ....A          542               Slimower/src.graphics/raw/sprites/coin.png
+2015-11-06 23:49:14 ....A         1165               Slimower/src.graphics/raw/sprites/player.png
+2015-11-06 23:49:14 ....A        10392               Slimower/src.graphics/raw/tiles/tileset.png
+2015-11-06 23:49:14 ....A         1196               Slimower/src.graphics/raw/ui/buttonSystem.png
+2015-11-06 23:49:14 ....A          857               Slimower/src.graphics/raw/ui/windowSystem.png
+2016-12-30 13:39:45 ....A          439               Slimower/src.graphics/README.txt
+2017-01-02 13:47:24 ....A        27644               Slimower/src.graphics/SlimowerOpenArt.zip
+2016-12-19 00:44:09 ....A        14497               Slimower/src.levels/Level1.oel
+2016-12-19 00:44:17 ....A        21494               Slimower/src.levels/Level2.oel
+2016-12-19 00:44:33 ....A        17391               Slimower/src.levels/Level3.oel
+2016-12-19 00:44:40 ....A        25963               Slimower/src.levels/Level4.oel
+2016-12-19 00:44:47 ....A        47780               Slimower/src.levels/Level5.oel
+2016-12-19 00:46:03 ....A         2233               Slimower/src.level_editor/Editor.oep
+2016-12-30 13:08:26 ....A           27               Slimower/src.music/LICENSE.txt
+2015-11-06 23:49:14 ....A        24192               Slimower/src.music/source/synthmania11.mod
+2015-11-06 23:49:14 ....A       563461               Slimower/src.music/synthmania11_wojciech_panufnik.mp3
+2016-12-19 00:53:28 ....A         7773               Slimower/src.utils/net/retrocade/collision/RetrocamelSimpleCollider.as
+2016-12-19 00:53:27 ....A         6709               Slimower/src.utils/net/retrocade/constants/KeyConst.as
+2016-12-18 23:39:55 ....A         8958               Slimower/src.utils/net/retrocade/utils/UtilsBitmapData.as
+2016-12-19 00:53:27 ....A        16923               Slimower/src.utils/net/retrocade/utils/UtilsDisplay.as
+2016-12-19 00:53:27 ....A        11484               Slimower/src.utils/net/retrocade/utils/UtilsGraphic.as
+2016-12-19 00:53:27 ....A        14481               Slimower/src.utils/net/retrocade/utils/UtilsNumber.as
+2016-12-19 00:53:27 ....A        24497               Slimower/src.utils/net/retrocade/utils/UtilsString.as
+2016-12-19 00:53:28 ....A         5324               Slimower/src.utils/net/retrocade/vault/Safe.as
+2016-12-19 00:53:28 ....A         2090               Slimower/src.utils/net/retrocade/vault/Safe0.as
+2016-12-19 00:53:27 ....A         2119               Slimower/src.utils/net/retrocade/vault/Safe1.as
+2016-12-19 00:53:27 ....A         2494               Slimower/src.utils/net/retrocade/vault/Safe2.as
+2016-12-19 00:53:27 ....A          826               Slimower/src.utils/net/retrocade/vault/SafeParent.as
+2016-12-19 00:53:27 ....A         4006               Slimower/src.utils/net/retrocade/vault/Vault.as
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 12:35:18            5218361      3917934  452 files, 232 folders

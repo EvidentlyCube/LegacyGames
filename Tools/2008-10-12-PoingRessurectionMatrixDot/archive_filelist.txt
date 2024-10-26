@@ -1,0 +1,20 @@
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2013-04-21 19:57   Poing Ressurection Drawer/
+        0  2013-04-21 19:57   Poing Ressurection Drawer/.bmx/
+    36535  2008-10-12 19:42   Poing Ressurection Drawer/.bmx/Drawex.bmx.gui.debug.win32.x86.o
+    82117  2008-10-12 19:42   Poing Ressurection Drawer/.bmx/Drawex.bmx.gui.debug.win32.x86.s
+    14107  2008-10-12 18:56   Poing Ressurection Drawer/.bmx/Drawex.bmx4c0261fa-0d5a-4d29-a4a3-8248a33d20c6.bmx.gui.release.win32.x86.o
+    35917  2008-10-12 18:56   Poing Ressurection Drawer/.bmx/Drawex.bmx4c0261fa-0d5a-4d29-a4a3-8248a33d20c6.bmx.gui.release.win32.x86.s
+    14081  2008-10-12 18:55   Poing Ressurection Drawer/.bmx/Drawex.bmxa24327c6-92e6-4d81-9fba-ec7c9304a760.bmx.gui.release.win32.x86.o
+    35843  2008-10-12 18:55   Poing Ressurection Drawer/.bmx/Drawex.bmxa24327c6-92e6-4d81-9fba-ec7c9304a760.bmx.gui.release.win32.x86.s
+    14896  2008-10-12 19:43   Poing Ressurection Drawer/.bmx/Drawex.bmxbbd7bacb-701a-41f0-80b5-6723aa90c3f9.bmx.gui.release.win32.x86.o
+    38753  2008-10-12 19:43   Poing Ressurection Drawer/.bmx/Drawex.bmxbbd7bacb-701a-41f0-80b5-6723aa90c3f9.bmx.gui.release.win32.x86.s
+    12474  2008-10-12 19:43   Poing Ressurection Drawer/Drawer.bmx
+    12568  2008-10-12 19:43   Poing Ressurection Drawer/Drawex.bls
+     3825  2008-10-12 18:42   Poing Ressurection Drawer/Drawex.bmx
+    91136  2008-10-12 19:43   Poing Ressurection Drawer/Drawex.exe
+      552  2008-10-12 18:54   Poing Ressurection Drawer/Ludziki.poinganim
+    12609  2008-10-12 19:42   Poing Ressurection Drawer/gif03.spr
+---------                     -------
+   405413                     16 files

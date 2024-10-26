@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SXMS_Com_Pack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SXMS_Com_Pack",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

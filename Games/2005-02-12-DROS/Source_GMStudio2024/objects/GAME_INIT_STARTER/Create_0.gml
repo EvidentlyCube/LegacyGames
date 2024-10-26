@@ -1,0 +1,9 @@
+global.turn=0
+global.can=1
+global.clone=1
+global.tar=0
+global.die=0
+global.eye_sfx=0
+global.completed=0
+global.save_buffer=0
+global.debug=0;

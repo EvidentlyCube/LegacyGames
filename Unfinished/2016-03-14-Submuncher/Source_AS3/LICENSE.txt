@@ -1,0 +1,18 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+src.starling/
+-------------
+Copyright Gamua
+Simplified BSD License
+
+
+src/
+src.utils/
+src.framework/
+src.level_converter/
+--------------------
+Copyright Maurycy Zarzycki
+MIT License

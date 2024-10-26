@@ -1,0 +1,10 @@
+colour=make_color_rgb(100+random(150),100+random(150),100+random(150))
+dirn=random(360)
+dirc=0
+direction=dirn
+speed=0.1+random(0.5)
+behavior=0
+timer=0
+nspeed=speed
+alpha=1
+ran=0

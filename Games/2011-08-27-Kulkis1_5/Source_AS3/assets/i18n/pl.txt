@@ -1,0 +1,189 @@
+﻿# FILLER[[
+#  !"#$%&'()*+,-./0123
+# 456789:;<=>?@ABCDEFG
+# HIJKLMNOPQRSTUVWXYZ[
+# \]^_`abcdefghijklmno
+# pqrstuvwxyz{|}~´ÄÉÖÜ
+# ßáâãäçéêíóõöúüąćęŁłń
+# Śśźż
+# ]]
+
+key8=Backspace
+key9=Tabulacja
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Spacja
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Lewo
+key38=Góra
+key39=Prawo
+key40=Dół
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=P.Win
+key93=Menu
+key96=Num 0
+key97=Num 1
+key98=Num 2
+key99=Num 3
+key100=Num 4
+key101=Num 5
+key102=Num 6
+key103=Num 7
+key104=Num 8
+key105=Num 9
+key106=Num *
+key107=Num +
+key109=Num -
+key110=Num .
+key111=Num /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+keyLeftDesc=Ruch w Lewo
+keyRightDesc=Ruch w Prawo
+keyAccelerateDesc=Przyśpiesz
+keyDecelerateDesc=Zwolnij
+keySoundDesc=Wyłącz Dźwięk
+keyMusicDesc=Wyłącz Muzykę
+
+preloadTitle=KULKIS
+preloadDesc=Zręcznościówka o niszczeniu kolorowych bloczków
+
+StartScratch=Zacznij Gre
+Continue=Graj od Etapu
+Options=Opcje
+Credits=Twórcy
+Close=Zamknij
+Hiscores=Tabela wyników
+
+Game by=Gra stworzona przez
+RETROCADE.net=RETROCADE.net
+Programming=Programowanie
+Maurycy Zarzycki=Maurycy Zarzycki
+Graphics=Grafika
+Aleksander Kowalczyk=Aleksander Kowalczyk
+Music=Muzyka
+Sound Effects=Dźwięk
+Various Resources=Róźne źródła
+Levels=Etapy
+jurek=Jerzy Osowski
+Translations=Tłumaczenia
+EN - Chris Allcock=EN - Chris Allcock
+PL - Maurycy Zarzycki=PL - Maurycy Zarzycki
+
+Game is Paused=Pauza
+Return to Game=Kontynuuj
+Restart=Powtórz Poziom
+Return to Title Screen=Powróć do ekranu tytułowego
+Pause - Game lost focus=Pauza - kliknąłeś poza oknem
+Click to continue=Kliknij na oknie gry by kontynuować
+
+intro1=W ostatniej sali został powitany przez uśmiechniętą twarz Kulkisa... Kulkisa, który lata temu opuścił dom i teraz, najwyraźniej wrócił! Dziwne słowa opuściły jego usta: "Niezły okaz, narazie nazwiemy go Shtirv. No, czas kontynouwać eksperyment" a potem wszystko zaczęło się rozpływać...
+intro2=...Po chwili Kulkis ocknął się w innym, dziwnym pomieszczeniu. "Czy on mówił o mnie?" Pomyślał i ruszył przed siebie w poszukiwaniu odpowiedzi.
+
+midtro7=Lecąc przez serie korytarzy łączący sale, Sthirv zapadł w głęboką zadumę. "Czego on może ode mnie chcieć? Chciałbym już się zobaczyć z rodziną, ujrzeć słońce." Nie miał pojęcia...
+midtro13=Kiedy Kulkis miał już wejść do kolejnej sali, głośne słowa rozbrzmiały w korytarzach. "Gratulacje okazie Sthirv!" Głos był miły, miał w sobie hipnotyzującą nutę. "Masz już za sobą połowę eksperymentu. Jesteś ostatnim, który przetrwał." To dało mu do myślenia, lecz zanim zdążył zadać pytanie, mocny podmuch powietrza wepchnął go do kolejnego pomieszczenia.
+midtro19=W końcu, przerwa między salami. Długi korytarz ze światełkiem na końcu dał mu szansę by czegoś spróbować. "Co miałeś na mysli mówiąc, że jestem ostatni?" Po kilku sekundach otrzymał odpowiedź. "Być może to, że jesteś ostatnim ze swojej rasy? A może coś innego? Nie kłopocz tym swojej prostej główki piłeczko, odpowiedzi na Twoje pytania są bliżej niż myślisz." Ledwo padło ostatnie słowo, powietrze przeciął wysoki, mechaniczny pisk. Sthirv poczuł, że coś go pcha w kierunku światła.
+
+outro1=Po wielu przeszkodach Sthirv dotarł do najdłuższego, pionowego korytarza. Bez żadnej półki, od której możnaby się odbić zmuszony był lecieć w dół, w głąb czarnej otchłani. Chcąc zebrać myśli, zwolnił jak najbardziej mógł.
+outro2="Czy naprawdę mogę być ostatni? A co z moim oprawcą? On tez wygląda na Kulkisa!" Szeptał do siebie marszcząc brwi. "Ale było w nim coś dziwnego, wyczułem moc tak jakby... Wiem, że posiadamy pewne nadzwyczajne zdolności, ale nawet jeżeli zebrać wszystkie Kulkisy na tej planecie, to nie zdołaliby aż tak manipulować planetą! To niemożliwe, żeby naginał grawitację do swej woli!"
+outro3=Wtedy dostrzegł, że korytarz otwiera się do wielkiego pomieszczenia, gdzie Czarny Kulkis wesoło skacze sobie od wajchy do wajchy. "Nareszcie!" Odrzekł patrząc na zlatującego ku nie mu Sthirva. "Myślę, że już jesteś gotowy do ewolucji." Dodał z uśmiechem. Już tylko minuty dzieliły ich od spotkania...
+outro4=Ciąg dalszy nastąpi... Dzięki za grę!
+
+Start Warning=Kiedy wybierzesz tą opcję\nnie będziesz mógł kontynuować\nod ostatnio zagranego etapu!
+Continue Warning=Kontynuuj grę od ostatnio zagranego\netapu z wyzerowanymi punktami.
+Click loses progress=Wybranie tej opcji spowoduje utratę\nczęści lub całości dokonań.
+
+Level:=Etap:
+Points:=Punkty:
+GAME OVER=PRZEGRAŁEŚ!
+
+scoreView=Proszę czekać... Łączenie!
+scoreSend=Proszę czekać... Wysyłanie wyniku!
+
+choseLanguage=Wybierz język:
+
+Walkthrough=Solucja
+helpTooltip=(English Only)\nGet help for the currently\nplayed level on Retrocade.net
+
+
+loading=Wczytywanie:
+
+Redefine keys:=Zmiana klawiszy:
+redefining=Zmieniasz klawisz:
+hitNew=Wciśnij nowy klawisz!
+
+levels_regular=Etapy: Normalne
+levels_art_gallery=Etapy: Galeria

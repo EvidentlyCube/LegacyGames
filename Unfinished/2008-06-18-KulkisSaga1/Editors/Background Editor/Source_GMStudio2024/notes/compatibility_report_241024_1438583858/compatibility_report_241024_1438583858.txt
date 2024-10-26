@@ -1,0 +1,37 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\scripts\draw_items\draw_items.gml
+String not found: ConversionLog_ConvertedString 8 '!__!' "!__!"
+
+GameMaker Studio 1 font texture has been backed up at C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\fonts\font0\font0.gms1.png
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\objects\Mister\Create_0.gml
+Converted builtin - line 1: background_index[0]=background_add('G:/dozo.bmp',0,0,1) -> __background_set( e__BG.Index, 0, background_add('G:/dozo.bmp',0,0,1) )
+String not found: ConversionLog_ConvertedString 1 'G:/dozo.bmp' "G:/dozo.bmp"
+String not found: ConversionLog_ConvertedString 3 'Kulkis Saga I Level File|*.kil' "Kulkis Saga I Level File|*.kil"
+String not found: ConversionLog_ConvertedString 3 'H:\Projects\Workon\Kulkis Saga 1' "H:\\Projects\\Workon\\Kulkis Saga 1"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\objects\Mister\Other_5.gml
+String not found: ConversionLog_ConvertedString 15 'What now?' "What now?"
+String not found: ConversionLog_ConvertedString 15 'End' "End"
+String not found: ConversionLog_ConvertedString 15 'Foreground' "Foreground"
+String not found: ConversionLog_ConvertedString 15 '' ""
+String not found: ConversionLog_ConvertedString 16 'H:/KIIF.exe' "H:/KIIF.exe"
+String not found: ConversionLog_ConvertedString 16 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\objects\Mister\Draw_0.gml
+String not found: ConversionLog_ConvertedString 5 'Draw Foreground' "Draw Foreground"
+String not found: ConversionLog_ConvertedString 52 'Select Item' "Select Item"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Background Editor_697521599_gmz\mvc\objects\Fister\Mouse_4.gml
+String not found: ConversionLog_ConvertedString 6 'Level' "Level"
+String not found: ConversionLog_ConvertedString 14 'Variable A' "Variable A"
+String not found: ConversionLog_ConvertedString 22 'Variable B' "Variable B"
+String not found: ConversionLog_ConvertedString 30 'Variable C' "Variable C"
+
+Game speed set to 600
+Added compatibility script 'background\background_add.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set_element.gml'

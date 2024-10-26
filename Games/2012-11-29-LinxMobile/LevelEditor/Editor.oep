@@ -1,0 +1,19 @@
+<project>
+  <name>Linx Mobile</name>
+  <settings>
+    <bgColor>0x000000</bgColor>
+    <defaultWidth>700</defaultWidth>
+    <defaultHeight>700</defaultHeight>
+    <minWidth>700</minWidth>
+    <minHeight>700</minHeight>
+    <maxWidth>700</maxWidth>
+    <maxHeight>700</maxHeight>
+    <workingDirectory>.</workingDirectory>
+  </settings>
+  <tilesets> 
+    <tileset name="tiles" image="tileset.png" tileWidth="50" tileHeight="50" paletteScale="1"/>
+  </tilesets>
+  <layers>
+    <tiles name="level" gridSize="50"/>
+  </layers>
+</project>

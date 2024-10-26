@@ -1,0 +1,18 @@
+sdv6/
+-----
+Copyright Andrzej Dobrowolski (Grogon)
+
+
+sequenceline/
+-------------
+Copyright Benni Pedersen (Emax)
+
+
+synthmania6/
+------------
+Copyright Wojciech Panufnik (X-Ceed)
+
+
+intro/
+------
+Copyright original author (author is unknown)

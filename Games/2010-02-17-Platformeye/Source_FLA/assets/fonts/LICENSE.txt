@@ -1,0 +1,4 @@
+days/
+-----
+Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad.
+All rights reserved.

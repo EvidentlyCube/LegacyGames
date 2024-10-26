@@ -1,0 +1,54 @@
+Mario.level[0]="                ";
+Mario.level[1]="                ";
+Mario.level[2]="                ";
+Mario.level[3]="                ";
+Mario.level[4]="                ";
+Mario.level[5]="                ";
+Mario.level[6]="                ";
+Mario.level[7]="                ";
+Mario.level[8]="                ";
+Mario.level[9]="                ";
+Mario.level[10]="                ";
+Mario.level[11]="dddddddddddddddd";
+Mario.level[12]="gggggggggggggggg";
+Mario.level[13]="gggggggggggggggg";
+Mario.level[14]="gggggggggggggggg";
+Mario.levelWid=Mario.level[0].length;
+Mario.levelHei=Mario.level.length;
+Mario.drawLevel();
+Mario.Hud.Time=320;
+Mario.instEffects.push(new Cloud(375,0))
+Mario.instEffects.push(new Cloud(325,75))
+Mario.instEffects.push(new Cloud(150,25))
+Mario.instEffects.push(new Cloud(25,50))
+Mario.layerWall.addChild(AddGraphic(200,250,'back_fence_3'))
+Mario.layerWall.addChild(AddGraphic(100,250,'back_fence_1'))
+Mario.layerWall.addChild(AddGraphic(250,250,'back_fence_1'))
+Mario.layerWall.addChild(AddGraphic(275,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(300,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(325,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(350,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(375,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(175,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(150,250,'back_fence_2'))
+Mario.layerWall.addChild(AddGraphic(125,250,'back_fence_2'))
+Mario.instEffects.push(new Grass(250,250,'r'))
+Mario.instEffects.push(new Grass(225,250,'m'))
+Mario.instEffects.push(new Grass(200,250,'l'))
+Mario.instEffects.push(new Grass(100,250,'r'))
+Mario.instEffects.push(new Grass(75,250,'m'))
+Mario.instEffects.push(new Grass(50,250,'m'))
+Mario.instEffects.push(new Grass(25,250,'l'))
+Mario.layerWall.addChild(AddGraphic(375,150,'back_tree_4'))
+Mario.layerWall.addChild(AddGraphic(375,200,'back_tree_3'))
+Mario.layerWall.addChild(AddGraphic(375,175,'back_tree_3'))
+Mario.layerWall.addChild(AddGraphic(375,225,'back_tree_2'))
+Mario.layerWall.addChild(AddGraphic(375,250,'back_tree_1'))
+Mario.layerWall.addChild(AddGraphic(300,200,'back_tree_4'))
+Mario.layerWall.addChild(AddGraphic(300,225,'back_tree_2'))
+Mario.layerWall.addChild(AddGraphic(300,250,'back_tree_1'))
+Mario.layerWall.addChild(AddGraphic(25,150,'back_tree_4'))
+Mario.layerWall.addChild(AddGraphic(25,175,'back_tree_3'))
+Mario.layerWall.addChild(AddGraphic(25,200,'back_tree_3'))
+Mario.layerWall.addChild(AddGraphic(25,225,'back_tree_2'))
+Mario.layerWall.addChild(AddGraphic(25,250,'back_tree_1'))

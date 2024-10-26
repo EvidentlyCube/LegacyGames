@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_Small_Mover",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_Small_Mover",
+  "parent":{
+    "name":"Blocks",
+    "path":"folders/Scripts/Blocks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

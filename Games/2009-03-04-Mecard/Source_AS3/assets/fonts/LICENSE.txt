@@ -1,0 +1,4 @@
+ravie/
+------
+Copyright (c) 1994, Ken O'Brien, designer. Produced by The Font Bureau, Inc.
+Portions Copyright (c) 1997, 1998 The Font Bureau, Inc. All rights reserved.

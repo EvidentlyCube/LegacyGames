@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Generate_Ingame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Generate_Ingame",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

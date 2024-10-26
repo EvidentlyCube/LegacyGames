@@ -1,0 +1,1 @@
+global.liv-=1

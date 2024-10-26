@@ -1,0 +1,4 @@
+Generate_Ingame("bbbbbbbwbbbbbbbqbbbbbbbbbqbbbybbwbobbbubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbtbtbbbbbbbebbbbbbbbbbbbebbbbbbbbbbbbbbbbrbbbobbbbbbbbbbbbbbbbbbbibbbbybbbbbbbbbbqbbbbubbbbbubq")
+global.l_title="Full of Hope"
+global.l_author="Maurice Zarzycki"
+global.pathx=115

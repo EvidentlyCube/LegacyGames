@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Texture_Ground",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Texture_Ground",
+  "parent":{
+    "name":"Surfacing",
+    "path":"folders/Scripts/Surfacing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Particle_Generate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Particle_Generate",
+  "parent":{
+    "name":"Creations",
+    "path":"folders/Scripts/Creations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

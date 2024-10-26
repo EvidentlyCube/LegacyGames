@@ -1,0 +1,16 @@
+breakz (sound effect)
+---------------------
+Copyright original authors (unknown)
+
+
+(sound effects)
+(graphics)
+--------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

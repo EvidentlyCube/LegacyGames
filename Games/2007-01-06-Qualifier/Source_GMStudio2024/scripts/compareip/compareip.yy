@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"compareip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"compareip",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

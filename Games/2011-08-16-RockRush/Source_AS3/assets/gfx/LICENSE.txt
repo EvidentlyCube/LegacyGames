@@ -1,0 +1,11 @@
+fonts/
+------
+Copyright original authors (Unknown)
+
+
+bgs/
+tiles/
+global/
+-------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International

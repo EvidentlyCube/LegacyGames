@@ -1,0 +1,17 @@
+gfx/
+Kulkis.fla (Graphics)
+Mockup.fla (Graphics)
+---------------------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+com/
+tiles/
+objects/
+Kulkis.as
+Level.as
+Kulkis.fla (Code)
+Mockup.fla (Code)
+-----------------
+Copyright Maurycy Zarzycki
+MIT License

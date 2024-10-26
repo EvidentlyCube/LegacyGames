@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"writeshort",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"writeshort",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

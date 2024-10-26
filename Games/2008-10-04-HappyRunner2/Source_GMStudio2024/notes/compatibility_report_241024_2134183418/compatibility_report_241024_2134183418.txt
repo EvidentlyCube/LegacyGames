@@ -1,0 +1,52 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\scripts\lev_comp\lev_comp.gml
+String not found: ConversionLog_ConvertedString 16 'You have made a new personal#record in this level!##Press "Enter" to continue..' "You have made a new personal#record in this level!##Press \"Enter\" to continue.."
+String not found: ConversionLog_ConvertedString 18 'You have made a new personal#record in this level!##Press "Enter" to continue..' "You have made a new personal#record in this level!##Press \"Enter\" to continue.."
+String not found: ConversionLog_ConvertedString 23 '##Press "Enter" to continue..' "##Press \"Enter\" to continue.."
+String not found: ConversionLog_ConvertedString 25 '##Press "Enter" to continue..' "##Press \"Enter\" to continue.."
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\scripts\Time\Time.gml
+String not found: ConversionLog_ConvertedString 5 '' ""
+String not found: ConversionLog_ConvertedString 6 '-' "-"
+String not found: ConversionLog_ConvertedString 9 ':' ":"
+String not found: ConversionLog_ConvertedString 10 ':0' ":0"
+String not found: ConversionLog_ConvertedString 14 '0' "0"
+String not found: ConversionLog_ConvertedString 14 ':' ":"
+String not found: ConversionLog_ConvertedString 15 '0' "0"
+String not found: ConversionLog_ConvertedString 15 ':0' ":0"
+String not found: ConversionLog_ConvertedString 19 '00' "00"
+String not found: ConversionLog_ConvertedString 19 ':' ":"
+String not found: ConversionLog_ConvertedString 20 '00' "00"
+String not found: ConversionLog_ConvertedString 20 ':0' ":0"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Player\Create_0.gml
+String not found: ConversionLog_ConvertedString 21 '##Press "SPACE" to start.' "##Press \"SPACE\" to start."
+String not found: ConversionLog_ConvertedString 23 '##Press "SPACE" to start.' "##Press \"SPACE\" to start."
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Player\Step_0.gml
+String not found: ConversionLog_ConvertedString 1 'G' "G"
+String not found: ConversionLog_ConvertedString 2 'G' "G"
+String not found: ConversionLog_ConvertedString 11 'G' "G"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml
+ERROR: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml - 23: malformed variable reference got -
+ERROR: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml - 74: unexpected syntax error
+ERROR: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml - 79: unexpected syntax error
+ERROR: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml - 79: unexpected syntax error
+Too many errors - GML not processed : C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\objects\Plaster\Draw_0.gml
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\HPrM_1473879463_gmz\mvc\rooms\Value_Seter\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 8 '!' "!"
+
+Missing audiogroup for sound: 's1' - setting to default audio group
+Missing audiogroup for sound: 's2' - setting to default audio group
+Missing audiogroup for sound: 's3' - setting to default audio group
+Missing audiogroup for sound: 's4' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_move_point.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

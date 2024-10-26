@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Bullet_Hit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Bullet_Hit",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

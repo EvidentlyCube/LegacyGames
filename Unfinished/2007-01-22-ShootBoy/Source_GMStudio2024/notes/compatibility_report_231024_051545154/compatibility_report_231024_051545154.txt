@@ -1,0 +1,87 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\scripts\Player_Shooting\Player_Shooting.gml
+String not found: ConversionLog_ConvertedString 3 'Z' "Z"
+String not found: ConversionLog_ConvertedString 5 'Weapon_' "Weapon_"
+String not found: ConversionLog_ConvertedString 5 '()' "()"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\scripts\Player_Step\Player_Step.gml
+String not found: ConversionLog_ConvertedString 2 'Engine_' "Engine_"
+String not found: ConversionLog_ConvertedString 2 '()' "()"
+String not found: ConversionLog_ConvertedString 13 'P' "P"
+String not found: ConversionLog_ConvertedString 14 'P' "P"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\scripts\Player_Panel_Draw\Player_Panel_Draw.gml
+String not found: ConversionLog_ConvertedString 34 'EXP:' "EXP:"
+String not found: ConversionLog_ConvertedString 34 '  -WEAPONS-' "  -WEAPONS-"
+String not found: ConversionLog_ConvertedString 36 'Gives: ' "Gives: "
+String not found: ConversionLog_ConvertedString 36 ' Exp' " Exp"
+String not found: ConversionLog_ConvertedString 38 'Costs: ' "Costs: "
+String not found: ConversionLog_ConvertedString 38 ' Exp' " Exp"
+String not found: ConversionLog_ConvertedString 52 'Press RMB to degrade (you get 50%).' "Press RMB to degrade (you get 50%)."
+String not found: ConversionLog_ConvertedString 54 'You cannot degrade it anymore!' "You cannot degrade it anymore!"
+String not found: ConversionLog_ConvertedString 67 'Press RMB to upgrade.' "Press RMB to upgrade."
+String not found: ConversionLog_ConvertedString 69 'You cannot upgrade it anymore!' "You cannot upgrade it anymore!"
+String not found: ConversionLog_ConvertedString 73 'Single Front Cannon#The most basic weapon, not effective against#anyone and anything.#Should be upgraded as soon as possible!' "Single Front Cannon#The most basic weapon, not effective against#anyone and anything.#Should be upgraded as soon as possible!"
+String not found: ConversionLog_ConvertedString 74 'Double Front Cannon#Thanks to the upgraded energy utilization#two cannons can shot at the same time#without loss of shooting rate.#It is wise to upgrade this.' "Double Front Cannon#Thanks to the upgraded energy utilization#two cannons can shot at the same time#without loss of shooting rate.#It is wise to upgrade this."
+String not found: ConversionLog_ConvertedString 75 'Threeway Cannon#Two cannons has been changed into one#with additional distribute module#you shoot in three directions without power#or rate loss!' "Threeway Cannon#Two cannons has been changed into one#with additional distribute module#you shoot in three directions without power#or rate loss!"
+String not found: ConversionLog_ConvertedString 76 'Double with Sides#Some Description' "Double with Sides#Some Description"
+String not found: ConversionLog_ConvertedString 77 'Single with Double Sides#Some Description' "Single with Double Sides#Some Description"
+String not found: ConversionLog_ConvertedString 78 'Doubled Threeway#Some Description' "Doubled Threeway#Some Description"
+String not found: ConversionLog_ConvertedString 79 'Triple with Double Sides#Some Description' "Triple with Double Sides#Some Description"
+String not found: ConversionLog_ConvertedString 80 'Quad with Double Sides#Some Description' "Quad with Double Sides#Some Description"
+String not found: ConversionLog_ConvertedString 81 'Machinae with Double Sides#Some Description' "Machinae with Double Sides#Some Description"
+String not found: ConversionLog_ConvertedString 82 'Threeway Machinae#Some Description' "Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 83 'Laser#Some Description' "Laser#Some Description"
+String not found: ConversionLog_ConvertedString 84 'Laser with Shots#Some Description' "Laser with Shots#Some Description"
+String not found: ConversionLog_ConvertedString 85 'Laser with Threeway#Some Description' "Laser with Threeway#Some Description"
+String not found: ConversionLog_ConvertedString 86 'Laser with Machinae and Sides#Some Description' "Laser with Machinae and Sides#Some Description"
+String not found: ConversionLog_ConvertedString 87 'Laser with Threeway Machinae#Some Description' "Laser with Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 88 'Blazer#Some Description' "Blazer#Some Description"
+String not found: ConversionLog_ConvertedString 89 'Blazer with Shots#Some Description' "Blazer with Shots#Some Description"
+String not found: ConversionLog_ConvertedString 90 'Blazer with Threeway#Some Description' "Blazer with Threeway#Some Description"
+String not found: ConversionLog_ConvertedString 91 'Blazer with Machinae and Sides#Some Description' "Blazer with Machinae and Sides#Some Description"
+String not found: ConversionLog_ConvertedString 92 'Blazer with Threeway Machinae#Some Description' "Blazer with Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 93 'Seeker with Quad and Sides#Some Description' "Seeker with Quad and Sides#Some Description"
+String not found: ConversionLog_ConvertedString 94 'Seeker with Machinae and Sides#Some Description' "Seeker with Machinae and Sides#Some Description"
+String not found: ConversionLog_ConvertedString 95 'Seeker with Threeway Machinae#Some Description' "Seeker with Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 96 'Laser and Seeker with Shots#Some Description' "Laser and Seeker with Shots#Some Description"
+String not found: ConversionLog_ConvertedString 97 'Laser and Seeker with Threeway#Some Description' "Laser and Seeker with Threeway#Some Description"
+String not found: ConversionLog_ConvertedString 98 'Laser and Seeker with Machinae and Sides#Some Description' "Laser and Seeker with Machinae and Sides#Some Description"
+String not found: ConversionLog_ConvertedString 99 'Laser and Seeker with Threeway Machinae#Some Description' "Laser and Seeker with Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 100 'Blazer and Seeker with Threeway Machinae#Some Description' "Blazer and Seeker with Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 101 'Blazer and Seeker with Super Threeway Machinae#Some Description' "Blazer and Seeker with Super Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 102 'Blazer and Seeker with Ultra Threeway Machinae#Some Description' "Blazer and Seeker with Ultra Threeway Machinae#Some Description"
+String not found: ConversionLog_ConvertedString 103 'Laser and Seeker with Machinae Sides and Thriller#Some Description' "Laser and Seeker with Machinae Sides and Thriller#Some Description"
+String not found: ConversionLog_ConvertedString 104 'Blazer and Seeker with Machinae Sider and Thriler#Some Description' "Blazer and Seeker with Machinae Sider and Thriler#Some Description"
+String not found: ConversionLog_ConvertedString 105 'Blazer and Seeker with Threeway Thriller#Some Description' "Blazer and Seeker with Threeway Thriller#Some Description"
+String not found: ConversionLog_ConvertedString 106 'You have achieved maximum weapon level!' "You have achieved maximum weapon level!"
+String not found: ConversionLog_ConvertedString 117 'EXP:' "EXP:"
+String not found: ConversionLog_ConvertedString 117 '  -SHIP-' "  -SHIP-"
+String not found: ConversionLog_ConvertedString 125 'EXP:' "EXP:"
+String not found: ConversionLog_ConvertedString 125 '  -STAMINA-' "  -STAMINA-"
+String not found: ConversionLog_ConvertedString 133 'EXP:' "EXP:"
+String not found: ConversionLog_ConvertedString 133 '  -SUB-SHIPS-' "  -SUB-SHIPS-"
+String not found: ConversionLog_ConvertedString 141 'EXP:' "EXP:"
+String not found: ConversionLog_ConvertedString 141 '  -REPAIRS-' "  -REPAIRS-"
+
+GameMaker Studio 1 font texture has been backed up at C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\fonts\Sys\Sys.gms1.png
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\objects\Enemy_1\Create_0.gml
+String not found: ConversionLog_ConvertedString 5 'repeat (1){IN_Flame(x,y,random(360))}' "repeat (1){IN_Flame(x,y,random(360))}"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\objects\Enemy_2\Create_0.gml
+String not found: ConversionLog_ConvertedString 5 'repeat (1){IN_Flame(x,y,random(360))}' "repeat (1){IN_Flame(x,y,random(360))}"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\objects\Enemy_3\Create_0.gml
+String not found: ConversionLog_ConvertedString 6 'repeat (1){IN_Flame(x,y,random(360))}' "repeat (1){IN_Flame(x,y,random(360))}"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\objects\Enemy_Wall\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 '' ""
+
+Resource name collision 'Main' already exists, renamed to 'Main_objects'
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\ShootBoy_2010815479_gmz\mvc\objects\Shot_4\Draw_0.gml
+String not found: ConversionLog_ConvertedString 2 'Z' "Z"
+
+Game speed set to 60
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

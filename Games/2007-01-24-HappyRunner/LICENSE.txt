@@ -1,0 +1,20 @@
+Source_GM6/music.MUS (tracker music)
+------------------------------------
+"zoolook", copyright Ronny Engmann (Dalezy)
+https://modarchive.org/index.php?request=view_by_moduleid&query=67427
+https://www.modules.pl/index.php?id=modules&aid=1560
+
+
+
+(sound effects)
+(graphics)
+(levels/rooms)
+--------------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

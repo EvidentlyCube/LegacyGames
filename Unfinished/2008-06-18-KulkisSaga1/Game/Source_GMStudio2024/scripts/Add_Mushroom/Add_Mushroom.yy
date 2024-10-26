@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_Mushroom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_Mushroom",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Surfacing/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

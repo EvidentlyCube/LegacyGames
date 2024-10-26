@@ -1,0 +1,10 @@
+assets/image.jpg
+----------------
+Copyright original authors (unknown)
+
+
+src/
+scripts/
+--------
+Copyright Maurycy Zarzycki
+Release under MIT License

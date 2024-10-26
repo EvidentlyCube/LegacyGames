@@ -1,0 +1,24 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Happy Runner_631654105_gmz\mvc\objects\Player\Create_0.gml
+String not found: ConversionLog_ConvertedString 7 './THIS_IS_NOT_A_SAVE.supasave' "./THIS_IS_NOT_A_SAVE.supasave"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Happy Runner_631654105_gmz\mvc\objects\Player\Step_0.gml
+String not found: ConversionLog_ConvertedString 1 'G' "G"
+String not found: ConversionLog_ConvertedString 2 'G' "G"
+String not found: ConversionLog_ConvertedString 10 'G' "G"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Happy Runner_631654105_gmz\mvc\objects\O_Intrer\Draw_0.gml
+String not found: ConversionLog_ConvertedString 2 'G' "G"
+String not found: ConversionLog_ConvertedString 12 './THIS_IS_NOT_A_SAVE.supasave' "./THIS_IS_NOT_A_SAVE.supasave"
+String not found: ConversionLog_ConvertedString 13 './THIS_IS_NOT_A_SAVE.supasave' "./THIS_IS_NOT_A_SAVE.supasave"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Happy Runner_631654105_gmz\mvc\objects\Binter\Draw_0.gml
+String not found: ConversionLog_ConvertedString 2 'G' "G"
+
+Missing audiogroup for sound: 's1' - setting to default audio group
+Missing audiogroup for sound: 's2' - setting to default audio group
+Missing audiogroup for sound: 's3' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_move_point.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'

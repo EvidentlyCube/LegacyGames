@@ -1,0 +1,346 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:54:18 D....            0            0  Galagian
+2015-12-04 15:54:17 D....            0            0  Galagian/.settings
+2015-12-04 15:54:17 D....            0            0  Galagian/bin-release
+2015-12-04 15:54:17 D....            0            0  Galagian/CPMStar
+2015-12-04 15:54:17 D....            0            0  Galagian/Functions
+2015-12-04 15:54:17 D....            0            0  Galagian/gfx
+2015-12-04 15:54:17 D....            0            0  Galagian/Kopia (2) gfx
+2015-12-04 15:54:17 D....            0            0  Galagian/Kopia gfx
+2010-03-17 18:19:44 D....            0            0  Galagian/lib
+2015-12-04 15:54:17 D....            0            0  Galagian/mochi
+2015-12-04 15:54:17 D....            0            0  Galagian/mochi/as3
+2015-12-04 15:54:17 D....            0            0  Galagian/obj
+2015-12-04 15:54:18 D....            0            0  Galagian/obs
+2015-12-04 15:54:18 D....            0            0  Galagian/sfx
+2015-12-04 15:54:18 D....            0            0  Galagian/src
+2008-11-30 20:38:05 ....A        72823      7728611  Galagian/Untitled
+2008-10-26 14:17:30 ....A        14419               Galagian/sfx/diam.mp3
+2008-10-26 14:15:18 ....A        32600               Galagian/sfx/explo1.mp3
+2008-10-26 14:15:21 ....A        22569               Galagian/sfx/explo2.mp3
+2008-10-26 14:12:53 ....A       203128               Galagian/sfx/explo3.mp3
+2008-10-26 12:21:17 ....A      1761999               Galagian/sfx/musix.mp3
+2008-10-26 14:12:00 ....A        10449               Galagian/sfx/shot1.mp3
+2008-10-26 12:49:20 ....A        27585               Galagian/sfx/shot2.mp3
+2008-10-26 12:49:20 ....A        15673               Galagian/sfx/shot3.mp3
+2008-10-26 14:11:56 ....A         9404               Galagian/sfx/shot4.mp3
+2008-10-26 13:20:42 ....A         8777               Galagian/sfx/shot5.mp3
+2008-10-26 14:22:01 ....A         6269               Galagian/sfx/tick.mp3
+2009-03-14 14:02:22 ....A      3146370               Galagian/bin-release/Galaga.swf
+2008-10-25 15:13:47 ....A       183844               Galagian/Kopia gfx/bg.jpg
+2008-10-25 17:04:32 ....A       239461               Galagian/Kopia (2) gfx/bg.jpg
+2008-11-02 12:42:39 ....A       122335               Galagian/gfx/bg.jpg
+2008-10-25 17:00:54 ....A       262074               Galagian/Kopia (2) gfx/bg2.jpg
+2008-10-27 19:30:13 ....A       228995               Galagian/gfx/bg2.jpg
+2008-11-02 14:10:36 ....A        11033               Galagian/gfx/hud.jpg
+2008-11-24 20:08:57 ....A        58117               Galagian/logo.jpg
+2008-11-30 18:40:44 ....A        32442               Galagian/Ad.png
+2008-10-31 20:15:52 ....A         7952               Galagian/gfx/asteroid.png
+2008-10-26 16:56:38 ....A         7607               Galagian/bar.png
+2008-10-25 22:56:40 ....A         3044               Galagian/gfx/barmultiply.png
+2008-10-19 10:00:44 ....A          488               Galagian/gfx/barrier.png
+2008-10-19 10:00:44 ....A          488               Galagian/Kopia (2) gfx/barrier.png
+2008-10-19 10:00:44 ....A          488               Galagian/Kopia gfx/barrier.png
+2008-10-18 17:13:26 ....A         3028               Galagian/Kopia (2) gfx/barshield.png
+2008-10-18 17:13:26 ....A         3028               Galagian/Kopia gfx/barshield.png
+2008-10-25 22:42:22 ....A         3053               Galagian/gfx/barshield.png
+2008-10-18 17:13:43 ....A         3054               Galagian/gfx/barweapon.png
+2008-10-18 17:13:43 ....A         3054               Galagian/Kopia (2) gfx/barweapon.png
+2008-10-18 17:13:43 ....A         3054               Galagian/Kopia gfx/barweapon.png
+2008-10-18 12:01:23 ....A         4450               Galagian/Kopia gfx/boarder.png
+2008-10-25 17:07:01 ....A         4522               Galagian/Kopia (2) gfx/boarder.png
+2008-10-25 17:18:28 ....A         1945               Galagian/gfx/boarder.png
+2008-10-22 13:52:54 ....A          650               Galagian/gfx/bonus00.png
+2008-10-22 13:52:54 ....A          650               Galagian/Kopia (2) gfx/bonus00.png
+2008-10-22 13:52:54 ....A          650               Galagian/Kopia gfx/bonus00.png
+2008-10-22 13:53:01 ....A          574               Galagian/gfx/bonus01.png
+2008-10-22 13:53:01 ....A          574               Galagian/Kopia (2) gfx/bonus01.png
+2008-10-22 13:53:01 ....A          574               Galagian/Kopia gfx/bonus01.png
+2008-10-22 13:53:12 ....A          486               Galagian/gfx/bonus02.png
+2008-10-22 13:53:12 ....A          486               Galagian/Kopia (2) gfx/bonus02.png
+2008-10-22 13:53:12 ....A          486               Galagian/Kopia gfx/bonus02.png
+2008-10-21 06:45:11 ....A        49258               Galagian/gfx/boom01.png
+2008-10-21 06:45:11 ....A        49258               Galagian/Kopia (2) gfx/boom01.png
+2008-10-21 06:45:11 ....A        49258               Galagian/Kopia gfx/boom01.png
+2008-10-21 06:46:13 ....A        49276               Galagian/gfx/boom02.png
+2008-10-21 06:46:13 ....A        49276               Galagian/Kopia (2) gfx/boom02.png
+2008-10-21 06:46:13 ....A        49276               Galagian/Kopia gfx/boom02.png
+2008-10-21 06:46:09 ....A        47198               Galagian/gfx/boom03.png
+2008-10-21 06:46:09 ....A        47198               Galagian/Kopia (2) gfx/boom03.png
+2008-10-21 06:46:09 ....A        47198               Galagian/Kopia gfx/boom03.png
+2008-10-21 06:46:05 ....A        45432               Galagian/gfx/boom04.png
+2008-10-21 06:46:05 ....A        45432               Galagian/Kopia (2) gfx/boom04.png
+2008-10-21 06:46:05 ....A        45432               Galagian/Kopia gfx/boom04.png
+2008-10-21 06:46:01 ....A        45361               Galagian/gfx/boom05.png
+2008-10-21 06:46:01 ....A        45361               Galagian/Kopia (2) gfx/boom05.png
+2008-10-21 06:46:01 ....A        45361               Galagian/Kopia gfx/boom05.png
+2008-10-21 06:45:56 ....A        45933               Galagian/gfx/boom06.png
+2008-10-21 06:45:56 ....A        45933               Galagian/Kopia (2) gfx/boom06.png
+2008-10-21 06:45:56 ....A        45933               Galagian/Kopia gfx/boom06.png
+2008-10-21 06:45:52 ....A        47069               Galagian/gfx/boom07.png
+2008-10-21 06:45:52 ....A        47069               Galagian/Kopia (2) gfx/boom07.png
+2008-10-21 06:45:52 ....A        47069               Galagian/Kopia gfx/boom07.png
+2008-10-21 06:45:48 ....A        53211               Galagian/gfx/boom08.png
+2008-10-21 06:45:48 ....A        53211               Galagian/Kopia (2) gfx/boom08.png
+2008-10-21 06:45:48 ....A        53211               Galagian/Kopia gfx/boom08.png
+2008-10-21 06:45:44 ....A        52160               Galagian/gfx/boom09.png
+2008-10-21 06:45:44 ....A        52160               Galagian/Kopia (2) gfx/boom09.png
+2008-10-21 06:45:44 ....A        52160               Galagian/Kopia gfx/boom09.png
+2008-10-21 06:45:40 ....A        51248               Galagian/gfx/boom10.png
+2008-10-21 06:45:40 ....A        51248               Galagian/Kopia (2) gfx/boom10.png
+2008-10-21 06:45:40 ....A        51248               Galagian/Kopia gfx/boom10.png
+2008-10-21 06:45:35 ....A        32415               Galagian/gfx/boom11.png
+2008-10-21 06:45:35 ....A        32415               Galagian/Kopia (2) gfx/boom11.png
+2008-10-21 06:45:35 ....A        32415               Galagian/Kopia gfx/boom11.png
+2008-10-19 20:53:03 ....A         2922               Galagian/Kopia gfx/cannon-lufa.png
+2008-10-25 17:06:51 ....A         2923               Galagian/Kopia (2) gfx/cannon-lufa.png
+2008-10-25 17:17:57 ....A          417               Galagian/gfx/cannon-lufa.png
+2008-10-19 19:57:27 ....A         6466               Galagian/Kopia gfx/cannon.png
+2008-10-25 17:06:55 ....A         4639               Galagian/Kopia (2) gfx/cannon.png
+2008-10-25 17:18:08 ....A         2249               Galagian/gfx/cannon.png
+2008-10-19 20:23:49 ....A         8556               Galagian/Kopia gfx/core-bit.png
+2008-10-25 17:06:37 ....A         5251               Galagian/Kopia (2) gfx/core-bit.png
+2008-10-25 17:17:35 ....A         2834               Galagian/gfx/core-bit.png
+2008-10-19 19:52:50 ....A        64586               Galagian/Kopia gfx/core.png
+2008-10-25 17:06:42 ....A        28416               Galagian/Kopia (2) gfx/core.png
+2008-10-25 17:17:46 ....A        25795               Galagian/gfx/core.png
+2008-10-19 20:04:50 ....A        10382               Galagian/Kopia gfx/cruiser.png
+2008-10-25 17:06:33 ....A         6265               Galagian/Kopia (2) gfx/cruiser.png
+2008-10-25 17:17:22 ....A         3745               Galagian/gfx/cruiser.png
+2008-10-25 21:46:58 ....A          696               Galagian/gfx/crys0.png
+2008-10-25 21:49:28 ....A          462               Galagian/gfx/crys1.png
+2008-10-18 12:06:27 ....A         4338               Galagian/Kopia gfx/fighter.png
+2008-10-25 17:06:29 ....A         4365               Galagian/Kopia (2) gfx/fighter.png
+2008-10-25 17:17:08 ....A         1719               Galagian/gfx/fighter.png
+2008-10-19 08:33:11 ....A        11407               Galagian/gfx/flame0.png
+2008-10-19 08:33:11 ....A        11407               Galagian/Kopia (2) gfx/flame0.png
+2008-10-19 08:33:11 ....A        11407               Galagian/Kopia gfx/flame0.png
+2008-10-19 08:33:37 ....A        11049               Galagian/gfx/flame1.png
+2008-10-19 08:33:37 ....A        11049               Galagian/Kopia (2) gfx/flame1.png
+2008-10-19 08:33:37 ....A        11049               Galagian/Kopia gfx/flame1.png
+2008-10-19 08:33:34 ....A        10790               Galagian/gfx/flame2.png
+2008-10-19 08:33:34 ....A        10790               Galagian/Kopia (2) gfx/flame2.png
+2008-10-19 08:33:34 ....A        10790               Galagian/Kopia gfx/flame2.png
+2008-10-19 08:33:31 ....A        10396               Galagian/gfx/flame3.png
+2008-10-19 08:33:31 ....A        10396               Galagian/Kopia (2) gfx/flame3.png
+2008-10-19 08:33:31 ....A        10396               Galagian/Kopia gfx/flame3.png
+2008-10-19 08:33:27 ....A         9994               Galagian/gfx/flame4.png
+2008-10-19 08:33:27 ....A         9994               Galagian/Kopia (2) gfx/flame4.png
+2008-10-19 08:33:27 ....A         9994               Galagian/Kopia gfx/flame4.png
+2008-10-19 08:33:23 ....A         9613               Galagian/gfx/flame5.png
+2008-10-19 08:33:23 ....A         9613               Galagian/Kopia (2) gfx/flame5.png
+2008-10-19 08:33:23 ....A         9613               Galagian/Kopia gfx/flame5.png
+2008-10-22 15:31:03 ....A        10005               Galagian/Kopia gfx/flamer.png
+2008-10-25 17:06:25 ....A         5924               Galagian/Kopia (2) gfx/flamer.png
+2008-10-25 17:16:55 ....A         3464               Galagian/gfx/flamer.png
+2008-10-26 18:44:51 ....A        35822               Galagian/gover.png
+2008-10-18 15:58:59 ....A        37023               Galagian/Kopia (2) gfx/hud.png
+2008-10-18 15:58:59 ....A        37023               Galagian/Kopia gfx/hud.png
+2008-10-18 12:07:57 ....A         4280               Galagian/Kopia gfx/kamikaze.png
+2008-10-25 17:06:21 ....A         4337               Galagian/Kopia (2) gfx/kamikaze.png
+2008-10-25 17:16:43 ....A         1802               Galagian/gfx/kamikaze.png
+2008-10-18 17:13:02 ....A         6238               Galagian/gfx/life.png
+2008-10-18 17:13:02 ....A         6238               Galagian/Kopia (2) gfx/life.png
+2008-10-18 17:13:02 ....A         6238               Galagian/Kopia gfx/life.png
+2008-11-02 13:54:39 ....A       192065               Galagian/logo2.png
+2008-11-01 14:25:54 ....A        22289               Galagian/logo3.png
+2008-10-18 11:55:36 ....A         4338               Galagian/Kopia gfx/mine0.png
+2008-10-25 17:06:18 ....A         4380               Galagian/Kopia (2) gfx/mine0.png
+2008-10-25 17:16:28 ....A         1700               Galagian/gfx/mine0.png
+2008-10-18 11:55:48 ....A         4434               Galagian/Kopia gfx/mine1.png
+2008-10-25 17:06:12 ....A         4462               Galagian/Kopia (2) gfx/mine1.png
+2008-10-25 17:16:18 ....A         1777               Galagian/gfx/mine1.png
+2008-10-18 12:10:02 ....A         4363               Galagian/Kopia gfx/mine2.png
+2008-10-25 17:06:04 ....A         4377               Galagian/Kopia (2) gfx/mine2.png
+2008-10-25 17:16:08 ....A         1753               Galagian/gfx/mine2.png
+2008-10-21 14:43:08 ....A         6056               Galagian/Kopia gfx/mower0.png
+2008-10-25 17:05:53 ....A         6031               Galagian/Kopia (2) gfx/mower0.png
+2008-10-25 17:15:55 ....A         2626               Galagian/gfx/mower0.png
+2008-10-20 19:29:18 ....A        10476               Galagian/Kopia (2) gfx/mower1.png
+2008-10-20 19:29:18 ....A        10476               Galagian/Kopia gfx/mower1.png
+2008-10-20 19:29:34 ....A         9842               Galagian/Kopia (2) gfx/mower2.png
+2008-10-20 19:29:34 ....A         9842               Galagian/Kopia gfx/mower2.png
+2008-10-20 19:33:00 ....A         9625               Galagian/Kopia (2) gfx/mower3.png
+2008-10-20 19:33:00 ....A         9625               Galagian/Kopia gfx/mower3.png
+2008-10-20 19:33:26 ....A         9371               Galagian/Kopia (2) gfx/mower4.png
+2008-10-20 19:33:26 ....A         9371               Galagian/Kopia gfx/mower4.png
+2008-10-20 19:33:39 ....A         9746               Galagian/Kopia (2) gfx/mower5.png
+2008-10-20 19:33:39 ....A         9746               Galagian/Kopia gfx/mower5.png
+2008-10-18 12:04:55 ....A         4645               Galagian/Kopia gfx/node.png
+2008-10-25 17:05:46 ....A         4552               Galagian/Kopia (2) gfx/node.png
+2008-10-25 17:15:33 ....A         2109               Galagian/gfx/node.png
+2008-10-18 16:25:39 ....A         3397               Galagian/Kopia (2) gfx/num0.png
+2008-10-18 16:25:39 ....A         3397               Galagian/Kopia gfx/num0.png
+2008-10-25 22:54:37 ....A         3340               Galagian/gfx/num0.png
+2008-10-18 16:25:58 ....A         3123               Galagian/Kopia (2) gfx/num1.png
+2008-10-18 16:25:58 ....A         3123               Galagian/Kopia gfx/num1.png
+2008-10-25 22:55:05 ....A         3232               Galagian/gfx/num1.png
+2008-10-18 16:26:21 ....A         3398               Galagian/Kopia (2) gfx/num2.png
+2008-10-18 16:26:21 ....A         3398               Galagian/Kopia gfx/num2.png
+2008-10-25 22:55:25 ....A         3392               Galagian/gfx/num2.png
+2008-10-18 16:26:46 ....A         3431               Galagian/Kopia (2) gfx/num3.png
+2008-10-18 16:26:46 ....A         3431               Galagian/Kopia gfx/num3.png
+2008-10-25 22:56:29 ....A         3335               Galagian/gfx/num3.png
+2008-10-18 16:27:02 ....A         3323               Galagian/Kopia (2) gfx/num4.png
+2008-10-18 16:27:02 ....A         3323               Galagian/Kopia gfx/num4.png
+2008-10-25 22:56:47 ....A         3244               Galagian/gfx/num4.png
+2008-10-18 16:27:19 ....A         3433               Galagian/Kopia (2) gfx/num5.png
+2008-10-18 16:27:19 ....A         3433               Galagian/Kopia gfx/num5.png
+2008-10-25 22:57:17 ....A         3437               Galagian/gfx/num5.png
+2008-10-18 16:28:03 ....A         3452               Galagian/Kopia (2) gfx/num6.png
+2008-10-18 16:28:03 ....A         3452               Galagian/Kopia gfx/num6.png
+2008-10-25 22:57:37 ....A         3382               Galagian/gfx/num6.png
+2008-10-18 16:28:27 ....A         3340               Galagian/Kopia (2) gfx/num7.png
+2008-10-18 16:28:27 ....A         3340               Galagian/Kopia gfx/num7.png
+2008-10-25 22:57:59 ....A         3343               Galagian/gfx/num7.png
+2008-10-18 16:28:50 ....A         3456               Galagian/Kopia (2) gfx/num8.png
+2008-10-18 16:28:50 ....A         3456               Galagian/Kopia gfx/num8.png
+2008-10-25 22:58:14 ....A         3449               Galagian/gfx/num8.png
+2008-10-18 16:29:08 ....A         3432               Galagian/Kopia (2) gfx/num9.png
+2008-10-18 16:29:08 ....A         3432               Galagian/Kopia gfx/num9.png
+2008-10-25 22:58:28 ....A         3394               Galagian/gfx/num9.png
+2008-10-20 19:18:49 ....A         7794               Galagian/Kopia gfx/parafighter.png
+2008-10-25 17:05:40 ....A         4939               Galagian/Kopia (2) gfx/parafighter.png
+2008-10-25 17:14:36 ....A         2415               Galagian/gfx/parafighter.png
+2008-10-18 22:18:07 ....A         3050               Galagian/Kopia gfx/rocket.png
+2008-10-25 17:05:35 ....A         3022               Galagian/Kopia (2) gfx/rocket.png
+2008-10-25 17:15:13 ....A          524               Galagian/gfx/rocket.png
+2008-10-23 17:52:13 ....A        12460               Galagian/Kopia gfx/rocketship.png
+2008-10-25 17:05:29 ....A        13361               Galagian/Kopia (2) gfx/rocketship.png
+2008-10-25 17:14:51 ....A         9761               Galagian/gfx/rocketship.png
+2008-10-21 14:52:40 ....A         4864               Galagian/gfx/shield.png
+2008-10-21 14:52:40 ....A         4864               Galagian/Kopia (2) gfx/shield.png
+2008-10-21 14:52:40 ....A         4864               Galagian/Kopia gfx/shield.png
+2008-10-23 08:23:13 ....A         6503               Galagian/gfx/shield0.png
+2008-10-23 08:23:13 ....A         6503               Galagian/Kopia (2) gfx/shield0.png
+2008-10-23 08:23:13 ....A         6503               Galagian/Kopia gfx/shield0.png
+2008-10-23 08:21:37 ....A         6640               Galagian/Kopia (2) gfx/shield1.png
+2008-10-23 08:21:37 ....A         6640               Galagian/Kopia gfx/shield1.png
+2008-10-23 08:18:05 ....A         6311               Galagian/Kopia (2) gfx/shield2.png
+2008-10-23 08:18:05 ....A         6311               Galagian/Kopia gfx/shield2.png
+2008-10-23 08:18:25 ....A         5894               Galagian/Kopia (2) gfx/shield3.png
+2008-10-23 08:18:25 ....A         5894               Galagian/Kopia gfx/shield3.png
+2008-10-23 08:18:49 ....A         4881               Galagian/Kopia (2) gfx/shield4.png
+2008-10-23 08:18:49 ....A         4881               Galagian/Kopia gfx/shield4.png
+2008-10-23 08:19:18 ....A         4186               Galagian/Kopia (2) gfx/shield5.png
+2008-10-23 08:19:18 ....A         4186               Galagian/Kopia gfx/shield5.png
+2008-10-23 08:20:13 ....A         4856               Galagian/Kopia (2) gfx/shield6.png
+2008-10-23 08:20:13 ....A         4856               Galagian/Kopia gfx/shield6.png
+2008-10-23 08:20:42 ....A         5854               Galagian/Kopia (2) gfx/shield7.png
+2008-10-23 08:20:42 ....A         5854               Galagian/Kopia gfx/shield7.png
+2008-10-23 08:21:02 ....A         6363               Galagian/Kopia (2) gfx/shield8.png
+2008-10-23 08:21:02 ....A         6363               Galagian/Kopia gfx/shield8.png
+2008-10-23 08:21:20 ....A         6611               Galagian/Kopia (2) gfx/shield9.png
+2008-10-23 08:21:20 ....A         6611               Galagian/Kopia gfx/shield9.png
+2008-10-22 15:31:18 ....A        61329               Galagian/Kopia gfx/shieldship.png
+2008-10-25 17:07:29 ....A        25270               Galagian/Kopia (2) gfx/shieldship.png
+2008-10-25 17:13:51 ....A        23223               Galagian/gfx/shieldship.png
+2008-10-18 16:46:39 ....A         3712               Galagian/Kopia gfx/ship0.png
+2008-10-25 17:07:25 ....A         3709               Galagian/Kopia (2) gfx/ship0.png
+2008-10-25 17:12:24 ....A         1279               Galagian/gfx/ship0.png
+2008-10-18 16:46:31 ....A         3900               Galagian/Kopia gfx/ship1.png
+2008-10-25 17:07:22 ....A         3954               Galagian/Kopia (2) gfx/ship1.png
+2008-10-25 17:12:53 ....A         1564               Galagian/gfx/ship1.png
+2008-10-15 17:23:17 ....A         4175               Galagian/Kopia gfx/ship2.png
+2008-10-25 17:07:18 ....A         4256               Galagian/Kopia (2) gfx/ship2.png
+2008-10-25 17:13:14 ....A         1653               Galagian/gfx/ship2.png
+2008-10-18 16:46:19 ....A         3893               Galagian/Kopia gfx/ship3.png
+2008-10-25 17:07:15 ....A         3930               Galagian/Kopia (2) gfx/ship3.png
+2008-10-25 17:13:27 ....A         1555               Galagian/gfx/ship3.png
+2008-10-18 16:46:15 ....A         3691               Galagian/Kopia gfx/ship4.png
+2008-10-25 17:07:12 ....A         3749               Galagian/Kopia (2) gfx/ship4.png
+2008-10-25 17:13:37 ....A         1250               Galagian/gfx/ship4.png
+2008-10-18 17:13:47 ....A         3422               Galagian/gfx/shotbig.png
+2008-10-18 17:27:21 ....A         3493               Galagian/Kopia (2) gfx/shotbig00.png
+2008-10-18 17:27:21 ....A         3493               Galagian/Kopia gfx/shotbig00.png
+2008-10-18 17:13:47 ....A         3422               Galagian/Kopia (2) gfx/shotbig01.png
+2008-10-18 17:13:47 ....A         3422               Galagian/Kopia gfx/shotbig01.png
+2008-10-18 17:17:31 ....A         3433               Galagian/Kopia (2) gfx/shotbig02.png
+2008-10-18 17:17:31 ....A         3433               Galagian/Kopia gfx/shotbig02.png
+2008-10-18 17:18:22 ....A         3432               Galagian/Kopia (2) gfx/shotbig03.png
+2008-10-18 17:18:22 ....A         3432               Galagian/Kopia gfx/shotbig03.png
+2008-10-18 17:26:43 ....A         3473               Galagian/Kopia (2) gfx/shotbig04.png
+2008-10-18 17:26:43 ....A         3473               Galagian/Kopia gfx/shotbig04.png
+2008-10-18 17:47:03 ....A         3308               Galagian/gfx/shotoval.png
+2008-10-18 17:46:03 ....A         3277               Galagian/Kopia (2) gfx/shotoval00.png
+2008-10-18 17:46:03 ....A         3277               Galagian/Kopia gfx/shotoval00.png
+2008-10-18 17:46:29 ....A         3296               Galagian/Kopia (2) gfx/shotoval01.png
+2008-10-18 17:46:29 ....A         3296               Galagian/Kopia gfx/shotoval01.png
+2008-10-18 17:47:03 ....A         3308               Galagian/Kopia (2) gfx/shotoval02.png
+2008-10-18 17:47:03 ....A         3308               Galagian/Kopia gfx/shotoval02.png
+2008-10-18 17:11:51 ....A         3133               Galagian/gfx/shotsmall.png
+2008-10-18 17:18:17 ....A         3120               Galagian/Kopia (2) gfx/shotsmall00.png
+2008-10-18 17:18:17 ....A         3120               Galagian/Kopia gfx/shotsmall00.png
+2008-10-18 17:11:51 ....A         3133               Galagian/Kopia (2) gfx/shotsmall01.png
+2008-10-18 17:11:51 ....A         3133               Galagian/Kopia gfx/shotsmall01.png
+2008-10-18 17:17:27 ....A         3109               Galagian/Kopia (2) gfx/shotsmall02.png
+2008-10-18 17:17:27 ....A         3109               Galagian/Kopia gfx/shotsmall02.png
+2008-10-18 17:29:01 ....A         3780               Galagian/gfx/shotwave.png
+2008-10-18 17:31:45 ....A         3789               Galagian/Kopia (2) gfx/shotwave00.png
+2008-10-18 17:31:45 ....A         3789               Galagian/Kopia gfx/shotwave00.png
+2008-10-18 17:29:01 ....A         3780               Galagian/Kopia (2) gfx/shotwave01.png
+2008-10-18 17:29:01 ....A         3780               Galagian/Kopia gfx/shotwave01.png
+2008-10-18 17:34:48 ....A         3786               Galagian/Kopia (2) gfx/shotwave02.png
+2008-10-18 17:34:48 ....A         3786               Galagian/Kopia gfx/shotwave02.png
+2008-10-15 14:40:15 ....A          807               Galagian/obj/GalagaConfig.xml
+2008-10-25 15:31:06 ....A        26532               Galagian/font.ttf
+2008-10-25 21:30:19 ..HSA       161280               Galagian/gfx/Thumbs.db
+2008-10-31 20:14:57 ..HSA       145408               Galagian/Kopia gfx/Thumbs.db
+2009-11-23 20:21:03 ....A         2456               Galagian/.actionScriptProperties
+2008-06-20 05:25:28 ....A         1112               Galagian/CPMStar/AdLoader.as
+2008-10-18 14:21:25 ....A          259               Galagian/Functions/Angler.as
+2008-10-15 14:51:18 ....A          233               Galagian/Functions/Distance2.as
+2008-10-26 19:07:36 ....A          809               Galagian/obs/Flasher.as
+2009-11-23 20:16:16 ....A        10536               Galagian/Galaga.as
+2009-11-23 20:20:54 ....A         6574               Galagian/obs/Hud.as
+2012-09-20 08:18:20 ....A          583               Galagian/Functions/LineLine.as
+2008-10-18 11:41:38 ....A         1516               Galagian/Functions/LineRect.as
+2008-10-21 14:47:31 ....A          766               Galagian/obs/List.as
+2009-11-23 20:08:16 ....A         6460               Galagian/obs/Loading.as
+2009-11-23 19:51:28 ....A          465               Galagian/src/Main.as
+2009-02-19 02:17:08 ....A        40970               Galagian/mochi/as3/MochiAd.as
+2009-02-19 02:17:08 ....A         2465               Galagian/mochi/as3/MochiDigits.as
+2009-02-19 02:17:08 ....A        10597               Galagian/mochi/as3/MochiScores.as
+2009-02-19 02:17:08 ....A        23845               Galagian/mochi/as3/MochiServices.as
+2008-10-15 17:15:56 ....A          355               Galagian/Functions/RectRect.as
+2008-10-26 19:00:51 ....A         3077               Galagian/obs/sfxer.as
+2008-10-15 14:46:41 ....A          241               Galagian/Functions/Sign.as
+2008-11-11 14:20:04 ....A         1345               Galagian/obs/TAsteroid.as
+2008-10-26 13:43:43 ....A         1492               Galagian/obs/TBarrier.as
+2008-10-31 20:22:28 ....A         1042               Galagian/obs/TBoarder.as
+2008-10-26 13:30:24 ....A         1697               Galagian/obs/TCannon.as
+2008-10-26 13:30:50 ....A         1474               Galagian/obs/TCore.as
+2008-10-26 13:31:05 ....A         1140               Galagian/obs/TCoreKid.as
+2008-10-26 13:32:24 ....A         1268               Galagian/obs/TCruiser.as
+2008-11-02 12:48:35 ....A         1262               Galagian/obs/TCrystal.as
+2008-11-02 12:50:01 ....A         1245               Galagian/obs/TEBullet1.as
+2008-11-02 12:50:28 ....A         1829               Galagian/obs/TEBullet2.as
+2008-10-26 13:15:24 ....A         2206               Galagian/obs/TEBullet3.as
+2008-10-31 20:11:58 ....A         2179               Galagian/obs/TEBullet4.as
+2008-11-02 12:51:11 ....A         1246               Galagian/obs/TEBullet5.as
+2008-11-02 12:51:35 ....A         1842               Galagian/obs/TEBullet6.as
+2008-10-26 13:15:29 ....A         2321               Galagian/obs/TEBullet7.as
+2008-10-26 18:52:05 ....A         1702               Galagian/obs/TExplo.as
+2008-10-26 13:14:54 ....A         1200               Galagian/obs/TFighter.as
+2008-10-26 13:32:41 ....A         1339               Galagian/obs/TFlamer.as
+2008-10-31 20:17:26 ....A         1551               Galagian/obs/TKamikaze.as
+2008-10-26 13:32:51 ....A         1655               Galagian/obs/TMine.as
+2008-10-26 13:33:00 ....A         1728               Galagian/obs/TMower.as
+2008-10-26 13:02:07 ....A          797               Galagian/obs/TObject.as
+2008-10-26 13:33:11 ....A         1101               Galagian/obs/TParafighter.as
+2008-11-02 12:49:48 ....A         1245               Galagian/obs/TPBullet1.as
+2008-11-02 12:49:52 ....A         1378               Galagian/obs/TPBullet2.as
+2008-10-26 18:00:43 ....A          950               Galagian/obs/TPBullet3.as
+2008-10-26 18:00:41 ....A          945               Galagian/obs/TPBullet4.as
+2008-11-02 16:09:08 ....A         3797               Galagian/obs/TPlayer.as
+2008-10-26 13:33:28 ....A         1080               Galagian/obs/TRocketer.as
+2008-11-02 14:01:59 ....A          954               Galagian/obs/TShieldShip.as
+2008-11-30 18:53:52 ....A        15206               Galagian/obs/Waves.as
+2009-03-14 14:01:05 ....A         7691               Galagian/obs/Weapon.as
+2008-10-16 18:02:17 ....A         2524               Galagian/Galaga.as3proj
+2009-11-23 19:36:38 ....A           84               Galagian/.settings/com.adobe.flexbuilder.project.prefs
+2008-10-18 10:59:25 ....A           89               Galagian/.settings/org.eclipse.core.resources.prefs
+2009-11-23 19:36:37 ....A          422               Galagian/.project
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:54:18           10065224      7728611  327 files, 15 folders

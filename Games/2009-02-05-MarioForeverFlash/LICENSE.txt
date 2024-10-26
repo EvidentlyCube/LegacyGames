@@ -1,0 +1,14 @@
+Graphics
+--------
+Copyright Nintendo and Softendo
+
+
+Graphics, Sounds effects and Music
+----------------------------------
+Copyright Nintendo
+
+
+Code
+----
+Copyright Maurycy Zarzycki
+MIT License

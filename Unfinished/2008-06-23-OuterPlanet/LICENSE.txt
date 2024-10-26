@@ -1,0 +1,10 @@
+OuterPlanet-Win32/Data/
+-----------------------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+Source_BlitzMax/
+----------------
+Copyright Maurycy Zarzycki
+MIT License

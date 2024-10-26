@@ -1,0 +1,522 @@
+# Keys
+key8=Retour Arrière
+key9=Tab
+key13=Entrée
+key16=Maj
+key17=Ctrl
+key18=Alt
+key19=Pause
+key20=Verr. Maj
+key27=Échap
+key32=Espace
+key33=Page Préc.
+key34=Page Suiv.
+key35=Fin
+key36=Origine
+key37=Gauche
+key38=Haut
+key39=Droit
+key40=Bas
+key45=Inser.
+key46=Suppr.
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=Windows Gauche
+key92=Windows Droite
+key93=Menu
+key96=0 (Pavé numérique)
+key97=1 (Pavé numérique)
+key98=2 (Pavé numérique)
+key99=3 (Pavé numérique)
+key100=4 (Pavé numérique)
+key101=5 (Pavé numérique)
+key102=6 (Pavé numérique)
+key103=7 (Pavé numérique)
+key104=8 (Pavé numérique)
+key105=9 (Pavé numérique)
+key106=* (Pavé numérique)
+key107=+ (Pavé numérique)
+key109=- (Pavé numérique)
+key110=. (Pavé numérique)
+key111=/ (Pavé numérique)
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Verr. Num.
+key145=Arrêt Défil.
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+# Key names
+keyUp=Déplacement nord
+keyUpLeft=Déplacement nord-ouest
+keyUpRight=Déplacement nord-est
+keyLeft=Déplacement ouest
+keyRight=Déplacement est
+keyDown=Déplacement sud
+keyDownLeft=Déplacement sud-ouest
+keyDownRight=Déplacement sud-est
+keyWait=Attendre un Tour
+keyCW=Rotation Sens Horaire
+keyCCW=Rotation Sens Anti-horaire
+keyUndo=Annuler Dernier Mouvement 
+keyRestart=Recommencer la Pièce
+keyBattle=Combat
+keyLock=Verrouiller/Déverrouiller Pièce
+# Global buttons
+close=Fermer
+# Global messages
+cnetError=Échec de la connexion.///
+    Cela peut être du a des identifiants de connexion non valides, une connexion internet défaillante ou des problèmes de serveur temporaires. Les fonctions CaravelNet ont été désactivées. Pour les réactiver, allez à l'écran des options, mettez vos identifiants de connexion à jour si nécessaire et cliquez sur "Connexion !".
+# Preloader
+prlLanguage=Changer la langue
+prlStartGame=Jouer
+prlLoading=Chargement : %% %
+prlWaitApi=Attente de la connexion de l'API…
+# Initialize screen
+initAssets=Initialisation des composants %% / %%
+# Title Screen and submenus
+tsStartNew=Commencer une Nouvelle Partie
+tsStartNewKey=C
+tsStartNewKeyCode=67
+tsContinue=Continuer la Partie
+tsContinueKey=P
+tsContinueKeyCode=80
+tsRestore=Charger une Pièce Différente
+tsRestoreKey=D
+tsRestoreKeyCode=68
+tsAchievements=Voir les Exploits
+tsAchievementsKey=X
+tsAchievementsKeyCode=88
+tsOptions=Options
+tsOptionsKey=O
+tsOptionsKeyCode=79
+tsHelp=Aide et Scénario
+tsHelpKey=A
+tsHelpKeyCode=65
+tsBrowse=Choisir Antre
+tsBrowseKey=h
+tsBrowseKeyCode=72
+# Options
+optHeader=Options:
+optUploadAll=Envoyer les Scores
+optConnect=Connexion !
+optRedefine=Redefinir les Touches
+optCnetHeader=Connexion à CaravelNet
+optCnetUser=Nom CaravelNet
+optCnetKey=Clef CaravelNet
+optCnetVolume=Volume
+optCnetMusic=Musique
+optCnetSound=Effets
+optCnetVoices=Voix
+optMoveAnim=Animation de Mouvement
+optMoveSmooth=Fluide
+opyMoveFast=Rapide
+uploadAll=Envoi des Scores
+uploadDone=OK !
+uploadError=Erreur ! Veuillez vous connecter et réessayer !
+uploadAlreadyHas=Déjà envoyé
+uploadRoomEntrance=Entrée
+cnetDescription=Les utilisateurs ayant souscrit à CaravelNet peuvent indiquer ici leurs identifiants de connexion pour participer aux meilleurs scores en ligne. Moins vous faites de mouvements pour conquérir une pièce, plus vous marquez de points. Si vous ne remplissez pas ces champs vous ne connaitrez que la place que votre score vous aurait permis d'atteindre. Vous pouvez transmettre vos scores plus tard via le bouton « Transmettre les Scores ».
+redefineScreen=Vous allez changer la touche pour « %% »//
+    Appuyez sur la touche voulue (actuellement : %%)//
+    Appuyez sur Échap pour annuler
+redefineInvalidKey=La touche %% est réservée pour d'autres fonctions//
+    Appuyez sur la touche voulue//
+    Appuyez sur Échap pour annuler
+redefineReservedKey=La touche %% est réservée pour la configuration de mouvement alternative//
+    Appuyez sur une autre touche//
+    Appuyez sur Échap pour annuler
+# Help and Backstory
+cnetHeader=En savoir plus sur CaravelNet//
+ ou acheter un abonnement.///
+ S'ouvre dans une nouvelle fenêtre.
+backstoryNext=Suiv.
+backstoryPrev=Préc.
+abButCnet=À propos de CaravelNet
+abButHowto=Comment Jouer
+abButHistory=Chronologie de DROD
+abButBackstory=Scénario
+abButCredits=Générique
+h&bTextWidth=450
+h&bText=\tDROD fut initialement conçu dans les années 1990 par Erik Hermansen. C'est un puzzle-game dans lequel//
+    le joueur visite les pièces d'une oubliette en combattant les monstres avec une Très Grosse Épée.//
+    Comment cela marche ? Vous verrez ça par vous-même//
+    en jouant au jeu.////
+      \tFlash DROD est un port du premier jeu DROD. Il utilise les graphismes et les sons du tout dernier moteur de jeu//
+    DROD que vous pouvez télécharger pour y jouer sur votre ordinateur//
+    à l'adresse CaravelGames.com.////
+      \tGrâce aux possibilités intégrées de CaravelNet, en plus de résoudre les puzzles,//
+    les joueurs peuvent entrer en compétition pour les meilleurs scores en finissant chaque pièce//
+    avec le minimum de mouvements possible.
+creditsWidth=400
+credits=<font size="20">Programmation, Développement : </font><font color="#444444">Maurycy Zarzycki</font>///
+    <font size="20">Graphismes et musique : </font><font color="#444444">Erik Hermansen, Maurycy Zarzycki</font>///
+    <font size="20">Développement du serveur : </font><font color="#444444">Matt Schikore</font>///
+    <font size="20">Développement des niveaux : </font><font color="#444444">Jacob Grinfeld, Larrymurk, Tom Brouws</font>///
+    <font size="20">Testeurs Principaux : </font><font color="#444444">Adrienne E. Siskind, Jason Mayeaux</font>///
+    <font size="20">Testeurs : </font><font color="#444444">Sam Benner, Tom Brouws, Jacob Grinfeld, Logan West, George Wanfried (Chaco), 12th Archivist, DiMono, Dischorran, Jatopian, Neather2, Panther, Pearls, Snacko, N. K. Tiitto, Tim</font>///
+    <font size="20">Traductions : </font><font color="#444444">Bombadil (es), Damien Poussier (fr), DyRsOfDh14 (es), Martin Coors (de), Guilherme Töws (pt), Jutt (nl), Pekka (fi), Robin Knabe (nl), The Architest (fi), Xander Deubelbeiss (de)</font>///
+    <font size="20">Doublage : </font><font color="#444444">Sten Ryanson, Johannah West, Logan West</font>///
+    <font size="20">Code originel, concept et niveaux : </font><font color="#444444">Mike Rimer, Erik Hermansen, Lucas Swineford</font>
+controlsWindowWidth=650
+controlsWindow=<font size="18">'Pavé numérique' et '789 UIO JKL'</font><font color="#444444"> – Déplacement</font>///
+    <font size="18">'Q' et 'W'</font><font color="#444444"> – Tourner votre épée</font>///
+    <font size="18">'Retour Arrière'</font><font color="#444444"> – Annuler le dernier mouvement</font>///
+    <font size="18">'R'</font><font color="#444444"> – Revenir au point de sauvegarde précédent ou recommencer</font>///
+    <font size="18">'Maj' + 'R'</font><font color="#444444"> – Recommencer la pièce</font>///
+    <font size="18">'Échap'</font><font color="#444444"> – Menu</font>///
+    <font size="18">'Entrée'</font><font color="#444444"> – Scores du niveau et de la pièce</font>///
+    <font size="18">'X'</font><font color="#444444"> – Verrouiller/déverrouiller la pièce</font>///
+    <font size="18">'Échap'</font><font color="#444444"> – Faire disparaître dialogues et succès de l'écran</font>///
+    <font size="18">'F3'</font><font color="#444444"> – Afficher le compteur de mouvements</font>///
+    <font size="18">'Maj' + 'une touche'</font><font color="#444444"> – Effectuer une action et son contraire</font>///
+    <font size="18">'Maj + 'Attendre'</font><font color="#444444"> – Attendre jusqu'à la prochaine éclosion</font>///
+    <font size="18">'Clic gauche'</font><font color="#444444"> - Afficher info sur la case cliquée</font>////
+    \tVotre objectif est de débarrasser chaque niveau des oubliettes du roi Dugan de ses monstres. Cet exploit peut être//
+    accompli en utilisant uniquement votre Très Gross Épée™ et votre matière grise. Chaque pièce est une zone à part entière//
+    devant être nettoyée en une fois. Si vous quittez une pièce sans l'avoir complètement nettoyée, elle retournera à son//
+    stade initial quand vous y reviendrez.
+cnetInfoWidth=500
+cnetInfo=\tCaravelNet permet aux utilisateurs du monde entier de concourir pour les//
+    meilleurs scores.////
+      \tChacun peut envoyer son score de façon anonyme pour savoir quelle place il occupe.//
+    Cependant, les scores anonymes ne sont pas stockés sur le serveur de Caravel et ne servent qu'à titre//
+    d'information. Les scores de chaque utilisateur de forum de Caravel sont stockés gratuitement pendant deux//
+    semaines après l'envoi. Les scores de ceux ayant souscrit à CaravelNet//
+    ne seront jamais supprimés.////
+      \tVeuillez noter que tant que votre progression n'est pas effacée de votre disque, vous pouvez choisir d'envoyer//
+    vos scores au serveur après que vous ayez souscrit à un compte Caravel.////
+      \tPour vous enregistrer auprès de Caravel, rendez-vous sur CaravelGames.com et créez un compte sur le forum !
+# Backstory
+backstory1=\tBeethro Budkin arriva dans la Grande Salle à Manger où le Roi Dugan terminait son copieux petit déjeuner.////
+      \t« Arrière, vil roturier ! Vous importunez ma digestion par votre hygiène douteuse ! », rugit le Roi, des morceaux de porc et de pommes de terre jaillissant de sa bouche.////
+      \t« Mais monsieur, protesta Beethro, vous m'avez convoqué ».///
+      \tL'expression du visage charnu du Roi passa de la colère à la confusion, puis de l'identification à la bonhomie en l'espace de deux secondes.///
+      \t« J'aurais dû vous faire venir plus tôt , dit le Roi Dugan. C'est incroyable ! Vous laissez vos gardes prendre leurs repas dans les souterrains, ils sèment des miettes de pain partout, et tout à coup l'endroit grouille de cafards géants, sans parler des gobelins, serpents, mauvais yeux et autres vilaines choses. Tout cela devient incontrôlable ».///
+      \tBeethro se redressa fièrement. « N'ayez crainte. Je suis un professionnel entraîné issu d'une longue lignée d'exterminateurs. J'associe les connaissances accumulées de cinq générations avec un équipement dernier cri pour offrir un service d'extermination efficace à un prix abordable. »///
+      \t« Quel genre d'équipement utilisez-vous ? »///
+      \t« J'ai une très grosse épée »
+backstory2=\t« Parfait ! Quand pouvez-vous commencer ? »////
+      \t« Dès que nous nous serons mis d'accord sur le paiement. Voilà mes honoraires de base pour l'extermination. Signez en bas. » Beethro remit un contrat au Roi.////
+      \t« Ce prix est scandaleux ! Le privilège d'un service honorable à la couronne ne vaut-il donc plus rien de nos jours ? »////
+      \t« Je peux toujours m'en aller… »////
+      \t« Non, non, non. Nous avons besoin que ce souterrain soit nettoyé pour que nos prisonniers soient torturés dans un environnement propre et sans danger. »////
+      \t« Je peux vous faire un rabais si vous rajoutez une princesse. »////
+      \t« Vous êtes laid et sentez mauvais. Aucune de mes filles ne voudra de vous. »////
+      \tBeethro haussa les épaule : « C'est pas faux. »////
+      \tLe Roi signa le contrat. « Bien. Je vais vous conduire à l'entrée. »
+backstory3=\tEn descendant, Beethro considéra la tâche qu'il entreprenait. Le souterrain de Dugan était très vaste, et d'après les récits des exterminateurs précédents, il était particulièrement bien adapté pour une infestation. Il avait aussi été agrandi plusieurs fois, au grand dam de la première personne à l'avoir nettoyé, son contrat ne couvrant pas cette éventualité (elle n'avait été payée que pour les parties dont elle connaissait l'existence).////
+      \tCertains disaient que des forces maléfiques étaient derrière cette expansion. La légende veut qu'un ancien roi, exaspéré par son fils, suggéra pour plaisanter qu'il aille jouer dans les souterrains du château. Prenant son père au sérieux, le garçon s'enfonça dans les chambres souterraines et personne ne le retrouva. On dit qu'il survécut et qu'il choisit volontairement de passer le reste de ses jours dans les souterrains ; que, devenu maître de son nouvel environnement, il apprit tous les secrets du monde souterrain et forgea des alliances avec les monstres y vivant, leur faisant construire de nouveaux passages et les croisant pour concevoir de nouvelles espèces. Il prit le nom d'En-Dessous et fomenta des plans pour remonter à la surface et s'emparer du trône lorsque ses pouvoirs le lui permettraient.
+backstory4=\tBeethro ne savait quoi en penser. Déjà, le trône royal n'était plus ce qu'il avait été, maintenant que son pouvoir était principalement passé au parlement. Et puis qui voudrait vivre sous terre, et comment ferait-il pour se lier aux créatures ? Elles n'étaient pas connues pour leur conversation. Mais il était vrai que les souterrains étaient souvent inutilement compliqués et facilement infestés, et qu'ils grandissaient parfois sans prévenir – nul architecte ne voudrait dire pourquoi (une question d'honneur) – et c'était surtout cela qui garantissait leur travail à des gens comme Beethro.////
+      \tQuoi qu'il en soit, un exterminateur avait bien d'autres soucis pratiques, comme les nombreux cafards aussi gros qu'un homme. La pensée qui occupait l'esprit de Beethro était de réussir à tuer assez de monstres et gagner assez d'argent sur ce travail pour enfin quitter cette profession ingrate et ouvrir un restaurant.////
+      \t« Je l'appellerai "Aux Cafards Grillés de Beethro" ! »
+backstory1width=550
+backstory2width=550
+backstory3width=560
+backstory4width=560
+drodHistoryWidth=650
+drodHistory=\t« Deadly Rooms of Death » (DROD) fut initialement créé par Erik Hermansen dans les années//
+    1990. Le jeu fut publié par Webfoot et est connu sous le nom de « Webfoot DROD », mais cette version n'est plus en vente//
+    et n'est plus disponible légalement. Heureusement, Erik obtint le droit de redévelopper le jeu de son côté,//
+    et c'est ainsi que naquit « Caravel DROD » en 2002.////
+      \tPuis, en 2003, « DROD: Architect's Edition » fut publié,//
+    comprenant un éditeur de niveaux qui permettait à quiconque de créer ses propres « antres »//
+    (ensemble de niveaux) et de les partager sur le forum de CaravelGames. Le jeu attira de nombreux fans//
+    et un nouveau projet de jeu vit le jour.////
+      \tLe 1er avril 2005, « DROD: Journey to Rooted Hold » fut publié ! La liste des nouveautés était//
+    incroyable. De nouveaux graphismes, des capacités de scripting, plus d'une douzaine de nouveaux éléments de jeu,//
+    une histoire captivante et un antagoniste dont la voix donnait des frissons à tout le monde.////
+      \tExactement deux ans plus tard « DROD: The City Beneath » vit le jour. Cette journée fut//
+    un record d'affluence sur le forum de Caravel. TCB comportait encore plus de nouveaux//
+    éléments et d'améliorations que JtRH, et une difficulté encore accrue.////
+      \t« DROD RPG » sortit en 2008. Bien qu'il ne fut pas aussi populaire que les autres titres, c'était néanmoins une//
+    réussite. Cette fois le jeu était stratégique et s'articulait autour de la gestion de ressources sur plusieurs pièces.//
+    Chaque monstre possédait des statistiques et il fallait calculer quels monstres pouvaient être vaincus, prévoir//
+    où aller ensuite, quelles ressources collecter et quand et où les récolter.////
+      \t« DROD 4: Gunthro and the Epic Blunder » est le dernier volet de la série, sorti le 1er avril 2012. Ce jeu//
+    est destiné aux nouveaux joueurs, grâce à une difficulté revue à la baisse, des tutoriels plus intuitifs//
+    et une navigation plus aisée dans les niveaux.
+# Restore Screen
+rstHeader=Charger Partie
+rstToRoom=Charger cette pièce
+rstReturn=Revenir au menu principal
+rstSecrets=Secrets trouvés : %% / %%
+# Ingame messages
+roomLocked=Vous avez verrouillé la pièce.//
+    Appuyez sur %% pour la déverrouiller.
+ingLevelCompleted=Niveau Terminé
+ingSecretFound=Secret Trouvé
+ingHoldMastered=Antre Conquis
+# Achievements popup
+achievementHeader=Exploit !
+achievementDismiss=Clic ou espace pour effacer
+# Achievements list
+achlistHeader=Exploits :
+# Browse released holds
+browseHeader=Choisir un antre de Flash DROD
+browseOpen=Ouvrir dans une nouvelle fenêtre
+# Level/Room score
+scrStats=Statistiques
+scrYourBest=Votre meilleur score :
+scrTop=Meilleurs scores pour la pièce : 
+scrNoScore=Aucun !
+scrFetching=Téléchargement…
+scrOnlyForCnet=Les scores ne sont disponibles que pour les utilisateurs de CaravelNet et//
+    du forum Caravelgames.////
+    Vous n'avez pas encore renseigné vos détails CaravelNet. Créer un compte//
+    Caravelgames vous permettra de concourir contre des joueurs du monde//
+    entier et de consulter les scores de chaque pièce.////
+    Pour créer un compte, utilisez le bouton dans le menu des options.
+scrMovesRoom=Mouvements dans la pièce : %%
+scrMovesLevel=Mouvements dans le niveau : %%
+scrDeaths=Morts dans le niveau : %%
+scrKills=Monstres tués : %%
+scrTime=Temps du niveau : %%
+scrNoScores=Pas de scores pour cette pièce pour l'instant.
+scrCnetProblems=Les fonctionnalités de CaravelNet sont désactivées à cause de problèmes avec votre connexion.////
+    Assurez-vous que votre connexion internet fonctionne et que les identifiants de connexion que//
+    vous avez entrés sont valides. Allez ensuite dans le menu options et cliquez sur « Connexion ! »
+# Login Window
+loginConnected=\tVous êtes maintenant connectés à CaravelNet !\\\\
+      \tSi vous avez créé un compte sur le forum mais n'avez pas souscrit à CaravelNet, vos\\
+    scores seront effacés deux semaines après leur envoi.\\\\
+      \tLes scores envoyés par les utilisateurs de CaravelNet sont permanents.
+loginConnectedAnonymous=\tVous êtes connecté à CaravelNet en tant qu'utilisateur anonyme. Vous pouvez envoyer vos//
+    scores pour savoir quelle place vous auriez pu obtenir mais vos scores ne sont pas//
+    stockés sur le serveur. Pour rendre vos envois permanents vous devez//
+    créer un compte Caravelgames (accessible depuis le menu options).///
+      \tSi vous décidez de créer un compte plus tard, cliquez sur le bouton « Envoyer les Scores ! » pour//
+    transmettre toute votre progression à nos serveurs.
+loginFailed=\tÉchec de la connexion !////
+    1. Vérifiez que vous êtes connecté à internet.///
+    2. Assurez-vous que votre pare-feu ne bloque pas le jeu.///
+    3. Allez sur http://forum.caravelgames.com pour voir si le serveur charge. Sinon, attendez//
+    quelques minutes puis réessayez.\n
+loginFailedBadCredentials=4. Vérifiez que vos identifiants de connexion sont corrects.
+loginFailedMissingCrentials=4. Assurez-vous d'avoir entré un nom d'utilisateur et une clef CaravelNet valides.
+# Pause window
+pauseHeader=DROD est en pause
+pauseContinue=Continuer à jouer
+pauseContinueTip=Continuer à jouer.///
+    (Échap, Entrée)
+pauseRestart=Recommencer la pièce
+pauseRestartTip=Recommencer cette pièce.///
+    (Raccourci : F5).
+pauseRoomHelp=Obtenir de l'aide pour cette pièce
+pauseRoomHelpTip=Accéder à l'aide en ligne pour la pièce en cours.///
+    (Raccourci : F2)
+pauseHelp=Aide générale
+pauseHelpTip=Ouvrir la fenêtre d'aide globale.///
+    (Raccourci : F1)
+pauseAchievements=Voir les exploits
+pauseAchievementsTip=Voir la liste de tous les exploits.///
+    (Raccourci : Tab)
+pauseOptions=Options
+pauseOptionsTip=Vous permet de changer certains réglages.///
+    (Raccourci: ??????)
+pauseReturn=Retour au menu principal
+pauseReturnTip=Votre progression sera sauvegardée,///
+    mais celle de la pièce en cours sera///
+    perdue si vous quittez le jeu.
+# Misc
+achHidden=???
+levelCreatedDate=Créé le %%.%%.%%
+# Scored Places
+score1NoTie=Première Place !!
+score1=1ère place
+score2=2ème place
+score3=3ème place
+score4=4ème place
+score5=5ème place
+score6=6ème place
+score7=7ème place
+score8=8ème place
+score9=9ème place
+score10=10ème place
+score11=11ème place
+score12=12ème place
+score13=13ème place
+score14=14ème place
+score15=15ème place
+score16=16ème place
+score17=17ème place
+score18=18ème place
+score19=19ème place
+score20=20ème place
+score21=21ème place
+score22=22ème place
+score23=23ème place
+score24=24ème place
+score25=25ème place
+scoreTie=Égalité %% !
+scoreNoCnet=(anonyme)
+# Game Stats
+resultHoldTotals=Totaux de l'antre :\n
+resultLevelTotals=Totaux du niveau :\n
+resultMoves=Mouvements : %%\n
+resultKills=Tués : %%\n
+resultDeaths=Morts : %%\n
+resultTime=Temps : %%\n
+resultSecrets=Secrets trouvés : %%\n
+resultSecretsBetter=Secrets trouvés : %% / %%\n
+# Scroll Clock
+spawnCycle=Cycle d'éclosion
+snakesPrefer=Préf. serpents :
+clcHo=HO
+clcRiz=RIZ
+clcOn=ON
+clcTal=TAL
+clcVe=VE
+clcRt=RT
+clcIc=IC
+clcAl=AL
+# Tiles list
+tile1=Sol
+tile2=Vide
+tile3=Escaliers descendants
+tile4=Mur
+tile5=Mur fissuré
+tile6=Porte (niveau)
+tile7=Porte (pièce)
+tile8=Porte (trappe)
+tile9=Porte jaune
+tile10=Porte jaune (ouverte)
+tile11=Trappe
+tile12=Obstacle
+tile13=Flèche (nord)
+tile14=Flèche (nord-est)
+tile15=Flèche (est)
+tile16=Flèche (sud-est)
+tile17=Flèche (sud)
+tile18=Flèche (sud-ouest)
+tile19=Flèche (ouest)
+tile20=Flèche (nord-ouest)
+tile21=Potion d'invisibilité
+tile22=Potion de dédoublement
+tile23=Parchemin
+tile24=Orbe
+tile35=Goudron
+tile37=Porte (goudron)
+tile54=Mosaïque
+tile55=Route
+tile56=Herbe
+tile57=Sol nu
+tile58=Sol différent
+tile59=Mur maître
+tile61=Escaliers montants
+tile62=Mur secret
+tile66=Mur
+tile68=Porte (pièce) ouverte
+tile69=Porte (niveau) ouverte
+tile70=Porte (trappe) ouverte
+tile71=Porte (goudron) ouverte
+tileCheckpoint=Point de sauvegarde
+# Monsters list
+monsterPlayer=Joueur
+monster0=Cafard
+monster1=Cafard (reine)
+monster2=Œuf de cafard
+monster3=Gobelin
+monster5=Spectre ailé
+monster6=Mauvais œil
+monster7=Serpent
+monster8=Mère (goudron)
+monster9=Bébé (goudron)
+monster10=Cerveau
+monster11=Double
+monster12=Araignée
+monster29=Personnage
+sword=Épée
+swords=Épées (%%)
+# Room position
+roomS=S
+roomSouth=sud
+roomN=N
+roomNorth=nord
+roomE=E
+roomEast=est
+roomW=O
+roomWest=ouest
+roomEntrance=L'entrée
+room1=Une fois
+room2=Deux fois
+room3=Trois fois
+room4=Quatrain
+room5=Cinquime
+room6=Sixte
+room7=Septime
+room8=Octime
+room9=Neuvime
+room10=Dixime
+room11=Onzence
+room12=Douzence
+room13=Treizence
+room14=Quartorzence
+room15=Quinzence
+room16=Seizence
+room17=Dixseptence
+room18=Dixhuitence
+room19=Dixneufence
+roomMore=%% Fois
+# Game completion
+complButtNextGame=Jouer au set suivant
+complButtLearnMore=En savoir plus
+complButtContinue=Continuer à jouer
+complHeader=Et maintenant ?
+complLearnMore=Découvrez le reste de la série DROD – l'univers et les jeux de base : Journey to Rooted Hold, The City Beneath, Gunthro and the Epic Blunder et les derniers épisodes de la série !
+complContinue=Poursuivre la maîtrise de cet antre – trouvez les secrets et gagnez l'accès au niveau de maître. Vous pouvez trouver des liens vers les deux options ci-dessus sur le menu principal.

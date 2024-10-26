@@ -1,0 +1,12 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Squarbley_648475158_gmz\mvc\objects\Player\Step_0.gml
+String not found: ConversionLog_ConvertedString 9 'A' "A"
+String not found: ConversionLog_ConvertedString 10 'A' "A"
+String not found: ConversionLog_ConvertedString 11 'D' "D"
+String not found: ConversionLog_ConvertedString 12 'D' "D"
+String not found: ConversionLog_ConvertedString 27 'W' "W"
+
+Game speed set to 55
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

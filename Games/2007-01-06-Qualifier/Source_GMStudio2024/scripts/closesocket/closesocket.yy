@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"closesocket",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"closesocket",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

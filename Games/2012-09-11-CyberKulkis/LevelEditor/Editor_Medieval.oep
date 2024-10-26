@@ -1,0 +1,63 @@
+<project>
+  <name>Cyberix</name>
+  <settings>
+    <bgColor>0x000000</bgColor>
+    <defaultWidth>600</defaultWidth>
+    <defaultHeight>552</defaultHeight>
+    <minWidth>48</minWidth>
+    <maxWidth>600</maxWidth>
+    <minHeight>48</minHeight>
+    <maxHeight>600</maxHeight>
+    <workingDirectory>.</workingDirectory>
+  </settings>
+
+  <values>
+    <integer name="moves" default="0"/>
+    <string name="title" />
+    <string name="author" />
+  </values>
+
+  <tilesets>
+    <tileset name="tiles" image="gfx/general_medieval.png" tileWidth="24" tileHeight="24" paletteScale="1"/>
+  </tilesets>
+
+  <objects>
+    <object name="teleport" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="0" imageOffsetY="96">
+      <nodes drawObject="false" lineMode="2" limit="1"/>
+    </object>
+    <object name="buttonFire" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="264" imageOffsetY="48">
+      <nodes drawObject="false" lineMode="3"/>
+    </object>
+    <object name="buttonToggle" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="264" imageOffsetY="48">
+      <nodes drawObject="false" lineMode="3"/>
+    </object>
+    <object name="stop"      image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="168" imageOffsetY="48"/>
+    <object name="bounceBLU" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="0"   imageOffsetY="48"/>
+    <object name="bounceTLD" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="24"  imageOffsetY="48"/>
+    <object name="bounceLFT" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="48"  imageOffsetY="48"/>
+    <object name="bounceRGT" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="72"  imageOffsetY="48"/>
+    <object name="bounceTOP" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="96"  imageOffsetY="48"/>
+    <object name="bounceBTM" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="0"   imageOffsetY="72"/>
+    <object name="exit"      image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="0"   imageOffsetY="48"/>
+    <object name="arrowRGT"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="0"  imageOffsetY="0"/>
+    <object name="arrowDWN"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="24"  imageOffsetY="0"/>
+    <object name="arrowLFT"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="48"  imageOffsetY="0"/>
+    <object name="arrowTOP"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="72"  imageOffsetY="0"/>
+    <object name="arrowDWR"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="168" imageOffsetY="0"/>
+    <object name="arrowDWL"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="96" imageOffsetY="0"/>
+    <object name="arrowUPL"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="120" imageOffsetY="0"/>
+    <object name="arrowUPR"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="144" imageOffsetY="0"/>
+    <object name="arrowLFR"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="216" imageOffsetY="0"/>
+    <object name="arrowUPD"  image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="192" imageOffsetY="0"/>
+    <object name="player"    image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="264" imageOffsetY="144"/>
+    <object name="slimeWall" image="gfx/tileset.png" width="24" height="24" imageWidth="24" imageHeight="24" imageOffsetX="456" imageOffsetY="48"/>
+  </objects>
+
+  <layers>
+    <tiles name="floorLayer" gridSize="24"/>
+    <tiles name="solidLayer" gridSize="24"/>
+    <tiles name="alternateLayer" gridSize="24"/>
+
+    <objects name="actors" gridSize="24"/>
+  </layers>
+</project>

@@ -1,0 +1,11 @@
+jerzy/
+------
+PENDING LICENSING INFORMATION
+@FIXME
+
+
+levels/
+unused/
+-------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International

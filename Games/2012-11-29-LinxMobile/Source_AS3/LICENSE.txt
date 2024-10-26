@@ -1,0 +1,17 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+src/
+scripts/
+src.framework/
+--------------
+Copyright Maurycy Zarzycki
+MIT License
+
+
+src.starling/
+-------------
+Copyright Gamua
+Simplified BSD License

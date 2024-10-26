@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SCR_WE_BSTEP",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SCR_WE_BSTEP",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Scripts/Weapon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

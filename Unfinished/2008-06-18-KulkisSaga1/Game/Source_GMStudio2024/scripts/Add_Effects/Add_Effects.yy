@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_Effects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_Effects",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Surfacing/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

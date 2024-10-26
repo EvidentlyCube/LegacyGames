@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"readint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"readint",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

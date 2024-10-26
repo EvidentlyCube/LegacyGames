@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Block_Hit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Block_Hit",
+  "parent":{
+    "name":"Operations",
+    "path":"folders/Scripts/Operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Block_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Block_Create",
+  "parent":{
+    "name":"Creations",
+    "path":"folders/Scripts/Creations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,20 @@
+gfx/
+----
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+OtherLevels/
+------------
+Copyright Crazy Boys, Maurycy Zarzycki, other people
+
+
+Editor_Cpu.oep
+Editor_Blob.oep
+Editor_Inka.oep
+Editor_Moon.oep
+Editor_Casual.oep
+Editor_Medical.oep
+------------------
+Copyright Maurycy Zarzycki
+MIT License

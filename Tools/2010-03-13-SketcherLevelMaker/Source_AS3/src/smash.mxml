@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" click="clicked();" buttonMode="true" useHandCursor="true" rollOver="alpha = 0.6" rollOut="alpha = 1">
+    <mx:Script>
+        <![CDATA[
+            public var pointBack:pnt;
+            public var pointNext:pnt;
+            
+            private function clicked():void{
+                SketcherLevelMaker.select(new pnt());
+                SketcherLevelMaker.selected.x = SketcherLevelMaker.self.canver.mouseX;
+                SketcherLevelMaker.selected.y = SketcherLevelMaker.self.canver.mouseY;
+                
+                if (pointBack){
+                    pnt.pts.splice(pnt.pts.indexOf(pointBack)+1, 0, SketcherLevelMaker.selected);
+                }
+                
+                SketcherLevelMaker.selected.created();
+                trace(pnt.pts.indexOf(pointBack)+":"+pnt.pts.indexOf(pointNext));
+                trace(pnt.pts.indexOf(SketcherLevelMaker.selected));
+                
+                SketcherLevelMaker.self.points.addChild(SketcherLevelMaker.selected);
+                
+                var pts:Array = pnt.pts;
+                
+                var p:pnt = pts[pts.indexOf(SketcherLevelMaker.selected) + 1];
+                p.smasherBack = SketcherLevelMaker.selected.smasherNext;
+                p.smasherBack.pointNext = p;
+                
+                p.smasherBack.update();
+                
+                
+            }
+            
+            public function update():void{
+                this.graphics.clear()
+                if (!pointBack || !pointNext){ return; }
+                
+                x = pointBack.x;
+                y = pointBack.y;
+
+                
+                
+                if (pointNext._newBody){ return; }
+                this.graphics.lineStyle(8, 0xFFFFFF, 0.5);
+                this.graphics.moveTo(0, 0);
+                this.graphics.lineTo(pointNext.x - x, pointNext.y - y);
+                this.graphics.lineStyle(1, 0, 1);
+                this.graphics.lineTo(0, 0);
+            }
+            
+            public function kill():void{
+                this.graphics.clear();
+                if (parent){
+                    parent.removeChild(this);
+                }
+            }
+        ]]>
+    </mx:Script>
+</mx:Canvas>

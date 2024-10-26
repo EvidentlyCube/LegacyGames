@@ -1,0 +1,4 @@
+Generate_Ingame("zzzzzzzzzzzzzzzzzzbbbbbbbbzzzzzzbybbbubbzzzzzzbbbbbbbbzzzzzzbbbbbobbzzzzzzbrbbbibrzzzzzzbbbbbbbuzzzzzzbbbbbbbbzzzzzzbubybbbbzzzzzzbbbbbbbuzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz")
+global.l_title="Lil' Going"
+global.l_author="Maurice Zarzycki"
+global.pathx=50

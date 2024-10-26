@@ -1,0 +1,141 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 16:29:05 D....            0            0  Sketcher3
+2015-12-04 15:54:13 D....            0            0  Sketcher3/.settings
+2015-12-04 15:54:13 D....            0            0  Sketcher3/audio
+2015-12-04 15:54:13 D....            0            0  Sketcher3/aze
+2015-12-04 15:54:13 D....            0            0  Sketcher3/aze/motion
+2015-12-04 15:54:13 D....            0            0  Sketcher3/aze/motion/easing
+2015-12-04 15:54:13 D....            0            0  Sketcher3/aze/motion/specials
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/mauft
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/mauft/DataVault
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/mauft/Display
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/mauft/Display/Buttons
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/meychi
+2015-12-04 15:54:14 D....            0            0  Sketcher3/com/meychi/ascrypt
+2015-12-04 15:54:14 D....            0            0  Sketcher3/EXPORT
+2015-12-04 15:54:14 D....            0            0  Sketcher3/images
+2011-07-23 10:08:05 D....            0            0  Sketcher3/images/Newmages
+2015-12-04 15:54:14 D....            0            0  Sketcher3/mochi
+2015-12-04 15:54:14 D....            0            0  Sketcher3/mochi/as3
+2010-03-05 21:40:40 ....A            0            0  Sketcher3/images/dot3.png
+2010-03-05 21:41:54 ....A            0            0  Sketcher3/images/dot4.png
+2010-03-05 21:42:56 ....A            0            0  Sketcher3/images/dot5.png
+2014-04-06 11:42:52 ....A     12741621     18035731  Sketcher3/Sketcher_3.fla
+2010-03-13 22:51:05 ....A         3644               Sketcher3/audio/click.mp3
+2010-03-13 14:24:41 ....A        14877               Sketcher3/audio/completed.mp3
+2010-03-13 22:17:59 ....A        22187               Sketcher3/audio/fail.mp3
+2011-07-20 19:06:45 ....A       615331               Sketcher3/audio/music.mp3
+2010-03-13 20:29:14 ....A      4099048               Sketcher3/audio/music3.mp3
+2010-03-13 22:50:56 ....A         2079               Sketcher3/audio/rover.mp3
+2010-03-13 15:16:19 ....A         4428               Sketcher3/audio/sketch1.mp3
+2010-03-13 15:16:20 ....A         4167               Sketcher3/audio/sketch10.mp3
+2010-03-13 15:16:20 ....A         5212               Sketcher3/audio/sketch11.mp3
+2010-03-13 15:16:20 ....A         3644               Sketcher3/audio/sketch12.mp3
+2010-03-13 15:16:20 ....A         5734               Sketcher3/audio/sketch13.mp3
+2010-03-13 15:16:20 ....A         3644               Sketcher3/audio/sketch14.mp3
+2010-03-13 15:16:20 ....A         4428               Sketcher3/audio/sketch15.mp3
+2010-03-13 15:16:20 ....A         5473               Sketcher3/audio/sketch16.mp3
+2010-03-13 15:16:19 ....A         4167               Sketcher3/audio/sketch2.mp3
+2010-03-13 15:16:19 ....A         3383               Sketcher3/audio/sketch3.mp3
+2010-03-13 15:16:19 ....A         4428               Sketcher3/audio/sketch4.mp3
+2010-03-13 15:16:19 ....A         4689               Sketcher3/audio/sketch5.mp3
+2010-03-13 15:16:19 ....A         3383               Sketcher3/audio/sketch6.mp3
+2010-03-13 15:16:19 ....A         3905               Sketcher3/audio/sketch7.mp3
+2010-03-13 15:16:20 ....A         5212               Sketcher3/audio/sketch8.mp3
+2010-03-13 15:16:20 ....A         4689               Sketcher3/audio/sketch9.mp3
+2011-07-24 22:55:09 ....A      2378810               Sketcher3/EXPORT/Sketcher_3.swf
+2014-04-06 11:07:18 ....A      2334801               Sketcher3/Sketcher_3.swf
+2011-07-22 20:21:16 ....A        95424               Sketcher3/images/image_1.jpg
+2011-07-23 09:53:55 ....A       151016               Sketcher3/images/image_10.jpg
+2011-07-22 20:26:44 ....A       142573               Sketcher3/images/image_11.jpg
+2011-07-23 10:06:56 ....A       135276               Sketcher3/images/image_12.jpg
+2010-02-28 15:26:07 ....A       296439               Sketcher3/images/image_12_original.jpg
+2011-07-22 20:19:14 ....A       131673               Sketcher3/images/image_2.jpg
+2011-07-23 09:47:46 ....A       115109               Sketcher3/images/image_3.jpg
+2011-07-22 20:16:55 ....A       264767               Sketcher3/images/image_4.jpg
+2011-07-23 09:13:19 ....A       166252               Sketcher3/images/image_5.jpg
+2011-07-22 20:19:58 ....A       136436               Sketcher3/images/image_6.jpg
+2011-07-22 20:17:41 ....A       181790               Sketcher3/images/image_7.jpg
+2011-07-22 20:22:42 ....A       101768               Sketcher3/images/image_8.jpg
+2011-07-22 20:25:17 ....A       174816               Sketcher3/images/image_9.jpg
+2011-07-20 18:47:49 ....A       122841               Sketcher3/images/paper.jpg
+2011-07-24 22:49:07 ....A        19674               Sketcher3/EXPORT/100x100.png
+2011-07-24 22:50:11 ....A        27981               Sketcher3/EXPORT/140x90.png
+2011-07-24 22:49:30 ....A        72409               Sketcher3/EXPORT/200x200.png
+2010-02-21 16:22:25 ....A         3356               Sketcher3/images/backbutton.png
+2010-02-28 16:04:48 ....A        13586               Sketcher3/images/button.png
+2010-03-07 11:52:49 ....A        16395               Sketcher3/images/button2.png
+2010-03-05 21:36:59 ....A         6328               Sketcher3/images/dot1.png
+2010-03-05 23:23:40 ....A         5986               Sketcher3/images/dot2.png
+2011-07-20 18:03:52 ....A        20451               Sketcher3/images/Holder.png
+2011-07-20 18:24:11 ....A         9359               Sketcher3/images/Holder_Round.png
+2010-02-21 16:11:40 ....A        44155               Sketcher3/images/logo.png
+2010-02-28 15:51:08 ....A       562092               Sketcher3/images/paper.png
+2010-02-20 19:26:38 ....A       729256               Sketcher3/images/paper4.png
+2010-02-21 16:16:54 ....A        28742               Sketcher3/images/paper5.png
+2010-03-06 19:14:16 ....A         1478               Sketcher3/images/pencil.png
+2010-03-05 22:02:10 ....A       958813               Sketcher3/images/scribble.png
+2010-03-05 20:20:16 ....A         1370               Sketcher3/images/Untitled-3.png
+2010-03-02 21:41:39 ....A      1187325               Sketcher3/images/button.psd
+2011-07-20 17:04:19 ....A         2595               Sketcher3/.actionScriptProperties
+2011-07-20 17:07:46 ....A         1850               Sketcher3/com/mauft/Display/Buttons/AbstractButton.as
+2009-11-28 15:03:30 ....A         1294               Sketcher3/aze/motion/easing/Back.as
+2007-05-21 21:47:00 ....A         1961               Sketcher3/com/meychi/ascrypt/Base64.as
+2007-05-21 21:47:00 ....A          660               Sketcher3/com/meychi/ascrypt/Base8.as
+2010-03-13 16:19:36 ....A         1836               Sketcher3/Body.as
+2010-05-11 20:05:12 ....A          943               Sketcher3/aze/motion/easing/Bounce.as
+2010-03-14 00:12:31 ....A         2282               Sketcher3/com/mauft/Display/Buttons/ButtonBrightness.as
+2009-11-08 17:48:08 ....A          546               Sketcher3/aze/motion/easing/Cubic.as
+2011-06-29 13:29:42 ....A         1032               Sketcher3/aze/motion/eaze.as
+2009-11-08 17:48:08 ....A         1031               Sketcher3/aze/motion/specials/EazeSpecial.as
+2011-06-29 13:38:34 ....A        20996               Sketcher3/aze/motion/EazeTween.as
+2009-11-08 17:48:08 ....A         1755               Sketcher3/aze/motion/easing/Elastic.as
+2009-12-13 21:28:38 ....A          679               Sketcher3/aze/motion/easing/Expo.as
+2011-07-20 17:52:56 ....A         5682               Sketcher3/GamePoint.as
+2007-05-21 21:47:00 ....A          584               Sketcher3/com/meychi/ascrypt/Goauld.as
+2007-05-21 21:47:00 ....A          577               Sketcher3/com/meychi/ascrypt/GUID.as
+2011-07-20 18:52:10 ....A         9392               Sketcher3/Level.as
+2011-07-24 21:39:59 ....A        53730               Sketcher3/LevelsData.as
+2009-11-08 17:48:08 ....A          294               Sketcher3/aze/motion/easing/Linear.as
+2007-05-21 21:47:00 ....A         2394               Sketcher3/com/meychi/ascrypt/LZW.as
+2014-04-06 11:03:25 ....A         5481               Sketcher3/M.as
+2007-05-21 21:47:00 ....A         6315               Sketcher3/com/meychi/ascrypt/MD5.as
+2011-06-27 15:37:20 ....A        41770               Sketcher3/mochi/as3/MochiAd.as
+2011-06-27 15:37:20 ....A         5014               Sketcher3/mochi/as3/MochiCoins.as
+2011-06-27 15:37:20 ....A         2332               Sketcher3/mochi/as3/MochiDigits.as
+2011-06-27 15:37:20 ....A         1322               Sketcher3/mochi/as3/MochiEventDispatcher.as
+2011-06-27 15:37:20 ....A         3967               Sketcher3/mochi/as3/MochiEvents.as
+2011-06-27 15:37:20 ....A         8515               Sketcher3/mochi/as3/MochiInventory.as
+2011-06-27 15:37:20 ....A         9704               Sketcher3/mochi/as3/MochiScores.as
+2011-06-27 15:37:20 ....A        26949               Sketcher3/mochi/as3/MochiServices.as
+2011-06-27 15:37:20 ....A         8101               Sketcher3/mochi/as3/MochiSocial.as
+2010-01-26 17:17:14 ....A         1270               Sketcher3/mochi/as3/MochiSync.as
+2011-06-27 15:37:20 ....A         5711               Sketcher3/mochi/as3/MochiUserData.as
+2009-12-13 21:14:30 ....A         2917               Sketcher3/aze/motion/specials/PropertyBezier.as
+2009-11-08 17:48:08 ....A         9432               Sketcher3/aze/motion/specials/PropertyColorMatrix.as
+2009-11-08 17:48:08 ....A         6341               Sketcher3/aze/motion/specials/PropertyFilter.as
+2009-11-08 17:48:08 ....A         2441               Sketcher3/aze/motion/specials/PropertyFrame.as
+2011-06-29 13:31:42 ....A         1782               Sketcher3/aze/motion/specials/PropertyRect.as
+2011-06-29 13:08:06 ....A         1203               Sketcher3/aze/motion/specials/PropertyShortRotation.as
+2010-05-26 19:19:12 ....A         2704               Sketcher3/aze/motion/specials/PropertyTint.as
+2009-11-08 17:48:08 ....A         1470               Sketcher3/aze/motion/specials/PropertyVolume.as
+2009-11-08 17:48:08 ....A          537               Sketcher3/aze/motion/easing/Quadratic.as
+2009-11-08 17:48:08 ....A          566               Sketcher3/aze/motion/easing/Quart.as
+2009-11-08 17:48:08 ....A          586               Sketcher3/aze/motion/easing/Quint.as
+2007-05-21 21:47:00 ....A         2855               Sketcher3/com/meychi/ascrypt/RC4.as
+2010-03-09 21:17:26 ....A        14308               Sketcher3/com/meychi/ascrypt/Rijndael.as
+2007-05-21 21:47:00 ....A          683               Sketcher3/com/meychi/ascrypt/ROT13.as
+2010-03-09 19:43:13 ....A         1845               Sketcher3/com/mauft/DataVault/Safe.as
+2010-03-09 22:11:58 ....A         3667               Sketcher3/com/mauft/DataVault/Safe_0.as
+2010-03-09 22:11:59 ....A         3838               Sketcher3/com/mauft/DataVault/Safe_1.as
+2010-03-09 22:11:45 ....A         3915               Sketcher3/com/mauft/DataVault/Safe_2.as
+2007-05-21 21:47:00 ....A         2922               Sketcher3/com/meychi/ascrypt/SHA1.as
+2007-05-21 21:47:00 ....A         3545               Sketcher3/com/meychi/ascrypt/TEA.as
+2010-03-09 21:59:25 ....A         7941               Sketcher3/com/mauft/DataVault/Vault.as
+2011-07-20 16:42:42 ....A           88               Sketcher3/.settings/com.adobe.flexbuilder.project.prefs
+2010-02-28 18:18:04 ....A           88               Sketcher3/.settings/org.eclipse.core.resources.prefs
+2010-02-28 18:18:04 ....A          411               Sketcher3/.project
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 16:29:05           28522569     18035731  118 files, 19 folders

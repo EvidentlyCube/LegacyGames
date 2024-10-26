@@ -1,0 +1,13 @@
+days/
+-----
+Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad. All rights reserved.
+
+
+leokadia_deco/
+--------------
+Copyright (c) Gophmann A.L. (cyr.code page), 2000. All rights reserved.
+
+
+porkys_heavy/
+-------------
+Porky's ©1998, Font‐a‐licious Fonts.

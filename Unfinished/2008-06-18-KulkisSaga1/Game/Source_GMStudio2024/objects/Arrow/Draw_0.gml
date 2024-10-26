@@ -1,0 +1,5 @@
+draw_set_blend_mode(bm_subtract)
+draw_sprite_ext(S_Arrow,direction,x,y,1,1,0,c_white,0.2)
+draw_set_blend_mode(bm_add)
+draw_sprite_ext(S_Arrow,direction+4,x,y,1,1,0,c_white,0.3)
+draw_set_blend_mode(bm_normal)

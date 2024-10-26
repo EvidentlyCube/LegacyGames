@@ -1,0 +1,83 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:46 D....            0            0  Kulkis II
+2013-04-21 19:52:46 D....            0            0  Kulkis II/Nowy folder
+2013-04-21 19:52:46 D....            0            0  Kulkis II/WinAmp_Plugs
+2008-06-24 23:28:30 ....A          132     28358004  Kulkis II/Game_Finished.txt
+2006-10-13 07:40:16 ....A          655               Kulkis II/Read Me!.txt
+2005-10-14 04:48:36 ....A       297428               Kulkis II/Kulkis 2 v 0.3 Beta-Demo.GB1
+2005-08-28 12:34:48 ....A       275052               Kulkis II/Kulkis 2 v 0.3 Beta.GB1
+2005-10-19 07:48:10 ....A       309748               Kulkis II/Kulkis 2 v 0.4 -- Naprawianie Wroguw --.GB1
+2005-10-14 06:52:28 ....A       311099               Kulkis II/Kulkis 2 v 0.4.GB1
+2006-04-01 07:22:08 ....A      2931889               Kulkis II/Kulkis 2 v 0.5 -- Uedytorowywanie Gry --.GB1
+2006-04-08 17:02:56 ....A      2947056               Kulkis II/Kulkis 2 V 0.8.GB1
+2006-04-10 19:08:12 ....A      2119082               Kulkis II/Kulkis 2 V 0.81 -- Rozmianka Endzajna.GB1
+2006-08-05 20:14:36 ....A      5843722               Kulkis II/Kulkis 2 V 0.81.GB1
+2006-06-29 12:35:40 ....A      4537575               Kulkis II/Kulkis 2 V 0.9.GB1
+2006-09-29 15:54:25 ....A      8491679               Kulkis II/Kulkis 2 V 0.99.GB1
+2006-10-13 06:24:39 ....A      8354801               Kulkis II/Kulkis 2 V 1.00.GB1
+2006-11-18 12:08:26 ....A      8355119               Kulkis II/Kulkis 2 V 1.01.GB1
+2008-10-01 15:31:24 ....A      7371805               Kulkis II/Kulkis 2 V 1.10.gb1
+2008-10-28 06:21:08 ....A      7371970               Kulkis II/Kulkis 2 V 1.7.gb1
+2005-08-28 12:33:18 ....A       275052               Kulkis II/Kulkis 2.GB1
+2005-10-18 00:32:32 ....A       303158               Kulkis II/KULKIS~6.GB1
+2006-01-14 08:00:38 ....A      1810660               Kulkis II/Kibol kila.GM6
+2006-04-07 08:14:06 ....A      2931893               Kulkis II/Kulkis 2 Edytor.GM6
+2007-03-04 15:43:26 ....A      7697227               Kulkis II/Kulkis 2 test.GM6
+2005-10-14 05:09:42 ....A       298546               Kulkis II/Kulkis 2 v 0.3 Beta-Demo.GM6
+2005-10-14 06:53:18 ....A       275052               Kulkis II/Kulkis 2 v 0.3 Beta.GM6
+2005-10-19 07:48:12 ....A       309748               Kulkis II/Kulkis 2 v 0.4 -- Naprawianie Wroguw --.GM6
+2005-10-14 06:55:40 ....A       311099               Kulkis II/Kulkis 2 v 0.4.GM6
+2006-04-07 08:13:24 ....A      2931893               Kulkis II/Kulkis 2 v 0.5 -- Uedytorowywanie Gry --.GM6
+2006-04-08 17:06:16 ....A      2947584               Kulkis II/Kulkis 2 V 0.8.GM6
+2006-08-05 20:24:48 ....A      5843941               Kulkis II/Kulkis 2 V 0.81.GM6
+2006-06-29 12:37:38 ....A      4537575               Kulkis II/Kulkis 2 V 0.9.GM6
+2006-09-30 14:51:54 ....A      8491679               Kulkis II/Kulkis 2 V 0.99.GM6
+2006-11-15 14:53:13 ....A      8354634               Kulkis II/Kulkis 2 V 1.00.GM6
+2008-10-01 15:42:14 ....A      7371970               Kulkis II/Kulkis 2 V 1.10.GM6
+2008-10-28 06:27:07 ....A      7090817               Kulkis II/Kulkis 2 V 1.7.gm6
+2005-08-28 12:34:34 ....A       275052               Kulkis II/Kulkis 2.GM6
+2005-09-03 12:19:10 ....A         3632               Kulkis II/Kulkis 3 v0.00.GM6
+2006-01-14 07:05:28 ....A         3525               Kulkis II/Kibo.GML
+2008-06-24 23:27:11 ....A          187               Kulkis II/game_errors.log
+2006-12-22 15:11:40 ....A        39904               Kulkis II/music_0.MUS
+2006-12-22 15:11:40 ....A        39904               Kulkis II/Nowy folder/music_0.MUS
+2006-12-22 15:11:40 ....A        46273               Kulkis II/music_1.MUS
+2006-12-22 15:11:40 ....A        46273               Kulkis II/Nowy folder/music_1.MUS
+2006-12-22 15:11:40 ....A        38511               Kulkis II/music_ea.MUS
+2006-12-22 15:11:40 ....A        38511               Kulkis II/Nowy folder/music_ea.MUS
+2006-12-22 15:11:40 ....A        29244               Kulkis II/music_ex.MUS
+2006-12-22 15:11:40 ....A        29244               Kulkis II/Nowy folder/music_ex.MUS
+2006-12-22 15:11:40 ....A        31971               Kulkis II/music_ha.MUS
+2006-12-22 15:11:40 ....A        31971               Kulkis II/Nowy folder/music_ha.MUS
+2006-12-22 15:11:40 ....A        78013               Kulkis II/music_lo.MUS
+2006-12-22 15:11:40 ....A        78013               Kulkis II/Nowy folder/music_lo.MUS
+2006-12-22 15:11:40 ....A        36056               Kulkis II/music_tu.MUS
+2006-12-22 15:11:40 ....A        36056               Kulkis II/Nowy folder/music_tu.MUS
+2006-12-22 15:11:40 ....A        38158               Kulkis II/music_wi.MUS
+2006-12-22 15:11:40 ....A        38158               Kulkis II/Nowy folder/music_wi.MUS
+2008-06-24 23:28:38 ....A        12185               Kulkis II/kulkisii.sav
+2006-12-22 15:11:40 ....A       171520       710511  Kulkis II/dtbrowser.dll
+2006-12-22 15:11:40 ....A       171520               Kulkis II/Nowy folder/dtbrowser.dll
+2006-12-22 15:11:40 ....A       160768               Kulkis II/fmod.dll
+2006-12-22 15:11:40 ....A       160768               Kulkis II/Nowy folder/fmod.dll
+2003-06-17 13:02:00 ....A       101888               Kulkis II/WinAmp_Plugs/in_midi.dll
+2003-03-23 03:42:00 ....A       130560               Kulkis II/WinAmp_Plugs/in_mod.dll
+2003-11-17 01:00:00 ....A       276992               Kulkis II/WinAmp_Plugs/in_mp3.dll
+2004-05-11 12:03:50 ....A        17408               Kulkis II/WinAmp_Plugs/in_nsf.dll
+2004-05-11 12:03:50 ....A       304128               Kulkis II/WinAmp_Plugs/in_psf.dll
+2004-05-11 12:03:00 ....A       364544               Kulkis II/WinAmp_Plugs/in_spc.dll
+2003-06-15 16:13:00 ....A       226816               Kulkis II/WinAmp_Plugs/in_vorbis.dll
+2002-08-31 19:10:00 ....A        31232               Kulkis II/WinAmp_Plugs/in_wave.dll
+2003-04-15 16:06:00 ....A        54272               Kulkis II/WinAmp_Plugs/in_wm.dll
+2006-01-28 18:37:38 ....A        90344               Kulkis II/klw2s.dll
+2006-01-28 18:37:38 ....A        90344               Kulkis II/Nowy folder/klw2s.dll
+2001-12-30 10:08:00 ....A        15360               Kulkis II/WinAmp_Plugs/out_disk.dll
+2003-12-15 02:09:00 ....A        41984               Kulkis II/WinAmp_Plugs/out_ds.dll
+2002-10-06 18:00:00 ....A        13824               Kulkis II/WinAmp_Plugs/out_wave.dll
+2006-12-22 15:11:40 ....A        31094               Kulkis II/Nowy folder/prior36.dll
+2006-12-22 15:11:40 ....A        31094               Kulkis II/prior36.dll
+2006-12-22 15:11:40 ....A       197671               Kulkis II/Nowy folder/SXMS2.dll
+2006-12-22 15:11:40 ....A       197671               Kulkis II/SXMS2.dll
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:46          125153983     29068515  76 files, 3 folders

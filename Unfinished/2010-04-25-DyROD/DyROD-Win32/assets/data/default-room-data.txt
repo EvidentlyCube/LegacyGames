@@ -1,0 +1,55 @@
+# File: default-room-data.txt
+
+# This file contains information about the default tiles information.
+# Understanding default-room-data.txt:
+
+# B : character
+# T : tileID (Mandatory) : special data
+## I : item1 : item2 : item3 : item4 ...
+## M : objectID
+
+
+# B - Definies a tile of "character"
+# T - ID of the tile and some special data for that tile if needed
+# I - ID's of items lying on the tile
+# M - ID of an object lying on this tile
+
+#Casual floor
+B:.
+T:0
+
+#Casual Wall
+B:X
+T:1
+
+#Arrow: Right
+B:0
+T:2
+
+#Arrow: Bottom-Right
+B:1
+T:3
+
+#Arrow: Bottom
+B:2
+T:4
+
+#Arrow: Bottom-Left
+B:3
+T:5
+
+#Arrow: Left
+B:4
+T:6
+
+#Arrow: Top-Left
+B:5
+T:7
+
+#Arrow: Top
+B:6
+T:8
+
+#Arrow: Top-Right
+B:7
+T:9

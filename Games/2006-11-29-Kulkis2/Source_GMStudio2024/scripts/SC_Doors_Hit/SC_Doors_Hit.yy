@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_Doors_Hit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_Doors_Hit",
+  "parent":{
+    "name":"OBjects",
+    "path":"folders/Scripts/OBjects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

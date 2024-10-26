@@ -1,0 +1,113 @@
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2013-04-21 19:57   Outer Planet/
+     3572  2009-08-25 15:55   Outer Planet/.FunctionsGeometry.bmx
+        0  2013-04-21 19:57   Outer Planet/.bmx/
+      293  2008-04-08 15:45   Outer Planet/.bmx/Events.bmx.debug.win32.x86.i
+     9905  2008-04-08 15:45   Outer Planet/.bmx/Events.bmx.debug.win32.x86.o
+    21743  2008-04-08 15:45   Outer Planet/.bmx/Events.bmx.debug.win32.x86.s
+    10709  2008-03-22 13:23   Outer Planet/.bmx/Events.bmx.gui.debug.win32.x86.o
+    21953  2008-03-22 13:23   Outer Planet/.bmx/Events.bmx.gui.debug.win32.x86.s
+     2672  2008-03-22 21:01   Outer Planet/.bmx/FunctionsMath.bmx.gui.debug.win32.x86.o
+     3770  2008-03-22 21:01   Outer Planet/.bmx/FunctionsMath.bmx.gui.debug.win32.x86.s
+   475988  2009-12-24 18:26   Outer Planet/.bmx/Main Game.bmx.console.debug.win32.x86.o
+  1269441  2009-12-24 18:26   Outer Planet/.bmx/Main Game.bmx.console.debug.win32.x86.s
+   475467  2008-06-23 17:17   Outer Planet/.bmx/Main Game.bmx.gui.debug.win32.x86.o
+  1266072  2008-06-23 17:17   Outer Planet/.bmx/Main Game.bmx.gui.debug.win32.x86.s
+    37948  2009-04-13 23:44   Outer Planet/.bmx/Outer Planet Editor.bmx.gui.debug.win32.x86.o
+    86253  2009-04-13 23:44   Outer Planet/.bmx/Outer Planet Editor.bmx.gui.debug.win32.x86.s
+        0  2013-04-21 19:57   Outer Planet/Data/
+        0  2013-04-21 19:57   Outer Planet/Data/.bmx/
+     6955  2008-03-22 18:38   Outer Planet/Data/.bmx/tester.bmx.gui.debug.win32.x86.o
+    14373  2008-03-22 18:38   Outer Planet/Data/.bmx/tester.bmx.gui.debug.win32.x86.s
+     7968  2008-03-22 18:03   Outer Planet/Data/.bmx/tester2.bmx.gui.debug.win32.x86.o
+    16018  2008-03-22 18:03   Outer Planet/Data/.bmx/tester2.bmx.gui.debug.win32.x86.s
+     7523  2008-03-22 18:37   Outer Planet/Data/.bmx/tester3.bmx.gui.debug.win32.x86.o
+    16231  2008-03-22 18:37   Outer Planet/Data/.bmx/tester3.bmx.gui.debug.win32.x86.s
+    31744  2008-03-23 12:45   Outer Planet/Data/Thumbs.db
+     3050  2008-04-13 18:46   Outer Planet/Data/acid1.png
+     2854  2008-04-13 18:46   Outer Planet/Data/acid2.png
+    43750  2008-03-30 10:27   Outer Planet/Data/blocks.png
+     3304  2007-12-29 18:01   Outer Planet/Data/conveyor.png
+      883  2008-04-16 18:44   Outer Planet/Data/cross.png
+      608  2008-04-16 18:44   Outer Planet/Data/crossstats.png
+     3128  2008-04-27 18:18   Outer Planet/Data/debris.png
+     3238  2007-12-01 14:49   Outer Planet/Data/e_blob.png
+     4097  2008-03-02 12:37   Outer Planet/Data/e_cannon.png
+     3935  2008-03-02 12:36   Outer Planet/Data/e_cannon2.png
+     2915  2007-12-28 21:34   Outer Planet/Data/e_cannon2_can.png
+     3248  2008-04-10 21:22   Outer Planet/Data/e_chopper.png
+     4982  2008-04-30 21:14   Outer Planet/Data/e_mutant.png
+    67410  2007-12-16 08:37   Outer Planet/Data/editor.png
+      430  2008-04-15 18:41   Outer Planet/Data/el.png
+      169  2008-04-15 18:41   Outer Planet/Data/el2.png
+    58847  2008-04-12 14:19   Outer Planet/Data/explosion.png
+     2962  2008-04-26 20:29   Outer Planet/Data/fireball.png
+     2854  2008-04-19 22:43   Outer Planet/Data/flak.png
+    38840  2008-04-12 14:33   Outer Planet/Data/flame1.png
+    44272  2008-04-12 14:33   Outer Planet/Data/flame2.png
+    45171  2008-04-12 15:04   Outer Planet/Data/flame3.png
+    45442  2008-04-12 15:04   Outer Planet/Data/flame4.png
+    42373  2008-04-12 14:34   Outer Planet/Data/flame5.png
+    38507  2008-04-12 14:34   Outer Planet/Data/flame6.png
+    40620  2008-04-12 14:34   Outer Planet/Data/flame7.png
+    41041  2008-04-12 14:35   Outer Planet/Data/flame8.png
+     3471  2008-04-18 17:19   Outer Planet/Data/flashmuzzle1.png
+     3558  2008-04-18 17:23   Outer Planet/Data/flashmuzzle2.png
+     4055  2008-04-18 18:18   Outer Planet/Data/flashmuzzle3.png
+     1503  2008-04-17 18:56   Outer Planet/Data/font.png
+     2909  2008-04-13 18:01   Outer Planet/Data/grenade.png
+    12571  2008-04-20 11:57   Outer Planet/Data/hud_back.png
+     1122  2008-04-20 12:36   Outer Planet/Data/hud_bars.png
+      744  2008-04-20 12:39   Outer Planet/Data/hud_bars2.png
+    27202  2008-04-20 12:32   Outer Planet/Data/hud_map.png
+     3058  2008-02-29 21:30   Outer Planet/Data/nplayer_body.png
+      304  2008-03-01 11:50   Outer Planet/Data/nplayer_gun.png
+      406  2008-03-23 12:45   Outer Planet/Data/nplayer_leg.png
+      231  2008-03-01 11:32   Outer Planet/Data/nplayer_leg1.png
+      207  2008-03-01 11:32   Outer Planet/Data/nplayer_leg2.png
+     3417  2008-03-28 23:38   Outer Planet/Data/plasma.png
+     3241  2008-03-28 23:43   Outer Planet/Data/plasmamuzzle.png
+      301  2008-04-13 10:46   Outer Planet/Data/rocket.png
+     1153  2008-05-10 16:57   Outer Planet/Data/shapes.png
+     4676  2008-04-16 18:43   Outer Planet/Data/shield.png
+      393  2007-11-18 12:01   Outer Planet/Data/spikes.png
+     3254  2007-12-29 19:43   Outer Planet/Data/spring.png
+     1022  2008-03-22 18:38   Outer Planet/Data/tester.bmx
+     1065  2008-03-22 18:03   Outer Planet/Data/tester2.bmx
+     1067  2008-03-22 18:37   Outer Planet/Data/tester3.bmx
+      204  2008-04-19 21:21   Outer Planet/Data/trail.png
+     3759  2008-04-20 14:40   Outer Planet/Drawing.bmx
+    11064  2008-06-21 13:20   Outer Planet/Effects.bmx
+     1205  2008-05-15 20:28   Outer Planet/Enemy_Blob.bmx
+     2014  2008-04-28 21:59   Outer Planet/Enemy_Chopper.bmx
+     2338  2008-06-21 12:18   Outer Planet/Enemy_Mutant.bmx
+      725  2008-04-28 21:21   Outer Planet/Enemy_Square.bmx
+     1848  2008-04-08 15:45   Outer Planet/Events.bmx
+  2112512  2008-03-22 13:23   Outer Planet/Events.exe
+     3572  2008-06-21 14:59   Outer Planet/FunctionsGeometry.bmx
+      790  2008-06-21 12:22   Outer Planet/FunctionsMath.bmx
+  2107904  2008-03-22 21:01   Outer Planet/FunctionsMath.exe
+     3451  2008-05-15 19:57   Outer Planet/Graphics.bmx
+    10352  2008-06-23 17:17   Outer Planet/Level.bmx
+        0  2013-04-21 19:57   Outer Planet/Levels/
+     1860  2008-06-05 21:08   Outer Planet/Levels/TestMe.oplvl
+     1865  2010-09-23 19:02   Outer Planet/Levels/backup_23'Sep'2010_20'02'02.oplvl
+      704  2008-05-15 20:08   Outer Planet/Lists.bmx
+     2558  2009-04-13 12:17   Outer Planet/Main Game.bmx
+  1362432  2009-12-24 18:26   Outer Planet/Main Game.debug.exe
+   904704  2008-06-23 17:17   Outer Planet/Main Game.exe
+      340  2008-03-27 18:39   Outer Planet/Markers.bmx
+    15776  2008-06-21 12:25   Outer Planet/Objects.bmx
+      177  2008-03-22 13:35   Outer Planet/Options.bmx
+    11910  2009-04-13 23:44   Outer Planet/Outer Planet Editor.blide
+     7520  2008-05-10 23:05   Outer Planet/Outer Planet Editor.bmx
+   673280  2009-04-13 23:44   Outer Planet/Outer Planet Editor.debug.exe
+   657920  2008-05-10 23:05   Outer Planet/Outer Planet Editor.exe
+    12392  2009-12-24 18:26   Outer Planet/Outer Planet.blide
+     5125  2008-06-21 12:21   Outer Planet/Player.bmx
+     6240  2008-04-25 20:34   Outer Planet/PlayerWeapons.bmx
+    16933  2008-06-23 17:14   Outer Planet/Projectiles.bmx
+  1122968  2008-05-15 20:38   Outer Planet/op.rar
+---------                     -------
+ 13482900                     109 files

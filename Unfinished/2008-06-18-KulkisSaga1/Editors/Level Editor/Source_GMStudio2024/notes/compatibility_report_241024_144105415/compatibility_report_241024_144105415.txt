@@ -1,0 +1,30 @@
+GameMaker Studio 1 font texture has been backed up at C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Levels Editor_1086238031_gmz\mvc\fonts\font0\font0.gms1.png
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Levels Editor_1086238031_gmz\mvc\objects\Mister\Create_0.gml
+String not found: ConversionLog_ConvertedString 1 'Kulkis Saga I Level File|*.kil' "Kulkis Saga I Level File|*.kil"
+String not found: ConversionLog_ConvertedString 1 'H:\Projects\Workon\Kulkis Saga 1' "H:\\Projects\\Workon\\Kulkis Saga 1"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Levels Editor_1086238031_gmz\mvc\objects\Mister\Other_3.gml
+String not found: ConversionLog_ConvertedString 1 './dozo.bmp' "./dozo.bmp"
+String not found: ConversionLog_ConvertedString 2 'What now?' "What now?"
+String not found: ConversionLog_ConvertedString 2 'End' "End"
+String not found: ConversionLog_ConvertedString 2 'Background' "Background"
+String not found: ConversionLog_ConvertedString 2 'Foreground' "Foreground"
+String not found: ConversionLog_ConvertedString 3 './KIIB.exe' "./KIIB.exe"
+String not found: ConversionLog_ConvertedString 3 '"' "\""
+String not found: ConversionLog_ConvertedString 3 '"' "\""
+String not found: ConversionLog_ConvertedString 4 './KIIF.exe' "./KIIF.exe"
+String not found: ConversionLog_ConvertedString 4 '"' "\""
+String not found: ConversionLog_ConvertedString 4 '"' "\""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Levels Editor_1086238031_gmz\mvc\objects\Mister\Draw_0.gml
+String not found: ConversionLog_ConvertedString 5 'Draw Level' "Draw Level"
+String not found: ConversionLog_ConvertedString 52 'Select Item' "Select Item"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KII Bin Levels Editor_1086238031_gmz\mvc\objects\Fister\Mouse_4.gml
+String not found: ConversionLog_ConvertedString 6 'Level' "Level"
+String not found: ConversionLog_ConvertedString 14 'Variable A' "Variable A"
+String not found: ConversionLog_ConvertedString 22 'Variable B' "Variable B"
+String not found: ConversionLog_ConvertedString 30 'Variable C' "Variable C"
+
+Game speed set to 600
+Added compatibility script 'draw\draw_set_blend_mode.gml'

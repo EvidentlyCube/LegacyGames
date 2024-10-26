@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"filesize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"filesize",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

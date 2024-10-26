@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gmsql_close",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gmsql_close",
+  "parent":{
+    "name":"gmsql",
+    "path":"folders/Scripts/gmsql.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

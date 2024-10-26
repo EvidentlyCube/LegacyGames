@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Crack_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Crack_Draw",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Surfacing/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,18 @@
+assets/
+Scribbland2.fla (Graphics)
+--------------------------
+Check LICENSE.txt in each subdirectory
+
+
+com/adobe/
+----------
+Copyright adobe
+
+
+*.as
+src/
+com/mauft/
+Scribbland2.fla (code/scripts)
+----------------------
+Copyright Maurycy Zarzycki
+MIT License

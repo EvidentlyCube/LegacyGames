@@ -1,0 +1,9 @@
+a=instance_create(x-8,y-8,Wall)
+a.image_index=0
+a=instance_create(x+8,y-8,Wall)
+a.image_index=1
+a=instance_create(x-8,y+8,Wall)
+a.image_index=2
+a=instance_create(x+8,y+8,Wall)
+a.image_index=3
+instance_destroy()

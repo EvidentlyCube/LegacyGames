@@ -1,0 +1,4 @@
+[submodule "flex-sdk"]
+	path = .lib/flex-sdk
+	url = git@github.com:EvidentlyCube/flex-sdk-compiled.git
+	branch = flex-sdk-3.4.1.1

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dran",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dran",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

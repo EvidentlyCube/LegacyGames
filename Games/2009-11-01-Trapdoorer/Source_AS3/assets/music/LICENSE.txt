@@ -1,0 +1,8 @@
+omogenic/
+---------
+Copyright Jaakko Iisalo (Croaker)
+
+
+(remaining files)
+-----------------
+Copyright original authors (unknown)

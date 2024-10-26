@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bufferdecrypt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bufferdecrypt",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

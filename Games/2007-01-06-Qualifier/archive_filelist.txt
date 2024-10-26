@@ -1,0 +1,20 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55 D....            0            0  Qualifier
+2004-09-27 18:09:44 ....A        66422      2163048  Qualifier/music1
+2007-01-06 18:04:33 ....A       162514               Qualifier/music2
+2007-01-06 00:56:10 ....A       368105               Qualifier/dst.zip
+2007-01-06 13:05:32 ....A       107932               Qualifier/bums.wav
+2007-01-06 13:05:28 ....A        55036               Qualifier/Ciuf.wav
+2007-01-06 13:04:57 ....A        40220               Qualifier/pyk.wav
+2008-06-28 19:30:12 ....A           12               Qualifier/server data.txt
+2007-01-05 21:26:23 ....A        28401               Qualifier/Deboredator.GB1
+2008-06-29 21:52:06 ....A      1559427               Qualifier/Destroyer.gb1
+2007-01-05 21:42:15 ....A        29211               Qualifier/Deboredator.GM6
+2008-10-28 06:41:53 ....A      1450079               Qualifier/Destroyer.GM6
+2008-06-29 16:45:03 ....A          607               Qualifier/game_errors.log
+2007-05-28 15:59:42 ....A        43008       213757  Qualifier/39dll.dll
+2004-06-30 12:20:00 ....A       160768               Qualifier/fmod.dll
+2004-08-28 14:48:54 ....A       197671               Qualifier/SXMS2.dll
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:55            4269413      2376805  15 files, 1 folders

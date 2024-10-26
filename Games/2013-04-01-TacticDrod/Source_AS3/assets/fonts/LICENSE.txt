@@ -1,0 +1,7 @@
+epilog.ttf
+----------
+http://members.aol.com/vroomfonde/ttf - Copyright (c) 1996 Tom Murphy 7. All
+Rights Reserved. Free for non-commercial use. ImightbeTM@aol.com - 339 Still
+Hill Rd - Hamden CT 06518 - USA.
+NOTE: While the font file is not used in the game, a bitmap version of the
+font is a part of `assets/gfx/sheets/guiSheet.png`

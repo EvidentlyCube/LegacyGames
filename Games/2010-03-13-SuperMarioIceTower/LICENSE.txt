@@ -1,0 +1,25 @@
+Graphics
+--------
+Copyright Nintendo & Softendo
+
+
+Sounds effects
+------------------------
+Copyright Nintendo.
+
+
+Music
+-----
+Copyright original author (unknown)
+
+
+Font
+----
+BoboBlack
+Copyright (C) 2005 Maniackers Design&Channel 67@Junya Yamada. All Rights Reserved.
+
+
+Code
+----
+Copyright Maurycy Zarzycki
+Released under MIT License

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"netread",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"netread",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

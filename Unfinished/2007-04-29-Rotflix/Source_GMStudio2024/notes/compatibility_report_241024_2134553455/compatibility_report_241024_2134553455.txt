@@ -1,0 +1,10 @@
+Resource name collision 'Main' already exists, renamed to 'Main_objects_OtherObjects'
+Game speed set to 60
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'tile\tile_exists.gml'
+Added compatibility script 'tile\tile_get_left.gml'
+Added compatibility script 'tile\tile_get_top.gml'
+Added compatibility script 'tile\tile_layer_delete_at.gml'
+Added compatibility script 'tile\tile_layer_find.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,92 @@
+OVERALL:
+ - Go through each project's readme and fix dates to use a longer format
+ - Go through each project's readme and update it according to the template
+ - Go through each readme and fix what character is used for bullet points
+ - Ditto for long dash
+ - Ditto for credits
+
+Galagian:
+ - Move files around to the same src/assets structure
+ - Check other Flash projects for that
+
+Game maker projects:
+ - Unzip the binaries
+
+Asteroidase:
+ - Credit music
+ - Credit font
+ - Rebuild with additional options
+
+Cloudie:
+ - Credit music
+ - Credit font
+ - Rebuild with additional options
+ - Find original music
+
+Platformeye:
+ - Find original music
+ - Credit font
+ - Rebuild with additional options
+
+Weirdtris:
+ - Find original music
+
+Sketcher 1:
+ - Find original music
+
+Sketcher 2:
+ - Find original music
+
+Sketecher 3:
+ - Find original music
+
+Deepness:
+ - Find original music
+
+Pixelagne:
+ - Compile these mini games
+
+Squario:
+ - Find original music authors
+
+ ALL:
+  - Update flash player to Ruffle here
+  - Update flash player to Ruffle in the other repo
+
+Galaxus:
+ - Test sound works correctly
+
+All projects:
+ - Replace dynamic SFXR sound generation with sound files
+
+Kulkis 1.5:
+ - Identify `intro.mp3`
+
+Kulkis:
+ - Add level editor files
+
+ROck Rush:
+ - Identify music
+
+Mario Ice Tower
+ - Identify music
+
+CyberKulkis:
+ - Identify music
+
+Verify all scripts are working
+
+Rebuild because sfxr sounds were changed:
+ - Galaxus
+ - Kulkis 1.5
+
+Remove SFXr code from everywhere
+
+- Lovesmas -> Move binary to EC Home repo
+- KartkaUrodzinowa -> Move binary to EC Home repo
+- Hanano editor -> Move binary to EC Home repo
+- Crimbol -> Move binary to EC Home repo
+- ShootBoy -> Move binary to EC Home repo
+- MouseRunner -> Move binary to EC Home repo
+- Squarbley -> Move binary to EC Home repo
+- Rotflix -> Move binary to EC Home repo

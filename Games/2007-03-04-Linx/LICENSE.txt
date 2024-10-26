@@ -1,0 +1,57 @@
+Source_GM6/music1.MUS
+---------------------
+"Universal Network 2", copyright Strobe & Kmuland
+https://modarchive.org/index.php?request=view_by_moduleid&query=65815
+
+
+Source_GM6/music2.MUS
+---------------------
+"Usteczka", copyright Marcin Michalski (Ojciec)
+https://www.modules.pl/index.php?id=module&mod=1199
+
+
+Source_GM6/music3.MUS
+---------------------
+"Toilet Story 4 u", copyright Petter Borling (Ghidorah)
+https://www.modules.pl/index.php?id=module&mod=198
+
+
+Source_GM6/music4.MUS
+---------------------
+"XP1002", copyright Macherman
+https://www.modules.pl/index.php?id=module&mod=2164
+
+
+Source_GM6/music5.MUS
+---------------------
+"Tremendous", copyright Radoslaw Opalinski (Opal)
+https://www.modules.pl/index.php?id=module&mod=2986
+
+
+Source_GM6/music6.MUS
+---------------------
+"Biesiada", copyright Piotr Leśnikowski (Lesnik)
+https://www.modules.pl/index.php?id=module&mod=873
+
+
+(graphics)
+----------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+Source_GM6/levels/base.txt (usermade levels)
+--------------------------------------------
+Copyright original authors (unknown)
+
+
+(game levels)
+-------------
+Copyright Aleksander Kowalczyk (Cage), Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

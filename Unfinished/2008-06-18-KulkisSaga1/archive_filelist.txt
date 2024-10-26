@@ -1,0 +1,77 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:47 D....            0            0  Kulkis Saga 1
+2013-04-21 19:52:47 D....            0            0  Kulkis Saga 1/gfx
+2013-04-21 19:52:47 D....            0            0  Kulkis Saga 1/levels
+2013-04-21 19:52:47 D....            0            0  Kulkis Saga 1/saves
+2007-04-30 15:33:42 ....A        46608      1190850  Kulkis Saga 1/a
+2008-09-12 18:44:48 ....A      2320054               Kulkis Saga 1/dozo.bmp
+2007-05-13 14:03:23 ....A       372950               Kulkis Saga 1/Kopia talka.bmp
+2007-05-07 16:27:01 ....A         8550               Kulkis Saga 1/bugs.txt
+2007-06-02 15:25:31 ....A        13542               Kulkis Saga 1/KII Bin Background Editor.GB1
+2007-06-02 15:21:10 ....A        13005               Kulkis Saga 1/KII Bin Foreground Editor.GB1
+2007-06-02 17:26:13 ....A        38650               Kulkis Saga 1/KII Bin Levels Editor.GB1
+2007-06-01 19:11:57 ....A         4975               Kulkis Saga 1/KII Bin Text Generator.GB1
+2007-03-25 20:39:10 ....A       470220               Kulkis Saga 1/Kulkis Saga 1 v.00.GB1
+2007-05-03 19:32:55 ....A       515140               Kulkis Saga 1/Kulkis Saga 1 v.01.GB1
+2007-05-10 18:00:23 ....A       541701               Kulkis Saga 1/Kulkis Saga 1 v.02.GB1
+2007-05-20 18:54:05 ....A       569047               Kulkis Saga 1/Kulkis Saga 1 v.03.GB1
+2007-05-29 15:48:20 ....A       578996               Kulkis Saga 1/Kulkis Saga 1 v.04.GB1
+2007-06-02 15:08:43 ....A       594551               Kulkis Saga 1/Kulkis Saga 1 v.05.GB1
+2007-06-27 19:50:11 ....A       592331               Kulkis Saga 1/Kulkis Saga 1 v.06 Testing Level Graphic Size.GB1
+2007-06-23 19:00:03 ....A       596110               Kulkis Saga 1/Kulkis Saga 1 v.06.gb1
+2007-06-02 15:28:32 ....A        13574               Kulkis Saga 1/KII Bin Background Editor.GM6
+2007-06-02 15:22:58 ....A        12979               Kulkis Saga 1/KII Bin Foreground Editor.GM6
+2007-06-23 18:58:09 ....A        38647               Kulkis Saga 1/KII Bin Levels Editor.GM6
+2007-06-02 08:30:18 ....A         4909               Kulkis Saga 1/KII Bin Text Generator.GM6
+2007-03-25 20:39:51 ....A       470225               Kulkis Saga 1/Kulkis Saga 1 v.00.GM6
+2007-05-03 19:33:02 ....A       515140               Kulkis Saga 1/Kulkis Saga 1 v.01.GM6
+2007-05-11 21:59:52 ....A       541701               Kulkis Saga 1/Kulkis Saga 1 v.02.GM6
+2007-05-20 18:58:54 ....A       569064               Kulkis Saga 1/Kulkis Saga 1 v.03.GM6
+2007-05-29 16:55:04 ....A       574886               Kulkis Saga 1/Kulkis Saga 1 v.04.GM6
+2007-06-02 15:09:43 ....A       594693               Kulkis Saga 1/Kulkis Saga 1 v.05.GM6
+2007-06-27 20:09:31 ....A       592329               Kulkis Saga 1/Kulkis Saga 1 v.06 Testing Level Graphic Size.GM6
+2008-06-18 13:26:02 ....A       596112               Kulkis Saga 1/Kulkis Saga 1 v.06.GM6
+2007-06-02 17:01:55 ....A         5572               Kulkis Saga 1/levels/Kopia (16) lev6.KIL
+2007-06-02 17:01:55 ....A         5572               Kulkis Saga 1/levels/Kopia (17) lev6.KIL
+2007-06-02 17:01:55 ....A         5572               Kulkis Saga 1/levels/Kopia (18) lev6.KIL
+2007-06-10 18:25:41 ....A         5572               Kulkis Saga 1/levels/lev0.KIL
+2008-09-12 18:44:48 ....A         5728               Kulkis Saga 1/lev000.KIL
+2007-05-27 11:50:42 ....A         5572               Kulkis Saga 1/levels/lev1.KIL
+2007-06-02 17:14:24 ....A         5572               Kulkis Saga 1/levels/lev10.KIL
+2007-06-02 17:14:36 ....A         5572               Kulkis Saga 1/levels/lev11.KIL
+2007-06-02 17:14:47 ....A         5572               Kulkis Saga 1/levels/lev12.KIL
+2007-06-02 17:06:13 ....A         5572               Kulkis Saga 1/levels/lev13.KIL
+2007-06-02 17:15:04 ....A         5572               Kulkis Saga 1/levels/lev14.KIL
+2007-06-02 17:15:17 ....A         5572               Kulkis Saga 1/levels/lev15.KIL
+2007-06-02 17:15:31 ....A         5572               Kulkis Saga 1/levels/lev16.KIL
+2007-06-02 17:15:42 ....A         5572               Kulkis Saga 1/levels/lev17.KIL
+2007-06-02 17:15:49 ....A         5572               Kulkis Saga 1/levels/lev18.KIL
+2007-06-02 17:16:00 ....A         5572               Kulkis Saga 1/levels/lev19.KIL
+2007-05-27 13:43:18 ....A         5572               Kulkis Saga 1/levels/lev2.KIL
+2007-06-02 17:09:07 ....A         5572               Kulkis Saga 1/levels/lev20.KIL
+2007-06-02 17:08:50 ....A         5572               Kulkis Saga 1/levels/lev21.KIL
+2007-06-02 17:26:47 ....A         5572               Kulkis Saga 1/levels/lev22.KIL
+2007-06-02 17:27:29 ....A         5572               Kulkis Saga 1/levels/lev23.KIL
+2007-06-02 17:29:57 ....A         5572               Kulkis Saga 1/levels/lev25.KIL
+2007-05-27 14:38:03 ....A         5572               Kulkis Saga 1/levels/lev28.KIL
+2007-05-27 14:37:46 ....A         5572               Kulkis Saga 1/levels/lev3.KIL
+2007-05-27 14:38:14 ....A         5572               Kulkis Saga 1/levels/lev30.KIL
+2007-06-02 17:13:23 ....A         5572               Kulkis Saga 1/levels/lev5.KIL
+2007-06-02 17:13:34 ....A         5572               Kulkis Saga 1/levels/lev6.KIL
+2007-06-02 17:13:45 ....A         5572               Kulkis Saga 1/levels/lev7.KIL
+2007-06-02 17:14:05 ....A         5572               Kulkis Saga 1/levels/lev8.KIL
+2007-06-02 17:14:15 ....A         5572               Kulkis Saga 1/levels/lev9.KIL
+2007-05-27 11:42:51 ....A         5575               Kulkis Saga 1/Level Template Blank.KIL
+2007-06-02 17:16:49 ....A         5888               Kulkis Saga 1/Level Template.KIL
+2007-05-20 16:30:32 ....A         5696               Kulkis Saga 1/Template.KIL
+2007-05-20 18:21:18 ....A            7               Kulkis Saga 1/levels/lev0_1.KIS
+2007-06-02 08:31:53 ....A          363               Kulkis Saga 1/levels/lev0_2.KIS
+2008-06-18 13:27:06 ....A       266000               Kulkis Saga 1/saves/stefan.ksv
+2007-04-22 14:05:58 ....A       118396               Kulkis Saga 1/_save130055.SAV
+2007-06-02 08:42:16 ....A         5462               Kulkis Saga 1/gfx/arrow.ZTR
+2007-06-02 08:42:16 ....A        90534               Kulkis Saga 1/gfx/facea.ZTR
+2007-06-02 08:42:16 ....A       372950               Kulkis Saga 1/gfx/talka.ZTR
+2007-06-02 08:42:16 ....A       149686               Kulkis Saga 1/gfx/talkb.ZTR
+------------------- ----- ------------ ------------  ------------------------
+2013-04-21 19:52:47           12988562      1190850  69 files, 4 folders

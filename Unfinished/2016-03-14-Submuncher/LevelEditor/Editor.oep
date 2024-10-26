@@ -1,0 +1,227 @@
+<project>
+    <name>Submuncher</name>
+    <settings>
+        <bgColor>0x151224</bgColor>
+        <defaultWidth>480</defaultWidth>
+        <defaultHeight>352</defaultHeight>
+        <minWidth>256</minWidth>
+        <minHeight>192</minHeight>
+        <maxWidth>2560</maxWidth>
+        <maxHeight>1920</maxHeight>
+        <sizeInTiles>true</sizeInTiles>
+        <tileWidth>16</tileWidth>
+        <tileHeight>16</tileHeight>
+        <workingDirectory>./_gfx/</workingDirectory>
+        <objectGridSize>32</objectGridSize>
+        <objectsWindowWidth>320</objectsWindowWidth>
+    </settings>
+    <values>
+        <string name="id" display="ID" default="########"/>
+        <string name="title" display="Title" default="new level" maxChars="32"/>
+        <integer name="parTime" display="Par time" default="100" min="5" max="9999"/>
+    </values>
+
+    <definitions>
+        <definition name="entranceValues">
+            <values>
+                <string name="groupId" display="Group ID" default=""/>
+            </values>
+        </definition>
+        <definition name="spikesValues">
+            <values>
+                <integer name="timeTotal" min="1" max="9999" default="120"/>
+                <integer name="timeDangerous" min="1" max="9999" default="120"/>
+                <integer name="timeOffset" min="0" max="99999" default="0"/>
+            </values>
+        </definition>
+        <definition name="enemyValues">
+            <values>
+                <integer name="speed" min="1" max="999" default="8"/>
+                <integer name="hp" min="1" max="999" default="1"/>
+            </values>
+        </definition>
+        <definition name="eyeValues">
+            <values>
+                <integer name="hp" min="1" max="999" default="1"/>
+            </values>
+        </definition>
+        <definition name="shellValues">
+            <values>
+                <integer name="firePause" min="1" max="999" default="20"/>
+                <integer name="bulletSpeed" min="1" max="999" default="6"/>
+                <integer name="hp" min="1" max="999" default="1"/>
+            </values>
+        </definition>
+        <definition name="turtleValues">
+            <values>
+                <integer name="speed" min="1" max="999" default="8"/>
+                <integer name="turnWait" min="0" max="999" default="8"/>
+                <integer name="hp" min="1" max="999" default="1"/>
+            </values>
+        </definition>
+        <definition name="spinBladeValues">
+            <values>
+                <radius min="0" max="9999" default="16"/>
+                <angle default="0"/>
+                <integer name="speed" min="-9999" max="9999" default="8"/>
+                <integer name="hp" min="1" max="999" default="1"/>
+            </values>
+        </definition>
+    </definitions>
+    <tilesets>
+        <tileset name="tilesBG" image="tileset_bg.png" tileWidth="16" tileHeight="16" paletteScale="1"/>
+        <tileset name="tiles" image="tileset.png" tileWidth="16" tileHeight="16" paletteScale="1"/>
+        <tileset name="tile_groups" image="tile_groups.png" tileWidth="16" tileHeight="16" paletteScale="2"/>
+    </tilesets>
+    <objects>
+        <!-- ROW #1 -->
+        <folder name="hub">
+            <object name="entranceUp" image="level_entrance_up.png" width="16" height="16"><substitution name="entranceValues" /></object>
+            <object name="entranceRight" image="level_entrance_right.png" width="16" height="16"><substitution name="entranceValues" /></object>
+            <object name="entranceDown" image="level_entrance_down.png" width="16" height="16"><substitution name="entranceValues" /></object>
+            <object name="entranceLeft" image="level_entrance_left.png" width="16" height="16"><substitution name="entranceValues" /></object>
+            <object name="levelScreen" image="screen_small_0.png" width="48" height="32"><substitution name="entranceValues" /></object>
+        </folder>
+
+        <folder name="bosses">
+            <object name="bossTile" image="boss_tile.png" width="16" height="16"/>
+            <object name="fishBoss" image="fish_right_0.png" width="48" height="48"/>
+        </folder>
+
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="player" image="player_0.png" width="16" height="16" limit="1"/>
+        <object name="fakeWall" image="fake_wall.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #2 -->
+
+        <object name="waste" image="dna_0.png" width="16" height="16"/>
+        <object name="waste_secret" image="dna_secret_0.png" width="16" height="16"/>
+        <object name="document" image="document.png" width="16" height="16"/>
+        <object name="ammo1" image="ammo1.png" width="16" height="16"/>
+        <object name="ammo2" image="ammo2.png" width="16" height="16"/>
+        <object name="ammo3" image="ammo3.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #3 -->
+
+        <object name="keyBlue" image="key_blue.png" width="16" height="16"/>
+        <object name="keyGray" image="key_gray.png" width="16" height="16"/>
+        <object name="keyGreen" image="key_green.png" width="16" height="16"/>
+        <object name="keyOrange" image="key_orange.png" width="16" height="16"/>
+        <object name="keyRed" image="key_red.png" width="16" height="16"/>
+        <object name="doorBlue" image="door_blue_0.png" width="16" height="16"/>
+        <object name="doorGray" image="door_gray_0.png" width="16" height="16"/>
+        <object name="doorGreen" image="door_green_0.png" width="16" height="16"/>
+        <object name="doorOrange" image="door_orange_0.png" width="16" height="16"/>
+        <object name="doorRed" image="door_red_0.png" width="16" height="16"/>
+
+
+        <!-- ROW #4 -->
+
+        <object name="barrierRedH" image="barrier_horizontal_red_0.png" width="16" height="16"/>
+        <object name="barrierGreenH" image="barrier_horizontal_green_0.png" width="16" height="16"/>
+        <object name="barrierBlueH" image="barrier_horizontal_blue_0.png" width="16" height="16"/>
+        <object name="barrierOrangeH" image="barrier_horizontal_orange_0.png" width="16" height="16"/>
+        <object name="barrierGrayH" image="barrier_horizontal_gray_0.png" width="16" height="16"/>
+        <object name="barrierRedV" image="barrier_vertical_red_0.png" width="16" height="16"/>
+        <object name="barrierGreenV" image="barrier_vertical_green_0.png" width="16" height="16"/>
+        <object name="barrierBlueV" image="barrier_vertical_blue_0.png" width="16" height="16"/>
+        <object name="barrierOrangeV" image="barrier_vertical_orange_0.png" width="16" height="16"/>
+        <object name="barrierGrayV" image="barrier_vertical_gray_0.png" width="16" height="16"/>
+
+
+        <!-- ROW #5 -->
+
+        <object name="detectorRed" image="detector_red_3.png" width="16" height="16"/>
+        <object name="detectorGreen" image="detector_green_3.png" width="16" height="16"/>
+        <object name="detectorBlue" image="detector_blue_3.png" width="16" height="16"/>
+        <object name="detectorOrange" image="detector_orange_3.png" width="16" height="16"/>
+        <object name="detectorGray" image="detector_gray_3.png" width="16" height="16"/>
+        <object name="triggerRed" image="trigger_red_0.png" width="16" height="16"/>
+        <object name="triggerGreen" image="trigger_green_0.png" width="16" height="16"/>
+        <object name="triggerBlue" image="trigger_blue_0.png" width="16" height="16"/>
+        <object name="triggerOrange" image="trigger_orange_0.png" width="16" height="16"/>
+        <object name="triggerGray" image="trigger_gray_0.png" width="16" height="16"/>
+
+
+        <!-- ROW #6 -->
+
+        <object name="crate" image="crate_weak.png" width="16" height="16"/>
+        <object name="crateSteel" image="crate_strong.png" width="16" height="16"/>
+        <object name="sponge" image="sponge_0.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #7 -->
+
+        <object name="barrel" image="barrel.png" width="16" height="16"/>
+        <object name="spikes" image="spikes_0.png" width="16" height="16"><substitution name="spikesValues" /></object>
+        <object name="blob" image="blob_1.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="spinBlade" image="spin_blade.png" width="16" height="16"><substitution name="spinBladeValues"/></object>
+        <object name="ghostSub" image="ghostsub_0.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="jellyfish" image="jellyfish_0.png" width="16" height="16"><substitution name="enemyValues" /><nodes drawObject="true" lineMode="1"/></object>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #8 -->
+
+        <object name="fishUp" image="fish_up_0.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="fishDown" image="fish_down_0.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="fishRight" image="fish_right_0.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="fishLeft" image="fish_left_0.png" width="16" height="16"><substitution name="enemyValues" /></object>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="shellUp" image="shell_up_0.png" width="16" height="16"><substitution name="shellValues"/></object>
+        <object name="shellDown" image="shell_down_0.png" width="16" height="16"><substitution name="shellValues"/></object>
+        <object name="shellRight" image="shell_right_0.png" width="16" height="16"><substitution name="shellValues"/></object>
+        <object name="shellLeft" image="shell_left_0.png" width="16" height="16"><substitution name="shellValues"/></object>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #9 -->
+
+        <object name="turtleCWUp" image="turtle_cw_up_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCWRight" image="turtle_cw_right_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCWLeft" image="turtle_cw_left_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCWDown" image="turtle_cw_down_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="null" image="null.png" width="16" height="16"/>
+        <object name="turtleCCWLeft" image="turtle_ccw_left_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCCWUp" image="turtle_ccw_up_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCCWDown" image="turtle_ccw_down_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="turtleCcWRight" image="turtle_ccw_right_0.png" width="16" height="16"><substitution name="turtleValues"/></object>
+        <object name="null" image="null.png" width="16" height="16"/>
+
+
+        <!-- ROW #10 -->
+
+        <object name="eyeUp" image="eye_up.png" width="16" height="16"><substitution name="eyeValues"/></object>
+        <object name="eyeRight" image="eye_right.png" width="16" height="16"><substitution name="eyeValues"/></object>
+        <object name="eyeDown" image="eye_down.png" width="16" height="16"><substitution name="eyeValues"/></object>
+        <object name="eyeLeft" image="eye_left.png" width="16" height="16"><substitution name="eyeValues"/></object>
+    </objects>
+    <layers>
+        <tiles name="levelBG" tileset="tilesBG" gridSize="16"/>
+        <tiles name="groupsBG" tileset="tile_groups" gridSize="16"/>
+        <tiles name="level" tileset="tiles" gridSize="16"/>
+        <tiles name="groups" tileset="tile_groups" gridSize="16"/>
+        <objects name="actors" gridSize="16"/>
+    </layers>
+</project>

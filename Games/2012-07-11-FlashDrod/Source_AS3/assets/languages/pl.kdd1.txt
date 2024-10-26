@@ -1,0 +1,247 @@
+# Level Names
+First Level=Pierwsze Piętro
+Second Level=Drugie Piętro
+Third Level=Trzecie Piętro
+Fourth Level=Czwarte Piętro
+Mastery Level=Piętro Mistrzostwa
+
+# Level Entrances
+entr1=Beethro Budkin, profesjonalny czyściciel lochów piątego-pokolenia został zatrudniony przez Króla Dugana by oczyścić wielopiętrowy, królewski loch ze szkodników.///
+    Beethro liczy sobie od pokoju i jako profesjonalista, jest legalnie zobowiązany by oczyścić każde, nawet najmniejsze pomieszczenie by otrzymać zapłatę.///
+    Jedyna broń, której Beethro potrzebuje do wykonania swej pracy to Naprawdę Wielki Miecz, który powali każdą bestię jednym ciosem.////
+    -----////
+    "Mam nadzieję, że nie policzysz mi za najwyższe piętro. Już je oczyściliśmy... No, prawie." - Król Dugan
+entr2=Beethro jest trochę nie w formie, ale kolejne piętro powinno przywrócić wigor jego dłoniom.
+entr3="Hmm..." rozważał Beethro. "Jak narazie są tu same karaczany. Wygląda na to, że ta robota będzie prostsza niż myślałem."
+entr4="Przydałoby się trochę więcej tych mimików!" wykrzyknął Beethro. "Poszłoby mi o wiele szybciej."
+entr4Back=Beethro wrócił by robić to, do czego go zatrudniono.
+entrMaster=Beethro zszedł po schodach trafiając do nienakreślonych korytarzy...////
+    Nikt mu nie zapłaci za usunięcię tutejszego robactwa, ale jego honor profesjonalisty pcha go naprzód.
+
+
+# Scrolls
+
+sc1e0=Możesz chodzić przy użyciu klawiatury numerycznej lub 789uiojkl. Klawisze można zmienić w opcjach (Escape).
+sc1e1=Liste klawiszy można zawsze podejrzeć wciskając "Escape", "Pomoc" i "Sterowanie".
+sc1_1n=Te drzwi przydadzą się później.////
+    Na razie idź na zachód.
+sc1_1n1w1=By się obracać korzystaj z "Q" i "W".
+sc1_1n1w2=Uderz sferę mieczem by otworzyć żółte drzwi.
+sc1_1n1w3=Niektóre sfery przełączają stan drzwi pomiędzy otwartymi a zamkniętymi.
+sc1_2n1w1=Możesz sprawdzić co dana sfera robi klikając ją myszką. Różne kolory na drzwiach wskazują na różne efekty.
+sc1_2n1w2=Poza przełączaniem, sfery mogą zawsze zamykać lub otwierać drzwi.
+sc1_3n1w1=Niebieskie bramy otworzą się gdy oczyścisz wszystkie wymagane pokoje na piętrze.
+sc1_3n1w2=Wymagane pokoje oznaczone są czerwonym tłem na mapce.
+sc1_3n2w1=Głosy postaci i napisy można ominąć wciskając spację.
+sc1_3n2w2=Kiedy opuścisz pokój oczyszczony ze wszystkich potworów, zostanie on oznaczony jako pokonany.
+sc1_3n2w3=Na mapce pokonane pokoje oznaczone są białym tłem.
+sc1_3n2w4=Przejdź wszystkie wymagane pokoje by otworzyć sobie drogę na kolejne piętro.
+sc1_4n3w=Strzałki blokuje drogę Beethro i potworom w przeciwnym kierunku do którego wskazują.
+sc1_4n1w=Zielone bramy otwierają się, gdy oczyścić pokój ze wszystkich potworów.
+sc1_5n1w1=Obserwuj jak południowy karaczan zachowa się próbując wejść na róg po skosie.
+sc1_5n1w2=Większość potworów w takiej sytuacji poruszy się pionowo jeżeli tylko jest to możliwe.
+sc1_5n2w1=Pamiętaj, że możesz klikać na sfery by zobaczyć co robią.
+sc1_5n2w2=Uważaj, ten pokój jest niebezpieczny!////
+    Jeżeli zrobisz błąd wciśnij "Backspace" by cofnąć do trzech ruchów.
+sc1_5n2w3=Możesz także cofać (i powtarzać etap) podczas wyświetlania animacji ginięcia.
+sc1_5n2w4=Wejście na punkt zapisu (X) pozwala później cofnać do tego momentu.///
+    Wciśnij "R" by wrócić lub rozpocząc pokój od nowa.
+sc1_6n2w=Porządny mistrz miecza pokona te karaczany bez ukrywania się we wnęce.
+sc1_6n3w1=Wykorzystaj manewr okolenia by pokonać tego karaczana.
+sc1_6n3w2=Stań na zielonej podłodze tak, by karaczan stał na piasku dokładnie na północ od ciebie...
+sc1_6n3w3=Stań na zielonej podłodze tak, by karaczan stał na piasku dokładnie na południe od ciebie...
+sc1_6n3w4=...następnie zrób krok na północny wschód by go zabić.
+sc1_6n3w5=...następnie zrób krok na południowy wschód by go zabić.
+sc1_6n3w6=Powtórz by lepiej zrozumieć okolenie. Opanuj tą technikę, gdyż będzie nieodzowna w niedalekiej przyszłości.
+sc1_5n1=Wyjście awaryjne jest wyłączone z użycia.
+sc1_5n2=Sorek pan, nie będziem se robić do końca ten budomek gdy wielka krzaczany nas jedzom!
+sc1_4n=Prosimy zaymkać drzwi od szklarni.
+sc1_1n1e=Te schody prowadzą na kolejne piętro. Strzeż się tego co tam na ciebieczeka...
+sc2_2n1=Wiesz, że jeśli wykonujesz ruch trzymając klawisz Shift, wykonasz także jego odwrotność? Spróbuj!
+sc2_2n2=Shift+czekaj spowoduje czekanie do kolejnego cyklu mnożenia. "Numeryczny +" lub "=" wykona przeciwność ostatniego ruchu!
+sc2_1n1e=Nie powinno się być tak niszczycielskim.
+sc2e=Warto oczyścić pokoje na północ stąd przed pójściem dalej.
+sc2_1s3e1=Aby uniknąć przypadkow opuszczenia pokoju, wciśnij "X" by go zablokować.
+sc2_1s3e2=Mała kłódka na mapce oznacza, że pokój jest zablokowany.
+sc2_1s=Nie rób tego! Przecież to oczywiste co się stanie!
+sc2_2s3e=Odpowiednie wyczucie sprawia, że wszystko staje się prostsze.
+sc3_3n=Muszę ostrzec cie przed mimikami. Nie są ani wrogami, ani przyjaciółmi - jedynie powtarzają to, co ty. Nie odwracaj się do nich plecami.
+sc3_3n1e=Wszystkich więźniów zjadły karaczan, pewnie będę następny! Żadne pieniądze mnie tu nie zatrzymają, żegnam.////
+    -Nadzorca
+sc3_2n=Można dostać się do tego korytarza i pokonać ten pokój w czasie tej samej wizyty.
+sc3_1n1w=Kiedy jesteś niewidzialny potwory nie mogą cię zobaczyć, ale wciąż mogą cię wywąchać.
+sc3_1e=Taki długi spacer. Wydaje się wręcz niepotrzebny.
+sc3_1s=Osiem Bram Billa - zaprawdę przerażająca zagadka. Kiedyś była dużo piekielniejsza, ale teraz mogę sprawdzić co robi która sfera.
+sc3_2s1w=Pozwól, że coś ci powiem - kiedy tylko widzisz długą i męczącą ścieżkę, zawsze rozejrzyj się za skrótami.
+sc3_2s1=Zawróć! Czy wiesz, że w ostatnim roku śmierci powiązane z lochami wzrosły o 32 procent?
+sc3_2s2=Fakty są jasne - eksploracja lochów NIE jest bezpieczna, szczególnie pod wpływem.///
+    -RAZL (Rodzice Anty-Zgonom w Lochach)
+sc4_2n1e1=To jest Mur Mistrzostwa. Nie otworzy się dopóki nie przejdziesz Holda i wszystkich sekretnych pomieszczeń.
+sc4_2n1e2=W oryginalnym KDD pokój ten pozwalał ominąć piętro lub dwa.
+sc4_1n1=Wskazówka:////
+    Nie potrzebna ci pomoc mimika by zabić karaczany przy wejściu.
+sc4_1n2=Wskazówka:////
+    Pracuj ciężko nad rozwinięciem manewru okoleniu - niezwykle przydatnego gdy masz przeciwników po lewej i prawej.
+sc4_2e=Jeżeli masz dobry gust, wszystkie 9 mimików będzie w tej chwili w jednej linii na prawo od ciebie.
+scMe1=Trudniejsze wersje istniejących pokoi.
+scMe2=Ostatnie słowa!
+scMe3=Trudnie, oryginalne pokoje.
+scM_1s1=To tyle. W tym momencie masz już pokonane wszystko co się da, może nie licząc kilku achievementów.
+scM_1s2=Składam i gratulacje z całego serca i zapraszam do kontynuowania podróży.
+scM_1s3=Na stronie Caravelgames.com możesz znaleźć kolejne epizody lub ściągnąć którąkolwiek wersję pełnej gry na każdy system operacyjny.
+scM_1s4=Powodzenia!
+scM_1s5=A oto mała nagroda. Zabij wszystkie oka bez wchodzenia na brązową trawę.
+scM_1s6=Królowe Karaczanow zostaną zabite jak tylko staniesz na punkcie zapisu w górnym-prawym rogu.
+scM_1s7=Bardzo ładnie, byle tak dalej!
+
+
+# Speeches
+
+sp1e0=Use the numerical keypad to move around.
+sp1e1=If you are playing on a notebook, you can move using the laptop's numpad: 789, UIO, JKL
+sp1e2=Go north to continue.
+sp1_3n2w1=Ah, the first roach of the dungeon!
+sp1_3n2w2=Come to Beethro, roachburger-to-be!
+sp1_3n2w3=A clean kill!  This job's gonna turn out great, I just know it!
+sp1_6n2w=I coulda cleared those roaches without hiding in the alcove, but I feel lazy today.
+sp1_6n3w1=You have found a secret room!
+sp1_6n3w2=Find and conquer them all to gain access to a special master challenge area.
+sp2_2e=That queen'll make tons of new roaches by the time I get to the orb and back!
+sp2_1s1e1=Hey, a wraithwing!
+sp2_1s1e2=All by himself too... that means I could be chasing him all over the room.
+sp2_1s1e3=Wraithwings, unlike roaches, run away from Beethro and try to keep themselves at a distance of five tiles.
+sp2_1s1e4=They are not as shy in bigger numbers, and won't hesitate to attack if they surround their prey.
+sp2_2s2e1=Hmmm... can I kill off those queens before they dump eggs?
+sp2_2s2e2=Argh... too slow!
+sp2_2s2e3=Ha!  Easily.
+sp2_2s3e1=I'm sure there was a cleaner way to take out these roach queens.
+sp2_2s3e2=Now THAT was a fine piece of smitemitery.
+sp3_3n1e=No prisoners left? This is gonna be a lonely job with no one to talk to...
+sp3_2n=No kidding.
+sp3_1n2w1=Whew!  Now those queens won't lay their eggs unless I'm close to them!
+sp3_1n2w2=That was a bit rough, but nothing a good delver like me can't handle!
+sp3_1n2w3=Ha!  Nothing's too tough for this delver!
+sp3_1n1w1=Hey, this is pretty neat!
+sp3_1n1w2=I know I coulda cleared this room without being invisible, but it was still fun.
+sp3_1n1w3=That wasn't so hard... I wonder why that potion is there?
+sp3_1s=I coulda opened all the doors sooner than this.
+sp3_3s1w1=This looks dangerous... some kind of trap...
+sp3_3s1w2=After I strike the orb, I could clear this room without any sword-turning. Just to be skillful!
+sp3_3s1w3=Well, I may have turned my sword, but at least I'm still alive!
+sp3_3s1w4=Wow!  Somebody shoulda been here to see me.
+sp4_2n1e=Another secret chamber where everyone but me least expects it.
+sp4_1n1=I coulda cleared this room without going back to the entrance hallway.
+sp4_1n2=Beethro Budkin surmounts any challenge!
+sp4_2e1=Holy Hoobuffins! Maybe there is such a thing as too many mimics!
+sp4_1s2e=Why is it that dropping every trapdoor makes a room look better?
+spM_1s=You have failed...
+
+
+# Achievements
+
+achName0=I've Got an Eye on You
+achName1=Matricide
+achName2=I Woke Up and Just Hated Everything
+achName3=True Smitemaster
+achName4=Steady Hand
+achName5=Queenburger
+achName6=One-way Ticket
+achName7=Be Quick!
+achName8=Be Fast!
+achName9=Calm Arm
+achName10=Get the Scroll
+achName11=Visibility
+achName12=Invisibless
+achName13=Speeding
+achName14=The Eight Gates of Bill
+achName15=Fine Roach Control
+achName16=The Mystery
+achName17=Don't Look Back
+achName18=Alone with the Roaches
+achName19=Pits are Pretty
+achName20=Emptiness of Nothingness
+achName21=Good Style
+achName22=Amateur Delver
+achName23=Fledgling Smiter
+achName24=Contract Exterminator
+achName25=I'm a Professional!
+achName26=Mastery
+achName27=Post-mastery
+achName28=Grilled Roaches
+achName29=Sliced Queens
+achName30=Egg Fondue
+achName31=Evil Eye Pudding
+achName32=Wraithwing Dip
+achName33=Tuning Fork
+achName34=Down with the Green
+achName35=Horde Management
+achName36=Respawner
+achName37=Time is Null!
+achName38=Making Room
+achName39=Walkin' to the Moon
+
+achDesc0=Wake up three evil eyes in the same turn
+achDesc1=Kill a roach queen while her eggs are growing
+achDesc2=Yes, you should be so destructive
+achDesc3=Don't hide in the alcove in 6N 2W on First Level
+achDesc4=Clear all but 1 infested, non-secret rooms on the First Level without turning your sword.\nGot %% out of 6.
+achDesc5=Kill the roach queen in Second Level 2E before she reaches the corner
+achDesc6=Don't rotate your sword in Second Level 1S after you hit the orb
+achDesc7=Kill all roach queens before they lay eggs in Second Level 2S 2E
+achDesc8=Clear Second Level 2S 3E before any eggs are spawned
+achDesc9=Clear Second Level 3N without turning your sword
+achDesc10=Get to the scroll in Third Level 2N without reentering the room
+achDesc11=Kill all roaches without drinking the potion in Third Level 1N 1W
+achDesc12=Clear Third Level 1N 2W without drinking the potion
+achDesc13=Clear Third Level 1N 1E without queens laying any eggs
+achDesc14=Solve The Eight Gates of Bill (Third Level 1S) in 5 orb hits
+achDesc15=Get all three roaches out before killing any of them in Third Level 2N 1E
+achDesc16=Clear Third Level 3N without drinking the potion
+achDesc17=Clear Fourth Level 1N without returning to the entrance corridor
+achDesc18=Clear Fourth Level 1S 1E without drinking the mimic potion
+achDesc19=Drop all trapdoors in Fourth Level 1S 2E and clear the room on the same visit
+achDesc20=Clear Fourth Level 2S 1E and drop all the trapdoors on the same visit
+achDesc21=Have good style in Fourth Level 2E
+achDesc22=Cleared the first level
+achDesc23=Cleared the second level
+achDesc24=Cleared the third level
+achDesc25=Cleared the fourth level
+achDesc26=Master the hold
+achDesc27=Post-master the hold
+achDesc28=Kill 35 roaches
+achDesc29=Kill 20 roach queens
+achDesc30=Kill 15 roach eggs
+achDesc31=Kill 15 evil eyes
+achDesc32=Kill 5 wraithwings
+achDesc33=Strike an orb for three consecutive turns
+achDesc34=Lower a green gate 5 times
+achDesc35=Kill a total of 2500 monsters
+achDesc36=Die a total of 50 times
+achDesc37=Undo a total of 250 moves
+achDesc38=Drop a total of 100 trapdoors
+achDesc39=Take a total of 5000 steps
+
+# Game completion
+
+outro=What will Beethro face next? Will the dangers become more hazardous? Will he manage to clean up the whole of King Dugan's Dungeon and finally get paid?///
+    ///
+    Congratulations!///
+    You have completed the first episode in the Deadly Rooms of Death, King Dugan's Dungeon Lite hold. I sincerely hope you have found this experience enjoyable.///
+    Now that you have descended the final flight of stairs available in this set, you may want to try to Master, and then Post-Master, this game!  To do this, go hunt for secret rooms. The number of secret rooms left on each level is now displayed on the Restore Screen.///
+    Once you manage to conquer them all, a special Mastery Area will be opened. Can you find out how to access it?///
+    You may also wish to play the next episode in the DROD:KDDL series.///
+    ///
+    Before I leave you to bask in your feeling of utter glory, I'd like to thank a couple of people, without whom this game would have never seen the light of day:///
+    ///
+    Erik Hermansen - The creator, father and inventor of DROD. Without him, this unique game idea would have never have seen the light of day.///
+    Mike Rimer - He coded most of DROD: JtRH and DROD: TCB singlehandedly. Thanks to the splendid codebase, making Flash DROD was pure pleasure.///
+    Matt Schikore - Overlord of the Caravel Forum and lead coder of CaravelNet. Thanks to him, you can battle for high scores, and so much more!///
+    Hold architects - Jacob, Larrymurk, slimm_tom (obviously I have to replace these with the actual names)///
+    Primary Testers - Adrienne E. Siskind, Jatopian///
+    Testers - Sam Benner, Tom Brouws, Jacob Grinfeld, Logan West, George Wanfried (Chaco), 12th Archivist, DiMono, Dischorran, Jatopian, Neather2, Panther, Snacko, N. K. Tiitto, Tim///
+    Translations - Blondbeard, Bombadil, DyRsOfDh14, Emojk, Grizzly, halyavin, Jutt, Krissan, Pekka, mxvladi, Syntax, vittro, The Architest, Znirk///
+    Voice Talents - Sten Ryanson///
+    ///
+    See you next time!
+
+complNextGame=Play the next levelset, KDD Lite 2. This will open in a new window, and you can safely close this window now. Your progress has been saved.

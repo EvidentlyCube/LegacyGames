@@ -1,0 +1,204 @@
+key8=Backspace
+key9=Tab
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Space
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Left
+key38=Up
+key39=Right
+key40=Down
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=R.Win
+key93=Menu
+key96=Numpad 0
+key97=Numpad 1
+key98=Numpad 2
+key99=Numpad 3
+key100=Numpad 4
+key101=Numpad 5
+key102=Numpad 6
+key103=Numpad 7
+key104=Numpad 8
+key105=Numpad 9
+key106=Numpad *
+key107=Numpad +
+key109=Numpad -
+key110=Numpad .
+key111=Numpad /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+
+keyClearDesc=Remove Paths
+keySoundDesc=Toggle Sounds
+keyMusicDesc=Toggle Music
+Redefine keys:=Redefine Keys:
+
+choseLanguage=Please select language:
+
+preloadTitle=LINX
+preloadDesc=Use your wits and draw a path to victory!
+
+Start Game=Start Game
+Options=Options
+Credits=Credits
+Close=Close
+
+Game by=Game by
+RETROCADE.net=RETROCADE.net
+Programming=Programming
+Maurycy Zarzycki=Maurycy Zarzycki
+Graphics=Graphics
+Aleksander Kowalczyk=Aleksander Kowalczyk
+Music=Music
+Musics=ojciec, Ghidorah, *Macherman*,\nopal, Lesnik
+Sound Effects=Sound Effects
+Various Resources=SFXR
+Translations=Translations
+EN - Chris Allcock=EN - Chris Allcock
+PL - Maurycy Zarzycki=PL - Maurycy Zarzycki
+
+
+Game is Paused=Game Paused
+Return to Game=Continue Playing
+Restart=Restart Level
+Return to Title Screen=Return to Title Screen
+Pause - Game lost focus=Pause - The game has lost focus
+Click to continue=Click on the game to continue
+Return to level selection=Return to level selection
+Click loses progress=Click loses progress\non this level
+HelpButton=Help & Solution
+HelpTooltip=Get help for game or a solution\nfor a difficult level.\nOpens in a new window.
+
+help1=Connect bases of the same colour.\nGrab a colour by clicking on a base.\nDraw paths on empty floor tiles.\nHold %% to clear paths.
+help2=Paths of different colours can't cross each other.
+help3=Drawing a path will overwrite any existing paths.
+help4=Some levels have a path limit.\nHold %% to clear paths! Use the Clear button on the left to clear the whole level.
+help5=Single bases have to be connected with themselves.\nRemember! If you get stuck use the Help button in pause menu, accessible via Escape key.
+help6=Remember about the path limit. Use %% to clear useless paths.\nIf you want to start from scratch, use the Clear button on the left.
+help7=Should you get stuck, you can go to the Help site via the pause menu which opens with Escape key.
+
+# On a level selection screen
+Select level:=Select level:
+levels_regular=Regular levels:
+levels_easy=Easy levels:
+levels_hard=Hard levels:
+
+# Leave this as is
+secretHidden=???
+
+# Part of HUD, shows how many paths are placed and the maximum amount of paths that can be placed
+Paths:=Paths:
+Level:=Level:
+
+# Button which shows the pause menu
+Menu=Menu
+
+# Button which clears the whole level of pathes
+Clear=Clear
+
+Eraser=Eraser
+C.Blind?=C.Blind?
+Enable Colour Blind mode?=Enable Colour Blind mode?
+eraserTooltip=You can also use\n%% to clear paths\nat any time!
+
+# Message indicating that the level has been completed
+Level completed!=Level Completed!
+
+# Starts next level
+playNext=Play Next
+
+# Plays the current level again
+restart=Play Again
+
+# Returns to the level selection screen
+returnToSelection=Select Level
+
+CONGRATULATIONS!=CONGRATULATIONS!
+Hit any key to continue!=Hit any key to continue
+secretShow=Play Outro Again!
+loading=Loading:
+finishMessage=\n\nThat's quite an accomplishment!\nFeel free to brag about your skill\nnow that you have won the game... or have you?\nMake sure to complete all three levelsets!
+setEasy=A different levelset for linx:\nEasy Levels\nOpens in a new window.
+setHard=A different levelset for linx:\nHard Levels\nOpens in a new window.
+Play easy levelset=Play easy levelset
+Play harder levelset=Play harder levelset
+Return to Menu=Return to Menu
+
+yousure=Sure?
+
+redefining=Redefining key:
+hitNew=Hit new key!

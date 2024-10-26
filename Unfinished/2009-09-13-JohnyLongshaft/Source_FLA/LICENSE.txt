@@ -1,0 +1,12 @@
+gfx/
+JohnyLongshaft.fla (Graphical assets)
+-------------------------------------
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+*.as
+JohnyLongshaft.fla (Code)
+-------------------------
+Copyright Maurycy Zarzycki
+MIT License

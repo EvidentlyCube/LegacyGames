@@ -1,0 +1,171 @@
+Courier New CE;
+
+Controls:
+Numpad 1,2,3,4,6,7,8,9 - Movement
+Numpad 5 - Stay still
+"Q" - Turn 90 left
+"W" - Turn 90 Right
+"A" - Jump/Wall Jump
+"S" - Land on floor (Only if jumping)
+"Z" - Swing with your sword
+"X" - Shot with your beam
+"C" - Both attacks
+"Enter" - Start turn with activating selected movement and attack
+
+I'm too lazy and tired to write some kind of Manual here. I just hope everything is clear enough. Btw, the mouse selection only works with the left panel, so don't try to click on the arrows on the right. The graphics of course are only for Alpha releases. In the next version I will work on it :). No sound right now, because there is no need to. REPORT EVERY ONE BUG AND EVERY ONE STRANGE THING YOU ENCOUNTER BY EITHER PM'ING ME ON FORUM, OR POSTING IT IN YHE GAME THREAD. Thanks for cooperation fella and have a nice play! (It is finishable, but there is nothing for killing all enemies alas...)
+
+Log:
+Version: 0.022:
+-Bullets Lists declaration
+-Shooting bullets
+-Bullets destroy when they hit wall or enemy
+
+Version: 0.021:
+-Sword swinging is done - but only swinging! No stab, no chop, and no damaging yet. Stab and chop won't be implemented yet.
+-Now sword moves properly along with player while jumping, though sword in jumping will be probably disabled
+-Enemies can move properly
+-New engine, based not on Arrays but in built-in Grid and List data structures which are a bit faster!
+-Shooting is not working yet.
+
+Version: 0.018:
+-Comments translating partially done
+-The beginnings of new sword script
+-The begining of new enemy and bullets allocation, killing and overall the way they work
+-Updated Player's movement system to work with new enemy array
+
+Version: 0.017:
+-Jump Skill Finished
+-Landing finished
+-Done skill restrictions - Now you can't select (and use) skills which you don't have
+-Cut the skills list for Turbos
+-Wall jump skill finished
+-Dying while standing on pit tiles finished
+-Added player's moving effect
+-Fixed some bugs with PLayer's bullets movement over pits
+-Created first test level (!!!!)
+-SECOND ALPHA RELEASE!!!!!
+
+Version: 0.016:
+-Fixed the bug: No more enemies will die without a reason and left an invisible solid wall under them
+-Simple Messages System
+-Fixed bug: When bullet misses enemy the Enemy Square is changed into the Floor Square.
+
+Version: 0.015:
+-First Alpha release
+-Done player movement
+-Done mouse selecting
+-Done sword swinging
+-Done hitting enemies by sword
+-Done shotting with beam
+-Done hitting enemies with beam
+-Done beam movement
+-Enemy movement code activated and slightly changed
+-Some majo and minor bug fixes
+-Added particle effect
+-Added enemy hp bar
+-Added player hp bar
+-Added game restart when enemy falls to zero
+
+Version: 0.013:
+-Complete Engine Re-Coding
+
+Version: 0.013a 24.02.2006:
+-Added Panel Graphic
+-Level size now fills the indicated space.
+
+Version: 0.012 02.02.2006:
+-Added enemy parameters Atack & Defence
+-New attack system includes Atack & Defence parameters
+-Upgraded attack system, now player is not killing instantly, but rather takes enemy hp
+
+Version: 0.011 01.02.2006:
+-Added player parameters
+
+Version: 0.010 31.01.2006:
+-Slight System modifications
+-Enemy Movement system updated to be capable of handling with as much as you want movement types and different speeds
+-Hp and Maxhp variables added to player and enemies
+-Added very basic Enemy Attacking system (NEEDS CHANGE AND IS ONLY FOR FUN ;-D )
+
+All things I want to include in new versions:
+
+Player Parameters:
+-Hit Points
+-Maximum Hit Points
+-Stamina - When is below 10%, attack and defense are divided by two
+-Maximum Stamina 
+-Missiles - Number of missiles you are carrying
+-Maximum Missiles - Number of missiles you can carry
+-Super Missiles - Number of Super missiles you are carrying
+-Maximum Super Missiles - Number of Super missiles you can carry
+-Super Bombs - Number of Super Bombs you are carrying
+-Maximum Super Bombs -  Number of Super Bombs you can carry
+-Strenght - Affects Melee weapon damage
+-Agility - Affects attack and defence,
+-Accuracy - Allows to shoot more accurately
+-Perception - Affect chance of noticing hidden things
+-Speed - Affects the speed of weapon, armour changing, reloading, picking up things, getting to yourself after special attack
+-Luck - Luck... \^>
+
+Player Special Abilities:
+-Jump - Let's you jump over one-square, jump takes 2 turns
+                                                                                                                                                                 
+-Morphing Ball - Let's you morph into ball, so you can walk thorugh small gaps
+-Bombs - Let's you place small bombs and destroy "Only-Destroyable-By-Bombs Walls"
+-Ball Jump - Let's you jump while in ball form
+                                                                                                                                                                 
+-Air Device - Allows you to breath underwater
+-Climbing - Ability to climb on a higher walls
+                                                                                                                                                                 
+-Varia Suit - Resistance to high temperatures
+-Variegate Suit - Resistance to low temperatures
+-Gravity Suit - Allows you to use Jumps and Spider Ball underwater, high gravity and other strange rooms.
+-Unpiqued Suit - Allows you to survive lava, but you can't survive in magma, even with this suit.
+                                                                                                                                                                 
+-Normal Beam - The basic samus Weapon, with infinite ammo
+-Blazer Beam - Fire beam
+-Ice Beam - Frozing Beam
+-Plasma Beam - Plasma beam
+-Metroid Beam - The impossible to get and the strongest weapon in the universe, the only one capable of destroying Metroidus Blocks. Shots with inscrutable beam
+                                                                                                                                                                 
+-Wide Beam - Shots three shots
+-Wave Beam - Beam goes through walls
+-Charge Beam - Let's you charge your beam, the charged shot is stronger according to the charging time. Maximium charge after 5 turns
+-Laser Pointer - A little help, to help Player with shooting
+                                                                                                                                                                 
+-Missiles - Classic Missiles. Can be shot anytime, doesn't takes hand, ammo is very common, five shots unlocks Red doors
+-Super Missiles - Same as above, but it opens red doors with only one shot, and opens green doors after three shots
+-Super Bomb - Only usable when in ball, damages all enemies in room, one bomb opens yellow doors
+-Charge Missile - Works only with Classic Missiles. Charge time is 5 turns. Charging takes 2 missiles, but is stronger 5 times.
+                                                                                                                                                                 
+
+Little notes about Abilities:
+-You can charge and move around in the same time
+-You can shot and move in the same time. First you move, then from the new position the shot is done.
+-You can't charge beam and missiles in one time. You can' shot beam or missile while charging other, alas.
+-You can't shot missiles and attack with other weapons at the same time. Despite of this you don't have to lose one turn to change between these weapons ^_^
+
+Player Statuses:
+-Poison - You lose some HP every turn
+-Blind - You can't see
+-Paralyze - Can't do any action
+-Leg Stun - Can't move
+-Hands Stun - Can't attack
+
+Level Array Variable Information:
+. - (FH) Floor High ceiling 
+, - (FL) Floor Low ceiling
+o - (PH) Pit High ceiling
+O - (PL) Pit Low ceiling
+a - (WA) Wall A - Destroyable by Shot
+b - (WB) Wall B - Destroyable by Charged Shot
+c - (WC) Wall C - Destroyable by Bombs
+d - (WD) Wall D - Destroyable by Missiles
+e - (WE) Wall E - Destroyable by Super Missiles
+f - (WF) Wall F - Destroyable by Charged Missiles
+g - (WG) Wall G - Destroyable by Super Bomb
+j - (WJ) Wall J - Destroyable by Metroid Beam
+x - (WX) Wall X - Indestructable
+
+
+ 

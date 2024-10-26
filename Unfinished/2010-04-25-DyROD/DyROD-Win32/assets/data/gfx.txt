@@ -1,0 +1,22 @@
+# File: tiles.txt
+
+# This file contains information about tiles - how they work, look and interact
+# with the world around.
+
+# Understanding gfx.txt:
+
+# N : gfx ID : Graphic name
+# R : rotatable 
+
+# One empty line ends Tile declaration
+
+# N - Indicates the beginning of an entry, ID must be unique, Graphic name is
+      case-senssitive and can only use numbers, letters, underscore and hyphen.
+# R - Flag which indicates if a graphic is rotatable or not. Rotatable graphics
+      need 8 directional images stored in it.
+
+N:0:PLAYER001
+R:1
+
+N:1:ENEMY001
+R:1

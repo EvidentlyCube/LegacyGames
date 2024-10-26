@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Insert_Grass",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Insert_Grass",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Surfacing/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

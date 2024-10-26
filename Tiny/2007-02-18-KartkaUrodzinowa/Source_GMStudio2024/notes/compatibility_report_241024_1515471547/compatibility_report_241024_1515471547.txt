@@ -1,0 +1,13 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\KU_650967312_gmz\mvc\rooms\room0\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 14 '0' "0"
+
+Missing audiogroup for sound: 'sound1' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action\action_wrap.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_isplaying.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

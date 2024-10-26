@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Door_Add_Base",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Door_Add_Base",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Surfacing/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

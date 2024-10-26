@@ -1,0 +1,27 @@
+(music)
+-------
+[Title Screen] "Sunday", copyright Jakub Skorupa (Shyz)
+[Level Selection] "8th", copyright Konrad Gmurek (KeyG)
+[Tutorial Levels] "Billie Jean", copyright Jose Manuel Perez (JosSs)
+[Easy Levels] "Chio Chips", Marek Kuśmierz (Dakota)
+[Logical Levels] "Binary World", Marek Kuśmierz (Dakota)
+[Hard Levels] "Angry Humpster", Karol Kurtyka (Karlos)
+[Extremal Levels] "Bees", copyright Piotr Leśnikowski (Lesnik)
+[Ending] "Modular Infinitum", copyright Jose Manuel Perez (JosSs)
+
+
+(sound effects)
+---------------
+Copyright original authors (unknown)
+
+
+(graphics)
+--------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts)
+--------------
+Copyright Maurycy Zarzycki
+MIT License

@@ -1,0 +1,55 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Player_Wall_Jump\Sc_Player_Wall_Jump.gml
+String not found: ConversionLog_ConvertedString 7 '' ""
+String not found: ConversionLog_ConvertedString 7 '' ""
+String not found: ConversionLog_ConvertedString 8 'x' "x"
+String not found: ConversionLog_ConvertedString 8 'x' "x"
+String not found: ConversionLog_ConvertedString 9 'x' "x"
+String not found: ConversionLog_ConvertedString 9 'x' "x"
+String not found: ConversionLog_ConvertedString 10 'x' "x"
+String not found: ConversionLog_ConvertedString 10 'x' "x"
+String not found: ConversionLog_ConvertedString 11 'x' "x"
+String not found: ConversionLog_ConvertedString 11 'x' "x"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Player_Beam_Move\Sc_Player_Beam_Move.gml
+String not found: ConversionLog_ConvertedString 20 '.' "."
+String not found: ConversionLog_ConvertedString 20 ',' ","
+String not found: ConversionLog_ConvertedString 20 'o' "o"
+String not found: ConversionLog_ConvertedString 20 'O' "O"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Player_Beam_Rearrange\Sc_Player_Beam_Rearrange.gml
+String not found: ConversionLog_ConvertedString 39 '' ""
+String not found: ConversionLog_ConvertedString 45 'B' "B"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_E_Movement_A\Sc_E_Movement_A.gml
+String not found: ConversionLog_ConvertedString 8 '.' "."
+String not found: ConversionLog_ConvertedString 16 '.' "."
+String not found: ConversionLog_ConvertedString 23 '.' "."
+String not found: ConversionLog_ConvertedString 31 'Player Has been attacked' "Player Has been attacked"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_E_Rearrange\Sc_E_Rearrange.gml
+String not found: ConversionLog_ConvertedString 42 '' ""
+String not found: ConversionLog_ConvertedString 43 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Turn_Start\Sc_Turn_Start.gml
+String not found: ConversionLog_ConvertedString 2 '-----START TURN ' "-----START TURN "
+String not found: ConversionLog_ConvertedString 2 ': -----' ": -----"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Turn_End\Sc_Turn_End.gml
+String not found: ConversionLog_ConvertedString 9 'x' "x"
+String not found: ConversionLog_ConvertedString 22 'o' "o"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\I_Sword_Attack\I_Sword_Attack.gml
+String not found: ConversionLog_ConvertedString 12 'You cut Thorner for ' "You cut Thorner for "
+String not found: ConversionLog_ConvertedString 12 ' damage.' " damage."
+String not found: ConversionLog_ConvertedString 13 'You Sliced Thorner.' "You Sliced Thorner."
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\scripts\Sc_Msys_Declare\Sc_Msys_Declare.gml
+String not found: ConversionLog_ConvertedString 3 '--------------------' "--------------------"
+
+GameMaker Studio 1 font texture has been backed up at C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\fonts\font0\font0.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Metroid_-_Recreation_V-021_831253397_gmz\mvc\fonts\font1\font1.gms1.png
+Resource name collision 'Main' already exists, renamed to 'Main_objects'
+Game speed set to 60
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

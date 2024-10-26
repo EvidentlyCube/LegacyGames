@@ -1,0 +1,17 @@
+classic_i
+classic_ii
+classic_iii
+-----------
+Levels are from the three original Boulder Dash games.
+Copyright current right holders.
+
+
+undervaults/
+------------
+Copyright Chris Allcock (Zolyx)
+Creative Commons Attribution 4.0 International
+
+
+regular/
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International

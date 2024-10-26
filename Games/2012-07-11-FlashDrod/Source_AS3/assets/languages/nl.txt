@@ -1,0 +1,488 @@
+# Keys
+key8=Backspace
+key9=Tab
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Space
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Left
+key38=Up
+key39=Right
+key40=Down
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=R.Win
+key93=Menu
+key96=Cijferblok 0
+key97=Cijferblok 1
+key98=Cijferblok 2
+key99=Cijferblok 3
+key100=Cijferblok 4
+key101=Cijferblok 5
+key102=Cijferblok 6
+key103=Cijferblok 7
+key104=Cijferblok 8
+key105=Cijferblok 9
+key106=Cijferblok *
+key107=Cijferblok +
+key109=Cijferblok -
+key110=Cijferblok .
+key111=Cijferblok /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+# Key names
+keyUp=Stap Noord
+keyUpLeft=Stap Noordwest
+keyUpRight=Stap Noordoost
+keyLeft=Stap West
+keyRight=Stap Oost
+keyDown=Stap Zuid
+keyDownLeft=Stap Zuidwest
+keyDownRight=Stap Zuidoost
+keyWait=Wacht Één Zet
+keyCW=Draai Met de Klok Mee
+keyCCW=Draai Tegen de Klok In
+keyUndo=Laatste Zet Ongedaan Maken
+keyRestart=Kamer Herstarten
+keyBattle=Gevechtstoets
+keyLock=Kamer Vergrendelen/Ontgrendelen
+# Global buttons
+close=Sluiten
+# Global messages
+cnetError=Verbinding Mislukt.///
+    Dit kan veroorzaakt zijn door ongeldige gebruikersinformatie, een defecte internetverbinding of tijdelijke serverproblemen. CaravelNet functies zijn uitgeschakeld. Ga om ze te herstellen naar het opties scherm, update je gebruikersinformatie indien nodig, en klik "Verbinden!"
+# Preloader
+prlStartGame=Start Spel
+prlLoading=Laden: %% %
+prlWaitApi=Wachten op verbinding door API...
+prlLanguage=Verander Taal 
+# Initialize screen
+initAssets=Hulpbronnen initialiseren %% / %%
+# Title Screen and submenus
+tsStartNew=Start Nieuw Spel
+tsStartNewKey=S
+tsStartNewKeyCode=83
+tsContinue=Spel Hervatten
+tsContinueKey=e
+tsContinueKeyCode=69
+tsRestore=Herstellen Naar een Andere Kamer
+tsRestoreKey=N
+tsRestoreKeyCode=78
+tsAchievements=Prestaties Bekijken
+tsAchievementsKey=P
+tsAchievementsKeyCode=80
+tsOptions=Opties
+tsOptionsKey=O
+tsOptionsKeyCode=79
+tsHelp=Hulp en Achtergrondinformatie
+tsHelpKey=H
+tsHelpKeyCode=72
+tsBrowse=Door Holds Bladeren
+tsBrowseKey=D
+tsBrowseKeyCode=68
+# Options
+optHeader=Opties:
+optUploadAll=Upload Alle Scores
+optConnect=Verbinden!
+optRedefine=Toetsen Wijzigen
+optCnetHeader=Caravelnet Gebruikersinformatie
+optCnetUser=CNet Naam
+optCnetKey=CNet Sleutel
+optCnetVolume=Volume
+optCnetMusic=Muziek
+optCnetSound=Effecten
+optCnetVoices=Stemmen
+optMoveAnim=Bewegingsanimatie
+optMoveSmooth=Vloeiend
+opyMoveFast=Snel
+uploadAll=Alle scores uploaden
+uploadDone=Klaar!
+uploadError=Er is een fout opgetreden. Maak verbinding en probeer opnieuw!
+uploadAlreadyHas=Reeds Geüpload
+uploadRoomEntrance=Entree
+cnetDescription=Gebruikers die voor CaravelNet zijn ingeschreven, kunnen hun informatie hier invullen om deel te nemen aan online ranglijsten. De score voor elke kamer is gebaseerd op het kleinste aantal gebruikte zetten om de kamer op te lossen. Als je deze details niet invult, krijg je alleen te zien welke plaats je score had gehaald. Je kunt later al je scores inzenden met de Upload Alle Scores knop.
+cnetHeader=bekijk meer informatie over,//
+    of koop een CaravelNet lidmaatschap.
+    Opent in een nieuw venster.
+redefineScreen=Je verandert de toets voor "%%"///
+    Druk gewenste toets in (nu: %%)///
+    Toets Escape om te annuleren
+redefineInvalidKey=%% is gereserveerd voor andere functies///
+    Druk gewenste toets in///
+    Toets Escape om te annuleren
+redefineReservedKey=%% is gereserveerd voor alternatieve bewegingstoetsen///
+    Druk een andere toets in///
+    Toets Escape om te annuleren
+# Help and Backstory
+abButCnet=Over CaravelNet
+abButHowto=Speluitleg
+abButHistory=Drod Geschiedenis
+abButBackstory=Verhaal
+abButCredits=Credits
+h&bTextWidth=450
+h&bText=\tDROD werd gecreëerd door Erik Hermansen in de jaren '90. Het is algemeen bekend als een puzzelspel waarin je rondloopt door kamers in een kerker en monsters verslaat met een Heel Groot Zwaard. Hoe dit werkt? Dat zul je zelf zien zodra je het spel gaat spelen.////
+     \tFlash DROD is een port van het originele DROD spel. Het gebruikt media uit de nieuwere DROD spellen, die je kunt downloaden van CaravelGames.com om op je computer te spelen.////
+    \tDankzij geïntegreerde CaravelNet functionaliteit kunnen spelers, naast het oplossen van puzzels, ook met elkaar strijden om de high-scores door elke kamer in zo min mogelijk zetten op te lossen.
+creditsWidth=620
+credits=<font size="20">Programmeren, Ontwikkeling: </font><font color="#444444">Maurycy Zarzycki</font>///
+    <font size="20">Grafische onderdelen & Muziek: </font><font color="#444444">Erik Hermansen, Maurycy Zarzycki</font>///
+    <font size="20">Server-side ontwikkeling: </font><font color="#444444">Matt Schikore</font>///
+    <font size="20">Level ontwikkeling: </font><font color="#444444">Jacob Grinfeld, Larrymurk, Tom Brouws</font>///
+    <font size="20">Primaire Testers: </font><font color="#444444">Adrienne E. Siskind, Jason Mayeaux</font>///
+    <font size="20">Testers: </font><font color="#444444">Sam Benner, Tom Brouws, Jacob Grinfeld, Logan West, George Wanfried (Chaco), 12th Archivist, DiMono, Dischorran, Jatopian, Neather2, Panther, Pearls, Snacko, N. K. Tiitto, Tim</font>///
+    <font size="20">Vertalingen: </font><font color="#444444">Bombadil (es), Damien Poussier (fr), DyRsOfDh14 (es), Martin Coors (de), Guilherme Töws (pt), Jutt (nl), Pekka (fi), Robin Knabe (nl), The Architest (fi), Xander Deubelbeiss (de)</font>///
+    <font size="20">Acteurs: </font><font color="#444444">Sten Ryanson, Johannah West, Logan West</font>///
+    <font size="20">Originele Programmatuur, Idee & Levels: </font><font color="#444444">Mike Rimer, Erik Hermansen, Lucas Swineford</font>
+controlsWindowWidth=650
+controlsWindow=<font size="18">'Cijferblok' en '789 UIO JKL'</font><font color="#444444"> - Rondlopen</font>///
+    <font size="18">'Q' en 'W'</font><font color="#444444"> - Zwaard Draaien</font>///
+    <font size="18">'Backspace'</font><font color="#444444"> - Laatste zet ongedaan maken</font>///
+    <font size="18">'R'</font><font color="#444444"> - Teruggaan naar laatste checkpoint of herstarten</font>///
+    <font size="18">'Shift+R'</font><font color="#444444"> - Kamer herstarten</font>///
+    <font size="18">'Escape'</font><font color="#444444"> - Pauze menu</font>///
+    <font size="18">'Enter'</font><font color="#444444"> - Level en kamer score</font>///
+    <font size="18">'X'</font><font color="#444444"> - Kamervergrendeling aan/uit</font>///
+    <font size="18">'Spatie'</font><font color="#444444"> - verwijder dialogen en prestaties van het scherm</font>///
+    <font size="18">'F3'</font><font color="#444444"> - Zetteller weergeven</font>///
+    <font size="18">'Shift+Toets'</font><font color="#444444"> - Doe een actie en het omgekeerde</font>///
+    <font size="18">'Shift+Wachten'</font><font color="#444444"> - Wacht tot begin volgende broedcyclus</font>///
+    <font size="18">'Muisklik'</font><font color="#444444"> - Informatie tonen over het aangeklikte veld</font>////
+    \tJe doel is om elk level van Koning Dugans Kerker vrij van monsters te maken. Deze taak kan worden volbracht met enkel je Heel Grote Zwaard™ en je eigen inzicht. Elke kamer is een afzonderlijke ruimte die in één enkele sessie opgeruimd moet worden. Verlaat je een kamer zonder die helemaal te ontruimen, dan wordt deze in zijn originele staat hersteld wanneer je terugkomt.
+cnetInfoWidth=500
+cnetInfo=\tCaravelNet laat gebruikers over de hele wereld met elkaar strijden om de beste scores.////
+    \tIedreen kan zijn eigen scores anoniem toevoegen om te zien hoe ze zich verhouden tot andere spelers. Echter, anonieme scores worden niet opgeslagen on de Caravel server en zijn er alleen voor informatieve doeleinden. De scores van elke geregistreerde gebruiker op het Caravel forum worden na inzending twee weken bewaard zonder toeslag. Wie een CaravelNet lidmaatschap heeft zal zijn scores nooit kwijtraken.////
+    \Merk op dat zolang je voortgang niet wordt verwijderd van je computer, je ervoor kunt kiezen al je scores naar de server te sturen nadat je een Caravel account hebt geregistreerd.////
+    \tOm je bij Caravel te registreren bezoek je CaravelGames.com en maak je een account aan op het forum.
+# Backstory
+backstoryNext=Volgende
+backstoryPrev=Vorige
+backstory1=\tBeethro Budkin slenterde de Grote Eetzaal binnen, waar Koning Dugan zijn immense ochtendmaal zat te eten.////
+      \t"Ga weg, verachtelijke burger! Je verstoort mijn spijsvertering met je slechte hygiëne!" bulderde de Koning, terwijl stukken varkensvlees en aardappels uit zijn mond vlogen.////
+      \t"Maar Sire", protesteerde Beethro, "u had mij laten komen."////
+      \tDe uitdrukking op het grote gezicht van de Koning veranderde binnen twee seconden van boosheid naar verwarring naar herkenning naar opgewektheid.////
+      \t"Ik had je eigenlijk eerder moeten laten komen", zei Koning Dugan. "Het is niet te geloven! Je laat de wacht hun maaltijden beneden in de kerker eten, ze laten overal kruimels achter, en opeens is het er vergeven van de reusachtige kakkerlakken, om maar te zwijgen van de kobolden, serpenten, boze ogen en andere akelige dingen. Het is helemaal uit de hand gelopen."////
+      \tBeethro rechtte trots zijn rug. "Geen zorgen. Ik ben een getrainde professional uit een lange traditie van kerkerverdelgers. Ik combineer de kennis die door vijf generaties is doorgegeven met de meest hoogwaardige uitrusting om een efficiënte verdelgingsdienst aan te bieden voor een betaalbare prijs"////
+      \t"Wat voor uitrusting gebruik je?"////
+      \t"Ik heb een heel groot zwaard."
+backstory2=\t"Goed! Wanneer kun je beginnen?"////
+      \t"Wanneer we de details voor de betaling hebben afgehandeld. Hier zijn mijn standaard verdelgingskosten. U kunt onderaan tekenen" Beethro overhandigde een contract aan de Koning.////
+      \t"Deze prijzen zijn schandalig! Is het privilege van eervolle dienst aan de Kroon niets meer waard tegenwoordig?"////
+      \t"Ik kan zo vertrekken."////
+      \t"Nee, nee, nee. We moeten die kerker opgeruimd hebben zodat de gevangenen hun marteling kunnen ondergaan in een schone en veilige omgeving."////
+      \t"Goed, ik geef u korting als u er een prinses bij doet."////
+      \t"Je bent lelijk en je stinkt. Geen van mijn dochters zal je willen!"////
+      \tBeethro haalde zijn schouders op. "Zo u wilt."////
+      \tDe Koning tekende onderaan het contract. "Goed dan. Ik zal je de entree laten zien."
+backstory3=\tTijdens de afdaling overdacht Beethro de opdracht die hij had aangenomen. Dugan's Kerker was bijzonder groot en, afgaand op de verhalen van eerdere verdelgers, belachelijk vatbaar voor ongedierte. Hij was ook verscheidene malen in het geheim uitgebreid, tot spijt van de eerstvolgende persoon die het had opgeruimd, wiens contract niet rekening had gehouden met deze mogelijkheid. (Hij werd enkel betaald voor de gedeeltes waar hij het bestaan van kende.)////
+      \tSommigen zeiden dat er duistere krachten zaten achter de expansie. De legende ging dat in het verleden een koning zo moe werd van zijn vervelende jonge zoon, dat hij voor de grap voorstelde dat de jongen in de kasteelkerkers kon gaan spelen. Omdat hij zijn vader serieus nam, dwaalde de jongen diep de kerkers in en werd nooit teruggevonden. Er werd gezegd dat hij niet om was gekomen, maar voor de rest van zijn leven uit vrije wil in de kerkers bleef wonen; dat hij zijn nieuwe leefomgeving meester werd, alle geheimen van de ondergrondse wereld leerde en bondgenootschappen vormde met de monsters die er leefden, om ze aan het werk te zetten voor het maken van nieuwe doorgangen en om betere soorten monsters te fokken. Hij noemde zichzelf de Nederling en maakte plannen om uit de kerkers op te rukken om de troon op te eisen wanneer zijn krachten voldoende waren.
+backstory4=\tBeethro was niet zo zeker van dat alles. Om te beginnen was de koninklijke troon niet wat het geweest was, nu de macht grotendeels aan een parlement was overgedragen. Om maar te zwijgen over de vraag wie er onder de grond zou willen leven, of hoe hij bevriend kon raken met de wezens die er leefden, die toch geen bijzondere gesprekspartners waren. Maar het was waar dat kerkers vaak onnodig gecompliceerd waren en snel geteisterd werden door monsters, en soms zelfs zonder waarschuwing groeiden - geen Kerker Architect vertelde ooit waarom, wat een kwestie van eer was - en dit bovenal zorgde ervoor dat mannen als Beethro hun werk behielden.////
+      \tMaar goed, een verdelger had genoeg zorgen van praktischere aard, zoals de overvloedige en mansgrote kerkerkakkerlak. Wat vooral door Beethro's gedachten ging was dat hij met deze opdracht genoeg geld en dode monsters moest kunnen verzamelen om eindelijk uit dit ondankbare vak te stappen en een restaurant te openen.////
+      \t"Ik noem het 'Beethro's Kakkerlakkengrill'!"
+backstory1width=550
+backstory2width=550
+backstory3width=550
+backstory4width=550
+drodHistoryWidth=650
+drodHistory=\tDe eerste "Deadly Rooms of Death" werd in de jaren '90 gemaakt door Erik Hermansen. Het spel werd uitgegeven door Webfoot en werd bekend als 'Webfoot Drod', maar dit spel is niet langer te koop en kan niet legaal worden verspreid of verkregen. Gelukkig mocht Erik het spel zelf herontwikkelen en zo ontstond 'Caravel DROD' in 2002.////
+    \tVervolgens werd in 2003 "DROD: Architect's Edition" uitgebracht, die een level editor bevatte waarmee iedereen zijn eigen 'holds' (level sets) kon maken en openlijk kon delen op het CaravelGames forum. Het spel trok een grote groep fans aan en het plan om een nog een spel te maken werd gevormd.////
+    \tOp 1 april 2005 kwam "DROD: Journey to Rooted Hold" uit! De lijst nieuwe functies was fantastisch. Het bevatte nieuwe grafische elementen, scripting in het spel, een flink aantal nieuwe spelelementen, een boeiende verhaallijn en een tegenstander wiens stem iedereen de koude rillingen gaf.////
+    \tPrecies twee jaar later zag "DROD: The City Beneath" het daglicht. Die dag werd het record gezet voor het grootste aantal aanwezige gebruikers tegelijk op het Caravel Forum. TCB had nog meer nieuwe elementen en verbeteringen ten opzichte van JtRH, alsook een verhoogde moeilijkheidsgraad.////
+    \tIn 2008 kwam "DROD RPG" uit. Hoewel niet zo populair als de titels uit de hoofdserie, was het nog steeds een juweel. Het grote verschil was dat het spel een strategische uitdaging was in het managen van hulpmiddelen over meerdere locaties. Elk monster had statistieken en je moest berekenen welken monsters wanneer verslagen konden worden, plannen waar je heen ging, welke hulpmiddelen te verzamelen, en hoe en wanneer ze te verkrijgen.////
+    \t"DROD 4: Gunthro and the Epic Blunder" is de laatste aflevering, uitgebracht op 1 April 2012. Dit spel is gericht op nieuwe spelers en is veel toegankelijker voor beginners vanwege de makkelijkere puzzels, intuïtievere oefeningen en duidelijke centrale verbindingslevels.
+# Restore Screen
+rstHeader=Spel Herstellen
+rstToRoom=Herstellen naar deze kamer
+rstReturn=Terug naar beginscherm
+rstSecrets=Geheime kamers opgelost: %% / %%
+# Ingame messages
+roomLocked=Je hebt het verlaten van de kamer vergrendeld.//
+    Toets %% opnieuw om te ontgrendelen.
+ingLevelCompleted=Level Klaar
+ingSecretFound=Geheim Gevonden
+ingHoldMastered=Hold Overmeesterd
+# Achievements popup
+achievementHeader=Prestatie!
+achievementDismiss=Klik of Spatie om te verbergen
+# Achievements list
+achlistHeader=Prestaties:
+# Browse released holds
+browseHeader=Blader door Flash DROD Holds
+browseOpen=Open in een nieuw venster
+# Level/Room score
+scrStats=Speler statistieken
+scrYourBest=Je beste score:
+scrTop=Topscores voor kamer:
+scrNoScore=Geen!
+scrFetching=Ophalen...
+scrOnlyForCnet=Scores voor kamers zijn alleen beschikbaar voor CaravelNet leden en//
+    Caravel forum leden.////
+    Het lijkt dat je nog niet je CaravelNet Accountinformatie hebt ingevuld. Door een//
+    caravelgames account aan te maken kun je strijden tegen spelers over de hele wereld//
+    en de scores voor elke kamer bijhouden.////
+    Om te registreren bij Caravelgames, gebruik je de knop in het opties scherm.
+scrMovesRoom=Zetten in kamer: %%
+scrMovesLevel=Zetten in level: %%
+scrDeaths=Dood gegaan in Level: %%
+scrKills=Monsters gedood in level: %%
+scrTime=Tijd in level: %%
+scrNoScores=Nog geen scores voor deze kamer.
+scrCnetProblems=CaravelNet functies zijn uitgeschakeld wegens problemen met je verbinding.////
+    Zorg eerst dat je internetverbinding werkt en dat je geldige CaravelNet gebruikersinformatie//
+    hebt ingevuld. Ga vervolgens naar het opties scherm en klik "Verbinden!".
+# Login Window
+loginConnected=\tJe bent nu verbonden met CaravelNet als geregistreerde gebruiker!////
+    \tAls je alleen een forumaccount hebt gemaakt maar niet ingeschreven bent voor//
+    CaravelNet, worden je scores twee weken nadat je ze hebt ingezonden verwijderd.////
+    \tScores geüpload door CaravelNet leden zijn permanent.
+loginConnectedAnonymous=\tJe bent nu verbonden met CaravelNet als anonieme gebruiker. Je kunt je scores//
+    inzenden om te weten welke plaats je op de ranglijst had gekregen, maar de score//
+    wordt niet opgeslagen. Om je bijdrages permanent te maken, moet je een//
+    Caravelgames account aanmaken (toegankelijk via het opties scherm).///
+    \tAls je later besluit om een account te maken, gebruik je de "Upload je Scores" knop//
+    om al je voortgang naar onze servers te sturen.
+loginFailed=\tVerbinden mislukt!////
+    1. Controleer of je verbonden bent met het internet.///
+    2. Zorg dat je firewall dit spel niet blokkeert.///
+    3. Ga naar http://forum.caravelgames.com om te zien of de server laadt.//
+    Wacht anders een paar minuten en probeer het opnieuw.
+loginFailedBadCredentials=4. Controleer of de gebruikersinformatie die je hebt ingevoerd correct is.
+loginFailedMissingCrentials=4. Zorg dat je een geldige gebruikersnaam en CaravelNet sleutel hebt ingevoerd.
+# Pause window
+pauseHeader=DROD is nu gepauzeerd
+pauseContinue=Spel hervatten
+pauseContinueTip=Spel hervatten.///
+    (Escape, Enter)
+pauseRestart=Kamer herstarten
+pauseRestartTip=Herstart huidige kamer.
+pauseRoomHelp=Hulp zoeken voor deze kamer
+pauseRoomHelpTip=Online hulp zoeken voor deze kamer.//
+    (In het spel: F2)
+pauseHelp=Zoek algemene hulp
+pauseHelpTip=Open het venster voor algemene hulp.///
+    (In het spel: F1)
+pauseAchievements=Bekijk prestaties
+pauseAchievementsTip=Toon een lijst met alle prestaties.///
+    (In het spel: Tab)
+pauseOptions=Opties
+pauseOptionsTip=Hier kun je enkele instellingen veranderen.
+pauseReturn=Terug naar beginscherm
+pauseReturnTip=Voortgang in het spel word opgeslagen,///
+    maar de voortgang in de huidige kamer gaat verloren als je het spel stopt.
+# Misc
+achHidden=???
+levelCreatedDate=Aangemaakt %%-%%-%%
+# Scored Places
+score1NoTie=Eerste Plaats!!
+score1=1e plaats
+score2=2e plaats
+score3=3e plaats
+score4=4e plaats
+score5=5e plaats
+score6=6e plaats
+score7=7e plaats
+score8=8e plaats
+score9=9e plaats
+score10=10e plaats
+score11=11e plaats
+score12=12e plaats
+score13=13e plaats
+score14=14e plaats
+score15=15e plaats
+score16=16e plaats
+score17=17e plaats
+score18=18e plaats
+score19=19e plaats
+score20=20e plaats
+score21=21e plaats
+score22=22e plaats
+score23=23e plaats
+score24=24e plaats
+score25=25e plaats
+scoreTie=gedeelde %%!
+scoreNoCnet=(anoniem)
+# Game Stats
+resultHoldTotals=Hold Totaal:\n
+resultLevelTotals=Level Totaal:\n
+resultMoves=Zetten: %%\n
+resultKills=Monsters gedood: %%\n
+resultDeaths=Dood gegaan: %%\n
+resultTime=Tijd: %%\n
+resultSecrets=Geheimen gevonden: %%\n
+resultSecretsBetter=Geheimen gevonden: %% / %%\n
+# Scroll Clock
+spawnCycle=Broedcyclus:
+snakesPrefer=Slangen prefereren:
+clcHo=HO
+clcRiz=RIZ
+clcOn=ONT
+clcTal=AAL
+clcVe=VE
+clcRt=RT
+clcIc=IC
+clcAl=AAL
+# Tiles list
+tile1=Vloer
+tile2=Afgrond
+tile3=Trap Omlaag
+tile4=Muur
+tile5=Gebroken Muur
+tile6=Level Klaar Poort
+tile7=Kamer Klaar Poort
+tile8=Valluik Poort
+tile9=Gele Deur
+tile10=Gele Deur (Open)
+tile11=Valluik
+tile12=Obstakel
+tile13=Pijl (Noord)
+tile14=Pijl (Noordoost)
+tile15=Pijl (Oost)
+tile16=Pijl (Zuidoost)
+tile17=Pijl (Zuid)
+tile18=Pijl (Zuidwest)
+tile19=Pijl (West)
+tile20=Pijl (Noordwest)
+tile21=Onzichtbaarheidsdrank
+tile22=Mimicusdrank
+tile23=Perkament
+tile24=Sfeer
+tile35=Teer
+tile37=Teer Poort
+tile54=Mozaïek
+tile55=Weg
+tile56=Gras
+tile57=Aarde
+tile58=Alternatieve Vloer
+tile59=Meestermuur
+tile61=Trap Omhoog
+tile62=Geheime Muur
+tile66=Muur
+tile68=Kamer Klaar Poort (Open)
+tile69=Level Klaar Poort (Open)
+tile70=Valluikpoort (Open)
+tile71=Teerpoort (Open)
+tileCheckpoint=Checkpoint
+# Monsters list
+monsterPlayer=Speler
+monster0=Kakkerlak
+monster1=Kakkerlakkoningin
+monster2=Kakkerlak-ei
+monster3=Kobold
+monster5=Schaduwvlerk
+monster6=Boos Oog
+monster7=Serpent
+monster8=Teermoeder
+monster9=Teerbaby
+monster10=Brein
+monster11=Mimicus
+monster12=Spin
+monster29=Karakter
+sword=Zwaard
+swords=Zwaarden (%%)
+# Room position
+roomS=Z
+roomSouth=Zuid
+roomN=N
+roomNorth=Noord
+roomE=O
+roomEast=Oost
+roomW=W
+roomWest=West
+roomEntrance=De Entree
+room1=Eenmaal
+room2=Tweemaal
+room3=Driemaal
+room4=Viermaal
+room5=Vijfmaal
+room6=Zesmaal
+room7=Zevenmaal
+room8=Achtmaal
+room9=Negenmaal
+room10=Tienmaal
+room11=Elfmaal
+room12=Twaalfmaal
+room13=Dertienmaal
+room14=Veertienmaal
+room15=Vijftienmaal
+room16=Zestienmaal
+room17=Zeventienmaal
+room18=Achttienmaal
+room19=Negentienmaal
+roomMore=%% Maal
+# Game completion
+complButtNextGame=Speel volgende set
+complButtLearnMore=Meer informatie
+complButtContinue=Spel Hervatten
+complHeader=Wat nu?
+complLearnMore=Meer informatie over de DROD serie - de wereld en de belangrijkste spellen: Journey to Rooted Hold, The City Beneath, Gunthro and the Epic Blunder, en de nieuwste afleveringen in de DROD serie!
+complContinue=Ga verder met het overmeesteren van deze hold - zoek geheime kamers om toegang te krijgen tot de meesterlocatie. Je kunt de links naar de bovenstaande opties in het beginscherm vinden.

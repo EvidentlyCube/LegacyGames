@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Iscrate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Iscrate",
+  "parent":{
+    "name":"Checks",
+    "path":"folders/Scripts/Checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

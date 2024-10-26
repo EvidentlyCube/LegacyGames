@@ -1,0 +1,562 @@
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Texting\Texting.gml
+String not found: ConversionLog_ConvertedString 1 'back' "back"
+String not found: ConversionLog_ConvertedString 4 '0' "0"
+String not found: ConversionLog_ConvertedString 5 '1' "1"
+String not found: ConversionLog_ConvertedString 6 '2' "2"
+String not found: ConversionLog_ConvertedString 7 '3' "3"
+String not found: ConversionLog_ConvertedString 8 '4' "4"
+String not found: ConversionLog_ConvertedString 9 '5' "5"
+String not found: ConversionLog_ConvertedString 10 '6' "6"
+String not found: ConversionLog_ConvertedString 11 '7' "7"
+String not found: ConversionLog_ConvertedString 12 '8' "8"
+String not found: ConversionLog_ConvertedString 13 '9' "9"
+String not found: ConversionLog_ConvertedString 14 'a' "a"
+String not found: ConversionLog_ConvertedString 15 'b' "b"
+String not found: ConversionLog_ConvertedString 16 'c' "c"
+String not found: ConversionLog_ConvertedString 17 'd' "d"
+String not found: ConversionLog_ConvertedString 18 'e' "e"
+String not found: ConversionLog_ConvertedString 19 'f' "f"
+String not found: ConversionLog_ConvertedString 20 'g' "g"
+String not found: ConversionLog_ConvertedString 21 'h' "h"
+String not found: ConversionLog_ConvertedString 22 'i' "i"
+String not found: ConversionLog_ConvertedString 23 'j' "j"
+String not found: ConversionLog_ConvertedString 24 'k' "k"
+String not found: ConversionLog_ConvertedString 25 'l' "l"
+String not found: ConversionLog_ConvertedString 26 'm' "m"
+String not found: ConversionLog_ConvertedString 27 'n' "n"
+String not found: ConversionLog_ConvertedString 28 'o' "o"
+String not found: ConversionLog_ConvertedString 29 'p' "p"
+String not found: ConversionLog_ConvertedString 30 'q' "q"
+String not found: ConversionLog_ConvertedString 31 'r' "r"
+String not found: ConversionLog_ConvertedString 32 's' "s"
+String not found: ConversionLog_ConvertedString 33 't' "t"
+String not found: ConversionLog_ConvertedString 34 'u' "u"
+String not found: ConversionLog_ConvertedString 35 'v' "v"
+String not found: ConversionLog_ConvertedString 36 'w' "w"
+String not found: ConversionLog_ConvertedString 37 'x' "x"
+String not found: ConversionLog_ConvertedString 38 'y' "y"
+String not found: ConversionLog_ConvertedString 39 'z' "z"
+String not found: ConversionLog_ConvertedString 40 ',' ","
+String not found: ConversionLog_ConvertedString 41 '.' "."
+String not found: ConversionLog_ConvertedString 42 '/' "/"
+String not found: ConversionLog_ConvertedString 43 ';' ";"
+String not found: ConversionLog_ConvertedString 45 '-' "-"
+String not found: ConversionLog_ConvertedString 46 '=' "="
+String not found: ConversionLog_ConvertedString 47 '\' "\\"
+String not found: ConversionLog_ConvertedString 48 ' ' " "
+String not found: ConversionLog_ConvertedString 53 ')' ")"
+String not found: ConversionLog_ConvertedString 54 '!' "!"
+String not found: ConversionLog_ConvertedString 55 '@' "@"
+String not found: ConversionLog_ConvertedString 56 '&' "&"
+String not found: ConversionLog_ConvertedString 57 '*' "*"
+String not found: ConversionLog_ConvertedString 58 '(' "("
+String not found: ConversionLog_ConvertedString 59 'A' "A"
+String not found: ConversionLog_ConvertedString 60 'B' "B"
+String not found: ConversionLog_ConvertedString 61 'C' "C"
+String not found: ConversionLog_ConvertedString 62 'D' "D"
+String not found: ConversionLog_ConvertedString 63 'E' "E"
+String not found: ConversionLog_ConvertedString 64 'F' "F"
+String not found: ConversionLog_ConvertedString 65 'G' "G"
+String not found: ConversionLog_ConvertedString 66 'H' "H"
+String not found: ConversionLog_ConvertedString 67 'I' "I"
+String not found: ConversionLog_ConvertedString 68 'J' "J"
+String not found: ConversionLog_ConvertedString 69 'K' "K"
+String not found: ConversionLog_ConvertedString 70 'L' "L"
+String not found: ConversionLog_ConvertedString 71 'M' "M"
+String not found: ConversionLog_ConvertedString 72 'N' "N"
+String not found: ConversionLog_ConvertedString 73 'O' "O"
+String not found: ConversionLog_ConvertedString 74 'P' "P"
+String not found: ConversionLog_ConvertedString 75 'Q' "Q"
+String not found: ConversionLog_ConvertedString 76 'R' "R"
+String not found: ConversionLog_ConvertedString 77 'S' "S"
+String not found: ConversionLog_ConvertedString 78 'T' "T"
+String not found: ConversionLog_ConvertedString 79 'U' "U"
+String not found: ConversionLog_ConvertedString 80 'V' "V"
+String not found: ConversionLog_ConvertedString 81 'W' "W"
+String not found: ConversionLog_ConvertedString 82 'X' "X"
+String not found: ConversionLog_ConvertedString 83 'Y' "Y"
+String not found: ConversionLog_ConvertedString 84 'Z' "Z"
+String not found: ConversionLog_ConvertedString 85 '?' "?"
+String not found: ConversionLog_ConvertedString 86 ':' ":"
+String not found: ConversionLog_ConvertedString 87 '"' "\""
+String not found: ConversionLog_ConvertedString 88 '_' "_"
+String not found: ConversionLog_ConvertedString 89 '+' "+"
+String not found: ConversionLog_ConvertedString 90 '|' "|"
+String not found: ConversionLog_ConvertedString 93 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Save_level\Save_level.gml
+String not found: ConversionLog_ConvertedString 3 ']' "]"
+String not found: ConversionLog_ConvertedString 7 ']' "]"
+String not found: ConversionLog_ConvertedString 10 '' ""
+String not found: ConversionLog_ConvertedString 18 'z' "z"
+String not found: ConversionLog_ConvertedString 19 'q' "q"
+String not found: ConversionLog_ConvertedString 20 'w' "w"
+String not found: ConversionLog_ConvertedString 21 'e' "e"
+String not found: ConversionLog_ConvertedString 22 'r' "r"
+String not found: ConversionLog_ConvertedString 23 't' "t"
+String not found: ConversionLog_ConvertedString 24 'y' "y"
+String not found: ConversionLog_ConvertedString 25 'u' "u"
+String not found: ConversionLog_ConvertedString 26 'i' "i"
+String not found: ConversionLog_ConvertedString 27 'o' "o"
+String not found: ConversionLog_ConvertedString 28 'b' "b"
+String not found: ConversionLog_ConvertedString 29 'b' "b"
+String not found: ConversionLog_ConvertedString 30 'b' "b"
+String not found: ConversionLog_ConvertedString 31 'b' "b"
+String not found: ConversionLog_ConvertedString 32 'b' "b"
+String not found: ConversionLog_ConvertedString 33 'b' "b"
+String not found: ConversionLog_ConvertedString 34 'b' "b"
+String not found: ConversionLog_ConvertedString 35 'b' "b"
+String not found: ConversionLog_ConvertedString 36 'b' "b"
+String not found: ConversionLog_ConvertedString 37 'b' "b"
+String not found: ConversionLog_ConvertedString 45 '0' "0"
+String not found: ConversionLog_ConvertedString 49 'levels' "levels"
+String not found: ConversionLog_ConvertedString 49 '/levels' "/levels"
+String not found: ConversionLog_ConvertedString 50 './levels/my.txt' "./levels/my.txt"
+String not found: ConversionLog_ConvertedString 54 './levels/base.txt' "./levels/base.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Levels_Base_Generate\Levels_Base_Generate.gml
+String not found: ConversionLog_ConvertedString 14 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 20 ']' "]"
+String not found: ConversionLog_ConvertedString 20 '' ""
+String not found: ConversionLog_ConvertedString 21 ']' "]"
+String not found: ConversionLog_ConvertedString 21 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Generate\Generate.gml
+String not found: ConversionLog_ConvertedString 8 'q' "q"
+String not found: ConversionLog_ConvertedString 9 'w' "w"
+String not found: ConversionLog_ConvertedString 10 'e' "e"
+String not found: ConversionLog_ConvertedString 11 'r' "r"
+String not found: ConversionLog_ConvertedString 12 't' "t"
+String not found: ConversionLog_ConvertedString 13 'y' "y"
+String not found: ConversionLog_ConvertedString 14 'u' "u"
+String not found: ConversionLog_ConvertedString 15 'i' "i"
+String not found: ConversionLog_ConvertedString 16 'o' "o"
+String not found: ConversionLog_ConvertedString 17 'z' "z"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Generate_Ingame\Generate_Ingame.gml
+String not found: ConversionLog_ConvertedString 8 'q' "q"
+String not found: ConversionLog_ConvertedString 9 'w' "w"
+String not found: ConversionLog_ConvertedString 10 'e' "e"
+String not found: ConversionLog_ConvertedString 11 'r' "r"
+String not found: ConversionLog_ConvertedString 12 't' "t"
+String not found: ConversionLog_ConvertedString 13 'y' "y"
+String not found: ConversionLog_ConvertedString 14 'u' "u"
+String not found: ConversionLog_ConvertedString 15 'i' "i"
+String not found: ConversionLog_ConvertedString 16 'o' "o"
+String not found: ConversionLog_ConvertedString 17 'z' "z"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Levels_Import\Levels_Import.gml
+String not found: ConversionLog_ConvertedString 9 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 19 '/levels/base.txt' "/levels/base.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Levels_Sort\Levels_Sort.gml
+String not found: ConversionLog_ConvertedString 1 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 9 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 10 '/levels/base.txt' "/levels/base.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Gamendor\Gamendor.gml
+String not found: ConversionLog_ConvertedString 1 './settings.txt' "./settings.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Levels_Download\Levels_Download.gml
+String not found: ConversionLog_ConvertedString 2 '33jd9A0dD' "33jd9A0dD"
+String not found: ConversionLog_ConvertedString 3 'SELECT level FROM ' "SELECT level FROM "
+String not found: ConversionLog_ConvertedString 7 'temp.txt' "temp.txt"
+String not found: ConversionLog_ConvertedString 19 'temp.txt' "temp.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\Levels_Upload\Levels_Upload.gml
+String not found: ConversionLog_ConvertedString 2 '33jd9A0dD' "33jd9A0dD"
+String not found: ConversionLog_ConvertedString 9 './levels/my.txt' "./levels/my.txt"
+String not found: ConversionLog_ConvertedString 16 'z' "z"
+String not found: ConversionLog_ConvertedString 16 'q' "q"
+String not found: ConversionLog_ConvertedString 16 'w' "w"
+String not found: ConversionLog_ConvertedString 16 'e' "e"
+String not found: ConversionLog_ConvertedString 16 'r' "r"
+String not found: ConversionLog_ConvertedString 16 't' "t"
+String not found: ConversionLog_ConvertedString 16 'y' "y"
+String not found: ConversionLog_ConvertedString 16 'u' "u"
+String not found: ConversionLog_ConvertedString 16 'i' "i"
+String not found: ConversionLog_ConvertedString 16 'o' "o"
+String not found: ConversionLog_ConvertedString 16 'b' "b"
+String not found: ConversionLog_ConvertedString 21 'INSERT INTO ' "INSERT INTO "
+String not found: ConversionLog_ConvertedString 21 ' VALUES ("' " VALUES (\""
+String not found: ConversionLog_ConvertedString 21 '","' "\",\""
+String not found: ConversionLog_ConvertedString 21 '","' "\",\""
+String not found: ConversionLog_ConvertedString 21 '")' "\")"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\scripts\gmsql_init\gmsql_init.gml
+String not found: ConversionLog_ConvertedString 1 'GMSQL.DLL' "GMSQL.DLL"
+String not found: ConversionLog_ConvertedString 3 'GMSQLInit' "GMSQLInit"
+String not found: ConversionLog_ConvertedString 4 'GMSQLClose' "GMSQLClose"
+String not found: ConversionLog_ConvertedString 5 'GMSQLErrorCode' "GMSQLErrorCode"
+String not found: ConversionLog_ConvertedString 6 'GMSQLErrorMessage' "GMSQLErrorMessage"
+String not found: ConversionLog_ConvertedString 7 'GMSQLConnect' "GMSQLConnect"
+String not found: ConversionLog_ConvertedString 8 'GMSQLGetVersion' "GMSQLGetVersion"
+String not found: ConversionLog_ConvertedString 9 'GMSQLSelectDB' "GMSQLSelectDB"
+String not found: ConversionLog_ConvertedString 10 'GMSQLNumRows' "GMSQLNumRows"
+String not found: ConversionLog_ConvertedString 11 'GMSQLNumFields' "GMSQLNumFields"
+String not found: ConversionLog_ConvertedString 12 'GMSQLQuery' "GMSQLQuery"
+String not found: ConversionLog_ConvertedString 13 'GMSQLGetServerInfo' "GMSQLGetServerInfo"
+String not found: ConversionLog_ConvertedString 14 'GMSQLGetClientInfo' "GMSQLGetClientInfo"
+String not found: ConversionLog_ConvertedString 15 'GMSQLGetHostInfo' "GMSQLGetHostInfo"
+String not found: ConversionLog_ConvertedString 16 'GMSQLInfo' "GMSQLInfo"
+String not found: ConversionLog_ConvertedString 17 'GMSQLStat' "GMSQLStat"
+String not found: ConversionLog_ConvertedString 18 'GMSQLPing' "GMSQLPing"
+String not found: ConversionLog_ConvertedString 19 'GMSQLChangeUser' "GMSQLChangeUser"
+String not found: ConversionLog_ConvertedString 20 'GMSQLStoreResult' "GMSQLStoreResult"
+String not found: ConversionLog_ConvertedString 21 'GMSQLUseResult' "GMSQLUseResult"
+String not found: ConversionLog_ConvertedString 22 'GMSQLGetValueXY' "GMSQLGetValueXY"
+String not found: ConversionLog_ConvertedString 23 'GMSQLGetFieldName' "GMSQLGetFieldName"
+String not found: ConversionLog_ConvertedString 24 'GMSQLAffectedRows' "GMSQLAffectedRows"
+String not found: ConversionLog_ConvertedString 25 'GMSQLThreadID' "GMSQLThreadID"
+String not found: ConversionLog_ConvertedString 26 'GMSQLKill' "GMSQLKill"
+String not found: ConversionLog_ConvertedString 27 'GMSQLShutDown' "GMSQLShutDown"
+String not found: ConversionLog_ConvertedString 28 'GMSQLReload' "GMSQLReload"
+String not found: ConversionLog_ConvertedString 29 'GMSQLInsertID' "GMSQLInsertID"
+String not found: ConversionLog_ConvertedString 30 'GMSQLDataSeek' "GMSQLDataSeek"
+String not found: ConversionLog_ConvertedString 31 'GMSQLFetchRow' "GMSQLFetchRow"
+String not found: ConversionLog_ConvertedString 32 'GMSQLGetValue' "GMSQLGetValue"
+String not found: ConversionLog_ConvertedString 33 'GMSQLSaveDataXY' "GMSQLSaveDataXY"
+String not found: ConversionLog_ConvertedString 34 'GMSQLSaveData' "GMSQLSaveData"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Master\Create_0.gml
+String not found: ConversionLog_ConvertedString 3 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 4 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 26 '' ""
+String not found: ConversionLog_ConvertedString 27 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Master\Step_0.gml
+String not found: ConversionLog_ConvertedString 5 '1' "1"
+String not found: ConversionLog_ConvertedString 6 '2' "2"
+String not found: ConversionLog_ConvertedString 7 '3' "3"
+String not found: ConversionLog_ConvertedString 8 '4' "4"
+String not found: ConversionLog_ConvertedString 9 '5' "5"
+String not found: ConversionLog_ConvertedString 10 '6' "6"
+String not found: ConversionLog_ConvertedString 11 '7' "7"
+String not found: ConversionLog_ConvertedString 12 '8' "8"
+String not found: ConversionLog_ConvertedString 13 '9' "9"
+String not found: ConversionLog_ConvertedString 14 '0' "0"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Master\Draw_0.gml
+String not found: ConversionLog_ConvertedString 33 '/' "/"
+String not found: ConversionLog_ConvertedString 43 'Pieces' "Pieces"
+String not found: ConversionLog_ConvertedString 45 'Piece#Type:' "Piece#Type:"
+String not found: ConversionLog_ConvertedString 46 'Link#Color:' "Link#Color:"
+String not found: ConversionLog_ConvertedString 50 'Save' "Save"
+String not found: ConversionLog_ConvertedString 52 'Title' "Title"
+String not found: ConversionLog_ConvertedString 53 'Author' "Author"
+String not found: ConversionLog_ConvertedString 54 'Help' "Help"
+String not found: ConversionLog_ConvertedString 55 'Clear' "Clear"
+String not found: ConversionLog_ConvertedString 57 'Mode:#Bases' "Mode:#Bases"
+String not found: ConversionLog_ConvertedString 58 'Mode:#Paths' "Mode:#Paths"
+String not found: ConversionLog_ConvertedString 62 '/' "/"
+String not found: ConversionLog_ConvertedString 67 'DelU.:#ON' "DelU.:#ON"
+String not found: ConversionLog_ConvertedString 68 'DelU.:#OFF' "DelU.:#OFF"
+String not found: ConversionLog_ConvertedString 127 'Using this arrow you can change#the current element to the#previous one.' "Using this arrow you can change#the current element to the#previous one."
+String not found: ConversionLog_ConvertedString 128 'Using this arrow you can change#the current element to the#next one.' "Using this arrow you can change#the current element to the#next one."
+String not found: ConversionLog_ConvertedString 129 'It shows the current item for#placing. You can change it using#the arrows or by pressing the#digits 0-9.' "It shows the current item for#placing. You can change it using#the arrows or by pressing the#digits 0-9."
+String not found: ConversionLog_ConvertedString 130 'If this option is turned on,#when you try to place objects#over already existing items they#will be automatically deleted.#Otherwise you will have to first#delete them using right mouse#button.#You can toggle it using "U".' "If this option is turned on,#when you try to place objects#over already existing items they#will be automatically deleted.#Otherwise you will have to first#delete them using right mouse#button.#You can toggle it using \"U\"."
+String not found: ConversionLog_ConvertedString 131 'This is the mode. When it says#"Bases" you edit the level by#placing and deleting bases and#other stuff. When it says "Paths"#you turn on the test mode and#you can place pathes to test#if level is finishable or not.#You can toggle it using "Space".' "This is the mode. When it says#\"Bases\" you edit the level by#placing and deleting bases and#other stuff. When it says \"Paths\"#you turn on the test mode and#you can place pathes to test#if level is finishable or not.#You can toggle it using \"Space\"."
+String not found: ConversionLog_ConvertedString 132 'It shows the current item for#placing. You can change it using#the arrows or by pressing the#digits 0-9.' "It shows the current item for#placing. You can change it using#the arrows or by pressing the#digits 0-9."
+String not found: ConversionLog_ConvertedString 133 'It shows the limit of paths and#the number of already placed#paths. You can alter it using#+/- on your numpad. Hold shift#to change by ten. It is#impossible to make the paths#limit be smaller than the#currently placed paths.#If it is equal to zero, Limit is#disactivated!' "It shows the limit of paths and#the number of already placed#paths. You can alter it using#+/- on your numpad. Hold shift#to change by ten. It is#impossible to make the paths#limit be smaller than the#currently placed paths.#If it is equal to zero, Limit is#disactivated!"
+String not found: ConversionLog_ConvertedString 134 'It shows the current color of#drawn paths.' "It shows the current color of#drawn paths."
+String not found: ConversionLog_ConvertedString 137 'Press this button or press "S"#to save this level to file.#You will not be able to delete#the level in-game, nor edit after saving it!' "Press this button or press \"S\"#to save this level to file.#You will not be able to delete#the level in-game, nor edit after saving it!"
+String not found: ConversionLog_ConvertedString 139 'Before you will be able to save#level you first have to finish it!#In order to do this:#-Please enter the Paths mode#-Connect all bases using paths.' "Before you will be able to save#level you first have to finish it!#In order to do this:#-Please enter the Paths mode#-Connect all bases using paths."
+String not found: ConversionLog_ConvertedString 142 ' "N" ' " \"N\" "
+String not found: ConversionLog_ConvertedString 143 ' "A" ' " \"A\" "
+String not found: ConversionLog_ConvertedString 144 'Use numbers from 0 to 9 in#order to change items to place.#Then build a level. Anytime you#want you can press space to test#the level, i.e. test the level.#Press space again to return to#editing. When you finish editing#level, give it a name ("N"#button), add author ("A" button)#and save it ("S" button). In#order to save, the level has#to be in a state of completion.' "Use numbers from 0 to 9 in#order to change items to place.#Then build a level. Anytime you#want you can press space to test#the level, i.e. test the level.#Press space again to return to#editing. When you finish editing#level, give it a name (\"N\"#button), add author (\"A\" button)#and save it (\"S\" button). In#order to save, the level has#to be in a state of completion."
+String not found: ConversionLog_ConvertedString 145 'Clears whole level.#"C" activates it too.' "Clears whole level.#\"C\" activates it too."
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Master\KeyPress_109.gml
+String not found: ConversionLog_ConvertedString 14 'Option_4' "Option_4"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Master\KeyPress_107.gml
+String not found: ConversionLog_ConvertedString 11 'Option_4' "Option_4"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\L_Starter\Draw_0.gml
+String not found: ConversionLog_ConvertedString 23 '"' "\""
+String not found: ConversionLog_ConvertedString 23 '"' "\""
+String not found: ConversionLog_ConvertedString 40 '"' "\""
+String not found: ConversionLog_ConvertedString 40 '"' "\""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\L_Ender\Draw_0.gml
+String not found: ConversionLog_ConvertedString 10 '-=:Press any mouse button to continue:=-' "-=:Press any mouse button to continue:=-"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\L_Ed_Infer\Draw_0.gml
+String not found: ConversionLog_ConvertedString 36 'Y - Save; N - Cancel' "Y - Save; N - Cancel"
+String not found: ConversionLog_ConvertedString 38 'Y' "Y"
+String not found: ConversionLog_ConvertedString 39 'N' "N"
+String not found: ConversionLog_ConvertedString 55 'back' "back"
+String not found: ConversionLog_ConvertedString 72 'back' "back"
+String not found: ConversionLog_ConvertedString 85 '1' "1"
+String not found: ConversionLog_ConvertedString 86 '2' "2"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Level_Browser\Create_0.gml
+String not found: ConversionLog_ConvertedString 6 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 6 '/levels/base2.txt' "/levels/base2.txt"
+String not found: ConversionLog_ConvertedString 7 '/levels/base2.txt' "/levels/base2.txt"
+String not found: ConversionLog_ConvertedString 8 '/levels/base.txt' "/levels/base.txt"
+String not found: ConversionLog_ConvertedString 12 'x' "x"
+String not found: ConversionLog_ConvertedString 20 '/levels/base2.txt' "/levels/base2.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Level_Browser\Other_10.gml
+String not found: ConversionLog_ConvertedString 2 'Text File|*.txt' "Text File|*.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Level_Browser\Draw_0.gml
+Converted builtin - line 11: background_hspeed[0]=(mouse_x-room_width/2)/200 -> __background_set( e__BG.HSpeed, 0, (mouse_x-room_width/2)/200 )
+Converted builtin - line 12: background_vspeed[0]=(mouse_y-room_height/2)/200 -> __background_set( e__BG.VSpeed, 0, (mouse_y-room_height/2)/200 )
+String not found: ConversionLog_ConvertedString 60 '  Finished  ' "  Finished  "
+String not found: ConversionLog_ConvertedString 60 'Unfinished  ' "Unfinished  "
+String not found: ConversionLog_ConvertedString 61 'Paths Limit: ' "Paths Limit: "
+String not found: ConversionLog_ConvertedString 61 '    ' "    "
+String not found: ConversionLog_ConvertedString 64 '--Level Title--' "--Level Title--"
+String not found: ConversionLog_ConvertedString 65 '--Level Author--' "--Level Author--"
+String not found: ConversionLog_ConvertedString 66 'Paths Limit: ---' "Paths Limit: ---"
+String not found: ConversionLog_ConvertedString 66 '    ' "    "
+String not found: ConversionLog_ConvertedString 66 'Level Status' "Level Status"
+String not found: ConversionLog_ConvertedString 72 'Import levels from file.#No need to use it now, hence there is#ingame levels downloading.' "Import levels from file.#No need to use it now, hence there is#ingame levels downloading."
+String not found: ConversionLog_ConvertedString 73 'Opens textfile holding your levels.#No need to use it now, hence there is#ingame levels uploading.' "Opens textfile holding your levels.#No need to use it now, hence there is#ingame levels uploading."
+String not found: ConversionLog_ConvertedString 74 'Downloads new levels from online database.#Warning! The game will stop for few seconds!' "Downloads new levels from online database.#Warning! The game will stop for few seconds!"
+String not found: ConversionLog_ConvertedString 75 'Uploads your levels to online database.#Warning! The game will stop for few seconds!' "Uploads your levels to online database.#Warning! The game will stop for few seconds!"
+String not found: ConversionLog_ConvertedString 76 'Opens editor and allows you to make levels.' "Opens editor and allows you to make levels."
+String not found: ConversionLog_ConvertedString 77 'Returns to the title screen.' "Returns to the title screen."
+String not found: ConversionLog_ConvertedString 94 'Mouse Whell or Arrow keys to scroll!' "Mouse Whell or Arrow keys to scroll!"
+String not found: ConversionLog_ConvertedString 95 'Left Mouse Button to play selected level!' "Left Mouse Button to play selected level!"
+String not found: ConversionLog_ConvertedString 97 'Import Levels' "Import Levels"
+String not found: ConversionLog_ConvertedString 98 'Open Your levels' "Open Your levels"
+String not found: ConversionLog_ConvertedString 99 'Download New Levels Directly' "Download New Levels Directly"
+String not found: ConversionLog_ConvertedString 100 'Upload YOUR Levels Directly' "Upload YOUR Levels Directly"
+String not found: ConversionLog_ConvertedString 101 'Create Your Levels' "Create Your Levels"
+String not found: ConversionLog_ConvertedString 102 'Return to Main Menu' "Return to Main Menu"
+String not found: ConversionLog_ConvertedString 106 'Import Levels' "Import Levels"
+String not found: ConversionLog_ConvertedString 107 'Open Your levels' "Open Your levels"
+String not found: ConversionLog_ConvertedString 108 'Download New Levels Directly' "Download New Levels Directly"
+String not found: ConversionLog_ConvertedString 109 'Upload YOUR Levels Directly' "Upload YOUR Levels Directly"
+String not found: ConversionLog_ConvertedString 110 'Create Your Levels' "Create Your Levels"
+String not found: ConversionLog_ConvertedString 111 'Return to Main Menu' "Return to Main Menu"
+String not found: ConversionLog_ConvertedString 116 './levels/my.txt' "./levels/my.txt"
+String not found: ConversionLog_ConvertedString 116 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Titler\Create_0.gml
+String not found: ConversionLog_ConvertedString 5 './save.sav' "./save.sav"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Titler\Draw_0.gml
+Converted builtin - line 14: background_hspeed[0]=(mouse_x-room_width/2)/200 -> __background_set( e__BG.HSpeed, 0, (mouse_x-room_width/2)/200 )
+Converted builtin - line 15: background_vspeed[0]=(mouse_y-room_height/2)/200 -> __background_set( e__BG.VSpeed, 0, (mouse_y-room_height/2)/200 )
+String not found: ConversionLog_ConvertedString 54 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 54 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 58 'iexplore' "iexplore"
+String not found: ConversionLog_ConvertedString 58 'http://www.mauft.com' "http://www.mauft.com"
+String not found: ConversionLog_ConvertedString 64 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 68 'Continue playing#from last#unconquered level.' "Continue playing#from last#unconquered level."
+String not found: ConversionLog_ConvertedString 68 'Start a new game#from first level.' "Start a new game#from first level."
+String not found: ConversionLog_ConvertedString 69 'Resets campaign#progress to first#level!#Click it with right#mouse button to#delete!' "Resets campaign#progress to first#level!#Click it with right#mouse button to#delete!"
+String not found: ConversionLog_ConvertedString 69 'Progress is already#reseted!' "Progress is already#reseted!"
+String not found: ConversionLog_ConvertedString 70 'Play your levels#and levels created#by people, visit#www.mauft.com#for levels and#instructions!' "Play your levels#and levels created#by people, visit#www.mauft.com#for levels and#instructions!"
+String not found: ConversionLog_ConvertedString 71 'Create new levels#and share them#with people!' "Create new levels#and share them#with people!"
+String not found: ConversionLog_ConvertedString 72 'Shows help window.' "Shows help window."
+String not found: ConversionLog_ConvertedString 73 'Visit my web site!#www.mauft.com' "Visit my web site!#www.mauft.com"
+String not found: ConversionLog_ConvertedString 74 'Exits the game.' "Exits the game."
+String not found: ConversionLog_ConvertedString 140 'When activated#there will be a#paths limit in#every level.#Only works in#campaign!' "When activated#there will be a#paths limit in#every level.#Only works in#campaign!"
+String not found: ConversionLog_ConvertedString 141 'When activated on#start of every#level you will see#level title and#author. Can only#be disactivated for#campagin!' "When activated on#start of every#level you will see#level title and#author. Can only#be disactivated for#campagin!"
+String not found: ConversionLog_ConvertedString 147 'Disables sounds.#Press "F" in-game#to toggle it!' "Disables sounds.#Press \"F\" in-game#to toggle it!"
+String not found: ConversionLog_ConvertedString 148 'Disables music.#Press "M" in-game#to toggle it!' "Disables music.#Press \"M\" in-game#to toggle it!"
+String not found: ConversionLog_ConvertedString 192 'Objective:#   Linx#    Bases#Paths#Paths#       Base' "Objective:#   Linx#    Bases#Paths#Paths#       Base"
+String not found: ConversionLog_ConvertedString 193 'Controls:#          Base##                   Paths' "Controls:#          Base##                   Paths"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\O_Intrer3\Create_0.gml
+String not found: ConversionLog_ConvertedString 3 './settings.txt' "./settings.txt"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Gamendorer\Create_0.gml
+String not found: ConversionLog_ConvertedString 3 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 4 './save.sav' "./save.sav"
+String not found: ConversionLog_ConvertedString 68 'Option_0' "Option_0"
+String not found: ConversionLog_ConvertedString 69 'Option_1' "Option_1"
+String not found: ConversionLog_ConvertedString 70 'Option_2' "Option_2"
+String not found: ConversionLog_ConvertedString 71 'Option_3' "Option_3"
+String not found: ConversionLog_ConvertedString 72 'Option_4' "Option_4"
+String not found: ConversionLog_ConvertedString 73 'Option_5' "Option_5"
+String not found: ConversionLog_ConvertedString 74 'Option_6' "Option_6"
+String not found: ConversionLog_ConvertedString 75 'Option_7' "Option_7"
+String not found: ConversionLog_ConvertedString 76 'Option_8' "Option_8"
+String not found: ConversionLog_ConvertedString 77 'Option_9' "Option_9"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Gamendorer\Draw_0.gml
+Converted builtin - line 23: background_hspeed[0]=random(4)-random(4) -> __background_set( e__BG.HSpeed, 0, random(4)-random(4) )
+Converted builtin - line 24: background_vspeed[0]=random(4)-random(4) -> __background_set( e__BG.VSpeed, 0, random(4)-random(4) )
+String not found: ConversionLog_ConvertedString 30 'Press Any Key' "Press Any Key"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Trophy\Create_0.gml
+String not found: ConversionLog_ConvertedString 3 'Option_4' "Option_4"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\objects\Trophy\Draw_0.gml
+String not found: ConversionLog_ConvertedString 12 'You can now use#+/- on Numpad#to move through#levels in #the Campaign!' "You can now use#+/- on Numpad#to move through#levels in #the Campaign!"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\VS\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 3 './settings.txt' "./settings.txt"
+String not found: ConversionLog_ConvertedString 4 './settings.txt' "./settings.txt"
+String not found: ConversionLog_ConvertedString 46 '!' "!"
+String not found: ConversionLog_ConvertedString 47 '!' "!"
+String not found: ConversionLog_ConvertedString 50 '' ""
+String not found: ConversionLog_ConvertedString 51 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_00\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_02\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_03\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_04\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_05\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_06\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_07\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_09\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_10\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_11\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Maurycy Zarzycki' "Maurycy Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_12\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Maurycy Zarzycki' "Maurycy Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_13\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_14\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_26\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_15\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_16\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_17\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'bbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbqbebbbbbzbbbbbbrbbbbbbzbbrbbbbbbbrbbzbbbbbbrbbbbbbzbbbbbbbbbbbbbzbbbbbezqbbbbbzbbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbbbbbbbbbzzzzzzzzzzzzzzz' "bbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbqbebbbbbzbbbbbbrbbbbbbzbbrbbbbbbbrbbzbbbbbbrbbbbbbzbbbbbbbbbbbbbzbbbbbezqbbbbbzbbbbbbbbbbbbbzbbbbbbwbbbbbbzbbbbbbbbbbbbbzzzzzzzzzzzzzzz"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_41\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'zbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbtbbbbbbzzzzzbbrbbbrbbzzzzzbbbbbbbbbbbbzzbubbbbbbybtbzzbibbbbbbbbbbzzoubbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbbbbbbbbzzzzzbbbbbbibbzzzzzbbbbbbbboz' "zbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbtbbbbbbzzzzzbbrbbbrbbzzzzzbbbbbbbbbbbbzzbubbbbbbybtbzzbibbbbbbbbbbzzoubbbbbbbbbbzzzzzbbbbbbbqbzzzzzbbbbbbbbbzzzzzbbbbbbibbzzzzzbbbbbbbboz"
+String not found: ConversionLog_ConvertedString 3 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_19\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_18\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Maurycy Zarzycki' "Maurycy Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_20\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_21\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'zzzzzzzzzzzzzzzqbbbbbbbbbbbzzbbbbbbbbbbbbzzbrbzozozbebbzzbbbbbbbbbbbbzzbztbbbbbtzbbzzbbbbbbbbbbbbzzbzbbibibbzbbzzbbbbbibbbbbbzzbebzuzuzbrbbzzbbbbbbbbbbbqzzzzzzzzzzzzzzz' "zzzzzzzzzzzzzzzqbbbbbbbbbbbzzbbbbbbbbbbbbzzbrbzozozbebbzzbbbbbbbbbbbbzzbztbbbbbtzbbzzbbbbbbbbbbbbzzbzbbibibbzbbzzbbbbbibbbbbbzzbebzuzuzbrbbzzbbbbbbbbbbbqzzzzzzzzzzzzzzz"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_31\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_29\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_23\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'bbbbbbbwbbbbbbbqbbbbbbbbbqbbbybbwbobbbubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbtbtbbbbbbbebbbbbbbbbbbbebbbbbbbbbbbbbbbbrbbbobbbbbbbbbbbbbbbbbbbibbbbybbbbbbbbbbqbbbbubbbbbubq' "bbbbbbbwbbbbbbbqbbbbbbbbbqbbbybbwbobbbubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbtbtbbbbbbbebbbbbbbbbbbbebbbbbbbbbbbbbbbbrbbbobbbbbbbbbbbbbbbbbbbibbbbybbbbbbbbbbqbbbbubbbbbubq"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_24\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'zzzzzzzzzzzzzzzzzzbbbbbbbbzzzzzzbybbbubbzzzzzzbbbbbbbbzzzzzzbbbbbobbzzzzzzbrbbbibrzzzzzzbbbbbbbuzzzzzzbbbbbbbbzzzzzzbubybbbbzzzzzzbbbbbbbuzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz' "zzzzzzzzzzzzzzzzzzbbbbbbbbzzzzzzbybbbubbzzzzzzbbbbbbbbzzzzzzbbbbbobbzzzzzzbrbbbibrzzzzzzbbbbbbbuzzzzzzbbbbbbbbzzzzzzbubybbbbzzzzzzbbbbbbbuzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_25\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'ibbbbbbbbbbbbbbbbbbbbubbbbbbbbqbbbbbbbbbbbbbububbbbbbqbbbwtbbbbwbbbbbbbbbbbebbbbbbbbbbbbbbbbbbbebbbbbbbbbbqbbbbbbbbbbrbbbobbbbbbbtqbbbbbybbbbbbbbbbbbbbbwbbbbbbbbbbbbbbb' "ibbbbbbbbbbbbbbbbbbbbubbbbbbbbqbbbbbbbbbbbbbububbbbbbqbbbwtbbbbwbbbbbbbbbbbebbbbbbbbbbbbbbbbbbbebbbbbbbbbbqbbbbbbbbbbrbbbobbbbbbbtqbbbbbybbbbbbbbbbbbbbbwbbbbbbbbbbbbbbb"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_27\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbtbtbebebbbbbbbebbrbbtbbbbbbqbbbbbbbbqbbbbbbbbrbbbbbbbbbbbbbbbbbbbbbbbbbrbbbrbbbbbbbbbbbbbbbbbbb' "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbbbbbbbbbbbbbbbbbbqbbbbbbbbbbtbtbebebbbbbbbebbrbbtbbbbbbqbbbbbbbbqbbbbbbbbrbbbbbbbbbbbbbbbbbbbbbbbbbrbbbrbbbbbbbbbbbbbbbbbbb"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_28\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_32\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_30\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_33\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_34\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_35\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_36\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_37\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzwbbbbbbbbbwzzzbebzqzqzbebzzzbbbbbbbbbbbzzzbzbbbbbbbzbzzzbrbbbbbbbrbzzzbzbbbbbbbzbzzzbbbbbbbbbbbzzzbebztztzbebzzzwbbbbbbbbbwzzzzzzzzzzzzzzzz' "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzwbbbbbbbbbwzzzbebzqzqzbebzzzbbbbbbbbbbbzzzbzbbbbbbbzbzzzbrbbbbbbbrbzzzbzbbbbbbbzbzzzbbbbbbbbbbbzzzbebztztzbebzzzwbbbbbbbbbwzzzzzzzzzzzzzzzz"
+String not found: ConversionLog_ConvertedString 3 'Maurice Zarzycki' "Maurice Zarzycki"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_22\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_38\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_39\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_40\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'zzzbbbbbbbezzzzzwbubbbbbbbzzzbbbroqoybbbbzbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbzbzbbbbbbbbbbbzbzbbbbbobbbbbbbbbbqbbbbubbbbbbbbobbzzbbzbbbbbrybbzbbzzzbbbbbbbrbbzzzzzbwbbbbbbzzz ' "zzzbbbbbbbezzzzzwbubbbbbbbzzzbbbroqoybbbbzbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbzbzbbbbbbbbbbbzbzbbbbbobbbbbbbbbbqbbbbubbbbbbbbobbzzbbzbbbbbrybbzbbzzzbbbbbbbrbbzzzzzbwbbbbbbzzz "
+String not found: ConversionLog_ConvertedString 3 'Cage' "Cage"
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_Copier\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 '' ""
+
+Converting GML script: C:\users\steamuser\GameMakerStudio2\GMS2TEMP\ProjectTool\Linx 1_4_1022771378_gmz\mvc\rooms\Level_08\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 2 'Cage' "Cage"
+
+Missing audiogroup for sound: 'Snd_Click' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Type' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Undo' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Over' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Finish' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Place' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Break' - setting to default audio group
+Missing audiogroup for sound: 'Snd_Cager' - setting to default audio group
+Game speed set to 70
+Added compatibility script 'action\action_inherited.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_isplaying.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'sound\sound_stop.gml'
+Added compatibility script 'sound\sound_stop_all.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

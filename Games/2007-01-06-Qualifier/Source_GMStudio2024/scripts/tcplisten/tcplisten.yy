@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tcplisten",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tcplisten",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

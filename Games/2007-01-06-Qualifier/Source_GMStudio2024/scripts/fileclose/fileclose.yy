@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fileclose",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fileclose",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

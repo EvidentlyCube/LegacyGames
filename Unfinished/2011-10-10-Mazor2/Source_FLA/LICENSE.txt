@@ -1,0 +1,37 @@
+GFX/ (entire directory)
+-----------------------
+Unknown authors, copyright to the original authors.
+
+
+sfx/Music.mp3
+-------------
+Unknown author, copyright to the original author.
+
+
+sfx/(remaining files)
+----------------------
+Unknown source of the files, copyright to the original authors.
+
+
+com/meychi/ (all files)
+-----------------------
+Copyright Mika Palmu
+
+
+Mazor.fla (embedded graphics)
+-----------------------------
+Copyright original authors (unknown)
+
+
+Mazor.fla (code)
+-----------------------------
+Copyright Maurycy Zarzycki
+MIT License
+
+
+OTHER FILES
+-----------
+Copyright Maurycy Zarzycki.
+
+Code is released under MIT License.
+All remaining non-code assets are released under CC0.

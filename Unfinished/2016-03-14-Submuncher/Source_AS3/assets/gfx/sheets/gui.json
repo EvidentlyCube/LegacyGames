@@ -1,0 +1,631 @@
+{
+    "frames": [
+        {
+            "filename": "button_disabled_grid9",
+            "frame": {
+                "x": 381,
+                "y": 454,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9",
+            "frame": {
+                "x": 345,
+                "y": 454,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_over_grid9",
+            "frame": {
+                "x": 369,
+                "y": 454,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "digits",
+            "frame": {
+                "x": 262,
+                "y": 443,
+                "w": 84,
+                "h": 9
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_green",
+            "frame": {
+                "x": 643,
+                "y": 377,
+                "w": 127,
+                "h": 55
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_green_bold",
+            "frame": {
+                "x": 129,
+                "y": 377,
+                "w": 126,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_orange",
+            "frame": {
+                "x": 514,
+                "y": 377,
+                "w": 127,
+                "h": 55
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_orange_bold",
+            "frame": {
+                "x": 1,
+                "y": 377,
+                "w": 126,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_red",
+            "frame": {
+                "x": 385,
+                "y": 377,
+                "w": 127,
+                "h": 55
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font_red_bold",
+            "frame": {
+                "x": 257,
+                "y": 377,
+                "w": 126,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_ammo",
+            "frame": {
+                "x": 262,
+                "y": 454,
+                "w": 21,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_keys_blue",
+            "frame": {
+                "x": 330,
+                "y": 454,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_keys_gray",
+            "frame": {
+                "x": 772,
+                "y": 417,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_keys_green",
+            "frame": {
+                "x": 315,
+                "y": 454,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_keys_orange",
+            "frame": {
+                "x": 300,
+                "y": 454,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_keys_red",
+            "frame": {
+                "x": 285,
+                "y": 454,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "hud_time",
+            "frame": {
+                "x": 357,
+                "y": 454,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "level_selection_menu",
+            "frame": {
+                "x": 117,
+                "y": 469,
+                "w": 48,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_completion",
+            "frame": {
+                "x": 187,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_completion_done",
+            "frame": {
+                "x": 207,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_document",
+            "frame": {
+                "x": 227,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_document_done",
+            "frame": {
+                "x": 247,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_exit",
+            "frame": {
+                "x": 267,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_exit_selected",
+            "frame": {
+                "x": 287,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_level",
+            "frame": {
+                "x": 307,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_level_completed",
+            "frame": {
+                "x": 327,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_level_completed_selected",
+            "frame": {
+                "x": 347,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_level_selected",
+            "frame": {
+                "x": 367,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next",
+            "frame": {
+                "x": 772,
+                "y": 377,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next_completed",
+            "frame": {
+                "x": 407,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next_completed_selected",
+            "frame": {
+                "x": 427,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next_level",
+            "frame": {
+                "x": 447,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next_level_selected",
+            "frame": {
+                "x": 467,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_next_selected",
+            "frame": {
+                "x": 487,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_optional",
+            "frame": {
+                "x": 507,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_optional_completed",
+            "frame": {
+                "x": 527,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_optional_completed_selected",
+            "frame": {
+                "x": 547,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_optional_selected",
+            "frame": {
+                "x": 567,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_par",
+            "frame": {
+                "x": 587,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_par_done",
+            "frame": {
+                "x": 607,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_prev",
+            "frame": {
+                "x": 627,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_prev_completed",
+            "frame": {
+                "x": 647,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_prev_completed_selected",
+            "frame": {
+                "x": 667,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_prev_selected",
+            "frame": {
+                "x": 687,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_restart",
+            "frame": {
+                "x": 707,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_restart_selected",
+            "frame": {
+                "x": 727,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_secret",
+            "frame": {
+                "x": 387,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "monitor_secret_done",
+            "frame": {
+                "x": 772,
+                "y": 397,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "pixelmix_font",
+            "frame": {
+                "x": 1,
+                "y": 525,
+                "w": 64,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "pixelmix_font_shadow",
+            "frame": {
+                "x": 1,
+                "y": 443,
+                "w": 64,
+                "h": 80
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "scanline",
+            "frame": {
+                "x": 483,
+                "y": 360,
+                "w": 228,
+                "h": 5
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "screen",
+            "frame": {
+                "x": 67,
+                "y": 469,
+                "w": 48,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "screen_background",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 480,
+                "h": 374
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "screen_flash",
+            "frame": {
+                "x": 483,
+                "y": 1,
+                "w": 308,
+                "h": 357
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "title",
+            "frame": {
+                "x": 67,
+                "y": 443,
+                "w": 193,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "tooltip_grid9",
+            "frame": {
+                "x": 483,
+                "y": 367,
+                "w": 7,
+                "h": 7
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "win_grid9",
+            "frame": {
+                "x": 167,
+                "y": 469,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false
+        }
+    ]
+}

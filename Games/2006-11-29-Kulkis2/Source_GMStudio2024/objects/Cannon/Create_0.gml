@@ -1,0 +1,20 @@
+image_speed=0
+a=1
+b=2
+c=3
+d=0
+image_index=6
+time=1
+if global.cannons=1{
+a=1
+b=2
+c=3
+d=0
+image_index=6}
+if global.cannons=2{
+a=0
+b=2
+c=-1
+d=-1
+image_index=4}
+

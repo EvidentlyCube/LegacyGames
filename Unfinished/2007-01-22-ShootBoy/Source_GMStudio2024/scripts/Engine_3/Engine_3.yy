@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Engine_3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Engine_3",
+  "parent":{
+    "name":"Engines",
+    "path":"folders/Scripts/Player/Engines.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

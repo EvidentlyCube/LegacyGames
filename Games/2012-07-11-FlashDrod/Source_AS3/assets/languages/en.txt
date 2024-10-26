@@ -1,0 +1,589 @@
+# Welcome!
+# Lines starting with # are comments
+# Translation works in such way: [identificationName]=[translation]
+# DO NOT modify the parts before "="
+# \n is replaced by a new-line, \t is replaced by two spaces
+# // at the end of the line allows you to continue the same line in the next:
+#
+# longText=Hello, this is a//
+#   long line.
+# will become:
+# Hello, this is a long line.
+# (notice that space was inserted after a, and the spaces before "long" were trimmed)
+#
+# /// does the same but inserts a line feed (so /// = \n//)
+# //// doest the same but inserts two line feeds (so //// = \n/// = \n\n//)
+#
+# Sometimes you will encounter %%. This is a token which is replaced by something, for example number:
+# score=You have scored %% points
+# will become
+# You have scored 1000 points
+#
+# You can freely move the %% around in the line
+#
+# If you have any questions just look around to see how everything looks already in the code
+
+# GLOBAL STUFF/LISTS
+
+# Keys
+
+key8=Backspace
+key9=Tab
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Space
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Left
+key38=Up
+key39=Right
+key40=Down
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=R.Win
+key93=Menu
+key96=Numpad 0
+key97=Numpad 1
+key98=Numpad 2
+key99=Numpad 3
+key100=Numpad 4
+key101=Numpad 5
+key102=Numpad 6
+key103=Numpad 7
+key104=Numpad 8
+key105=Numpad 9
+key106=Numpad *
+key107=Numpad +
+key109=Numpad -
+key110=Numpad .
+key111=Numpad /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+# Key names
+
+keyUp=Move North
+keyUpLeft=Move Northwest
+keyUpRight=Move Northeast
+keyLeft=Move West
+keyRight=Move East
+keyDown=Move South
+keyDownLeft=Move Southwest
+keyDownRight=Move Southeast
+keyWait=Wait for One Turn
+keyCW=Turn Clockwise
+keyCCW=Turn Counter-clockwise
+keyUndo=Undo Last Move
+keyRestart=Restart Room
+keyBattle=Battle Key
+keyLock=Lock/Unlock Room
+
+# Global buttons
+close=Close
+
+# Global messages
+cnetError=Connection failed.///
+    This might be caused by invalid credentials, a faulty internet connection or temporary server problems. CaravelNet functions have been disabled. To restore them, go to the options screen, update your credentials if necessary, and hit "Connect!"
+
+
+# Preloader
+prlStartGame=Start Game
+prlLanguage=Change Language
+prlLoading=Loading: %% %
+prlWaitApi=Waiting for an API to connect...
+
+# Initialize screen
+initAssets=Initializing assets %% / %%
+
+# Title Screen and submenus
+
+tsStartNew=Start New Game
+tsStartNewKey=S
+tsStartNewKeyCode=83
+tsContinue=Continue Playing
+tsContinueKey=P
+tsContinueKeyCode=80
+tsRestore=Restore To a Different Room
+tsRestoreKey=R
+tsRestoreKeyCode=82
+tsAchievements=View Achievements
+tsAchievementsKey=A
+tsAchievementsKeyCode=65
+tsOptions=Options
+tsOptionsKey=O
+tsOptionsKeyCode=79
+tsHelp=Help and Backstory
+tsHelpKey=H
+tsHelpKeyCode=72
+tsBrowse=Browse Holds
+tsBrowseKey=B
+tsBrowseKeyCode=66
+
+# Options
+optHeader=Options:
+optUploadAll=Upload All Scores
+optConnect=Connect!
+optRedefine=Redefine Keys
+optCnetHeader=CaravelNet Credentials
+optCnetUser=CaravelNet Name
+optCnetKey=CaravelNet Key
+optCnetVolume=Volume
+optCnetMusic=Music
+optCnetSound=Effects
+optCnetVoices=Voices
+optMoveAnim=Movement animation
+optMoveSmooth=Smooth
+opyMoveFast=Fast
+uploadAll=Uploading all scores
+uploadDone=Done!
+uploadError=Error! Please connect and try again!
+uploadAlreadyHas=Already uploaded
+uploadRoomEntrance=Entrance
+cnetHeader=Get more information about//
+	or purchase a CaravelNet subscription.///
+	Opens in a new window.
+
+cnetDescription=Users who subscribe to CaravelNet can fill in their information here to participate in online leaderboards. Each room is scored for least number of moves used to complete it. If you do not fill in these details you will only be notified what place your score would have attained. You can later submit all your scores via the Upload All Scores button.
+redefineScreen=You are changing mapping for "%%"///
+    Press desired key (now: %%)///
+    Hit Escape to cancel
+redefineInvalidKey=%% is reserved for other functions///
+    Press desired key///
+    Hit escape to cancel
+redefineReservedKey=%% is reserved for an alternate movement set///
+    Press a different key///
+    Hit escape to cancel
+
+# Help and Backstory
+
+abButCnet=About CaravelNet
+abButHowto=How to Play
+abButHistory=DROD History
+abButBackstory=Backstory
+abButCredits=Credits
+
+h&bTextWidth=450
+h&bText=\tDROD was conceived by Erik Hermansen back in the '90s. It is largely known as//
+    a puzzle game in which you run around rooms in a dungeon, slaying monsters with//
+    a Really Big Sword. How does this work?  You will see for yourself as soon as//
+    you get around to playing the game.////
+      \tFlash DROD is a port of the original DROD game. It uses the media found in the//
+    newer DROD game engines that you can download to play on your computer from//
+    CaravelGames.com.////
+      \tThanks to integrated CaravelNet capabilities, besides just completing the//
+    puzzles, players can compete with each other for high scores by completing each//
+    room in the fewest moves possible.
+
+creditsWidth=620
+credits=<font size="20">Programming, Development: </font><font color="#444444">Maurycy Zarzycki</font>///
+    <font size="20">Art & Music: </font><font color="#444444">Erik Hermansen, Maurycy Zarzycki</font>///
+    <font size="20">Server-side development: </font><font color="#444444">Matt Schikore</font>///
+    <font size="20">Level Development: </font><font color="#444444">Jacob Grinfeld, Larrymurk, Tom Brouws</font>///
+    <font size="20">Primary Testers: </font><font color="#444444">Adrienne E. Siskind, Jason Mayeaux</font>///
+    <font size="20">Testers: </font><font color="#444444">Sam Benner, Tom Brouws, Jacob Grinfeld, Logan West, George Wanfried (Chaco), 12th Archivist, DiMono, Dischorran, Jatopian, Neather2, Panther, Pearls, Snacko, N. K. Tiitto, Tim</font>///
+    <font size="20">Translations: </font><font color="#444444">Bombadil (es), Damien Poussier (fr), DyRsOfDh14 (es), Martin Coors (de), Guilherme Töws (pt), Jutt (nl), Pekka (fi), Robin Knabe (nl), The Architest (fi), Xander Deubelbeiss (de)</font>///
+    <font size="20">Voice Talents: </font><font color="#444444">Sten Ryanson, Johannah West, Logan West</font>///
+    <font size="20">Original Coding, Idea & Levels: </font><font color="#444444">Mike Rimer, Erik Hermansen, Lucas Swineford</font>
+
+controlsWindowWidth=650
+controlsWindow=<font size="18">`Numpad` and `789 UIO JKL`</font><font color="#444444"> - Move around</font>///
+    <font size="18">`Q` and `W` </font><font color="#444444"> - Rotate your sword</font>///
+    <font size="18">`Backspace` </font><font color="#444444">- Undo last move</font>///
+    <font size="18">`R' </font><font color="#444444">- Go back to last checkpoint or restart</font>///
+    <font size="18">`Shift+R` </font><font color="#444444">- Restart the room</font>///
+    <font size="18">`Escape` </font><font color="#444444">- Pause menu</font>///
+    <font size="18">`Enter` </font><font color="#444444">- Level and room score</font>///
+    <font size="18">`X` </font><font color="#444444">- Toggle room lock</font>///
+    <font size="18">`Space` </font><font color="#444444">- Clear speech and achievements from the screen</font>///
+    <font size="18">`F3` </font><font color="#444444">- Display move count</font>///
+    <font size="18">`Shift+Key` </font><font color="#444444">- Do the action and its opposite</font>///
+    <font size="18">`Shift+Wait` </font><font color="#444444">- Wait until next spawn turn</font>///
+    <font size="18">`Mouse click` </font><font color="#444444">- Show info about clicked tile</font>////
+    \tYour objective is to clear each level of King Dugan's Dungeon of monsters. This feat can//
+    be accomplished using only your Really Big Sword™ and your wits. Each room is a separate//
+    area that has to be cleared in a single session. Should you leave a room without completely//
+    clearing it, it will be restored to its initial state when you return.
+
+cnetInfoWidth=500
+cnetInfo=\tCaravelNet allows users from all over the world to compete for the best//
+    scores.////
+      \tEveryone can submit their scores anonymously to see how they compare to other players.//
+    However, anonymous scores are not stored on the Caravel server and are only for//
+    informational purposes. Every registered Caravel forum user's scores are stored for two//
+    weeks after submission without any fee. Those with a CaravelNet subscription will never//
+    have their scores removed.////
+      \tPlease note that, as long as your progress is not deleted from your disk, you can choose to//
+    submit all of your scores to the server after you have registered a Caravel account.////
+      \tTo register with Caravel, please visit CaravelGames.com and create a forum user account!
+
+# Backstory
+backstory1=\tBeethro Budkin strolled into the Grand Dining Chamber where King Dugan was finishing his massive morning meal.////
+      \t"Away, foul commoner! You disrupt my digestion with your poor hygiene!" bellowed the King, with bits of pork and potatoes erupting from his mouth.////
+      \t"But sir," protested Beethro, "you sent for me."////
+      \tThe expression on the King's large face changed from anger to confusion to recognition to geniality in the space of two seconds.////
+      \t"I really should have had you come in sooner," said King Dugan. "It's unbelievable! You let your guards eat their meals down in the dungeon, they spread crumbs all over the place, and all of a sudden the place is just swarming with giant cockroaches, not to mention goblins, serpents, evil eyes, and other nasty things. It's really gotten out of hand."////
+      \tBeethro straightened with pride. "Not to fear. I am a trained professional from a long line of dungeon exterminators. I combine five generations of passed-down knowledge with the most state-of-the-art equipment to offer efficient extermination service at an affordable price."////
+      \t"What kind of equipment do you use?"////
+      \t"I've got a really big sword."
+backstory2=\t"Good! When can you start?"////
+      \t"As soon as we handle the details of payment. Here are my standard extermination fees. Just sign at the bottom." Beethro handed a contract to the King.////
+      \t"These prices are outrageous! Is the privilege of honorable service to the Crown worth nothing these days?"////
+      \t"I can leave."////
+      \t"No, no, no. We need that dungeon cleared so that the prisoners can receive their torture in a clean and safe environment."////
+      \t"Well, I'll give you a discount if you'll throw in a princess."////
+      \t"You're ugly and you smell bad. None of my daughters will have you!"////
+      \tBeethro shrugged. "Fair enough."////
+      \tThe King signed at the bottom of the contract. "Right then. Let me show you to the entrance."
+backstory3=\tAs he descended, Beethro reflected on the job he had taken. Dugan's Dungeon was exceptionally large and, going by the reports of past exterminators, ridiculously well suited to infestation. It had also been secretly expanded several times, to the dismay of the first person to clear it out, whose contract hadn't covered the possibility. (He'd only gotten paid for the parts he'd known about.)////
+      \tSome said sinister forces were behind the expansion. The legend went that a king of past grew tired of his annoying young son and jokingly suggested that the lad go play in the castle dungeons. Taking his father seriously, the boy wandered deep into the dungeon chambers and was never found again. It was said that he did not perish, but lived the rest of his life in the dungeons by preference; that becoming a master of his new habitat, he learned all of the secrets of the underground world and formed alliances with the monsters that dwelt there, setting them to work creating new passageways and breeding better specimens of monster. He named himself the 'Neather, and schemed to rise from the dungeons to claim the throne when his powers were able.
+backstory4=\tBeethro wasn't sure about all that. For starters, the royal throne wasn't what it had been, now that its power was mostly transferred to a parliament. Never mind the question of who would want to live underground, or how they'd befriend the creatures there, who weren't great conversationalists. But it was true that dungeons tended to be unnecessarily complicated and easily infested, and even sometimes grow without warning - no Dungeon Architect would say why, as a matter of honor - and this more than anything was what kept men like Beethro in work.////
+      \tAnyway, an exterminator had plenty of more practical concerns, like the prolific and man-sized dungeon roach. The important thing in Beethro's mind was that he ought to make enough money and dead monsters on this job to finally retire from this thankless trade and open a restaurant.////
+      \t"I'll call it 'Beethro's Roasted Roach Grill'!"
+backstory1width=550
+backstory2width=550
+backstory3width=550
+backstory4width=550
+
+backstoryNext=Next
+backstoryPrev=Prev
+
+drodHistoryWidth=650
+drodHistory=\t"Deadly Rooms of Death" (DROD) was first created by Erik Hermansen in the//
+    '90s. The game was released by Webfoot and is known as `Webfoot DROD`, though this game is no longer//
+    on sale and can't be legally distributed or obtained. Luckily, Erik was allowed to redevelop the game on his//
+    own and so `Caravel DROD` was born in 2002.////
+      \tThen, in 2003, "DROD: Architect's Edition" was//
+    released, featuring a level editor that allowed everyone to create their own `holds`//
+    (level sets) and share them publicly on the CaravelGames forum. The game garnered a large//
+    fanbase and a plan to create another game was conceived.////
+      \tOn April 1, 2005, "DROD: Journey to Rooted Hold" was released! The list of new features added//
+    was amazing. It featured new graphics, in-game scripting, over a dozen new game elements, a//
+    captivating story and an antagonist whose voice sent chills down everyone's spine.////
+      \tExactly two years later "DROD: The City Beneath" saw the light of the day. That day set a//
+    record for the most active users on the Caravel Forum at one time. TCB featured even more new//
+    elements and improvements over JtRH, and an increased difficulty level.////
+      \tIn 2008, "DROD RPG" came out. Though not as popular as the mainstream titles, it was still a shining//
+    gem. The big difference was that the game was a resource-managing multi-room strategic challenge.//
+    Each monster had stats and you had to calculate what monsters could be defeated at a given moment, plan//
+    where to go next, which resources to collect, and when and how to get them.////
+      \t"DROD 4: Gunthro and the Epic Blunder" is the latest installment, released on the 1st of April 2012. This//
+    game is aimed at new players, and is much more beginner-friendly because of easier puzzles, more intuitive tutorials//
+    and more obvious hub levels.
+
+# Restore Screen
+rstHeader=Restore Game
+rstToRoom=Restore to this room
+rstReturn=Return to title screen
+rstSecrets=Secrets done: %% / %%
+
+# Ingame messages
+roomLocked=You have locked room exiting.//
+    Press %% again to unlock.
+ingLevelCompleted=Level Completed
+ingSecretFound=Secret Found
+ingHoldMastered=Hold Mastered
+
+# Achievements popup
+achievementHeader=Achievement!
+achievementDismiss=Click or Space to dismiss
+
+# Achievements list
+achlistHeader=Achievements:
+
+# Browse released holds
+browseHeader=Browse released Flash DROD Holds
+browseOpen=Open in a new window
+
+# Level/Room score
+scrStats=Player stats
+scrYourBest=Your best score:
+scrTop=Top scores for room:
+scrNoScore=None!
+scrFetching=Fetching...
+scrOnlyForCnet=Room scores are only available for CaravelNet subscribers and//
+    Caravelgames forumites.////
+    It seems you haven't filled your CaravelNet account details yet. Creating a//
+    caravelgames account will allow you to compete against other players from around the//
+    world and track the scores for each room.
+scrMovesRoom=Moves in room: %%
+scrMovesLevel=Level moves: %%
+scrDeaths=Level deaths: %%
+scrKills=Level kills: %%
+scrTime=Level time: %%
+scrNoScores=No scores for this room yet.
+scrCnetProblems=CaravelNet functions are disabled due to problems with your connection.////
+    First make sure that your internet connection is working and that you have entered valid//
+    CaravelNet credentials. Afterwards go to the options screen and hit "Connect!"
+
+# Login Window
+loginConnected=\tYou are now connected to CaravelNet as a registered user!////
+      \tIf you have only created a forum account but not subscribed to CaravelNet, your//
+    scores will be deleted after two weeks from the day they are uploaded.////
+      \tScores uploaded by CaravelNet subscribers are permanent.
+loginConnectedAnonymous=\tYou are now connected to CaravelNet as anonymous user. You can submit your//
+    scores to know what place in the leaderboard you'd have gotten but the score is not//
+    stored on the server. To make your submissions persistent you have to//
+    create a Caravelgames account (accessible from the options screen).///
+      \tIf you later decide to create an account, use the "Upload your Scores" button to//
+    upload all your progress to our servers.
+loginFailed=\tFailed to connect!.////
+    1. Check if you are connected to the internet.///
+    2. Make sure your firewall is not blocking this game.///
+    3. Visit http://forum.caravelgames.com to see if the server even loads. If not wait//
+    a couple of minutes and try again.\n
+loginFailedBadCredentials=4. Check to see if the credentials you have entered are correct.
+loginFailedMissingCrentials=4. Make sure you have entered a valid username and CarevelNet key.
+
+# Pause window
+pauseHeader=DROD is now paused
+pauseContinue=Continue playing
+pauseContinueTip=Continue playing.///
+    (Escape, Enter)
+pauseRestart=Restart room
+pauseRestartTip=Restart current room.///
+    (In-game: F5).
+pauseRoomHelp=Get help for current room
+pauseRoomHelpTip=Get online help for currently played room.///
+    (In-game: F2)
+pauseHelp=Get general help
+pauseHelpTip=Open up general help window.///
+    (In-game: F1)
+pauseAchievements=View achievements
+pauseAchievementsTip=Show a list of all achievements.///
+    (Ingame: Tab)
+pauseOptions=Options
+pauseOptionsTip=Allows you to change some settings.
+pauseReturn=Return to title screen
+pauseReturnTip=Game progress is saved,///
+    but the current room's progress will///
+    be lost if you quit the game.
+
+# Misc
+
+achHidden=???
+levelCreatedDate=Created %%.%%.%%
+
+# Scored Places
+score1NoTie=First Place!!
+score1=1st place
+score2=2nd place
+score3=3rd place
+score4=4th place
+score5=5th place
+score6=6th place
+score7=7th place
+score8=8th place
+score9=9th place
+score10=10th place
+score11=11th place
+score12=12th place
+score13=13th place
+score14=14th place
+score15=15th place
+score16=16th place
+score17=17th place
+score18=18th place
+score19=19th place
+score20=20th place
+score21=21st place
+score22=22nd place
+score23=23rd place
+score24=24th place
+score25=25th place
+scoreTie=%% tie!
+scoreNoCnet=(anonymous)
+
+
+# Game Stats
+resultHoldTotals=Hold Totals:\n
+resultLevelTotals=Level Totals:\n
+resultMoves=Moves: %%\n
+resultKills=Kills: %%\n
+resultDeaths=Deaths: %%\n
+resultTime=Time: %%\n
+resultSecrets=Secrets found: %%\n
+resultSecretsBetter=Secrets found: %% / %%\n
+
+# Scroll Clock
+spawnCycle=Spawn cycle:
+snakesPrefer=Snakes prefer:
+clcHo=HO
+clcRiz=RIZ
+clcOn=ON
+clcTal=TAL
+clcVe=VE
+clcRt=RT
+clcIc=IC
+clcAl=AL
+
+
+# Tiles list
+tile1=Floor
+tile2=Pit
+tile3=Stairs Down
+tile4=Wall
+tile5=Broken Wall
+tile6=Level Clear Gate
+tile7=Room Clear Gate
+tile8=Trapdoor Gate
+tile9=Yellow Door
+tile10=Yellow Door (Open)
+tile11=Trapdoor
+tile12=Obstacle
+tile13=Force Arrow (North)
+tile14=Force Arrow (Northeast)
+tile15=Force Arrow (East)
+tile16=Force Arrow (Southeast)
+tile17=Force Arrow (South)
+tile18=Force Arrow (Southwest)
+tile19=Force Arrow (West)
+tile20=Force Arrow (Northwest)
+tile21=Invisibility Potion
+tile22=Mimic Potion
+tile23=Scroll
+tile24=Orb
+tile35=Tar
+tile37=Tarstuff Gate
+tile54=Mosaic
+tile55=Road
+tile56=Grass
+tile57=Dirt
+tile58=Alternate Floor
+tile59=Master Wall
+tile61=Stairs Up
+tile62=Secret Wall
+tile66=Wall
+tile68=Room Clear Gate (Open)
+tile69=Level Clear Gate (Open)
+tile70=Trapdoor Gate (Open)
+tile71=Tarstuff Gate (Open)
+tileCheckpoint=Checkpoint
+
+# Monsters list
+monsterPlayer=Player
+monster0=Roach
+monster1=Roach Queen
+monster2=Roach Egg
+monster3=Goblin
+monster5=Wraithwing
+monster6=Evil Eye
+monster7=Serpent
+monster8=Tar Mother
+monster9=Tar Baby
+monster10=Brain
+monster11=Mimic
+monster12=Spider
+monster29=Character
+sword=Sword
+swords=Swords (%%)
+
+# Room position
+roomS=S
+roomSouth=South
+roomN=N
+roomNorth=North
+roomE=E
+roomEast=East
+roomW=W
+roomWest=West
+roomEntrance=The Entrance
+room1=Once
+room2=Twice
+room3=Thrice
+room4=Quarce
+room5=Quince
+room6=Sence
+room7=Septence
+room8=Octence
+room9=Novence
+room10=Tonce
+room11=Elevonce
+room12=Twolce
+room13=Thorce
+room14=Quartonce
+room15=Quintonce
+room16=Sextonce
+room17=Septonce
+room18=Octonce
+room19=Noventonce
+roomMore=%% Times
+
+
+# Game completion
+
+complButtNextGame=Play next set
+complButtLearnMore=Learn more
+complButtContinue=Continue playing
+complHeader=What next?
+complLearnMore=Learn more about the DROD franchise - the world, and the primary games: Journey to Rooted Hold, The City Beneath, Gunthro and the Epic Blunder, and the latest installments in the DROD franchise!
+complContinue=Continue mastering this hold - find secrets, and gain access to the mastery area. You can find links to the two above options on the Title Screen.

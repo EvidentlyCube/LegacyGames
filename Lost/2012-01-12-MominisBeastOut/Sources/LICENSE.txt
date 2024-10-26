@@ -1,0 +1,9 @@
+gfx/
+----
+Copyright Aleksander Kowalczyk (Cage)
+Creative Commons Attribution 4.0 International
+
+
+sfx/
+----
+Copyright original authors (unknown)

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"make_lighting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"make_lighting",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

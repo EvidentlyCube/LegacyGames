@@ -1,0 +1,28 @@
+ui/lock.png
+ui/logo_kdd1.png
+ui/logo_kdd2.png
+ui/logo_kdd3.png
+ui/logo_kdd4.png
+preloader_kdd1.png
+preloader_kdd2.png
+preloader_kdd3.png
+preloader_kdd4.png
+--------------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+ui/logoRetrocade.jpg
+--------------------
+Copyright Maurycy Zarzycki (Logo) and Caravel Games (Background)
+
+
+ui/logoCaravel.jpg
+------------------
+Copyright Caravel Games
+
+
+(all other files)
+-----------------
+Copyright Caravel Games and Maurycy Zarzycki
+The graphics contain original DROD graphics' shapes filled with color.

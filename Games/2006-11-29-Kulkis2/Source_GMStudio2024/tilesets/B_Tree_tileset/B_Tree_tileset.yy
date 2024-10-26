@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"B_Tree_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"B_Tree_tileset",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Walls",
+    "path":"folders/Tile Sets/Floor/Walls.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"B_Tree",
+    "path":"sprites/B_Tree/B_Tree.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":60,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":60,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1,
+}

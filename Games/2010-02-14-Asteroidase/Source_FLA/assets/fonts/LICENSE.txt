@@ -1,0 +1,3 @@
+goca_logotype_beta/
+-------------------
+Copyright (c) 2008 by Jonas Borneland Hansen. All rights reserved.

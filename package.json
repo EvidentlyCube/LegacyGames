@@ -1,0 +1,11 @@
+{
+  "description": "This repository contains all of the non-commercial games I've released in the past ideally with as much of the source code and assets as I could find. Each project has its own `README.md` which adds more context.",
+  "main": "index.js",
+  "scripts": {
+    "init": "node lib/scripts/init.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jsfxr": "^1.2.2"
+  }
+}

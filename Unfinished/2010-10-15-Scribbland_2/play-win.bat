@@ -1,0 +1,1 @@
+../../.lib/ruffle/win64/ruffle.exe SWF/Scribbland2.swf

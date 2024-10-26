@@ -1,0 +1,9 @@
+(graphics)
+----------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+(code/scripts/rooms)
+Copyright Maurycy Zarzycki
+MIT License

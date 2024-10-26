@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Grass_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Grass_Create",
+  "parent":{
+    "name":"Creations",
+    "path":"folders/Scripts/Creations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

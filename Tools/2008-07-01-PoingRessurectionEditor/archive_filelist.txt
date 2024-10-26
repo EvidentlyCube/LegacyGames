@@ -1,0 +1,72 @@
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2013-04-21 19:57   Poing Ressurection Editor/
+        0  2013-04-21 19:57   Poing Ressurection Editor/.bmx/
+   184244  2008-07-01 15:41   Poing Ressurection Editor/.bmx/Editor.bmx.gui.debug.win32.x86.o
+   462940  2008-07-01 15:41   Poing Ressurection Editor/.bmx/Editor.bmx.gui.debug.win32.x86.s
+     5330  2008-06-06 20:37   Poing Ressurection Editor/BlockData.bmx
+        0  2013-04-21 19:57   Poing Ressurection Editor/Data/
+    15872  2008-06-26 06:58   Poing Ressurection Editor/Data/Thumbs.db
+    44760  2008-05-29 14:19   Poing Ressurection Editor/Data/Untitled
+    22300  2008-05-29 19:57   Poing Ressurection Editor/Data/bricks.png
+    21100  2008-06-06 17:53   Poing Ressurection Editor/Data/bricks1.png
+     6143  2008-06-06 17:54   Poing Ressurection Editor/Data/bricks2.png
+     1462  2008-06-01 06:40   Poing Ressurection Editor/Data/chars.png
+     1067  2008-05-29 14:19   Poing Ressurection Editor/Data/colorbrick.png
+      280  2008-05-31 15:36   Poing Ressurection Editor/Data/cross.png
+   256902  2008-06-25 09:50   Poing Ressurection Editor/Data/editormenu.png
+      322  2008-06-01 13:40   Poing Ressurection Editor/Data/field.png
+     1661  2008-05-31 13:00   Poing Ressurection Editor/Data/layer.png
+     7982  2008-09-28 15:45   Poing Ressurection Editor/Demo_10_Trap.plset
+     8528  2008-09-28 15:45   Poing Ressurection Editor/Demo_11_Diamonds.plset
+     8892  2008-09-28 15:46   Poing Ressurection Editor/Demo_12_Boom.plset
+     8318  2008-09-28 15:47   Poing Ressurection Editor/Demo_13.plset
+     7862  2008-09-28 15:47   Poing Ressurection Editor/Demo_14_Layer.plset
+     8906  2008-09-28 15:56   Poing Ressurection Editor/Demo_15_Switch.plset
+     7982  2008-09-28 15:49   Poing Ressurection Editor/Demo_16_Invisible.plset
+     7912  2008-09-28 15:49   Poing Ressurection Editor/Demo_17_Groups.plset
+     8178  2008-09-28 15:42   Poing Ressurection Editor/Demo_1_Plain.plset
+     7968  2008-09-28 15:43   Poing Ressurection Editor/Demo_2_Mobile.plset
+     7982  2008-09-28 15:43   Poing Ressurection Editor/Demo_3_Accel.plset
+     8024  2008-09-28 15:44   Poing Ressurection Editor/Demo_4_Flip.plset
+     8108  2008-09-28 15:44   Poing Ressurection Editor/Demo_5_Expand.plset
+     7982  2008-09-28 15:44   Poing Ressurection Editor/Demo_6_Bounce.plset
+     7982  2008-09-28 15:44   Poing Ressurection Editor/Demo_7_Power.plset
+     7982  2008-09-28 15:45   Poing Ressurection Editor/Demo_8_Yaw.plset
+     8346  2008-09-28 15:45   Poing Ressurection Editor/Demo_9_Brick.plset
+     7800  2008-09-28 15:42   Poing Ressurection Editor/Demo_Empty.plset
+    18877  2008-09-21 11:34   Poing Ressurection Editor/Editor.bls
+     4068  2008-09-21 11:08   Poing Ressurection Editor/Editor.bmx
+   663552  2008-07-01 15:41   Poing Ressurection Editor/Editor.exe
+   190664  2008-07-01 17:05   Poing Ressurection Editor/Editor.rar
+     2475  2008-06-25 10:21   Poing Ressurection Editor/Globals.bmx
+     2069  2008-07-01 08:03   Poing Ressurection Editor/Load.bmx
+      590  2008-06-25 10:28   Poing Ressurection Editor/MainLoop.bmx
+     1743  2008-07-01 17:24   Poing Ressurection Editor/Math - Alpha.pnglvl
+     2051  2008-07-01 16:07   Poing Ressurection Editor/Math - Back Slash.pnglvl
+     1183  2008-07-01 16:07   Poing Ressurection Editor/Math - BracketL.pnglvl
+     1211  2008-07-01 15:31   Poing Ressurection Editor/Math - BracketR.pnglvl
+     1757  2008-07-01 15:16   Poing Ressurection Editor/Math - Bush.pnglvl
+     1939  2008-07-01 20:16   Poing Ressurection Editor/Math - Cos.pnglvl
+      889  2008-07-01 15:19   Poing Ressurection Editor/Math - Divide.pnglvl
+     1813  2008-07-01 18:51   Poing Ressurection Editor/Math - Equal.pnglvl
+     1407  2008-07-01 17:12   Poing Ressurection Editor/Math - Num 0.pnglvl
+      889  2008-07-01 17:42   Poing Ressurection Editor/Math - ParenthL.pnglvl
+     2009  2008-07-01 17:09   Poing Ressurection Editor/Math - Sin.pnglvl
+     1995  2008-07-07 10:03   Poing Ressurection Editor/Math - Single Blue (One Fourth).pnglvl
+     1687  2008-07-08 09:20   Poing Ressurection Editor/Math - Single Red (Good Work).pnglvl
+     2331  2008-07-01 19:32   Poing Ressurection Editor/Math - Tan.pnglvl
+     2499  2008-07-01 19:18   Poing Ressurection Editor/Math - Triangle DOwn.pnglvl
+     2317  2008-07-01 19:02   Poing Ressurection Editor/Math - White Square.pnglvl
+    14170  2008-07-01 17:00   Poing Ressurection Editor/Mathematics 8x8 v0.10.plset
+     5504  2008-07-01 14:32   Poing Ressurection Editor/Mathematics 8x8.plset
+     1136  2008-07-07 09:59   Poing Ressurection Editor/Poing Levs.txt
+     1819  2008-07-01 08:03   Poing Ressurection Editor/Save.bmx
+     1658  2008-06-30 13:35   Poing Ressurection Editor/Saveb.bmx
+     2438  2008-06-25 10:26   Poing Ressurection Editor/TBlock.bmx
+    15929  2008-07-01 15:41   Poing Ressurection Editor/TOption.bmx
+     5338  2008-07-01 08:03   Poing Ressurection Editor/asasa.plset
+      249  2008-07-01 08:17   Poing Ressurection Editor/lev.pnglvl
+     1912  2008-07-01 08:03   Poing Ressurection Editor/loadc.bmx
+---------                     -------
+  2131285                     68 files

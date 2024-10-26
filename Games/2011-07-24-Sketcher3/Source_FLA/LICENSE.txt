@@ -1,0 +1,24 @@
+aze/ (entire directory)
+-----------------------
+Copyright Philippe Elsass
+MIT License
+
+
+assets/ (entire directory)
+--------------------------
+Each subdirectory has its own LICENSE.txt, please refer to that.
+
+
+Sketcher_3.fla (embedded assets)
+--------------------------------
+Assets that are the same as in the assets/ directory share license.
+Remaining embedded assets are copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+com/
+(.as files)
+Sketcher_3.fla (code, scripts, frames, project)
+-----------------------------------------------
+Copyright Maurycy Zarzycki
+MIT License

@@ -1,0 +1,1285 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 21:53:33 D....            0            0  Kulkis
+2021-11-16 21:53:33 D.H..            0            0  Kulkis/.git
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/hooks
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/info
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/logs
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/logs/refs
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/logs/refs/heads
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/logs/refs/remotes
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/logs/refs/remotes/origin
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/objects/00
+2021-11-16 12:34:57 D....            0            0  Kulkis/.git/objects/01
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/02
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/03
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/04
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/06
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/07
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/08
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/09
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/0a
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/0c
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/0d
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/0e
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/0f
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/10
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/11
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/12
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/13
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/14
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/15
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/16
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/19
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/1a
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/1b
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/1c
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/1d
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/1e
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/1f
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/20
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/21
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/22
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/23
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/24
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/25
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/2a
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/2c
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/2d
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/2e
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/2f
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/30
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/31
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/32
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/33
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/34
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/35
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/36
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/38
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/39
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/3a
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/3b
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/3c
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/3d
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/3e
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/3f
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/40
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/41
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/42
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/44
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/45
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/46
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/47
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/48
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/49
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/4b
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/4c
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/4d
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/4e
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/4f
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/51
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/52
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/53
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/54
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/55
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/57
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/58
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/59
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/5a
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/5b
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/5c
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/5d
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/5e
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/5f
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/60
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/61
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/62
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/63
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/65
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/67
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/68
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/6a
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/6c
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/6d
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/6e
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/6f
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/70
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/71
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/73
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/74
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/75
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/76
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/77
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/78
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/79
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/7a
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/7b
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/7c
+2021-11-16 12:34:58 D....            0            0  Kulkis/.git/objects/7d
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/7e
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/7f
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/80
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/81
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/82
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/83
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/84
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/85
+2021-11-16 21:53:33 D....            0            0  Kulkis/.git/objects/87
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/88
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/89
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/8b
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/8c
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/8d
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/8e
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/8f
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/90
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/91
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/93
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/94
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/95
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/96
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/97
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/98
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/99
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/9b
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/9d
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/9e
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/9f
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a0
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a1
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a2
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/a3
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a4
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a5
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/a6
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/a7
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a8
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/a9
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/aa
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/ab
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/ac
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/ad
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/ae
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/af
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b0
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b1
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/b2
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/b3
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b4
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b6
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b8
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/b9
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/ba
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/bb
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/bc
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/bd
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/be
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/bf
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/c0
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c1
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c2
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/c3
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c4
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c5
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/c6
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c7
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c8
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/c9
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/ca
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/cb
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/cd
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/ce
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/cf
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d0
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d1
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d2
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d3
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/d4
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d5
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d6
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/d7
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/d8
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/da
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/db
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/dc
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/dd
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/de
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/df
+2021-11-16 12:34:59 D....            0            0  Kulkis/.git/objects/e0
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e1
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e2
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e4
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/e5
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e6
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e7
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e8
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/e9
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/ea
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/eb
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/ec
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/ed
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/ee
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/ef
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f0
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/f1
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f2
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f3
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f4
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f5
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/f6
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/f9
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/fa
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/fb
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/fc
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/fd
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/fe
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/objects/ff
+2016-12-28 15:25:19 D....            0            0  Kulkis/.git/objects/info
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/objects/pack
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/refs
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/refs/heads
+2021-11-16 12:35:00 D....            0            0  Kulkis/.git/refs/remotes
+2021-11-16 21:53:34 D....            0            0  Kulkis/.git/refs/remotes/origin
+2016-12-28 15:25:19 D....            0            0  Kulkis/.git/refs/tags
+2021-11-16 21:53:34 D....            0            0  Kulkis/.idea
+2021-11-16 12:35:00 D....            0            0  Kulkis/.idea/dictionaries
+2021-11-16 12:35:00 D....            0            0  Kulkis/.idea/inspectionProfiles
+2021-11-16 12:35:00 D....            0            0  Kulkis/.readme
+2021-11-16 21:53:36 D....            0            0  Kulkis/bin
+2021-11-16 21:53:36 D....            0            0  Kulkis/bin/net
+2021-11-16 21:53:36 D....            0            0  Kulkis/bin/net/retrocade
+2021-11-16 21:53:36 D....            0            0  Kulkis/bin/net/retrocade/assets
+2021-11-16 21:53:36 D....            0            0  Kulkis/bin/net/retrocade/assets/bottomBar
+2021-11-16 12:35:00 D....            0            0  Kulkis/src
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game
+2021-11-16 21:53:36 D....            0            0  Kulkis/src/game/display
+2021-11-16 21:53:36 D....            0            0  Kulkis/src/game/global
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game/global/levelList
+2021-11-16 21:53:36 D....            0            0  Kulkis/src/game/global/preloader
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game/objects
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game/standalone
+2021-11-16 21:53:36 D....            0            0  Kulkis/src/game/states
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game/tiles
+2021-11-16 12:35:00 D....            0            0  Kulkis/src/game/windows
+2021-11-16 21:53:37 D....            0            0  Kulkis/src.assets
+2021-11-16 21:53:37 D....            0            0  Kulkis/src.assets/bgs
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/global
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/languages
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/sfx
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/sfx/originals
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/sprites
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.assets/tiles
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/assets
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/assets/bottomBar
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/data
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/functions
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/helpers
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/components
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/core
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/display
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/display/flash
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/display/global
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/display/layers
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/effects
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/events
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/global
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/interfaces
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/locale
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/particles
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/retrocamel/sound
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/sfxr
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.framework/net/retrocade/signal
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/explained
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw/bgs
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw/logo
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw/sprites
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw/tiles
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/raw/ui
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/unused
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.graphics/unused/medals
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.levels
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.levels/hard
+2021-11-16 12:35:01 D....            0            0  Kulkis/src.levels/regular
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.music
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.music/raw
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils/net
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils/net/retrocade
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils/net/retrocade/constants
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils/net/retrocade/utils
+2021-11-16 12:35:02 D....            0            0  Kulkis/src.utils/net/retrocade/vault
+2018-05-08 20:39:36 ....A           21     53854330  Kulkis/.git/COMMIT_EDITMSG
+2018-04-11 12:15:32 ....A          302               Kulkis/.git/config
+2018-04-11 12:15:28 ....A           73               Kulkis/.git/description
+2018-05-08 20:39:51 ....A           28               Kulkis/.git/HEAD
+2018-04-11 12:15:28 ....A          478               Kulkis/.git/hooks/applypatch-msg.sample
+2018-04-11 12:15:28 ....A          896               Kulkis/.git/hooks/commit-msg.sample
+2018-04-11 12:15:28 ....A         3327               Kulkis/.git/hooks/fsmonitor-watchman.sample
+2018-04-11 12:15:28 ....A          189               Kulkis/.git/hooks/post-update.sample
+2018-04-11 12:15:28 ....A          424               Kulkis/.git/hooks/pre-applypatch.sample
+2018-04-11 12:15:28 ....A         1642               Kulkis/.git/hooks/pre-commit.sample
+2018-04-11 12:15:28 ....A         1348               Kulkis/.git/hooks/pre-push.sample
+2018-04-11 12:15:28 ....A         4898               Kulkis/.git/hooks/pre-rebase.sample
+2018-04-11 12:15:28 ....A          544               Kulkis/.git/hooks/pre-receive.sample
+2018-04-11 12:15:28 ....A         1492               Kulkis/.git/hooks/prepare-commit-msg.sample
+2018-04-11 12:15:28 ....A         3610               Kulkis/.git/hooks/update.sample
+2018-05-08 20:39:53 ....A        33363               Kulkis/.git/index
+2018-04-11 12:15:28 ....A          240               Kulkis/.git/info/exclude
+2018-05-08 20:39:51 ....A         1967               Kulkis/.git/logs/HEAD
+2018-05-08 20:39:51 ....A          400               Kulkis/.git/logs/refs/heads/armor-games
+2018-05-08 20:39:37 ....A          872               Kulkis/.git/logs/refs/heads/master
+2018-04-11 12:15:32 ....A          196               Kulkis/.git/logs/refs/remotes/origin/HEAD
+2018-04-11 22:47:34 ....A          159               Kulkis/.git/logs/refs/remotes/origin/master
+2016-12-28 16:10:38 .R..A         1877               Kulkis/.git/objects/00/18a2e835799b6109e425b29c0466004153e05d
+2016-12-28 16:10:37 .R..A         2510               Kulkis/.git/objects/00/6797808bdbfa8967613ae9606989b07c6b83f3
+2016-12-28 16:10:38 .R..A         1272               Kulkis/.git/objects/01/ef215ae90f44de9a9bf6c84ce069d24df6e6bf
+2016-12-28 16:11:25 .R..A           63               Kulkis/.git/objects/02/17db12332e6c6b2f1bb299442f1f392282e060
+2016-12-28 16:11:25 .R..A          278               Kulkis/.git/objects/02/1aedeffed6e72d4c538f87fc5443f64bf7a790
+2018-04-11 22:47:15 .R..A      8400062               Kulkis/.git/objects/02/95d442268321232c6ad08da516de41f6959af4
+2016-12-28 16:11:25 .R..A           72               Kulkis/.git/objects/02/d0ff494cc9a79d0caadc8d8974c9962807bf0c
+2018-04-11 22:47:16 .R..A           51               Kulkis/.git/objects/02/e10170793433478cb83e0febd4b501f92072a8
+2016-12-28 16:11:17 .R..A         4518               Kulkis/.git/objects/02/ee09867841091ea2503b8855b33432238f45d6
+2016-12-28 16:10:42 .R..A          224               Kulkis/.git/objects/03/597ffdfc07f0f4c9214e18226ecc3030b688fa
+2016-12-28 16:10:38 .R..A          106               Kulkis/.git/objects/04/9f4798347cdfa87a058aca5544afee7cb523b7
+2016-12-28 16:10:37 .R..A         4027               Kulkis/.git/objects/06/6003a61095d2f6ea0bdeb59ae009d31c80f3e8
+2018-04-11 22:47:16 .R..A          106               Kulkis/.git/objects/06/7b1be2f93bdb97bdb0278535fbaa894b3a1f19
+2016-12-28 16:10:42 .R..A          198               Kulkis/.git/objects/06/7c1bda714f3f528cc202a2a21edfa3b49f83bb
+2018-04-11 22:47:16 .R..A          193               Kulkis/.git/objects/06/fb3795cdb747df4bc52e335d0c24579fae8475
+2016-12-28 16:10:38 .R..A          115               Kulkis/.git/objects/07/243321010fd08dd9bd99cd0ff0396a9ed8f9cc
+2018-05-08 20:38:24 .R..A          108               Kulkis/.git/objects/07/25080793f8c2078c312d2ede8af420355e30a8
+2016-12-28 16:11:11 .R..A         3119               Kulkis/.git/objects/07/c325ee5991a5ba90d7dfc197d0240380c1453b
+2018-04-11 22:47:16 .R..A          198               Kulkis/.git/objects/08/0f95a9239aee791f4d8668c06c624c76d86784
+2018-04-11 22:47:16 .R..A         1537               Kulkis/.git/objects/08/323307eadee9496b73185f5cfeea1a36486bc8
+2016-12-28 16:11:25 .R..A           66               Kulkis/.git/objects/08/a829ea2dca12cc05aa0bc479a6b5380ba8684b
+2016-12-28 16:10:38 .R..A         1496               Kulkis/.git/objects/09/19dea6a4ef289f79367ec69b59a30651dc865f
+2018-05-08 20:38:24 .R..A          230               Kulkis/.git/objects/09/7df133a9172c2f6d95fd623b95ec7c268964ac
+2016-12-28 16:10:42 .R..A          229               Kulkis/.git/objects/0a/77f168244dccd0d127808645b275710947abd8
+2016-12-28 16:11:25 .R..A           51               Kulkis/.git/objects/0a/dd7fea6f0711a40bba7480ce76f601c65f3825
+2016-12-28 16:11:11 .R..A         2050               Kulkis/.git/objects/0c/77589a107e441ee92f145f7b7a8530bc86eec0
+2016-12-28 16:10:42 .R..A          205               Kulkis/.git/objects/0c/96276b014fd3a36a7e01128d06e87a68df9ddb
+2016-12-28 16:11:24 .R..A          105               Kulkis/.git/objects/0d/15a92d6acc18880714660deb5e5bdcbbebecc9
+2016-12-28 16:10:37 .R..A         1387               Kulkis/.git/objects/0d/2fa88e44f92aca57d18618cf27946fd4758438
+2016-12-30 14:06:31 .R..A          320               Kulkis/.git/objects/0d/900890f38b7507b9c85b6a3c12aa2df1668973
+2018-04-11 22:47:16 .R..A         1090               Kulkis/.git/objects/0e/0350c0ef6baf1fdd1e6fb8673875995615a8eb
+2016-12-28 16:10:42 .R..A          215               Kulkis/.git/objects/0e/0ba2c27d0d0db124d7377030717eacda9dd74f
+2016-12-28 16:11:11 .R..A         3333               Kulkis/.git/objects/0f/0a1c2d051c91a8182284936cc8e140ba6f5040
+2018-04-11 22:47:15 .R..A         1634               Kulkis/.git/objects/0f/7edd66cb22e5439786ed5d5cd9707ac4c5bca7
+2018-05-08 20:39:36 .R..A          369               Kulkis/.git/objects/10/2f59568ad1599e33dfe07be25971f2aa9a3952
+2018-04-11 22:47:16 .R..A          147               Kulkis/.git/objects/10/8b9a458d3cf844fac62f300940243dc68900f9
+2016-12-28 16:11:17 .R..A         4630               Kulkis/.git/objects/10/8e01779bda4425b7f8449f7804b728c2b80f68
+2016-12-28 16:10:38 .R..A          120               Kulkis/.git/objects/10/e6633070c86652b61c7d94d3285d7fe7964493
+2016-12-28 16:10:38 .R..A          616               Kulkis/.git/objects/11/221ea0752207fdffdce6429e79616b481ed277
+2018-04-11 22:47:16 .R..A          599               Kulkis/.git/objects/12/b38197094bd0555d3fe9cd5687525e276993b5
+2016-12-28 16:10:38 .R..A          820               Kulkis/.git/objects/12/bebef9fa274c81fbed78df4dd132658f4200db
+2018-05-08 20:38:24 .R..A          261               Kulkis/.git/objects/12/d2d66514414c771b477622f6ae1c6d37644ade
+2016-12-28 16:10:38 .R..A         1400               Kulkis/.git/objects/13/27c66ee7a429b605d4b20911db74be069e8771
+2016-12-28 16:10:37 .R..A         2766               Kulkis/.git/objects/13/451f4b3320da0d3663ae4c4adcc7a3c8f5ebf2
+2016-12-28 16:10:37 .R..A          132               Kulkis/.git/objects/13/478944afac1e1dc88b245ef3538b61814e01a4
+2016-12-28 16:10:38 .R..A          364               Kulkis/.git/objects/13/801dee0e9fdf0266a000273ee18994899a86c3
+2018-04-11 22:47:16 .R..A         1578               Kulkis/.git/objects/13/c4e5e8957bf48e8afbceedbaf872aa0baab63d
+2018-05-08 20:38:24 .R..A          915               Kulkis/.git/objects/13/f1cea56e7a48461fd7bd5b3d719c42dd32f8d6
+2018-04-11 22:47:15 .R..A         2883               Kulkis/.git/objects/14/8c079313a7630fdcede55ef18249202b5875d7
+2016-12-28 16:11:11 .R..A          130               Kulkis/.git/objects/15/bcd2c6a610e16513717b88a8f0873fed8f79c9
+2018-04-11 22:47:15 .R..A          530               Kulkis/.git/objects/16/1f2f3b83bccd08ef83158315bbacad585a21f1
+2016-12-28 16:11:25 .R..A          169               Kulkis/.git/objects/16/daf7af4430d80f02cbc46e484e35db1a4ee16e
+2016-12-28 16:10:42 .R..A          302               Kulkis/.git/objects/19/025b0cdb06a13a3688d63d9f7104c1a0db62ac
+2018-05-08 20:38:24 .R..A          634               Kulkis/.git/objects/19/0de790e5e7c948f144e6dbe69b8a81a839f9b6
+2016-12-28 16:10:38 .R..A          119               Kulkis/.git/objects/1a/1f899783b22259a2b38bc367f34f72dcccef97
+2016-12-28 16:10:38 .R..A          120               Kulkis/.git/objects/1b/7595929cc744bab41c8dd4cfdbe711e627151b
+2018-04-11 22:47:15 .R..A         1600               Kulkis/.git/objects/1b/e5a9c24dd9d6def0d520009632b011cd49c02b
+2016-12-28 16:10:38 .R..A          124               Kulkis/.git/objects/1c/65a087f07adaf0ec05ffa988e15e9fb04db96a
+2016-12-28 16:10:38 .R..A         1111               Kulkis/.git/objects/1c/6d39227bf90ad3ae7f3fcab6a7cd4a9191531c
+2016-12-28 16:11:11 .R..A          284               Kulkis/.git/objects/1c/bbc16e85b77d181d4d77ebdca4467f0fc280dd
+2016-12-28 16:10:38 .R..A          129               Kulkis/.git/objects/1c/f1944c8485b69b64a45f985a03892040569f80
+2018-04-11 22:47:16 .R..A          242               Kulkis/.git/objects/1d/363f81c828b96a2b6a9663c5dc700117b96132
+2016-12-28 16:10:37 .R..A          621               Kulkis/.git/objects/1d/b37b47473a2af52347996b523fdb5a45368f41
+2016-12-28 16:10:37 .R..A          246               Kulkis/.git/objects/1d/e8e0e82e8c1e948dd0f8960a12f6287c33f5f8
+2016-12-28 16:10:38 .R..A         3220               Kulkis/.git/objects/1e/1bef7a0bfcf3c5e69cc18b946e1e465e42ee1b
+2016-12-28 16:10:42 .R..A          228               Kulkis/.git/objects/1e/34fe782daf1ec390360b1932d5a6763635d6c3
+2016-12-28 16:11:17 .R..A         7481               Kulkis/.git/objects/1f/1354e5a6040838feb2a92a18f730a5e52f0c7f
+2016-12-28 16:11:25 .R..A          666               Kulkis/.git/objects/1f/14c2ff9b4e53930864599ac992ddafa3a3df22
+2018-04-11 22:47:15 .R..A          216               Kulkis/.git/objects/1f/2d898ff814a73aeaaacdc76b15dda2fda3b219
+2016-12-28 16:10:42 .R..A          250               Kulkis/.git/objects/1f/3597a35db9d4db6a216cfc7944726d506206ab
+2018-04-11 22:47:16 .R..A          599               Kulkis/.git/objects/1f/850057c2a71fcb04466fd80e7f57bf4e7c8254
+2018-04-11 22:47:16 .R..A         1260               Kulkis/.git/objects/1f/beb1f23ef51397a75c0d94962da79b5a5da15b
+2018-04-11 22:47:15 .R..A      7192790               Kulkis/.git/objects/20/8e6a17c751fd6ff958a2c9f008f86ebcda7407
+2018-05-08 20:38:24 .R..A           83               Kulkis/.git/objects/20/d109dce308bd51f1f09296d39be3d77e5d118e
+2016-12-28 16:10:42 .R..A          183               Kulkis/.git/objects/21/38488aa68a87ab2c251136913338e0327355fb
+2018-05-08 20:38:24 .R..A         2755               Kulkis/.git/objects/21/9defe521d965871aa38a9c91614522dc3b3461
+2016-12-28 16:10:38 .R..A          114               Kulkis/.git/objects/22/64940fad50d9187ef3fc8005c917dac37b6a4e
+2016-12-28 16:10:38 .R..A         5757               Kulkis/.git/objects/23/037234422ab7a0bd7b0c681f77a0c1ee9401c5
+2016-12-28 16:10:38 .R..A          489               Kulkis/.git/objects/23/6542543d738141773ac4c984d973e2173e43c2
+2016-12-28 16:11:11 .R..A          131               Kulkis/.git/objects/24/21b18a8e7c693774e8dc40986934b756b9ab4a
+2018-04-11 22:47:15 .R..A          758               Kulkis/.git/objects/24/bb5fcab4a0ca316d8771ad1f409c0d8053edea
+2016-12-28 16:10:38 .R..A          130               Kulkis/.git/objects/24/bdde66f008e842f4eab34e5b5ab4abdea5320b
+2016-12-28 16:10:42 .R..A          255               Kulkis/.git/objects/25/4ffe0e1d3e93ab3646923673852b8d630ddc53
+2016-12-28 16:10:42 .R..A          203               Kulkis/.git/objects/25/6bdbc5f1dc463d0869e588296cb6933c719e58
+2016-12-28 16:10:38 .R..A          662               Kulkis/.git/objects/25/9e3596544ce2b9ffa699afe15fbb2a1f21089a
+2016-12-28 16:10:38 .R..A         1069               Kulkis/.git/objects/25/b067a4c6be19517a9e66387ab2ecd2d496c374
+2016-12-28 16:10:42 .R..A          268               Kulkis/.git/objects/2a/49b7aaa784ba747f639cdb7be872b5298a0ea1
+2018-04-11 22:47:16 .R..A          607               Kulkis/.git/objects/2c/41f44f1994bad974962e9c45744514ccbf6e7c
+2018-05-08 20:39:36 .R..A          119               Kulkis/.git/objects/2d/cba69b3fa8c6e11048c2ef8cf1f9139f601d80
+2018-05-08 20:39:36 .R..A          232               Kulkis/.git/objects/2e/8e76d05b441408c7ff394b9316bce1ce82c6d8
+2016-12-28 16:10:38 .R..A          454               Kulkis/.git/objects/2e/96b0158010ac321601957030b559bfc455f243
+2016-12-28 16:10:38 .R..A         1564               Kulkis/.git/objects/2e/ed30783b5281e650ab76ae791fb6c174c2e2a5
+2016-12-28 16:11:24 .R..A           77               Kulkis/.git/objects/2f/04c150a3fdf801e681e3223d47dcd1334dcdc1
+2016-12-28 16:11:11 .R..A         4176               Kulkis/.git/objects/30/c4eaf232039446314b7411241d927a54485866
+2018-05-08 20:39:49 .R..A          565               Kulkis/.git/objects/31/e038bb879865fef7335f0fd1fdad064da85044
+2016-12-28 16:10:42 .R..A          266               Kulkis/.git/objects/32/10eb373e8a6918b71159a8a1d37cfebbc1f1c0
+2016-12-28 16:11:11 .R..A          635               Kulkis/.git/objects/33/0ab9f7e384e2211ebdb60f9fa1277fa305b2de
+2016-12-28 16:10:37 .R..A          695               Kulkis/.git/objects/33/66da14e5e1b4cbc947bf626960d45b40592310
+2016-12-28 16:11:17 .R..A         9728               Kulkis/.git/objects/33/74df18aa83b3cc2bb00e0ab55c19e230197b42
+2018-04-11 22:47:16 .R..A          232               Kulkis/.git/objects/34/3398ab771bae135ae56c38f82ed1eb1a530cb1
+2016-12-28 16:11:17 .R..A          828               Kulkis/.git/objects/34/528ce22ea8937e39f86aebd67feba09aa36691
+2016-12-28 16:10:38 .R..A         1565               Kulkis/.git/objects/35/e2687d9383a04ae9c4c383211260829b726a59
+2018-04-11 22:47:15 .R..A          140               Kulkis/.git/objects/35/eb1ddfbbc029bcab630581847471d7f238ec53
+2016-12-28 16:11:25 .R..A          123               Kulkis/.git/objects/36/45ff6bf6de742f6b6c0d81759c26279b218dd7
+2016-12-28 16:11:24 .R..A         1049               Kulkis/.git/objects/36/50849eac160bdc07ec6a5f0b583daa6f0d6255
+2018-04-11 22:47:16 .R..A         1123               Kulkis/.git/objects/38/f84bd46f041d23ee0b910dc4653b89d9f3a7e0
+2016-12-28 16:11:25 .R..A           53               Kulkis/.git/objects/38/f8d45b1f69a21fe845398cc9565625e4c666be
+2016-12-28 16:10:37 .R..A          471               Kulkis/.git/objects/39/18771d5149c2093c3b5b8c2c3f51b85fb985a3
+2016-12-28 16:10:38 .R..A          124               Kulkis/.git/objects/39/20b24839200e1bc254fa106a8886efd4d64e1a
+2016-12-28 16:10:38 .R..A          135               Kulkis/.git/objects/3a/1b5c54b1da17bb5c474cdf3d2c3b895ebd1f37
+2016-12-28 16:10:42 .R..A          194               Kulkis/.git/objects/3a/907035aa291264b67a1daf245114ebcbc39b20
+2016-12-28 16:11:11 .R..A          326               Kulkis/.git/objects/3a/f9de90ed4fd01cea94d3ed31c3d73eb2e371d6
+2016-12-28 16:10:38 .R..A          118               Kulkis/.git/objects/3b/14442a85724409b8a7ac18d83438411f99d96d
+2016-12-28 16:11:17 .R..A          158               Kulkis/.git/objects/3b/312839bf2e939fea3ebdef15630a4b33e57caf
+2016-12-28 16:11:17 .R..A          182               Kulkis/.git/objects/3b/cdd376e1ee466fe82b31ed57ab21cb63e9ae8f
+2016-12-28 16:11:17 .R..A          412               Kulkis/.git/objects/3b/e74eb7da514bd9defdbbd91595757d698d5db7
+2016-12-28 16:10:38 .R..A         1751               Kulkis/.git/objects/3c/a68c741f2eb534e1c4719cabf6793febfd1bc9
+2018-04-11 22:47:15 .R..A         2210               Kulkis/.git/objects/3d/800b02786b3f135db60b00a80ac587df7c5eb9
+2018-04-11 22:47:16 .R..A          254               Kulkis/.git/objects/3d/810f69fdb38b908b648304515a5c32bb3d8427
+2016-12-28 16:10:38 .R..A          119               Kulkis/.git/objects/3e/c8592cee73b5eb79fcd69bce125ddecd563cdf
+2016-12-28 16:11:24 .R..A          323               Kulkis/.git/objects/3e/cbe6b44ec84e466d0c6fa297022390f64f0433
+2018-04-11 22:47:16 .R..A           93               Kulkis/.git/objects/3f/b7dd979e9d83cdee322c0defed48a25731e5da
+2016-12-28 16:10:42 .R..A          194               Kulkis/.git/objects/40/07a9cc3609a084b5032ec015d647c1270907db
+2018-05-08 20:38:24 .R..A          565               Kulkis/.git/objects/41/c848c0baebccc48792d6eee3bc4ec924b1c664
+2018-04-11 22:47:16 .R..A          463               Kulkis/.git/objects/41/d863012a332839204d21c89d14a51bfcee50ac
+2018-05-08 20:38:24 .R..A         1573               Kulkis/.git/objects/42/09332d8ab0c1aa42dc1ef402278672067eeff2
+2016-12-28 16:11:25 .R..A          155               Kulkis/.git/objects/42/4e035134fed003fa634e8eb08713a2e446bac2
+2016-12-28 16:11:11 .R..A         4075               Kulkis/.git/objects/42/94ade91371c58865445054dbe4be8a62864a24
+2018-05-08 20:39:37 .R..A          566               Kulkis/.git/objects/44/60b52b33aec4df0143681fb0b71ae08e490541
+2018-05-08 20:39:37 .R..A          179               Kulkis/.git/objects/44/b6b99d0a55de2546e70099ca1a7f7bb17d6a21
+2016-12-28 16:10:42 .R..A          217               Kulkis/.git/objects/45/b0c453e865b212381d9cb08d0bc3713ba49331
+2016-12-28 16:11:11 .R..A          226               Kulkis/.git/objects/45/d1608aeed7b0003303367879595315e235a83d
+2016-12-28 16:10:38 .R..A          122               Kulkis/.git/objects/46/49cf259c1c54a3cf9a17650d242950d209aecf
+2016-12-28 16:11:11 .R..A          133               Kulkis/.git/objects/46/94d77d54b60c4b2d4001a0a3d1b6d039a8044e
+2018-04-11 22:47:16 .R..A         1024               Kulkis/.git/objects/46/a89ca6b74e4504573eb9a5c023d14e0375f14b
+2016-12-28 16:11:17 .R..A         8917               Kulkis/.git/objects/47/26b5c4ce5c6205d8efc8103209734d603afa75
+2016-12-28 16:10:38 .R..A          104               Kulkis/.git/objects/47/3ad1f82d60e179a47d39f936e4ad110d4a34ad
+2016-12-28 16:10:38 .R..A          109               Kulkis/.git/objects/47/b668a04c6035631e7d72411770f4ded2aac12f
+2016-12-28 16:10:42 .R..A          216               Kulkis/.git/objects/48/03ecc99523cba0a9c39404e1fd889ecaf3cc48
+2016-12-28 16:11:17 .R..A         9857               Kulkis/.git/objects/48/c63a1ca90810ef6c05086883a4235517742d1b
+2018-04-11 22:47:16 .R..A         1099               Kulkis/.git/objects/48/d1c038cde898b0c3dee3d1d19494fa0490d515
+2016-12-28 16:11:25 .R..A           83               Kulkis/.git/objects/49/838c46dca68766e50c800b64f97fc24a0f9ff1
+2016-12-28 16:10:37 .R..A          391               Kulkis/.git/objects/49/e3b038ed5eab3c3ade093afb0836422e695801
+2016-12-28 16:10:37 .R..A          419               Kulkis/.git/objects/4b/5d360d4db8bfe344f9324ecbff6fe328192a43
+2016-12-28 16:10:38 .R..A          618               Kulkis/.git/objects/4c/24d8965fe3ff54f3a5906083483b89086ea757
+2018-05-08 20:38:24 .R..A          369               Kulkis/.git/objects/4c/2de07c7c3870bb094f3c2979f5c88c462c3129
+2016-12-28 16:11:24 .R..A          288               Kulkis/.git/objects/4d/a17fdbb46298d1aeb496fedade3d2c38c73470
+2016-12-28 16:10:38 .R..A          793               Kulkis/.git/objects/4e/b06ee7b6fbe0e95a5694bcc5624753660e231f
+2016-12-28 16:11:17 .R..A          655               Kulkis/.git/objects/4f/2f036b0dd0e987bbab3fc59765f4fc65a3a549
+2018-04-11 22:47:16 .R..A          756               Kulkis/.git/objects/4f/bb076bc8c7886b327ce36dfa71cbb42c20a371
+2018-04-11 22:47:15 .R..A         4948               Kulkis/.git/objects/51/5fb3207f4e4768c2cce0a3d4e59211e8a89d12
+2016-12-28 16:10:37 .R..A          987               Kulkis/.git/objects/51/6dcb693adbc95686cca7e1cb46113c5c32ef79
+2018-04-11 22:47:16 .R..A          624               Kulkis/.git/objects/51/ea8d6bd17e801bda2c0649c5937379651c0436
+2016-12-28 16:11:25 .R..A          192               Kulkis/.git/objects/52/2aecb542c8d933ed1dd14cb6ecfd9a94ce11c8
+2016-12-28 16:10:38 .R..A         1207               Kulkis/.git/objects/52/72913647a52b938245572b420505e5f7ba03e6
+2016-12-28 16:11:25 .R..A           88               Kulkis/.git/objects/52/86445c72388193b5286db8f05fa9b32620a5c8
+2016-12-28 16:10:38 .R..A          679               Kulkis/.git/objects/52/e058a45362f52da5350c814deb2d967740c4fa
+2018-04-11 22:47:15 .R..A          111               Kulkis/.git/objects/53/938a426fde0958a0f1c466941a9f2c8ff165d9
+2016-12-28 16:11:25 .R..A           57               Kulkis/.git/objects/54/1d9ac7ddc5e0da62d17a4c03c3b8eed0dff712
+2016-12-28 16:10:38 .R..A          923               Kulkis/.git/objects/54/2b9dcb1a563593ce93cf079831d892e525f2e0
+2016-12-28 16:10:37 .R..A         4787               Kulkis/.git/objects/55/57f43fa9a03cb885a5ac0ad96c554c22cced79
+2018-04-11 22:47:16 .R..A          501               Kulkis/.git/objects/55/db5eba763945bad033e1344761be27e36a5968
+2016-12-28 16:10:38 .R..A          180               Kulkis/.git/objects/57/cf71919903c2bc232c95599c399d864b1f2ba3
+2016-12-28 16:11:25 .R..A          171               Kulkis/.git/objects/58/6adceec815fb015ba985a44bddb3d932660b82
+2016-12-28 16:11:11 .R..A          130               Kulkis/.git/objects/59/1af6dd77893ec68fcfec9918d7332804995d95
+2018-05-08 20:39:49 .R..A          119               Kulkis/.git/objects/59/4f531dd67a90fda66ede2ad8467543e0786e62
+2016-12-30 14:06:24 .R..A         1268               Kulkis/.git/objects/5a/0dfd39239e0b439ad93df5af55f8bf4640fe28
+2016-12-28 16:10:38 .R..A         1418               Kulkis/.git/objects/5a/946bcd63b976e49c3de517039ed55b01f111bf
+2018-05-08 20:38:24 .R..A           79               Kulkis/.git/objects/5b/156aba873ce3e03e9a7fe820eb740f50fe3a59
+2016-12-28 16:10:38 .R..A         1000               Kulkis/.git/objects/5b/9db5b198bf1fe29fe35d823ba6620b8d8d10a3
+2018-05-08 20:39:49 .R..A          231               Kulkis/.git/objects/5b/fd4151f6299afbb8f9f299e2bc2d4089e4b51d
+2018-04-11 22:47:15 .R..A          676               Kulkis/.git/objects/5c/53aeedc965a40f3dcb02365b0db0afeb1bb26f
+2016-12-28 16:10:38 .R..A          735               Kulkis/.git/objects/5c/c5cd64e78f19d033f93292bc40ce949527d1d1
+2016-12-28 16:10:37 .R..A         1000               Kulkis/.git/objects/5c/d50739c232a0407bdcbe700aee1ba36fd8bcf8
+2016-12-28 16:10:38 .R..A          119               Kulkis/.git/objects/5d/7282bf51c864fe93199467c1752025393053f1
+2016-12-28 16:10:42 .R..A          427               Kulkis/.git/objects/5e/18af344a7bd9fa73806929aa68ca848992a0aa
+2018-04-11 22:47:16 .R..A          624               Kulkis/.git/objects/5e/287f9b2814e6e673644b3abf466d9b5b94550d
+2016-12-28 16:11:25 .R..A           54               Kulkis/.git/objects/5e/913aa59c8c057b8ed2790a1c0965ce4d06e8b6
+2016-12-28 16:10:38 .R..A          160               Kulkis/.git/objects/5e/f6361beb95743367608cd1ba10757e793b0b7d
+2016-12-30 14:06:31 .R..A          181               Kulkis/.git/objects/5f/9a39be8c8847c31e5b98c0d93fd68864d00c8a
+2016-12-28 16:10:38 .R..A         1007               Kulkis/.git/objects/5f/b410c393d6094ef837bcd6795dddba287ecf43
+2018-04-11 22:47:16 .R..A          315               Kulkis/.git/objects/60/052f327dbf8816ebf468bc668c53b273ad27cc
+2016-12-28 16:10:38 .R..A          125               Kulkis/.git/objects/60/22a2c84b09ba75845784195e51517f2e9d71ec
+2016-12-28 16:11:25 .R..A          261               Kulkis/.git/objects/60/27768ecbe1065ea62fa6c4f5a77f73b194716e
+2016-12-28 16:11:11 .R..A          246               Kulkis/.git/objects/60/4fa3533061dd1d6e162f42a64a6918814c26cb
+2016-12-28 16:10:42 .R..A          302               Kulkis/.git/objects/61/2d05bb20838733c4b3ad2202c821849eb6a539
+2016-12-28 16:10:37 .R..A        39424               Kulkis/.git/objects/62/7a95ed7684d3887f574feee90412776ae5d595
+2016-12-28 16:10:38 .R..A          319               Kulkis/.git/objects/63/71a521b114b4babc4f67bba80baa805ea1e13a
+2018-04-11 22:47:16 .R..A         2416               Kulkis/.git/objects/63/ec4d712fe2d57c5e0fd6872789b6efe6cb1ddf
+2016-12-28 16:10:42 .R..A          332               Kulkis/.git/objects/65/4c7845de3c54bdbef0387830df601a0c3b657e
+2018-04-11 22:47:15 .R..A          938               Kulkis/.git/objects/65/744d4df24a10870ff46b9d499763cce4806cb0
+2016-12-28 16:10:37 .R..A          261               Kulkis/.git/objects/67/1f1bd296a1fbee45c7a89710642bb45e11808d
+2016-12-28 16:10:38 .R..A          118               Kulkis/.git/objects/67/47219f4d10e04d7c24b4da0fa41ca972380f0c
+2018-04-11 22:47:16 .R..A         1330               Kulkis/.git/objects/67/a343cf9aa0c14d630559669a7a76504660a166
+2016-12-28 16:10:37 .R..A         1299               Kulkis/.git/objects/68/e43f11a0f6672b960a8914b4b2a9b8c844287e
+2016-12-28 16:11:17 .R..A         6851               Kulkis/.git/objects/6a/0519e8f1f45b85555cd563557ee5653c3acc82
+2016-12-28 16:10:42 .R..A          270               Kulkis/.git/objects/6a/7e25804bace77da61b0d5c10576a06373492c8
+2016-12-28 16:10:38 .R..A         1958               Kulkis/.git/objects/6c/40e3822cf1206db2840d6f6c0205cfd9bc876e
+2016-12-28 16:10:37 .R..A         2751               Kulkis/.git/objects/6d/51467d220d5bbb77ba23cf235a7ef9d064387f
+2016-12-28 16:10:37 .R..A         2097               Kulkis/.git/objects/6e/49bfb231804c52cb95d919d77f960577d62796
+2018-05-08 20:38:24 .R..A          998               Kulkis/.git/objects/6e/d94d3fc9063bfd8acd818d8e57ebd041437707
+2016-12-28 16:11:11 .R..A         4164               Kulkis/.git/objects/6e/fa6a01d7c3720f44e1857e9e564c919f6b09fd
+2016-12-28 16:11:24 .R..A          232               Kulkis/.git/objects/6f/7e55c31cf3f07b85bfa96fa9101b72c0d3f1b6
+2018-05-08 20:38:24 .R..A         2350               Kulkis/.git/objects/6f/a420cbb38fbce2d0a31eae5e842d68d1ac50a5
+2016-12-28 16:11:11 .R..A          133               Kulkis/.git/objects/70/ed7a9e2bde25d051704316bbf8129dc588ef8d
+2018-05-08 20:39:49 .R..A          368               Kulkis/.git/objects/71/12da06a3271dde7af9249431f1f8cdfc7c78fb
+2016-12-28 16:10:42 .R..A          245               Kulkis/.git/objects/71/19545206e676ad5c7a321da33f71005df189b5
+2018-04-11 22:47:16 .R..A          232               Kulkis/.git/objects/71/3f6d42c9fa83fa4bee9510926601199e50461c
+2016-12-28 16:11:25 .R..A          232               Kulkis/.git/objects/71/55e3b681260036588a355413bc89e3821e8242
+2016-12-28 16:10:38 .R..A         1529               Kulkis/.git/objects/71/a9442ccc7f5e0ffe2cf1a0b4bbf424ffe0ba28
+2016-12-28 16:11:11 .R..A         2982               Kulkis/.git/objects/73/3bb7e1858b7d635f33f626467fd6d8b88dc0b1
+2016-12-28 16:10:38 .R..A         2166               Kulkis/.git/objects/73/588dfd2bea850dbc6cdd760226cd4574ae64cc
+2018-04-11 22:47:16 .R..A          321               Kulkis/.git/objects/73/bfe1d581f352595755851689617e433491f271
+2016-12-28 16:10:38 .R..A          109               Kulkis/.git/objects/74/eeb15bb40ddef9b869411d104431f915040485
+2016-12-28 16:10:38 .R..A          146               Kulkis/.git/objects/75/1b0a0b3bc1475d34219f2543cc81c3a7b653ce
+2016-12-28 16:11:11 .R..A         2633               Kulkis/.git/objects/76/6f5cb1ca8b7a0c1a27996b3890da8685665fb3
+2016-12-28 16:10:38 .R..A          356               Kulkis/.git/objects/76/d55b43697efe10e04c0c939a53caffadd9d994
+2016-12-28 16:10:38 .R..A          277               Kulkis/.git/objects/77/da2f53e13d637d76d167276bb2e135eb5d50f9
+2016-12-28 16:10:42 .R..A          265               Kulkis/.git/objects/78/2bb6f8e176f57a4e9142fab2ae551877ee3d62
+2016-12-28 16:10:38 .R..A          612               Kulkis/.git/objects/79/e95ba974e4689772e0ac8fa4eaecb6214e3ea6
+2016-12-28 16:10:38 .R..A         1184               Kulkis/.git/objects/7a/25bef5c31e0449d6708cc3a51bed78b5dbbcd7
+2016-12-28 16:11:11 .R..A          128               Kulkis/.git/objects/7b/8db1ef3eb46f303ab59ded623a9c3617869ef4
+2018-04-11 22:47:16 .R..A           51               Kulkis/.git/objects/7b/dad0c48262524b19a7d2109cbc528b0e093de2
+2018-04-11 22:47:16 .R..A         1050               Kulkis/.git/objects/7b/ecd920f913d0bf973f63654210e2b8145da501
+2016-12-28 16:10:38 .R..A          337               Kulkis/.git/objects/7c/74e685d9f50182c9b3c7ece8a93eb557b040a0
+2016-12-28 16:11:24 .R..A          385               Kulkis/.git/objects/7c/9b18d28a3d307f00cb66b85ff26c621fd13e1b
+2016-12-28 16:11:25 .R..A          529               Kulkis/.git/objects/7d/e1dc0c761fcd8eb8e6d96f021146b4646c76fb
+2016-12-28 16:10:38 .R..A          101               Kulkis/.git/objects/7e/f5958615f08c1c0a23fd491efa845c4b37b0be
+2016-12-28 16:10:38 .R..A          103               Kulkis/.git/objects/7f/82529f56c3bd945986f640c615e346e4e67e4b
+2016-12-28 16:11:25 .R..A          314               Kulkis/.git/objects/7f/94c865499e9b0e657c2fbcf0b6e273313e88fe
+2018-04-11 22:47:16 .R..A           45               Kulkis/.git/objects/80/0536a9a5898ac2f97535d4d24b0162b7eb8a8f
+2018-04-11 22:47:16 .R..A          110               Kulkis/.git/objects/80/154a9ac6ab3c751f7e734b931d5d4b2bc4fd07
+2016-12-28 16:10:38 .R..A          607               Kulkis/.git/objects/80/2f2d3679565f1993f1d857e34649adee9ade14
+2016-12-28 16:10:42 .R..A          422               Kulkis/.git/objects/80/3430698a1159f18ab616e06f73a796c65e68b1
+2016-12-28 16:10:42 .R..A          263               Kulkis/.git/objects/81/54dda3fccbc51f754b401c650a5a5c74b2f9a9
+2016-12-28 16:10:38 .R..A         1463               Kulkis/.git/objects/81/7bb603d8249c8c3c47dcf1bba613b56566c8d6
+2016-12-28 16:10:37 .R..A         2382               Kulkis/.git/objects/81/c863015ac7e9502bf6576f8c0d9a78cf9f514e
+2016-12-28 16:10:37 .R..A         2040               Kulkis/.git/objects/82/2e14caa45dc89cfb54e7e34407e49181e3f2b0
+2016-12-28 16:11:11 .R..A          233               Kulkis/.git/objects/82/349ea35d0e9b0e260c7fb388ebbf4e1c02a783
+2016-12-28 16:11:25 .R..A          102               Kulkis/.git/objects/82/6b2edf555e7fe31af74e7fae21266d909aebcf
+2016-12-28 16:11:11 .R..A          233               Kulkis/.git/objects/83/43a4846c6b95807f7011b665f373165cbcdd48
+2016-12-28 16:10:37 .R..A          350               Kulkis/.git/objects/83/6a5527afdbd8c4d4f6fa3cd87c86fd25d28352
+2016-12-28 16:11:11 .R..A          134               Kulkis/.git/objects/83/81ff8dcf446366451ecf8df441a669e7b4f9ab
+2016-12-28 16:11:11 .R..A          131               Kulkis/.git/objects/84/3e7f2e0a77c193d41bc47e848cbdea8e11eb15
+2016-12-28 16:11:17 .R..A          149               Kulkis/.git/objects/85/a4ed24832191bd1c985bbd4aba83386ba78e7f
+2018-04-11 22:47:16 .R..A          307               Kulkis/.git/objects/85/d2a3b0bbe509001f8367d427006744a650834e
+2016-12-28 16:10:37 .R..A         3555               Kulkis/.git/objects/87/5ad4fd22eda507a724119cfb17693e408e7501
+2016-12-28 16:11:25 .R..A           71               Kulkis/.git/objects/87/5fa7d96efd549e3cb8e9910d8b23afd7844699
+2016-12-28 16:11:25 .R..A          204               Kulkis/.git/objects/87/9ccf7c3c1a64c661eed6c1b437e637889ea78e
+2018-04-11 22:47:16 .R..A          151               Kulkis/.git/objects/87/9d4a675c87d18a66e42aafb32f5f3b84256181
+2016-12-28 16:11:25 .R..A          322               Kulkis/.git/objects/87/b15afa584f388609d309c04566d09bdce1cf0c
+2018-05-08 20:38:24 .R..A          243               Kulkis/.git/objects/87/c72a95688bdd7f8582bd2b3b08ea7da3157fc4
+2016-12-28 16:10:38 .R..A          296               Kulkis/.git/objects/87/c77b48128fd41d27a8e27f0a7cc6f4f8c948ef
+2016-12-28 16:10:42 .R..A          323               Kulkis/.git/objects/87/df3aecb9dae60540707b5f1ead18792339cab4
+2018-04-11 22:47:16 .R..A          146               Kulkis/.git/objects/88/ddebd5fd4e10529c258153c2dbf0a65c57df99
+2016-12-28 16:11:11 .R..A         1727               Kulkis/.git/objects/88/e06b0b415cc4cf7b9a32e29373cab8e2c6e418
+2016-12-28 16:11:25 .R..A          146               Kulkis/.git/objects/89/377128fc386578e85c638abde5944da6c03827
+2016-12-28 16:11:25 .R..A          254               Kulkis/.git/objects/89/a3d5b4572c3fa2a872ae3d2109e3a2057c2318
+2016-12-28 16:11:25 .R..A           56               Kulkis/.git/objects/8b/04f595918d05bc50f8be04c49b376783de4b10
+2016-12-28 16:11:24 .R..A           54               Kulkis/.git/objects/8b/7307e2f9dacdc657074e8cd68ee1a22b1f4662
+2016-12-28 16:11:25 .R..A           63               Kulkis/.git/objects/8c/eb2582c802b663f367baecf446dee282459560
+2016-12-28 16:10:38 .R..A          509               Kulkis/.git/objects/8c/fd3fe0988b337b5e7ec2bc279aec22d45a3684
+2018-04-11 22:47:16 .R..A          417               Kulkis/.git/objects/8d/13f6755cf580154a1077f0aa5e77f74cf999e0
+2016-12-28 16:10:42 .R..A          372               Kulkis/.git/objects/8d/29fb212cc3c75af8b58caa49b1e7619e17ece2
+2018-04-11 22:47:16 .R..A           83               Kulkis/.git/objects/8e/4b15ac59cd18aaafdf7e8ca002c12cd6b9acaf
+2016-12-28 16:10:38 .R..A          123               Kulkis/.git/objects/8e/7a7f8a61102531fa3a0471b1cd150d35785171
+2016-12-28 16:10:38 .R..A          190               Kulkis/.git/objects/8e/bc13911590b74d684f07cc019a12380eef0900
+2016-12-28 16:10:37 .R..A          156               Kulkis/.git/objects/8f/7f05a446f04d6be4205f601312a30f17e16803
+2018-05-08 20:39:49 .R..A           80               Kulkis/.git/objects/90/06c5efdf20130935f639cabd5bd32b441e4f5c
+2016-12-28 16:10:42 .R..A          219               Kulkis/.git/objects/91/b5ac4843a21d0abd67d8fe02dbe08d3b4478f9
+2016-12-28 16:10:37 .R..A         3353               Kulkis/.git/objects/91/e40e305400b86b1d2116feef4ca4ec7b5e75fc
+2016-12-28 16:11:11 .R..A          226               Kulkis/.git/objects/93/0322e18bb643383f9a1f20704f21a7b4e364dc
+2016-12-28 16:11:11 .R..A          225               Kulkis/.git/objects/93/9396d996203c553a62aafe68dfcb891f148892
+2016-12-28 16:11:11 .R..A         3728               Kulkis/.git/objects/94/92a55bdc97bdefe3c985d73da927dd7b69b265
+2016-12-28 16:10:42 .R..A          255               Kulkis/.git/objects/95/8a15d195471935371a48b497060b93ee2ceab0
+2018-04-11 22:47:15 .R..A          372               Kulkis/.git/objects/95/8ca1753b2a18982a8dc9405c4eebf03ef5754d
+2016-12-28 16:10:38 .R..A          771               Kulkis/.git/objects/96/0427acb53ab7709602aa63c0629d368e4f2a04
+2016-12-28 16:11:17 .R..A          296               Kulkis/.git/objects/96/cc43efa6a0885098044e976cd780bb42c68a70
+2018-05-08 20:38:24 .R..A         1247               Kulkis/.git/objects/96/d91e1519e078a5f3faeddf707a0fbe0a8c8275
+2016-12-28 16:10:37 .R..A         2265               Kulkis/.git/objects/96/f3e74bcfab8c9271456c52f3ab57f22d57df1b
+2016-12-28 16:10:38 .R..A          123               Kulkis/.git/objects/97/565abb2332a7696672a40d8f7650d2c5b0447e
+2016-12-28 16:11:17 .R..A          137               Kulkis/.git/objects/97/626ba45445dc9f3afa66e6a149914dc39e3df6
+2016-12-28 16:11:25 .R..A          321               Kulkis/.git/objects/97/8dd917b71c6d336004859bb191e086a296277f
+2016-12-30 14:06:31 .R..A          232               Kulkis/.git/objects/97/f00480a6085d4b83c34e861a9f59e2e28a5142
+2018-05-08 20:39:49 .R..A          223               Kulkis/.git/objects/97/ff274c40bd0d9396537b7717cb0d1fd7fd414c
+2018-04-11 22:47:15 .R..A          300               Kulkis/.git/objects/98/2967e700ca6a5f368324fd3786dd19a458bfca
+2016-12-28 16:10:37 .R..A         1189               Kulkis/.git/objects/98/72fff450adaf9c283c7651f4ff3ed3a3e68379
+2016-12-28 16:10:37 .R..A         2562               Kulkis/.git/objects/98/f16d265d386f77ad5e06e62e50fb468e45873a
+2016-12-28 16:10:42 .R..A          195               Kulkis/.git/objects/99/711d681f178b3ca3e09f7aca4556734c539e1f
+2016-12-28 16:10:37 .R..A         1360               Kulkis/.git/objects/99/96412a1b27e46e485496049c65fff450785016
+2018-04-11 22:47:16 .R..A          206               Kulkis/.git/objects/99/cd91ecc22c46c6be503eac5754c0f28b3b189f
+2018-05-08 20:39:36 .R..A           79               Kulkis/.git/objects/9b/90923596776f1a2ba9e0e172be5f0a684aba97
+2018-05-08 20:38:24 .R..A         1022               Kulkis/.git/objects/9b/99a349c81cfc65d0925c30e8efe3bc035e7b4d
+2016-12-28 16:10:37 .R..A         3061               Kulkis/.git/objects/9d/bdaf0ebf0d6fa2987cb859d8aa8f7d1d77f725
+2018-04-12 14:46:26 .R..A         2340               Kulkis/.git/objects/9e/66e72de347ea2c8fd7b5d556e07ceda467d86d
+2016-12-28 16:10:42 .R..A          226               Kulkis/.git/objects/9e/bcaead1055fa92ec09e5b21365ab8b9e950afc
+2016-12-28 16:10:38 .R..A          128               Kulkis/.git/objects/9e/c9cb5b7984d97eb014b0b360155cb40fed0228
+2016-12-28 16:11:17 .R..A         6932               Kulkis/.git/objects/9f/bef9351b336f5d67f8d98af12b37100f3a5035
+2016-12-28 16:11:17 .R..A          100               Kulkis/.git/objects/a0/21f7d16643db24377b87fed038e9bfeda56554
+2016-12-28 16:10:38 .R..A         8853               Kulkis/.git/objects/a0/bba6e6f68f417644ed156cd1b7c1daf6895b07
+2016-12-30 14:06:24 .R..A          491               Kulkis/.git/objects/a0/c618ae50ed27e226b539c4a077fd8a20fa60f7
+2016-12-28 16:10:37 .R..A         1828               Kulkis/.git/objects/a1/2c3e3e6c2ce08019fdc2cabc1093fd9c5c49ef
+2016-12-28 16:10:38 .R..A         1138               Kulkis/.git/objects/a1/becd1fee27a567889369ac41d3051bc185a78e
+2016-12-28 16:11:11 .R..A          128               Kulkis/.git/objects/a2/d13401e1da97ca1744251fad9540054174d4d9
+2016-12-28 16:10:42 .R..A          214               Kulkis/.git/objects/a2/d25c8b97ea60e4b3fc78e3506836f62d366cc1
+2018-04-11 22:47:15 .R..A         4547               Kulkis/.git/objects/a3/b6ff2a905789ff6dd18251be62c1781f1b863f
+2016-12-28 16:10:37 .R..A         5356               Kulkis/.git/objects/a4/a0a256868a4de1df9f58f5465ba3d4247d0aa5
+2016-12-28 16:10:42 .R..A          204               Kulkis/.git/objects/a5/189571080c9398e14bdaf86a565c8b4d8aed3a
+2016-12-28 16:11:17 .R..A         6694               Kulkis/.git/objects/a6/c509510d8dfa585eefaecded2f80fdf19a8c69
+2018-04-11 22:47:16 .R..A          260               Kulkis/.git/objects/a6/d65c53548944799f4a802d5c482f03595b2ae8
+2018-05-08 20:38:24 .R..A           65               Kulkis/.git/objects/a7/3525ccc7ad91e795e34d450b178eb4d2d0c9ec
+2016-12-28 16:11:25 .R..A          119               Kulkis/.git/objects/a7/51c14afad799b823e657482ccffe8051e8527a
+2018-04-11 22:47:16 .R..A          396               Kulkis/.git/objects/a7/5c75c234757eb1e2f9cace117649621cd4e91d
+2018-05-08 20:38:24 .R..A           51               Kulkis/.git/objects/a7/ca95163d813d56a27f3dd5637bd2ab974a773a
+2016-12-28 16:10:38 .R..A          124               Kulkis/.git/objects/a8/385f5fe75069a9c1ae09b3b174cfcfd42af2fa
+2016-12-28 16:10:38 .R..A          111               Kulkis/.git/objects/a8/5c1aae1646a32ed0bb5cf0f494877ff752c608
+2016-12-28 16:11:11 .R..A          221               Kulkis/.git/objects/a8/627605c450b59e569c5d51bc52d3c79655c846
+2016-12-28 16:10:42 .R..A          277               Kulkis/.git/objects/a9/2ca5899014f71873fc8706e937d59d0e86ee46
+2016-12-28 16:11:11 .R..A         3414               Kulkis/.git/objects/a9/d8604fcd7f569fd74f5f7ed8ee416c5f1a33ed
+2018-05-08 20:38:24 .R..A          120               Kulkis/.git/objects/aa/0d416974f80ee3634a89434d4aeca737c4eaf4
+2016-12-28 16:10:38 .R..A          721               Kulkis/.git/objects/aa/c9104bd244170f52ebc8242c8133d1183c7490
+2016-12-28 16:10:38 .R..A          493               Kulkis/.git/objects/aa/e57a53ee3752998f2c7c12c2f9b89bac372ff0
+2016-12-28 16:10:38 .R..A          300               Kulkis/.git/objects/ab/3bbc091116bd6a18f6b0807f3869c64e902c62
+2016-12-28 16:11:17 .R..A           21               Kulkis/.git/objects/ab/791e4e41e24094a59e5c44f0904ca88e7a218a
+2018-04-11 22:47:16 .R..A          134               Kulkis/.git/objects/ab/ce29d863f4912401424895aaff7ee8c831c49c
+2016-12-28 16:10:38 .R..A          109               Kulkis/.git/objects/ac/c5a7f09f7e228195cea943f29d1eb21b4cb18b
+2016-12-28 16:11:11 .R..A        27295               Kulkis/.git/objects/ac/df229bcdeea4a5966e25f888667dbc1863990c
+2016-12-28 16:10:38 .R..A           98               Kulkis/.git/objects/ad/4a2e885127ac599780cb040d943dd520729d1e
+2016-12-28 16:10:38 .R..A          120               Kulkis/.git/objects/ad/849a3a9f058e9fbda5bedcde5ae02f1d485872
+2016-12-28 16:10:38 .R..A          659               Kulkis/.git/objects/ad/90fc65b7ad186d339d747aac484044600fc0af
+2016-12-28 16:10:42 .R..A          205               Kulkis/.git/objects/ae/8d055ddbe119cd012e12851df65e7be0755c3a
+2018-04-11 22:47:16 .R..A          565               Kulkis/.git/objects/af/1f557023829188c8bc2fbbee7aad80f6b00cee
+2018-04-11 22:47:16 .R..A          285               Kulkis/.git/objects/af/3ab586b4ceee7598fd56053e78f9276cd17ff0
+2018-04-11 22:47:16 .R..A          241               Kulkis/.git/objects/af/5fc932d0cdd525dd1ef17c9949460dd24f120d
+2016-12-28 16:10:42 .R..A          238               Kulkis/.git/objects/af/8835a82d45a3c7c9fab4f3b42cc932505dd088
+2018-04-11 22:47:16 .R..A          490               Kulkis/.git/objects/af/8b22660c971e515e935d7ca3e83afbe4a3f83c
+2016-12-28 16:10:38 .R..A         2239               Kulkis/.git/objects/af/a251a4cb9e839a7d19304c1ea499c841d0ff63
+2016-12-28 16:11:25 .R..A           46               Kulkis/.git/objects/b0/5765de37e65b85304341141cb283ace51a44e8
+2016-12-28 16:11:11 .R..A          609               Kulkis/.git/objects/b1/6ea5cd6b587be28b5d6c7b9d6e5f2bd78d23f5
+2018-05-08 20:39:49 .R..A         2371               Kulkis/.git/objects/b2/c3a964e30c19221cec2454234627d84c962424
+2016-12-28 16:10:37 .R..A          988               Kulkis/.git/objects/b3/1173430c6ef354a22b6f1ec51ff5a2c019e55e
+2016-12-28 16:10:38 .R..A          119               Kulkis/.git/objects/b3/98c7d00f7095a3c8108d0141c24594759ee868
+2018-04-11 22:47:16 .R..A          123               Kulkis/.git/objects/b3/9e726bae967e140a95875a348c29425088f7b5
+2016-12-28 16:10:38 .R..A          103               Kulkis/.git/objects/b4/88a9ab83964abf4f7c3ba6d52ebbc4d28fc6da
+2016-12-28 16:10:38 .R..A          423               Kulkis/.git/objects/b6/68ab24afa8b8dd2f950dae8597cdd78768f39e
+2016-12-28 16:11:25 .R..A          225               Kulkis/.git/objects/b6/e32357a1c4b8261b879fb1d822db8df38a7e97
+2016-12-28 16:11:25 .R..A           64               Kulkis/.git/objects/b8/b2f77274b504595fe94815567fbf6690573c42
+2016-12-28 16:10:42 .R..A         3040               Kulkis/.git/objects/b9/1d754d7a0680925b014c8fc20fdca54848c5dd
+2016-12-28 16:11:17 .R..A           96               Kulkis/.git/objects/ba/4ba36c51541ff880df23f589511e7133d25f44
+2016-12-28 16:10:38 .R..A          110               Kulkis/.git/objects/bb/106929c1a6f598bf86e77639587b661a3c81c8
+2018-04-11 22:47:16 .R..A          477               Kulkis/.git/objects/bb/c97700fd543008edbef5c888ee307340ac2c38
+2016-12-30 14:06:31 .R..A           79               Kulkis/.git/objects/bc/c3198cdbac5cf816fcfaefd2b77784fe52657b
+2016-12-28 16:11:25 .R..A          107               Kulkis/.git/objects/bd/55ca05e36a30473961db5ba513c33517034b9e
+2016-12-28 16:10:42 .R..A          228               Kulkis/.git/objects/bd/8aecdace69147e35b19d5daf1402ea910add7e
+2016-12-28 16:11:17 .R..A          144               Kulkis/.git/objects/be/46c8b200024a83e9df81344f95793f3160a718
+2016-12-28 16:10:38 .R..A          318               Kulkis/.git/objects/be/9d8bf4fa4bb8cbfef19cd5c44dbea87b526de6
+2016-12-28 16:10:38 .R..A          113               Kulkis/.git/objects/be/a19c901c32d494da914e4b086547b85d8ebebc
+2016-12-28 16:11:11 .R..A         3972               Kulkis/.git/objects/bf/173aae0c55c0869b8dbedae8dfdef27f56ecfe
+2016-12-28 16:11:17 .R..A         8956               Kulkis/.git/objects/c0/05ad9759d7c660693ca3f22f4418ebfc01335b
+2016-12-28 16:10:37 .R..A         1296               Kulkis/.git/objects/c0/68f25c68485586aa7eb3e804d3761cf248bfdd
+2016-12-28 16:10:37 .R..A         1658               Kulkis/.git/objects/c0/a174ba29955d9abda8630adbacb65c9da69b50
+2016-12-28 16:11:11 .R..A         6857               Kulkis/.git/objects/c1/a2002832931db00b4d293253d9e55576a0e36f
+2016-12-28 16:10:38 .R..A          117               Kulkis/.git/objects/c1/b87b81b1551318ea76dcc1e42f9608b17397f0
+2018-05-08 20:38:24 .R..A          233               Kulkis/.git/objects/c1/f7b54ffe7ad91ba92232577a565a7c58a18807
+2016-12-28 16:10:37 .R..A          195               Kulkis/.git/objects/c2/51c9a520861f5e833422e21cd22acdfe53cce3
+2018-05-08 20:38:24 .R..A         2448               Kulkis/.git/objects/c2/5f98fe4cfc8a6d0084e64b80dcc7c54d9b3ea1
+2016-12-28 16:10:38 .R..A          105               Kulkis/.git/objects/c2/c75d0b262125be897cccd04a37085ff4ac5a25
+2016-12-28 16:10:38 .R..A           82               Kulkis/.git/objects/c3/33c542c13cc609033d714138b5226726446aa5
+2016-12-28 16:10:38 .R..A          137               Kulkis/.git/objects/c3/55f44a1a61cf7525602b8290d880852061b3e1
+2018-05-08 20:38:24 .R..A          476               Kulkis/.git/objects/c4/163d4dd2211ece0ceb86b9ec5415789f25b7ce
+2016-12-28 16:11:25 .R..A           79               Kulkis/.git/objects/c4/2bb5e875765d3019cc20a7dc22770a4864db29
+2018-04-11 22:47:16 .R..A           93               Kulkis/.git/objects/c5/90dd6ab82b920380d4084ee5446bc6208985c2
+2016-12-28 16:10:42 .R..A          259               Kulkis/.git/objects/c6/3bc0387dc8a2f9b30b64b0987ceeb077245d9d
+2016-12-28 16:10:38 .R..A          112               Kulkis/.git/objects/c7/3fc835b0c11ebab3b0f49cf7fc6454271f6136
+2018-04-11 22:47:15 .R..A          877               Kulkis/.git/objects/c7/8d0afb8e72e9f57e1dbb1e17de61245f96714b
+2016-12-28 16:11:11 .R..A          131               Kulkis/.git/objects/c7/92ded1e51f7aa3e8617579a04034fbaba63e00
+2016-12-28 16:11:25 .R..A           92               Kulkis/.git/objects/c8/caf36f6d129d0f6e78b95ff571b81b6e16118f
+2018-04-11 22:47:16 .R..A          561               Kulkis/.git/objects/c8/e7b5d3d0995dfeb471a75763d8b0fcd09449f5
+2016-12-28 16:11:11 .R..A         3987               Kulkis/.git/objects/c9/0b9fca1609a75a6252b96425311435faa93324
+2018-04-11 22:47:16 .R..A           77               Kulkis/.git/objects/c9/fc6f9a9cd05030794e10f1dd176bd879bf585c
+2018-04-11 22:47:16 .R..A          281               Kulkis/.git/objects/ca/5960a0a5bdefc31c0a694fc47c79ee8c68e14d
+2018-05-08 20:38:24 .R..A         1917               Kulkis/.git/objects/ca/f0e3c78a12e58c1ca6433b7ea0f25408eb26e3
+2016-12-28 16:10:38 .R..A          135               Kulkis/.git/objects/cb/2bfdadda6a1c82c3578081865649a7ce803c21
+2016-12-28 16:10:38 .R..A          132               Kulkis/.git/objects/cd/468693013871263717ed596286477b1b73041a
+2016-12-28 16:10:38 .R..A          491               Kulkis/.git/objects/cd/6a21c5a52e337192c5efc72f3b868b21c0f8c4
+2016-12-28 16:10:42 .R..A          193               Kulkis/.git/objects/cd/fcae3ef7dde5e1b9a6146ba8ef225d3da359f1
+2016-12-28 16:10:38 .R..A          726               Kulkis/.git/objects/ce/d1b252c7ffbf35eb85a42ea32577048b1f4012
+2016-12-28 16:11:25 .R..A          148               Kulkis/.git/objects/cf/7e4021ef95cb65f77903ef483d7698bba69c3c
+2016-12-28 16:10:42 .R..A          263               Kulkis/.git/objects/cf/9b49f3c0ba44d5c79fb33c291ad2c2f155aea1
+2016-12-28 16:10:38 .R..A          118               Kulkis/.git/objects/d0/56afb242b9e04992f241d4b48aea618c504cb2
+2016-12-28 16:11:25 .R..A          143               Kulkis/.git/objects/d1/67f7540040981bd858fd2dea2d0b999878d360
+2016-12-28 16:10:38 .R..A         3193               Kulkis/.git/objects/d2/c80a5578cdb0496f75be352db16bdd33a0c080
+2016-12-28 16:10:37 .R..A          570               Kulkis/.git/objects/d2/cdb5dc28ccf3838b903d1b0cd6ecdccf05bb97
+2016-12-28 16:11:25 .R..A           68               Kulkis/.git/objects/d2/e743686ef7b4824ba484c12420b20d6ddc157c
+2016-12-28 16:10:38 .R..A         1293               Kulkis/.git/objects/d3/ebf7bcddb6d230879e41e687c0b9a82c549b6b
+2016-12-28 16:10:37 .R..A         4508               Kulkis/.git/objects/d4/0a6f613dc2dd13b97c1a3b85e48d3826818a1a
+2018-04-11 22:47:16 .R..A          566               Kulkis/.git/objects/d4/11edb86fbc64ac3f7e8a5d535117a162c63135
+2016-12-28 16:11:25 .R..A          233               Kulkis/.git/objects/d4/a90902894d0f7409df1636e87ca218a5443445
+2016-12-28 16:10:37 .R..A         3059               Kulkis/.git/objects/d5/43a8dd5ec57caed7629e907dd981c39098739c
+2016-12-28 16:10:38 .R..A          494               Kulkis/.git/objects/d6/9a2bdf75ba2cb54ff50caba3f83a14555c9085
+2016-12-28 16:10:42 .R..A          233               Kulkis/.git/objects/d6/a53e72c9e1062700c26533979ae9351ddb00d6
+2016-12-30 14:06:31 .R..A          530               Kulkis/.git/objects/d6/c0c4dab001da4c452e3a2dfce19ab53fc19f62
+2016-12-28 16:10:38 .R..A          413               Kulkis/.git/objects/d6/c3915297474e301adcb11013eb93471a8033e0
+2016-12-30 14:06:31 .R..A           57               Kulkis/.git/objects/d7/575b700ed9476de42a3c2cfab415c3a224b3e9
+2016-12-28 16:10:37 .R..A         5859               Kulkis/.git/objects/d8/4e4c3c3dced6d5b5b74c2a2d8f4dfe0d0d335a
+2018-05-08 20:39:49 .R..A          279               Kulkis/.git/objects/d8/5a79e5dde14b606775fc66dba166ff86902c8a
+2016-12-28 16:11:11 .R..A          223               Kulkis/.git/objects/da/05a59d9a604c9a68fab236d9aad168b8eae19e
+2016-12-28 16:10:37 .R..A         1858               Kulkis/.git/objects/da/20e8dc718a0b6fc2c7bcb6ecf0300973c67464
+2016-12-28 16:10:38 .R..A         2285               Kulkis/.git/objects/da/6e6f1dce0f2ee86d66aa341f5ac0f49ef5977f
+2016-12-28 16:10:42 .R..A          310               Kulkis/.git/objects/da/c70290dd980c138ae42dc8cead881a440a6cc2
+2016-12-28 16:11:25 .R..A           51               Kulkis/.git/objects/da/d50588794a984de06df468eec7b6e7de0820d4
+2016-12-28 16:10:38 .R..A          610               Kulkis/.git/objects/da/e4dd51c752abc3dbc6ab43c5b2d61240736902
+2016-12-28 16:10:38 .R..A         9271               Kulkis/.git/objects/db/1ce7bdec14d07f96957b0e649c20c5b2fb29d8
+2016-12-28 16:10:38 .R..A          118               Kulkis/.git/objects/dc/0d7d85a98d462c1a45671e309f4edd3ea1a0e8
+2016-12-28 16:10:38 .R..A          115               Kulkis/.git/objects/dc/d9022abb586a551a6f52b1dbf3cafeea3bc64b
+2016-12-28 16:10:38 .R..A          848               Kulkis/.git/objects/dc/e2276d393bda158284562f1210a588f1be2ff4
+2016-12-28 16:10:37 .R..A          196               Kulkis/.git/objects/dd/ab93cca2128ffa9cad677987568bf91b10a2c2
+2016-12-28 16:11:11 .R..A          131               Kulkis/.git/objects/dd/b61e0853c5cc9aab9ae4d76c51de4b252fc346
+2016-12-28 16:10:38 .R..A          121               Kulkis/.git/objects/dd/c1055bbf363cb2bd1d00a82597d904761faef5
+2016-12-28 16:11:17 .R..A          353               Kulkis/.git/objects/de/2c0b3d1491cf3149dfa1aedba50e6f1c049f26
+2016-12-28 16:11:11 .R..A          224               Kulkis/.git/objects/de/a0ca33adf58a7c39ded5edc7e4fba2c8acbcd0
+2016-12-28 16:10:38 .R..A          592               Kulkis/.git/objects/df/be1e996c08146798f954039af3962f08a9bcb8
+2016-12-28 16:10:38 .R..A         2937               Kulkis/.git/objects/df/c66664a9013584f12928f701c0da67b8c68ab6
+2016-12-28 16:10:37 .R..A         2060               Kulkis/.git/objects/df/cd7c893ba5098058e6d4a3586bdc54be143ff4
+2016-12-28 16:10:38 .R..A          589               Kulkis/.git/objects/e0/865ecfa20cc82f0d02e446bff9bcb765764392
+2016-12-28 16:10:38 .R..A          519               Kulkis/.git/objects/e0/e79a0b4e8cd4ce20dca5a289cb846c7cf27d3e
+2018-04-11 22:47:15 .R..A        16835               Kulkis/.git/objects/e1/53fc14f29c3c74022965d542c3435346259010
+2016-12-28 16:10:42 .R..A         3038               Kulkis/.git/objects/e1/78966c8ec4a884f3dd30f158bfb53e0d535a80
+2018-04-11 22:47:16 .R..A          494               Kulkis/.git/objects/e1/7b7987e35ffbbe97a3cc0e0b764e2e27af43f2
+2018-05-08 20:38:24 .R..A          169               Kulkis/.git/objects/e2/95992d8e8828cf9c4598b16a64e20cfcb0c10d
+2018-04-11 22:47:16 .R..A          800               Kulkis/.git/objects/e4/f53ceb1e37334111bba9aa37c35521cdfa6006
+2016-12-28 16:10:38 .R..A          120               Kulkis/.git/objects/e5/1b1264080e548fe9a166ffe04747b087e022bb
+2016-12-28 16:10:38 .R..A         1630               Kulkis/.git/objects/e5/2f7feaa3c88d16cd57a153417dbc32a1023280
+2016-12-28 16:10:38 .R..A          106               Kulkis/.git/objects/e5/48f675bc7eaa44347c298f37c1bfc067101e79
+2016-12-28 16:10:42 .R..A          209               Kulkis/.git/objects/e5/5fe3f726f915b6ab51d004778f2cc17bfa11a0
+2018-04-11 22:47:16 .R..A           79               Kulkis/.git/objects/e6/d60bbde6600cc2388bd242bc85b52c67be612d
+2016-12-30 14:06:31 .R..A          123               Kulkis/.git/objects/e7/2a8f02f61919580c3246b4b5ea8a468f230d24
+2018-04-11 22:47:16 .R..A         1916               Kulkis/.git/objects/e7/3deb74864bf01bb7f69cbdb60ee4b5003beda8
+2018-04-11 22:47:16 .R..A          231               Kulkis/.git/objects/e8/782924af14abf87676c39b3b8a2707cc89fdc5
+2016-12-28 16:11:17 .R..A         9727               Kulkis/.git/objects/e8/b353d5a214af0e5c31b146fe0ab9217b5e32b6
+2016-12-28 16:11:24 .R..A           58               Kulkis/.git/objects/e8/d66bb65cef474d457930215ead2289208c4a3d
+2016-12-28 16:10:38 .R..A         1373               Kulkis/.git/objects/e9/1f402a2bed3c10b9e72b51c7260afe3f32bd1a
+2016-12-28 16:10:42 .R..A          213               Kulkis/.git/objects/e9/216ba9d96f274eeef09aea45fe3ce4a9d8fbe8
+2016-12-28 16:11:24 .R..A           92               Kulkis/.git/objects/e9/54190f5ae7fb6940e6e3001990f786827fb024
+2018-04-11 22:47:16 .R..A         1238               Kulkis/.git/objects/e9/62fb9ed206416878a83d91af5b06002a4e395f
+2016-12-28 16:11:25 .R..A          241               Kulkis/.git/objects/e9/ef9707deb3dab1575c336ac763b95644d6db41
+2016-12-28 16:10:38 .R..A          110               Kulkis/.git/objects/ea/b46ef774b4ace07a6b7f84752e39b530c59305
+2016-12-28 16:10:38 .R..A       229092               Kulkis/.git/objects/ea/d5c4a2a5441544dc895390d85ca1c0cda763ba
+2018-04-11 22:47:16 .R..A          619               Kulkis/.git/objects/eb/0a26e767e8acd216e56aa7eb36a82b0cd82901
+2016-12-28 16:11:24 .R..A          812               Kulkis/.git/objects/eb/687c87aac29bab95e65a4246c76ecbe46c835b
+2016-12-28 16:10:37 .R..A          529               Kulkis/.git/objects/eb/c5fa9bb85f58aa2092744d5fc2ea79deb564fe
+2016-12-28 16:10:38 .R..A          106               Kulkis/.git/objects/ec/2741988feb2215adb0edf6c025919582af219a
+2016-12-28 16:10:38 .R..A          475               Kulkis/.git/objects/ec/77f7b25d3173acfc5d2abf58cbdaa8d196fb65
+2016-12-28 16:10:38 .R..A         1149               Kulkis/.git/objects/ec/df554e15199436167f761e96106f3e1c4551a7
+2016-12-28 16:10:38 .R..A         1084               Kulkis/.git/objects/ed/122a1fdcc1e54b66bfc33ef0dac6049a98303e
+2016-12-28 16:11:25 .R..A          665               Kulkis/.git/objects/ed/42b76f1a63156bcd87e265617a6c96f2e1f8de
+2016-12-28 16:11:17 .R..A         5028               Kulkis/.git/objects/ed/77981ecbbdc3786d8fe161216d3df58c009a03
+2016-12-28 16:10:37 .R..A          430               Kulkis/.git/objects/ee/239d32130ec816cd73c90b1e1c7528e260d5be
+2016-12-28 16:10:38 .R..A          124               Kulkis/.git/objects/ee/27b161e9a9266fda5df888d0471c780bd44595
+2016-12-28 16:11:24 .R..A          528               Kulkis/.git/objects/ee/35fc53ac5b02d7cde6cbd74964e84a3f428a10
+2016-12-28 16:11:24 .R..A          112               Kulkis/.git/objects/ee/a65b3345ff83a92963c187a1699886057f3d29
+2018-04-11 22:47:16 .R..A          127               Kulkis/.git/objects/ef/014d1ed360f23098d594f4979e14df1d9e819b
+2016-12-28 16:10:37 .R..A         1254               Kulkis/.git/objects/ef/319baf6ea9ba9d6d3cd2c1e1b1d3c7f827d78b
+2016-12-28 16:10:38 .R..A           98               Kulkis/.git/objects/ef/aa4dfe1a5139183f990c9a588c122fe10cfc8a
+2016-12-28 16:11:17 .R..A         7018               Kulkis/.git/objects/f0/0d311ea195b9ddb0e747f901301fc08d9b7956
+2016-12-28 16:10:37 .R..A         5575               Kulkis/.git/objects/f0/34a80916a6f6d8b6c2d206ba7d9750676e495c
+2018-05-08 20:39:36 .R..A          956               Kulkis/.git/objects/f0/d413abbbfe99245a40fc4e0b688fcacb104628
+2016-12-28 16:10:38 .R..A         1007               Kulkis/.git/objects/f1/1ef868a5cf1eafb1965f78c26023f26fc6d0be
+2016-12-28 16:10:42 .R..A          215               Kulkis/.git/objects/f1/723a4744e4cfa7157eced7e791ba8b7efc7d42
+2016-12-28 16:10:38 .R..A          582               Kulkis/.git/objects/f2/972ca1669086d0aa4930b400064654502ebd3a
+2018-05-08 20:39:36 .R..A          210               Kulkis/.git/objects/f2/a94247f60a9398354f1bf4bd0bc26a4c5ac271
+2016-12-28 16:11:11 .R..A          233               Kulkis/.git/objects/f3/0c2e020fef20dd7b289322100373ff920e4798
+2018-04-11 22:47:16 .R..A          476               Kulkis/.git/objects/f3/41929d3aeaa22b63b9959ba5c322fdaf74640a
+2016-12-28 16:10:38 .R..A         2137               Kulkis/.git/objects/f3/b24f68358aa05ccbc530070d95c0b09c44b688
+2016-12-28 16:11:11 .R..A          131               Kulkis/.git/objects/f3/dcc82a541dd49feb31af91b1dbfc77dc218ac1
+2016-12-28 16:10:37 .R..A         1930               Kulkis/.git/objects/f4/9b5adac2ff32e690c1831f01b9c99ee9284c61
+2016-12-28 16:11:25 .R..A          239               Kulkis/.git/objects/f4/cca3c46de84a3268b6ec4cc8b9998afc397824
+2016-12-28 16:10:37 .R..A          578               Kulkis/.git/objects/f4/d070b998eab7e7d020aa043f0f6c3bff17f98b
+2018-04-11 22:47:16 .R..A         1524               Kulkis/.git/objects/f4/e0149b67d82f89d1c2a7791f2db435c5f26728
+2018-04-11 22:47:16 .R..A         2417               Kulkis/.git/objects/f4/fb5501c032d452a74669a38e4cd5a0039720ab
+2018-04-11 22:47:16 .R..A           51               Kulkis/.git/objects/f5/cd8d42e35d362c0c0acafe03fe2909ae3040ed
+2016-12-28 16:10:38 .R..A         1130               Kulkis/.git/objects/f6/0c20a35532019abfcb8b1952ed689a15cc2525
+2016-12-28 16:10:38 .R..A         2305               Kulkis/.git/objects/f6/2d087d2a48c789142ae6bfded1ca0610b7d1d7
+2016-12-28 16:11:11 .R..A         3865               Kulkis/.git/objects/f9/408885efba7c007ef821f384c91de060f3fa19
+2018-05-08 20:38:24 .R..A          322               Kulkis/.git/objects/f9/637e208e33bfdee3162e10ed38a88a1eccfcc2
+2016-12-28 16:11:25 .R..A          135               Kulkis/.git/objects/fa/332409de431d2a35b03dbf05b4e89c45eac7ee
+2016-12-28 16:10:42 .R..A          270               Kulkis/.git/objects/fa/6948f30bdb5525bf35cb19208caae47f5bdce1
+2018-04-11 22:47:16 .R..A         1033               Kulkis/.git/objects/fb/0fd2a73620048f2497425984fbc4b066fc0071
+2016-12-28 16:10:37 .R..A         2996               Kulkis/.git/objects/fb/bc717c44c11c604e93f41c32167f09e8e12014
+2016-12-28 16:11:11 .R..A        30741               Kulkis/.git/objects/fc/396ee7b85fd57b3013c232e723033398810082
+2016-12-28 16:11:25 .R..A          152               Kulkis/.git/objects/fc/a253bcc0bb896f48e68516d90c3d71f88a5e70
+2016-12-28 16:10:38 .R..A          128               Kulkis/.git/objects/fc/d3a8885f3ceb1b80d6cf85e3d62261d5b7b26e
+2016-12-28 16:10:38 .R..A          460               Kulkis/.git/objects/fd/294cb45608d1f66cdaeb0c482fa4bc1bc0d8ac
+2016-12-28 16:11:25 .R..A          111               Kulkis/.git/objects/fd/666f07054ca8b56bb325a3fbddfa34c42f2360
+2016-12-28 16:11:11 .R..A          232               Kulkis/.git/objects/fe/10c9958720d0d686652f190c599e0d9a53005a
+2018-04-11 22:47:15 .R..A          982               Kulkis/.git/objects/fe/41caad2e46cbf82faea242a1b3b3d0c4190427
+2016-12-28 16:10:38 .R..A       189273               Kulkis/.git/objects/ff/d0cf1e5c7f2f9dab50eb401ebda469e9eb2405
+2018-04-11 12:15:31 .R..A        11348               Kulkis/.git/objects/pack/pack-22afd0eeb2b418f3427f3f2a8b5ee0a43f46a333.idx
+2018-04-11 12:15:31 .R..A       825110               Kulkis/.git/objects/pack/pack-22afd0eeb2b418f3427f3f2a8b5ee0a43f46a333.pack
+2018-05-08 20:39:51 ....A           41               Kulkis/.git/ORIG_HEAD
+2018-04-11 12:15:32 ....A          114               Kulkis/.git/packed-refs
+2018-05-08 20:39:51 ....A           41               Kulkis/.git/refs/heads/armor-games
+2018-05-08 20:39:37 ....A           41               Kulkis/.git/refs/heads/master
+2018-04-11 12:15:32 ....A           32               Kulkis/.git/refs/remotes/origin/HEAD
+2018-04-11 22:47:34 ....A           41               Kulkis/.git/refs/remotes/origin/master
+2018-04-11 22:42:44 ....A          117               Kulkis/.gitignore
+2018-04-11 12:15:32 ....A            6               Kulkis/.idea/.name
+2018-04-11 12:15:32 ....A          707               Kulkis/.idea/compiler.xml
+2018-04-11 19:33:56 ....A          301               Kulkis/.idea/composerJson.xml
+2018-06-16 08:14:04 ....A          343               Kulkis/.idea/deployment.xml
+2018-04-11 12:15:32 ....A          252               Kulkis/.idea/dictionaries/Skell.xml
+2018-04-11 12:15:32 ....A          164               Kulkis/.idea/encodings.xml
+2018-04-11 12:15:32 ....A          178               Kulkis/.idea/flexCompiler.xml
+2018-04-11 12:15:32 ....A          241               Kulkis/.idea/inspectionProfiles/profiles_settings.xml
+2018-04-11 19:33:56 ....A          775               Kulkis/.idea/inspectionProfiles/Project_Default.xml
+2018-04-11 12:24:53 ....A          326               Kulkis/.idea/misc.xml
+2018-04-11 12:15:32 ....A          259               Kulkis/.idea/modules.xml
+2018-04-11 12:16:03 ....A          167               Kulkis/.idea/vcs.xml
+2018-06-25 05:28:29 ....A        43995               Kulkis/.idea/workspace.xml
+2018-04-11 12:15:32 ....A         7270               Kulkis/.readme/logo.png
+2018-04-11 12:15:32 ....A         5701               Kulkis/.readme/screen_1.png
+2018-04-11 12:15:32 ....A         9181               Kulkis/.readme/screen_1_thumb.png
+2018-04-11 12:15:32 ....A         7577               Kulkis/.readme/screen_2.png
+2018-04-11 12:15:32 ....A         9952               Kulkis/.readme/screen_2_thumb.png
+2018-04-11 12:15:32 ....A         7410               Kulkis/.readme/screen_3.png
+2018-04-11 12:15:32 ....A         9141               Kulkis/.readme/screen_3_thumb.png
+2018-04-11 12:15:32 ....A         8936               Kulkis/.readme/screen_4.png
+2018-04-11 12:15:32 ....A         9950               Kulkis/.readme/screen_4_thumb.png
+2018-04-11 12:15:32 ....A         7810               Kulkis/.readme/screen_5.png
+2018-04-11 12:15:32 ....A        10083               Kulkis/.readme/screen_5_thumb.png
+2016-12-28 20:39:04 ....A       560958               Kulkis/bin/Kulkis_Hard.swf
+2016-12-28 20:39:05 ....A       673841               Kulkis/bin/Kulkis_Hard_DEBUG.swf
+2018-06-21 22:21:22 ....A      8897400               Kulkis/bin/Kulkis_Regular.swf
+2018-06-21 22:21:25 ....A      8897408               Kulkis/bin/Kulkis_Regular_DEBUG.swf
+2018-06-21 22:21:18 ....A        13194               Kulkis/bin/Main-app.xml
+2018-06-21 22:21:11 ....A         3038               Kulkis/bin/net/retrocade/assets/bottomBar/background.png
+2018-06-21 22:21:11 ....A         1328               Kulkis/bin/net/retrocade/assets/bottomBar/background_.png
+2018-06-21 22:21:11 ....A         6210               Kulkis/bin/net/retrocade/assets/bottomBar/bottomBar.pmp
+2018-06-21 22:21:11 ....A         2351               Kulkis/bin/net/retrocade/assets/bottomBar/gfs_icon.png
+2018-06-21 22:21:11 ....A         4264               Kulkis/bin/net/retrocade/assets/bottomBar/gfs_text.png
+2018-06-21 22:21:11 ....A         2179               Kulkis/bin/net/retrocade/assets/bottomBar/help_icon.png
+2018-06-21 22:21:11 ....A         3306               Kulkis/bin/net/retrocade/assets/bottomBar/help_text.png
+2018-06-21 22:21:11 ....A         3010               Kulkis/bin/net/retrocade/assets/bottomBar/help_text_pl.png
+2018-06-21 22:21:11 ....A         1573               Kulkis/bin/net/retrocade/assets/bottomBar/hide_icon.png
+2018-06-21 22:21:11 ....A         4756               Kulkis/bin/net/retrocade/assets/bottomBar/hide_return.png
+2018-06-21 22:21:11 ....A         5590               Kulkis/bin/net/retrocade/assets/bottomBar/hide_return_pl.png
+2018-06-21 22:21:11 ....A         1661               Kulkis/bin/net/retrocade/assets/bottomBar/hide_text.png
+2018-06-21 22:21:11 ....A         2120               Kulkis/bin/net/retrocade/assets/bottomBar/hide_text_pl.png
+2018-06-21 22:21:11 ....A       158080               Kulkis/bin/net/retrocade/assets/bottomBar/Project.psd
+2018-06-21 22:21:11 ....A         3242               Kulkis/bin/net/retrocade/assets/bottomBar/retrocade_logo.png
+2018-06-21 22:21:11 ....A         3801               Kulkis/bin/net/retrocade/assets/bottomBar/retrocade_text.png
+2018-06-21 22:21:11 ....A         3601               Kulkis/bin/net/retrocade/assets/bottomBar/retrocade_text_pl.png
+2018-06-21 22:21:11 ....A         6210               Kulkis/bin/net/retrocade/assets/bottomBar.pmp
+2018-06-21 22:21:11 ....A          206               Kulkis/bin/net/retrocade/assets/BottomBarBG.png
+2018-06-21 22:21:11 ....A         2361               Kulkis/bin/net/retrocade/assets/BottomBarFull.png
+2018-06-21 22:21:11 ....A         1293               Kulkis/bin/net/retrocade/assets/BottomBarHelpCard.png
+2018-06-21 22:21:11 ....A         1439               Kulkis/bin/net/retrocade/assets/BottomBarLogo.png
+2018-06-21 22:21:11 ....A          289               Kulkis/bin/net/retrocade/assets/BottomBarMore.png
+2018-06-21 22:21:11 ....A          509               Kulkis/bin/net/retrocade/assets/NGScoresClose.png
+2018-06-21 22:21:18 ....A      8893278               Kulkis/bin/Regular_(AIR).swf
+2018-06-21 22:21:14 ....A       146922               Kulkis/bin/Test.swf
+2018-04-11 12:15:32 ....A         2252               Kulkis/build.cmd
+2018-04-12 12:44:05 ....A         4170               Kulkis/Kulkis.iml
+2018-04-11 12:15:32 ....A        13206               Kulkis/LICENSE-LEVELS.txt
+2018-04-11 12:15:32 ....A        12803               Kulkis/LICENSE-MEDIA.txt
+2018-04-11 22:45:05 ....A        14626               Kulkis/LICENSE-MUSIC.txt
+2018-04-11 12:15:32 ....A         1093               Kulkis/LICENSE-SOURCE-CODE.txt
+2018-04-11 20:54:22 ....A        13962               Kulkis/Main-app.xml
+2018-04-11 12:15:32 ....A         3758               Kulkis/readme.md
+2018-05-08 21:01:46 ....A         1455               Kulkis/src/game/display/OldSwfPlayer.as
+2018-04-11 18:57:58 ....A         1920               Kulkis/src/game/display/PixelBugEffect.as
+2018-04-11 18:57:58 ....A         2341               Kulkis/src/game/display/rAnimGravitated.as
+2018-04-11 18:57:58 ....A         1436               Kulkis/src/game/display/rAnimSprite.as
+2018-04-12 14:46:54 ....A         4032               Kulkis/src/game/global/Game.as
+2018-06-16 08:27:44 ....A         5837               Kulkis/src/game/global/Level.as
+2018-04-11 18:57:58 ....A          148               Kulkis/src/game/global/levelList/ILevelList.as
+2018-04-11 18:57:58 ....A         3659               Kulkis/src/game/global/levelList/LevelListHard.as
+2018-04-11 18:57:58 ....A         3740               Kulkis/src/game/global/levelList/LevelListRegular.as
+2018-04-11 18:57:58 ....A          601               Kulkis/src/game/global/Main.as
+2018-04-11 18:57:58 ....A         1667               Kulkis/src/game/global/Make.as
+2018-04-11 19:09:47 ....A         3014               Kulkis/src/game/global/Music.as
+2018-04-11 19:13:58 ....A         3594               Kulkis/src/game/global/Options.as
+2016-12-28 01:04:53 ....A         6138               Kulkis/src/game/global/Pre.as
+2018-05-08 20:39:51 ....A         3136               Kulkis/src/game/global/preloader/DesktopRunner.as
+2018-05-12 14:19:47 ....A         7082               Kulkis/src/game/global/preloader/Pre.as
+2018-05-08 21:12:18 ....A         4015               Kulkis/src/game/global/preloader/Preloader.as
+2018-04-11 19:42:32 ....A          382               Kulkis/src/game/global/Score.as
+2018-04-11 18:57:58 ....A         2492               Kulkis/src/game/global/Sfx.as
+2018-04-11 12:58:09 ....A          360               Kulkis/src/game/global/UpdateCallbackObject.as
+2018-04-11 18:57:58 ....A         1798               Kulkis/src/game/objects/TEscButton.as
+2018-04-11 18:57:58 ....A         4011               Kulkis/src/game/objects/TExit.as
+2018-04-11 22:46:32 ....A          612               Kulkis/src/game/objects/TGameObject.as
+2018-04-11 19:42:32 ....A         1609               Kulkis/src/game/objects/THud.as
+2018-04-11 19:53:55 ....A         9697               Kulkis/src/game/objects/TPlayer.as
+2018-04-11 18:57:58 ....A         3569               Kulkis/src/game/objects/TRibbon.as
+2018-04-11 20:05:02 ....A         1202               Kulkis/src/game/objects/TSpikes.as
+2018-04-11 18:57:58 ....A          999               Kulkis/src/game/standalone/HelpMessage.as
+2018-04-11 18:57:58 ....A         3222               Kulkis/src/game/standalone/VolumeBar.as
+2018-04-11 18:57:58 ....A         1189               Kulkis/src/game/states/TStateGame.as
+2018-04-11 19:43:09 ....A         8866               Kulkis/src/game/states/TStateIntro.as
+2018-05-21 21:43:16 ....A         9906               Kulkis/src/game/states/TStateLang.as
+2018-05-08 20:31:44 ....A         1106               Kulkis/src/game/states/TStateLogoSplash.as
+2018-04-11 19:50:30 ....A        10646               Kulkis/src/game/states/TStateOutro.as
+2016-12-26 23:34:55 ....A         1602               Kulkis/src/game/states/TStatePreload.as
+2016-12-26 23:43:10 ....A         4275               Kulkis/src/game/states/TStateScores.as
+2018-05-12 14:20:13 ....A        11529               Kulkis/src/game/states/TStateTitle.as
+2018-04-11 18:57:58 ....A         1616               Kulkis/src/game/tiles/TTile.as
+2018-04-11 19:45:20 ....A         4780               Kulkis/src/game/tiles/TTileBlock.as
+2018-04-11 18:57:58 ....A         1805               Kulkis/src/game/tiles/TTileColorizer.as
+2018-04-11 18:57:58 ....A         3620               Kulkis/src/game/tiles/TTileWall.as
+2018-04-11 18:57:58 ....A         5928               Kulkis/src/game/windows/TWinCredits.as
+2018-04-11 19:13:58 ....A         3197               Kulkis/src/game/windows/TWinFocusPause.as
+2018-05-21 21:54:06 ....A         2968               Kulkis/src/game/windows/TWinOptions.as
+2018-05-21 21:57:26 ....A         5405               Kulkis/src/game/windows/TWinPause.as
+2018-04-11 18:57:58 ....A         1180               Kulkis/src/S.as
+2018-05-08 20:37:25 ....A        64984               Kulkis/src.assets/armor_games_logo.swf
+2018-05-21 21:42:46 ....A          768               Kulkis/src.assets/bgs/armor_games_logo.pal
+2018-05-21 21:42:46 ....A         7396               Kulkis/src.assets/bgs/armor_games_logo.png
+2018-04-11 12:15:32 ....A          756               Kulkis/src.assets/bgs/bg.png
+2018-04-11 12:15:32 ....A          237               Kulkis/src.assets/bgs/buttonSystem.png
+2018-04-11 20:19:58 ....A        17182               Kulkis/src.assets/bgs/ec_logo.png
+2018-04-11 12:15:32 ....A         4846               Kulkis/src.assets/bgs/title.png
+2018-04-11 12:15:32 ....A         3720               Kulkis/src.assets/bgs/title_ani_00.png
+2018-04-11 12:15:32 ....A         3819               Kulkis/src.assets/bgs/title_ani_01.png
+2018-04-11 12:15:32 ....A         4026               Kulkis/src.assets/bgs/title_ani_02.png
+2018-04-11 12:15:32 ....A         4103               Kulkis/src.assets/bgs/title_ani_03.png
+2018-04-11 12:15:32 ....A         4418               Kulkis/src.assets/bgs/title_ani_04.png
+2018-04-11 12:15:32 ....A         4554               Kulkis/src.assets/bgs/title_ani_05.png
+2018-04-11 12:15:32 ....A         4659               Kulkis/src.assets/bgs/title_ani_06.png
+2018-04-11 12:15:32 ....A         4755               Kulkis/src.assets/bgs/title_ani_07.png
+2018-04-11 12:15:32 ....A         4668               Kulkis/src.assets/bgs/title_ani_08.png
+2018-04-11 12:15:32 ....A         4855               Kulkis/src.assets/bgs/title_ani_09.png
+2018-04-11 12:15:32 ....A         6890               Kulkis/src.assets/global/font.png
+2018-04-11 12:15:32 ....A          274               Kulkis/src.assets/global/music.png
+2018-04-11 12:15:32 ....A          316               Kulkis/src.assets/global/sfx.png
+2018-05-08 21:04:47 ....A         5032               Kulkis/src.assets/languages/en.txt
+2018-05-08 21:06:50 ....A         5707               Kulkis/src.assets/languages/pl.txt
+2018-04-11 12:15:32 ....A        12803               Kulkis/src.assets/LICENSE.txt
+2015-11-06 23:49:12 ....A        28072               Kulkis/src.assets/sfx/gameOver.mp3
+2018-04-11 12:15:32 ....A       102892               Kulkis/src.assets/sfx/originals/Game Over.flp
+2018-04-11 12:15:32 ....A          589               Kulkis/src.assets/sprites/block1.png
+2018-04-11 12:15:32 ....A          116               Kulkis/src.assets/sprites/block1_01.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block1_02.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block1_03.gif
+2018-04-11 12:15:32 ....A          590               Kulkis/src.assets/sprites/block2.png
+2018-04-11 12:15:32 ....A          116               Kulkis/src.assets/sprites/block2_01.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block2_02.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block2_03.gif
+2018-04-11 12:15:32 ....A          589               Kulkis/src.assets/sprites/block3.png
+2018-04-11 12:15:32 ....A          116               Kulkis/src.assets/sprites/block3_01.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block3_02.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block3_03.gif
+2018-04-11 12:15:32 ....A          589               Kulkis/src.assets/sprites/block4.png
+2018-04-11 12:15:32 ....A          116               Kulkis/src.assets/sprites/block4_01.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block4_02.gif
+2018-04-11 12:15:32 ....A          113               Kulkis/src.assets/sprites/block4_03.gif
+2018-04-11 12:15:32 ....A          582               Kulkis/src.assets/sprites/changer1.png
+2018-04-11 12:15:32 ....A          582               Kulkis/src.assets/sprites/changer2.png
+2018-04-11 12:15:32 ....A          582               Kulkis/src.assets/sprites/changer3.png
+2018-04-11 12:15:32 ....A          582               Kulkis/src.assets/sprites/changer4.png
+2018-04-11 12:15:32 ....A          212               Kulkis/src.assets/sprites/esc_00.png
+2018-04-11 12:15:32 ....A          213               Kulkis/src.assets/sprites/esc_01.png
+2018-04-11 12:15:32 ....A          624               Kulkis/src.assets/sprites/exit_00.png
+2018-04-11 12:15:32 ....A          627               Kulkis/src.assets/sprites/exit_01.png
+2018-04-11 12:15:32 ....A          628               Kulkis/src.assets/sprites/exit_02.png
+2018-04-11 12:15:32 ....A          623               Kulkis/src.assets/sprites/exit_03.png
+2018-04-11 12:15:32 ....A          622               Kulkis/src.assets/sprites/exit_04.png
+2018-04-11 12:15:32 ....A          621               Kulkis/src.assets/sprites/exit_05.png
+2018-04-11 12:15:32 ....A          617               Kulkis/src.assets/sprites/exit_06.png
+2018-04-11 12:15:32 ....A          608               Kulkis/src.assets/sprites/exit_07.png
+2018-04-11 12:15:32 ....A          604               Kulkis/src.assets/sprites/exit_08.png
+2018-04-11 12:15:32 ....A          593               Kulkis/src.assets/sprites/exit_09.png
+2018-04-11 12:15:32 ....A         3019               Kulkis/src.assets/sprites/exit_base.png
+2018-04-11 12:15:32 ....A          562               Kulkis/src.assets/sprites/player1.png
+2018-04-11 12:15:32 ....A          562               Kulkis/src.assets/sprites/player2.png
+2018-04-11 12:15:32 ....A          562               Kulkis/src.assets/sprites/player3.png
+2018-04-11 12:15:32 ....A          562               Kulkis/src.assets/sprites/player4.png
+2018-04-11 12:15:32 ....A          586               Kulkis/src.assets/sprites/spikes.png
+2018-04-11 12:15:32 ....A          566               Kulkis/src.assets/tiles/tile1x1-00.png
+2018-04-11 12:15:32 ....A          579               Kulkis/src.assets/tiles/tile1x1-01.png
+2018-04-11 12:15:32 ....A          571               Kulkis/src.assets/tiles/tile1x1-02.png
+2018-04-11 12:15:32 ....A          594               Kulkis/src.assets/tiles/tile1x1-03.png
+2018-04-11 12:15:32 ....A          569               Kulkis/src.assets/tiles/tile1x1-04.png
+2018-04-11 12:15:32 ....A          578               Kulkis/src.assets/tiles/tile1x1-05.png
+2018-04-11 12:15:32 ....A          568               Kulkis/src.assets/tiles/tile1x1-06.png
+2018-04-11 12:15:32 ....A          553               Kulkis/src.assets/tiles/tile1x1-07.png
+2018-04-11 12:15:32 ....A          548               Kulkis/src.assets/tiles/tile1x1-08.png
+2018-04-11 12:15:32 ....A          538               Kulkis/src.assets/tiles/tile1x1-09.png
+2018-04-11 12:15:32 ....A          569               Kulkis/src.assets/tiles/tile1x1-10.png
+2018-04-11 12:15:32 ....A          570               Kulkis/src.assets/tiles/tile1x1-11.png
+2018-04-11 12:15:32 ....A          572               Kulkis/src.assets/tiles/tile1x1-12.png
+2018-04-11 12:15:32 ....A          563               Kulkis/src.assets/tiles/tile1x1-13.png
+2018-04-11 12:15:32 ....A          550               Kulkis/src.assets/tiles/tile1x1-14.png
+2018-04-11 12:15:32 ....A          550               Kulkis/src.assets/tiles/tile1x1-15.png
+2018-04-11 12:15:32 ....A          548               Kulkis/src.assets/tiles/tile1x1-16.png
+2018-04-11 12:15:32 ....A          581               Kulkis/src.assets/tiles/tile1x2-00.png
+2018-04-11 12:15:32 ....A          663               Kulkis/src.assets/tiles/tile1x2-01.png
+2018-04-11 12:15:32 ....A          670               Kulkis/src.assets/tiles/tile1x2-02.png
+2018-04-11 12:15:32 ....A          605               Kulkis/src.assets/tiles/tile1x2-03.png
+2018-04-11 12:15:32 ....A          580               Kulkis/src.assets/tiles/tile2x1-00.png
+2018-04-11 12:15:32 ....A          637               Kulkis/src.assets/tiles/tile2x1-01.png
+2018-04-11 12:15:32 ....A          648               Kulkis/src.assets/tiles/tile2x1-02.png
+2018-04-11 12:15:32 ....A          589               Kulkis/src.assets/tiles/tile2x1-03.png
+2018-04-11 12:15:32 ....A          749               Kulkis/src.assets/tiles/tile2x2-00.png
+2018-04-11 12:15:32 ....A          770               Kulkis/src.assets/tiles/tile2x2-01.png
+2018-04-11 12:15:32 ....A          620               Kulkis/src.assets/tiles/tile2x2-02.png
+2018-04-11 12:15:32 ....A          627               Kulkis/src.assets/tiles/tile2x2-03.png
+2018-04-11 12:15:32 ....A          708               Kulkis/src.assets/tiles/tile2x2-04.png
+2018-05-12 13:08:24 ....A       200039               Kulkis/src.assets.zip
+2018-04-11 12:15:32 ....A          209               Kulkis/src.framework/ASSERT.as
+2018-04-11 12:15:32 ....A         3038               Kulkis/src.framework/net/retrocade/assets/bottomBar/background.png
+2018-04-11 12:15:32 ....A         1328               Kulkis/src.framework/net/retrocade/assets/bottomBar/background_.png
+2018-04-11 12:15:32 ....A         6210               Kulkis/src.framework/net/retrocade/assets/bottomBar/bottomBar.pmp
+2018-04-11 12:15:32 ....A         2351               Kulkis/src.framework/net/retrocade/assets/bottomBar/gfs_icon.png
+2018-04-11 12:15:32 ....A         4264               Kulkis/src.framework/net/retrocade/assets/bottomBar/gfs_text.png
+2018-04-11 12:15:32 ....A         2179               Kulkis/src.framework/net/retrocade/assets/bottomBar/help_icon.png
+2018-04-11 12:15:32 ....A         3306               Kulkis/src.framework/net/retrocade/assets/bottomBar/help_text.png
+2018-04-11 12:15:32 ....A         3010               Kulkis/src.framework/net/retrocade/assets/bottomBar/help_text_pl.png
+2018-04-11 12:15:32 ....A         1573               Kulkis/src.framework/net/retrocade/assets/bottomBar/hide_icon.png
+2018-04-11 12:15:32 ....A         4756               Kulkis/src.framework/net/retrocade/assets/bottomBar/hide_return.png
+2018-04-11 12:15:32 ....A         5590               Kulkis/src.framework/net/retrocade/assets/bottomBar/hide_return_pl.png
+2018-04-11 12:15:32 ....A         1661               Kulkis/src.framework/net/retrocade/assets/bottomBar/hide_text.png
+2018-04-11 12:15:32 ....A         2120               Kulkis/src.framework/net/retrocade/assets/bottomBar/hide_text_pl.png
+2018-04-11 12:15:32 ....A       158080               Kulkis/src.framework/net/retrocade/assets/bottomBar/Project.psd
+2018-04-11 12:15:32 ....A         3242               Kulkis/src.framework/net/retrocade/assets/bottomBar/retrocade_logo.png
+2018-04-11 12:15:32 ....A         3801               Kulkis/src.framework/net/retrocade/assets/bottomBar/retrocade_text.png
+2018-04-11 12:15:32 ....A         3601               Kulkis/src.framework/net/retrocade/assets/bottomBar/retrocade_text_pl.png
+2018-04-11 12:15:32 ....A         6210               Kulkis/src.framework/net/retrocade/assets/bottomBar.pmp
+2018-04-11 12:15:32 ....A          206               Kulkis/src.framework/net/retrocade/assets/BottomBarBG.png
+2018-04-11 12:15:32 ....A         2361               Kulkis/src.framework/net/retrocade/assets/BottomBarFull.png
+2018-04-11 12:15:32 ....A         1293               Kulkis/src.framework/net/retrocade/assets/BottomBarHelpCard.png
+2018-04-11 12:15:32 ....A         1439               Kulkis/src.framework/net/retrocade/assets/BottomBarLogo.png
+2018-04-11 12:15:32 ....A          289               Kulkis/src.framework/net/retrocade/assets/BottomBarMore.png
+2018-04-11 12:15:32 ....A          509               Kulkis/src.framework/net/retrocade/assets/NGScoresClose.png
+2018-04-11 12:15:32 ....A         1336               Kulkis/src.framework/net/retrocade/data/RetrocamelTileGrid.as
+2018-04-11 12:15:32 ....A          469               Kulkis/src.framework/net/retrocade/functions/printf.as
+2018-04-11 12:15:32 ....A        12739               Kulkis/src.framework/net/retrocade/helpers/ColorMatrixFilterHelper.as
+2018-04-11 12:15:32 ....A         3884               Kulkis/src.framework/net/retrocade/retrocamel/components/RetrocamelDisplayObject.as
+2018-04-11 12:15:32 ....A         1679               Kulkis/src.framework/net/retrocade/retrocamel/components/RetrocamelStateBase.as
+2018-04-11 12:15:32 ....A         6350               Kulkis/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableGroup.as
+2018-04-11 12:15:32 ....A          929               Kulkis/src.framework/net/retrocade/retrocamel/components/RetrocamelUpdatableObject.as
+2018-04-11 12:15:32 ....A         1672               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelBitmapManager.as
+2018-04-11 12:15:32 ....A         4181               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelCore.as
+2018-04-11 12:15:32 ....A         8084               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelDisplayManager.as
+2018-04-11 12:15:32 ....A         4476               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelInputManager.as
+2018-04-11 19:13:58 ....A         3110               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelSoundManager.as
+2018-04-11 12:15:32 ....A         3194               Kulkis/src.framework/net/retrocade/retrocamel/core/RetrocamelWindowsManager.as
+2018-04-11 12:15:32 ....A          161               Kulkis/src.framework/net/retrocade/retrocamel/core/retrocamel_int.as
+2018-04-11 12:15:32 ....A         7521               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmap.as
+2018-04-11 12:15:32 ....A         8230               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapFont.as
+2018-04-11 12:15:32 ....A        30118               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelBitmapText.as
+2018-04-11 12:15:32 ....A         6977               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelButton.as
+2018-04-11 12:15:32 ....A        12610               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelGrid9.as
+2018-04-11 12:15:32 ....A         9554               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelPreciseGrid9.as
+2018-04-11 12:15:32 ....A         2436               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelSprite.as
+2018-04-11 12:15:32 ....A        21597               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelTextField.as
+2018-04-11 12:15:32 ....A         4011               Kulkis/src.framework/net/retrocade/retrocamel/display/flash/RetrocamelWindowFlash.as
+2018-05-08 20:29:31 ....A        12660               Kulkis/src.framework/net/retrocade/retrocamel/display/global/RetrocamelTooltip.as
+2018-04-11 12:15:32 ....A         1153               Kulkis/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayer.as
+2018-04-11 12:15:32 ....A          310               Kulkis/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlash.as
+2018-04-11 12:15:32 ....A        15037               Kulkis/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashBlit.as
+2018-04-11 12:15:32 ....A         2636               Kulkis/src.framework/net/retrocade/retrocamel/display/layers/RetrocamelLayerFlashSprite.as
+2018-04-11 12:15:32 ....A         5704               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectBase.as
+2018-04-11 12:15:32 ....A         2132               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeFlash.as
+2018-04-11 12:15:32 ....A         2610               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectFadeScreen.as
+2016-12-28 15:40:03 ....A         1606               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectMusicFade.as
+2018-04-11 12:15:32 ....A         3796               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelEffectQuake.as
+2018-04-11 12:15:32 ....A         1191               Kulkis/src.framework/net/retrocade/retrocamel/effects/RetrocamelScreenEffectBase.as
+2018-04-11 12:15:32 ....A          515               Kulkis/src.framework/net/retrocade/retrocamel/events/RetrocamelEvent.as
+2018-04-11 12:15:32 ....A         6378               Kulkis/src.framework/net/retrocade/retrocamel/global/RetrocamelSimpleSave.as
+2018-04-11 12:15:32 ....A          287               Kulkis/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSettings.as
+2018-04-11 12:15:32 ....A          298               Kulkis/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSound.as
+2018-04-11 12:15:32 ....A          262               Kulkis/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelSpatialHashElement.as
+2018-04-11 12:15:32 ....A          135               Kulkis/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelUpdatable.as
+2018-04-11 12:15:32 ....A          435               Kulkis/src.framework/net/retrocade/retrocamel/interfaces/IRetrocamelWindow.as
+2018-05-08 20:32:39 ....A         6426               Kulkis/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocale.as
+2018-04-11 12:15:32 ....A          594               Kulkis/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserAbstract.as
+2018-04-11 12:15:32 ....A         1832               Kulkis/src.framework/net/retrocade/retrocamel/locale/RetrocamelLocaleParserRetrocadeProperties.as
+2018-04-11 12:15:32 ....A          701               Kulkis/src.framework/net/retrocade/retrocamel/locale/_.as
+2018-04-11 12:15:32 ....A         2615               Kulkis/src.framework/net/retrocade/retrocamel/particles/RetrocamelParticlesPixel.as
+2018-04-11 12:15:32 ....A         5748               Kulkis/src.framework/net/retrocade/retrocamel/sound/RetrocamelSound.as
+2018-04-11 12:15:32 ....A        32579               Kulkis/src.framework/net/retrocade/sfxr/SfxrParams.as
+2018-04-11 12:15:32 ....A        38847               Kulkis/src.framework/net/retrocade/sfxr/SfxrSynth.as
+2018-04-11 12:15:32 ....A         1344               Kulkis/src.framework/net/retrocade/signal/Signal.as
+2016-12-29 20:25:00 ....A         3392               Kulkis/src.graphics/explained/Exit.png
+2016-12-29 20:25:10 ....A        92962               Kulkis/src.graphics/Kulkis-ArtPackage.zip
+2016-12-28 16:15:51 ....A         1644               Kulkis/src.graphics/LICENSE.png
+2016-12-28 16:16:39 ....A        13111               Kulkis/src.graphics/LICENSE.txt
+2015-11-06 23:49:12 ....A          756               Kulkis/src.graphics/raw/bgs/bg.png
+2015-11-06 23:49:12 ....A         4846               Kulkis/src.graphics/raw/logo/title.png
+2015-11-06 23:49:12 ....A         3720               Kulkis/src.graphics/raw/logo/title_ani_00.png
+2015-11-06 23:49:12 ....A         3819               Kulkis/src.graphics/raw/logo/title_ani_01.png
+2015-11-06 23:49:12 ....A         4026               Kulkis/src.graphics/raw/logo/title_ani_02.png
+2015-11-06 23:49:12 ....A         4103               Kulkis/src.graphics/raw/logo/title_ani_03.png
+2015-11-06 23:49:12 ....A         4418               Kulkis/src.graphics/raw/logo/title_ani_04.png
+2015-11-06 23:49:12 ....A         4554               Kulkis/src.graphics/raw/logo/title_ani_05.png
+2015-11-06 23:49:12 ....A         4659               Kulkis/src.graphics/raw/logo/title_ani_06.png
+2015-11-06 23:49:12 ....A         4755               Kulkis/src.graphics/raw/logo/title_ani_07.png
+2015-11-06 23:49:12 ....A         4668               Kulkis/src.graphics/raw/logo/title_ani_08.png
+2015-11-06 23:49:12 ....A         4855               Kulkis/src.graphics/raw/logo/title_ani_09.png
+2015-11-06 23:49:12 ....A          589               Kulkis/src.graphics/raw/sprites/block1.png
+2015-11-06 23:49:12 ....A          116               Kulkis/src.graphics/raw/sprites/block1_01.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block1_02.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block1_03.gif
+2015-11-06 23:49:12 ....A          590               Kulkis/src.graphics/raw/sprites/block2.png
+2015-11-06 23:49:12 ....A          116               Kulkis/src.graphics/raw/sprites/block2_01.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block2_02.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block2_03.gif
+2015-11-06 23:49:12 ....A          589               Kulkis/src.graphics/raw/sprites/block3.png
+2015-11-06 23:49:12 ....A          116               Kulkis/src.graphics/raw/sprites/block3_01.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block3_02.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block3_03.gif
+2015-11-06 23:49:12 ....A          589               Kulkis/src.graphics/raw/sprites/block4.png
+2015-11-06 23:49:12 ....A          116               Kulkis/src.graphics/raw/sprites/block4_01.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block4_02.gif
+2015-11-06 23:49:12 ....A          113               Kulkis/src.graphics/raw/sprites/block4_03.gif
+2015-11-06 23:49:12 ....A          582               Kulkis/src.graphics/raw/sprites/changer1.png
+2015-11-06 23:49:12 ....A          582               Kulkis/src.graphics/raw/sprites/changer2.png
+2015-11-06 23:49:12 ....A          582               Kulkis/src.graphics/raw/sprites/changer3.png
+2015-11-06 23:49:12 ....A          582               Kulkis/src.graphics/raw/sprites/changer4.png
+2015-11-06 23:49:12 ....A          624               Kulkis/src.graphics/raw/sprites/exit_00.png
+2015-11-06 23:49:12 ....A          627               Kulkis/src.graphics/raw/sprites/exit_01.png
+2015-11-06 23:49:12 ....A          628               Kulkis/src.graphics/raw/sprites/exit_02.png
+2015-11-06 23:49:12 ....A          623               Kulkis/src.graphics/raw/sprites/exit_03.png
+2015-11-06 23:49:12 ....A          622               Kulkis/src.graphics/raw/sprites/exit_04.png
+2015-11-06 23:49:12 ....A          621               Kulkis/src.graphics/raw/sprites/exit_05.png
+2015-11-06 23:49:12 ....A          617               Kulkis/src.graphics/raw/sprites/exit_06.png
+2015-11-06 23:49:12 ....A          608               Kulkis/src.graphics/raw/sprites/exit_07.png
+2015-11-06 23:49:12 ....A          604               Kulkis/src.graphics/raw/sprites/exit_08.png
+2015-11-06 23:49:12 ....A          593               Kulkis/src.graphics/raw/sprites/exit_09.png
+2015-11-06 23:49:12 ....A         3019               Kulkis/src.graphics/raw/sprites/exit_base.png
+2015-11-06 23:49:12 ....A          562               Kulkis/src.graphics/raw/sprites/player1.png
+2015-11-06 23:49:12 ....A          562               Kulkis/src.graphics/raw/sprites/player2.png
+2015-11-06 23:49:12 ....A          562               Kulkis/src.graphics/raw/sprites/player3.png
+2015-11-06 23:49:12 ....A          562               Kulkis/src.graphics/raw/sprites/player4.png
+2015-11-06 23:49:12 ....A          586               Kulkis/src.graphics/raw/sprites/spikes.png
+2015-11-06 23:49:12 ....A          566               Kulkis/src.graphics/raw/tiles/tile1x1-00.png
+2015-11-06 23:49:12 ....A          579               Kulkis/src.graphics/raw/tiles/tile1x1-01.png
+2015-11-06 23:49:12 ....A          571               Kulkis/src.graphics/raw/tiles/tile1x1-02.png
+2015-11-06 23:49:12 ....A          594               Kulkis/src.graphics/raw/tiles/tile1x1-03.png
+2015-11-06 23:49:12 ....A          569               Kulkis/src.graphics/raw/tiles/tile1x1-04.png
+2015-11-06 23:49:12 ....A          578               Kulkis/src.graphics/raw/tiles/tile1x1-05.png
+2015-11-06 23:49:12 ....A          568               Kulkis/src.graphics/raw/tiles/tile1x1-06.png
+2015-11-06 23:49:12 ....A          553               Kulkis/src.graphics/raw/tiles/tile1x1-07.png
+2015-11-06 23:49:12 ....A          548               Kulkis/src.graphics/raw/tiles/tile1x1-08.png
+2015-11-06 23:49:12 ....A          538               Kulkis/src.graphics/raw/tiles/tile1x1-09.png
+2015-11-06 23:49:12 ....A          569               Kulkis/src.graphics/raw/tiles/tile1x1-10.png
+2015-11-06 23:49:12 ....A          570               Kulkis/src.graphics/raw/tiles/tile1x1-11.png
+2015-11-06 23:49:12 ....A          572               Kulkis/src.graphics/raw/tiles/tile1x1-12.png
+2015-11-06 23:49:12 ....A          563               Kulkis/src.graphics/raw/tiles/tile1x1-13.png
+2015-11-06 23:49:12 ....A          550               Kulkis/src.graphics/raw/tiles/tile1x1-14.png
+2015-11-06 23:49:12 ....A          550               Kulkis/src.graphics/raw/tiles/tile1x1-15.png
+2015-11-06 23:49:12 ....A          548               Kulkis/src.graphics/raw/tiles/tile1x1-16.png
+2015-11-06 23:49:12 ....A          581               Kulkis/src.graphics/raw/tiles/tile1x2-00.png
+2015-11-06 23:49:12 ....A          663               Kulkis/src.graphics/raw/tiles/tile1x2-01.png
+2015-11-06 23:49:12 ....A          670               Kulkis/src.graphics/raw/tiles/tile1x2-02.png
+2015-11-06 23:49:12 ....A          605               Kulkis/src.graphics/raw/tiles/tile1x2-03.png
+2015-11-06 23:49:12 ....A          580               Kulkis/src.graphics/raw/tiles/tile2x1-00.png
+2015-11-06 23:49:12 ....A          637               Kulkis/src.graphics/raw/tiles/tile2x1-01.png
+2015-11-06 23:49:12 ....A          648               Kulkis/src.graphics/raw/tiles/tile2x1-02.png
+2015-11-06 23:49:12 ....A          589               Kulkis/src.graphics/raw/tiles/tile2x1-03.png
+2015-11-06 23:49:12 ....A          749               Kulkis/src.graphics/raw/tiles/tile2x2-00.png
+2015-11-06 23:49:12 ....A          770               Kulkis/src.graphics/raw/tiles/tile2x2-01.png
+2015-11-06 23:49:12 ....A          620               Kulkis/src.graphics/raw/tiles/tile2x2-02.png
+2015-11-06 23:49:12 ....A          627               Kulkis/src.graphics/raw/tiles/tile2x2-03.png
+2015-11-06 23:49:12 ....A          708               Kulkis/src.graphics/raw/tiles/tile2x2-04.png
+2015-11-06 23:49:12 ....A          237               Kulkis/src.graphics/raw/ui/buttonSystem.png
+2016-12-28 16:16:11 ....A          455               Kulkis/src.graphics/README.txt
+2016-12-27 16:59:45 ....A         7577               Kulkis/src.graphics/screenshot.png
+2015-11-06 23:49:12 ....A          432               Kulkis/src.graphics/unused/medals/award_champion.gif
+2015-11-06 23:49:12 ....A          382               Kulkis/src.graphics/unused/medals/award_interogation.gif
+2015-11-06 23:49:12 ....A          388               Kulkis/src.graphics/unused/medals/award_le_bouncer.gif
+2015-11-06 23:49:12 ....A          422               Kulkis/src.graphics/unused/medals/award_patience.gif
+2015-11-06 23:49:12 ....A          434               Kulkis/src.graphics/unused/medals/award_patience2.gif
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/1.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/10.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/11.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/12.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/13.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/14.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/15.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/16.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/17.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/18.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/19.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/2.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/20.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/21.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/22.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/23.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/24.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/25.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/3.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/4.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/5.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/6.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/7.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/8.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/hard/9.lvl
+2018-04-11 12:15:32 ....A        13206               Kulkis/src.levels/LICENSE.txt
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/1.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/10.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/11.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/12.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/13.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/14.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/15.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/16.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/17.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/18.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/19.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/2.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/20.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/21.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/22.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/23.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/24.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/25.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/3.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/4.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/5.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/6.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/7.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/8.lvl
+2018-04-11 12:15:32 ....A          224               Kulkis/src.levels/regular/9.lvl
+2018-04-11 22:44:55 ....A        14626               Kulkis/src.music/LICENSE.txt
+2018-05-12 14:12:22 ....A      5071226               Kulkis/src.music/music.mp3
+2018-05-12 14:12:07 ....A      4341936               Kulkis/src.music/music2.mp3
+2018-04-11 12:15:32 ....A        21290               Kulkis/src.music/raw/-_ NTB FreeChip _-.mod
+2018-04-11 12:15:32 ....A         9740               Kulkis/src.music/raw/ChiptuneComp8.mod
+2018-04-11 12:15:32 ....A         6709               Kulkis/src.utils/net/retrocade/constants/KeyConst.as
+2018-04-11 12:15:32 ....A         8514               Kulkis/src.utils/net/retrocade/utils/UtilsBase64.as
+2018-04-11 12:15:32 ....A         8958               Kulkis/src.utils/net/retrocade/utils/UtilsBitmapData.as
+2018-04-11 12:15:32 ....A        14274               Kulkis/src.utils/net/retrocade/utils/UtilsDisplay.as
+2018-04-11 12:15:32 ....A        11484               Kulkis/src.utils/net/retrocade/utils/UtilsGraphic.as
+2018-04-11 18:54:08 ....A         5741               Kulkis/src.utils/net/retrocade/utils/UtilsNumber.as
+2018-04-11 12:15:32 ....A          606               Kulkis/src.utils/net/retrocade/utils/UtilsObjects.as
+2018-04-11 12:15:32 ....A         3780               Kulkis/src.utils/net/retrocade/utils/UtilsString.as
+2018-04-11 12:15:32 ....A         5324               Kulkis/src.utils/net/retrocade/vault/Safe.as
+2018-04-11 12:15:32 ....A         2090               Kulkis/src.utils/net/retrocade/vault/Safe0.as
+2018-04-11 12:15:32 ....A         2120               Kulkis/src.utils/net/retrocade/vault/Safe1.as
+2018-04-11 12:15:32 ....A         2494               Kulkis/src.utils/net/retrocade/vault/Safe2.as
+2018-04-11 12:15:32 ....A          826               Kulkis/src.utils/net/retrocade/vault/SafeParent.as
+2018-04-11 12:15:32 ....A         4006               Kulkis/src.utils/net/retrocade/vault/Vault.as
+------------------- ----- ------------ ------------  ------------------------
+2021-11-16 21:53:37           57005742     53854330  966 files, 315 folders

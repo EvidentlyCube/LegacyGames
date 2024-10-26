@@ -1,0 +1,11 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+
+src/
+src.framework/
+--------------
+Copyright Maurycy Zarzycki
+MIT License

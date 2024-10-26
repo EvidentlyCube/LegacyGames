@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Blink_Static",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Blink_Static",
+  "parent":{
+    "name":"Operations",
+    "path":"folders/Scripts/Operations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

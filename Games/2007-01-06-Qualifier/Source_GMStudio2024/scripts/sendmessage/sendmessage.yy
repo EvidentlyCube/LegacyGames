@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sendmessage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sendmessage",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

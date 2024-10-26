@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sc_Player_Jump_Stand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_Player_Jump_Stand",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

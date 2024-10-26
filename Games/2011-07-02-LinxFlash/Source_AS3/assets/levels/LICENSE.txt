@@ -1,0 +1,3 @@
+Original authors of levels are unknown. Some were made by Maurycy Zarzycki,
+some by Aleksander Kowalczyk (Cage), others are levels submitted by
+players to the original Linx I made in Game Maker.

@@ -1,0 +1,16 @@
+assets/ (entire directory)
+--------------------------
+Each subdirectory has its own LICENSE.txt, please refer to that.
+
+
+Logo.fla (embedded assets)
+---------------------------------
+Assets that are the same as in the assets/ directory share license.
+Remaining embedded assets are copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+
+
+Logo.fla (code, scripts, frames, project)
+---------------------------------------------
+Copyright Maurycy Zarzycki
+MIT License

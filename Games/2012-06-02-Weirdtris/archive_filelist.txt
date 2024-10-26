@@ -1,0 +1,95 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 15:57:10 D....            0            0  Weirdtris
+2015-12-04 15:57:09 D....            0            0  Weirdtris/.settings
+2015-12-04 16:29:22 D....            0            0  Weirdtris/bin-debug
+2015-12-04 16:23:29 D....            0            0  Weirdtris/src
+2015-12-04 15:57:10 D....            0            0  Weirdtris/src/assets
+2011-10-15 17:51:56 D....            0            0  Weirdtris/src/assets/sfx
+2015-12-04 15:57:10 D....            0            0  Weirdtris/src/mochi
+2015-12-04 15:57:10 D....            0            0  Weirdtris/src/mochi/as2
+2015-12-04 15:57:10 D....            0            0  Weirdtris/src/mochi/as3
+2015-12-04 15:57:10 D....            0            0  Weirdtris/src/vault
+2012-05-30 21:58:38 ....A      2500449      8072463  Weirdtris/src/Weirdtris..fla
+2011-11-01 12:48:48 ....A      4161536               Weirdtris/bin-debug/Weirdtris.fla
+2010-05-17 19:18:52 ....A        22349               Weirdtris/src/assets/drop.mp3
+2011-10-15 18:38:46 ....A        56842               Weirdtris/src/assets/explo.mp3
+2011-10-15 20:29:18 ....A       811048               Weirdtris/src/assets/music.mp3
+2011-10-15 19:39:16 ....A        30510               Weirdtris/src/assets/yeah.mp3
+2011-10-15 17:54:12 ....A        30392               Weirdtris/src/assets/drop.wav
+2011-10-15 19:04:56 ....A        67480               Weirdtris/src/assets/explo.wav
+2011-10-15 20:18:00 ....A         5040               Weirdtris/src/assets/move.wav
+2011-10-15 19:39:32 ....A       300514               Weirdtris/src/assets/yeah.wav
+2010-04-10 19:14:10 ....A        99982               Weirdtris/bin-debug/original_Weirdtris.swf
+2010-04-10 19:14:10 ....A          657               Weirdtris/bin-debug/playerProductInstall.swf
+2012-05-30 21:58:42 ....A      1113104               Weirdtris/src/Weirdtris..swf
+2011-11-01 12:56:04 ....A      1109211               Weirdtris/bin-debug/Weirdtris.swf
+2011-11-01 12:48:00 ....A      1120410               Weirdtris/bin-debug/Weirdtris_secre.swf
+2012-06-02 10:10:52 ....A         8700               Weirdtris/bin-debug/140x90.jpg
+2012-05-30 21:54:56 ....A        17914               Weirdtris/bin-debug/200x200.jpg
+2011-10-19 15:04:34 ....A        96760               Weirdtris/bin-debug/Screen1.jpg
+2012-05-30 21:51:28 ....A        62093               Weirdtris/bin-debug/Screen2.jpg
+2011-10-19 15:03:56 ....A         5886               Weirdtris/bin-debug/100x100.png
+2012-06-03 13:30:04 ....A         7462               Weirdtris/bin-debug/120x90.png
+2011-11-01 12:14:04 ....A        19799               Weirdtris/bin-debug/125x100.png
+2010-04-02 20:13:30 ....A       127973               Weirdtris/src/assets/background.png
+2010-03-29 18:24:06 ....A         4778               Weirdtris/src/assets/block-blue.png
+2010-04-01 22:48:22 ....A         4842               Weirdtris/src/assets/block-green.png
+2010-04-01 22:46:58 ....A         4615               Weirdtris/src/assets/block-orange.png
+2010-03-29 18:23:18 ....A         4894               Weirdtris/src/assets/block-red.png
+2010-03-29 18:26:40 ....A         4905               Weirdtris/src/assets/block-turquose.png
+2010-03-29 18:27:32 ....A         4648               Weirdtris/src/assets/block-yellow.png
+2010-03-30 15:44:54 ....A         7250               Weirdtris/src/assets/butt_menu.png
+2010-03-30 15:45:08 ....A         7215               Weirdtris/src/assets/butt_menu_highlight.png
+2010-03-30 15:46:36 ....A         6906               Weirdtris/src/assets/butt_pause.png
+2010-03-30 15:46:54 ....A         6945               Weirdtris/src/assets/butt_pause_highlight.png
+2010-03-30 15:45:38 ....A         7118               Weirdtris/src/assets/butt_retry.png
+2010-03-30 15:46:08 ....A         7165               Weirdtris/src/assets/butt_retry_highlight.png
+2010-05-19 22:59:18 ....A          576               Weirdtris/src/assets/level-meter.png
+2010-05-17 19:40:06 ....A        69768               Weirdtris/src/assets/logo.png
+2010-05-19 22:52:26 ....A         8612               Weirdtris/src/assets/menubut_blu.png
+2010-05-19 22:53:32 ....A         6056               Weirdtris/src/assets/menubut_mag.png
+2010-05-19 22:54:28 ....A         5323               Weirdtris/src/assets/menubut_yel.png
+2010-04-11 23:17:10 ....A         3113               Weirdtris/src/assets/star.png
+2010-05-17 22:22:36 ....A        83430               Weirdtris/src/assets/weirdtrismenu_back.png
+2010-05-19 22:49:28 ....A        43001               Weirdtris/src/assets/weirdtrismenu_back2.png
+2010-04-10 19:14:10 ....A         8641               Weirdtris/bin-debug/AC_OETags.js
+2011-11-01 12:56:04 ....A         8868               Weirdtris/bin-debug/Weirdtris Report.txt
+2011-07-28 22:00:58 ....A         2692               Weirdtris/.actionScriptProperties
+2011-10-19 21:53:18 ....A         1458               Weirdtris/src/Blinker.as
+2012-05-29 18:15:56 ....A         9035               Weirdtris/src/Block.as
+2011-10-19 12:38:38 ....A         1965               Weirdtris/src/BlockCrawler.as
+2011-10-15 17:00:12 ....A        12345               Weirdtris/src/Colorizer.as
+2012-05-29 18:09:24 ....A         1902               Weirdtris/src/Fader.as
+2011-10-19 16:30:06 ....A          748               Weirdtris/src/InFader.as
+2011-06-27 15:37:20 ....A        30672               Weirdtris/src/mochi/as2/MochiAd.as
+2011-06-27 15:37:20 ....A        41770               Weirdtris/src/mochi/as3/MochiAd.as
+2011-06-27 15:37:20 ....A         3857               Weirdtris/src/mochi/as2/MochiCoins.as
+2011-06-27 15:37:20 ....A         5014               Weirdtris/src/mochi/as3/MochiCoins.as
+2011-06-27 15:37:20 ....A         2049               Weirdtris/src/mochi/as2/MochiDigits.as
+2011-06-27 15:37:20 ....A         2332               Weirdtris/src/mochi/as3/MochiDigits.as
+2011-06-27 15:37:20 ....A         1322               Weirdtris/src/mochi/as3/MochiEventDispatcher.as
+2011-06-27 15:37:20 ....A         2084               Weirdtris/src/mochi/as2/MochiEventDispatcher.as
+2011-06-27 15:37:20 ....A         3668               Weirdtris/src/mochi/as2/MochiEvents.as
+2011-06-27 15:37:20 ....A         3967               Weirdtris/src/mochi/as3/MochiEvents.as
+2011-06-27 15:37:20 ....A         8515               Weirdtris/src/mochi/as3/MochiInventory.as
+2011-06-27 15:37:20 ....A         8141               Weirdtris/src/mochi/as2/MochiScores.as
+2011-06-27 15:37:20 ....A         9704               Weirdtris/src/mochi/as3/MochiScores.as
+2011-06-27 15:37:20 ....A        17318               Weirdtris/src/mochi/as2/MochiServices.as
+2011-06-27 15:37:20 ....A        26949               Weirdtris/src/mochi/as3/MochiServices.as
+2011-06-27 15:37:20 ....A         6456               Weirdtris/src/mochi/as2/MochiSocial.as
+2011-06-27 15:37:20 ....A         8101               Weirdtris/src/mochi/as3/MochiSocial.as
+2011-06-27 15:37:20 ....A         5711               Weirdtris/src/mochi/as3/MochiUserData.as
+2011-10-19 13:14:24 ....A         4593               Weirdtris/src/vault/Safe.as
+2011-10-19 13:14:36 ....A         3456               Weirdtris/src/vault/Safe0.as
+2011-10-19 13:14:32 ....A         3821               Weirdtris/src/vault/Safe1.as
+2011-10-19 13:14:30 ....A         3898               Weirdtris/src/vault/Safe2.as
+2011-10-19 13:14:26 ....A         1828               Weirdtris/src/vault/SafeParent.as
+2012-05-29 18:09:54 ....A         1718               Weirdtris/src/Starer.as
+2011-10-19 13:20:28 ....A         5089               Weirdtris/src/vault/Vault.as
+2012-05-29 18:12:44 ....A        11077               Weirdtris/src/Weirdtris.as
+2010-04-10 19:14:10 ....A           89               Weirdtris/.settings/org.eclipse.core.resources.prefs
+2010-04-10 19:14:10 ....A          411               Weirdtris/.project
+2011-10-19 13:32:58 ....A      1179540               Weirdtris/src/Weirdtris.swc
+------------------- ----- ------------ ------------  ------------------------
+2015-12-04 16:29:22           13518075      8072463  81 files, 10 folders

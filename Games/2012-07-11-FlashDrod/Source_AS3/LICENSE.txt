@@ -1,0 +1,17 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+src.mp3swfmaker
+---------------
+Copyright (c) 2008 Christopher Martin-Sperry (audiofx.org@gmail.com)
+MIT License
+
+
+src/
+scripts/
+src.framework/
+--------------
+Copyright Maurycy Zarzycki
+MIT License

@@ -1,0 +1,4 @@
+Generate_Ingame("zzzzzzzzzzzzzzzqbbbbbbbbbbbzzbbbbbbbbbbbbzzbrbzozozbebbzzbbbbbbbbbbbbzzbztbbbbbtzbbzzbbbbbbbbbbbbzzbzbbibibbzbbzzbbbbbibbbbbbzzbebzuzuzbrbbzzbbbbbbbbbbbqzzzzzzzzzzzzzzz")
+global.l_title="Castle I"
+global.l_author="Maurice Zarzycki"
+global.pathx=85

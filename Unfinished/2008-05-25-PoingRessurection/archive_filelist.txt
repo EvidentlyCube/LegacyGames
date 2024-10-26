@@ -1,0 +1,122 @@
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2013-04-21 19:57   Poing Ressurection/
+     2096  2009-08-25 15:56   Poing Ressurection/.ball.bmx
+        0  2013-04-21 19:57   Poing Ressurection/.bmx/
+      872  2007-08-16 02:00   Poing Ressurection/.bmx/Ball.bmx.release.win32.i
+     5820  2007-08-16 02:00   Poing Ressurection/.bmx/Ball.bmx.release.win32.s
+    14303  2007-11-10 20:43   Poing Ressurection/.bmx/LevelEditor.bmx.gui.release.win32.o
+    34465  2007-11-10 20:43   Poing Ressurection/.bmx/LevelEditor.bmx.gui.release.win32.s
+     3106  2007-08-16 01:12   Poing Ressurection/.bmx/Poing 0.01.bmx.console.release.win32.o
+     4412  2007-08-16 01:12   Poing Ressurection/.bmx/Poing 0.01.bmx.console.release.win32.s
+     4737  2007-08-16 01:10   Poing Ressurection/.bmx/Poing 0.01.bmx.gui.debug.win32.o
+     7106  2007-08-16 01:10   Poing Ressurection/.bmx/Poing 0.01.bmx.gui.debug.win32.s
+     1881  2007-08-16 02:00   Poing Ressurection/.bmx/Poing 0.01.bmx.gui.release.win32.o
+     3512  2007-08-16 02:00   Poing Ressurection/.bmx/Poing 0.01.bmx.gui.release.win32.s
+     3153  2007-08-16 00:30   Poing Ressurection/.bmx/Poing 001.bmx.gui.debug.win32.o
+     4201  2007-08-16 00:30   Poing Ressurection/.bmx/Poing 001.bmx.gui.debug.win32.s
+    17384  2007-08-16 16:37   Poing Ressurection/.bmx/Poing.bmx.gui.debug.win32.o
+    37111  2007-08-16 16:37   Poing Ressurection/.bmx/Poing.bmx.gui.debug.win32.s
+    58711  2009-04-13 12:19   Poing Ressurection/.bmx/Poing.bmx.gui.debug.win32.x86.o
+   137321  2009-04-13 12:19   Poing Ressurection/.bmx/Poing.bmx.gui.debug.win32.x86.s
+    80361  2007-11-10 20:21   Poing Ressurection/.bmx/Poing.bmx.gui.release.win32.s
+     3567  2007-08-17 15:19   Poing Ressurection/.bmx/StreamsTest.bmx.gui.release.win32.o
+     5088  2007-08-17 15:19   Poing Ressurection/.bmx/StreamsTest.bmx.gui.release.win32.s
+      992  2007-08-16 13:49   Poing Ressurection/.bmx/ball.bmx.debug.win32.i
+    11997  2007-08-16 13:49   Poing Ressurection/.bmx/ball.bmx.debug.win32.o
+    25387  2007-08-16 13:49   Poing Ressurection/.bmx/ball.bmx.debug.win32.s
+    10959  2007-08-16 15:12   Poing Ressurection/.bmx/ball.bmx.gui.debug.win32.o
+    23922  2007-08-16 15:12   Poing Ressurection/.bmx/ball.bmx.gui.debug.win32.s
+     5597  2007-08-16 01:58   Poing Ressurection/.bmx/ball.bmx.gui.release.win32.s
+     3260  2007-08-16 02:00   Poing Ressurection/.bmx/ball.bmx.release.win32.o
+     2871  2007-08-19 00:35   Poing Ressurection/.bmx/images.bmx.gui.release.win32.o
+     4013  2007-08-19 00:35   Poing Ressurection/.bmx/images.bmx.gui.release.win32.s
+        0  2013-04-21 19:57   Poing Ressurection/0.01/
+        0  2013-04-21 19:57   Poing Ressurection/0.01/.bmx/
+     4816  2008-05-01 16:18   Poing Ressurection/0.01/.bmx/Poing.bmx.gui.debug.win32.x86.o
+     8767  2008-05-01 16:18   Poing Ressurection/0.01/.bmx/Poing.bmx.gui.debug.win32.x86.s
+      860  2008-05-01 16:18   Poing Ressurection/0.01/.bmx/ball.bmx.debug.win32.x86.i
+     6609  2008-05-01 16:18   Poing Ressurection/0.01/.bmx/ball.bmx.debug.win32.x86.o
+    12764  2008-05-01 16:18   Poing Ressurection/0.01/.bmx/ball.bmx.debug.win32.x86.s
+      848  2007-08-16 02:00   Poing Ressurection/0.01/Poing.bmx
+  2112000  2008-05-01 16:18   Poing Ressurection/0.01/Poing.exe
+      582  2007-08-16 01:59   Poing Ressurection/0.01/ball.bmx
+        0  2013-04-21 19:57   Poing Ressurection/0.02/
+        0  2013-04-21 19:57   Poing Ressurection/0.02/.bmx/
+    32291  2008-05-01 16:18   Poing Ressurection/0.02/.bmx/Poing 0.02.bmx.gui.debug.win32.x86.o
+    72690  2008-05-01 16:18   Poing Ressurection/0.02/.bmx/Poing 0.02.bmx.gui.debug.win32.x86.s
+     4132  2008-05-01 16:18   Poing Ressurection/0.02/Poing 0.02.bmx
+  2122752  2008-05-01 16:18   Poing Ressurection/0.02/Poing 0.02.exe
+     1851  2007-08-17 00:57   Poing Ressurection/0.02/ball.bmx
+      513  2007-08-17 00:54   Poing Ressurection/0.02/blocks.bmx
+      723  2007-08-17 00:54   Poing Ressurection/0.02/draws.bmx
+      251  2007-08-17 12:26   Poing Ressurection/0.02/eyes.bmx
+      123  2007-08-17 01:02   Poing Ressurection/0.02/images.bmx
+        0  2013-04-21 19:57   Poing Ressurection/0.03/
+     6113  2007-08-17 21:27   Poing Ressurection/0.03/LevelEditor.bmx
+     5439  2007-08-18 01:44   Poing Ressurection/0.03/Poing.bmx
+       88  2007-08-18 01:45   Poing Ressurection/0.03/TestLevel.txt
+     2083  2007-08-18 01:50   Poing Ressurection/0.03/ball.bmx
+     1088  2007-08-18 00:56   Poing Ressurection/0.03/blocks.bmx
+     1087  2007-08-18 01:11   Poing Ressurection/0.03/draws.bmx
+     1028  2007-08-17 21:25   Poing Ressurection/0.03/ediblocks.bmx
+      508  2007-08-18 00:58   Poing Ressurection/0.03/effects.bmx
+     1178  2007-08-18 01:09   Poing Ressurection/0.03/eyes.bmx
+      214  2007-08-17 20:13   Poing Ressurection/0.03/images.bmx
+      517  2007-08-18 00:22   Poing Ressurection/0.03/loader.bmx
+        0  2013-04-21 19:57   Poing Ressurection/0.04/
+     6701  2007-08-19 00:41   Poing Ressurection/0.04/LevelEditor.bmx
+     2690  2007-08-19 00:42   Poing Ressurection/0.04/ball.bmx
+     1230  2007-08-19 00:50   Poing Ressurection/0.04/blocks.bmx
+     1087  2007-08-18 01:11   Poing Ressurection/0.04/draws.bmx
+     1262  2007-08-19 00:34   Poing Ressurection/0.04/ediblocks.bmx
+      508  2007-08-18 00:58   Poing Ressurection/0.04/effects.bmx
+     1178  2007-08-18 01:09   Poing Ressurection/0.04/eyes.bmx
+      290  2007-08-19 00:33   Poing Ressurection/0.04/images.bmx
+      586  2007-08-19 00:52   Poing Ressurection/0.04/loader.bmx
+        0  2010-03-17 18:22   Poing Ressurection/0.06/
+        0  2013-04-21 19:57   Poing Ressurection/Gfx/
+     1362  2007-08-21 14:05   Poing Ressurection/Gfx/Accelerator.PNG
+      155  2007-08-17 00:27   Poing Ressurection/Gfx/Barrier.PNG
+      874  2007-08-17 16:51   Poing Ressurection/Gfx/Block.GIF
+    29052  2007-08-19 00:25   Poing Ressurection/Gfx/Blocks.png
+     1419  2007-08-21 13:40   Poing Ressurection/Gfx/Horizonter.PNG
+        0  2010-03-17 18:22   Poing Ressurection/Gfx/Nowy folder/
+     4333  2007-08-17 17:02   Poing Ressurection/Gfx/PanzerBlock.png
+     3944  2007-08-20 12:10   Poing Ressurection/Gfx/Swapper.png
+    19456  2007-08-21 15:03   Poing Ressurection/Gfx/Thumbs.db
+    40778  2007-08-19 00:41   Poing Ressurection/Gfx/Thunderian.png
+     2103  2007-09-05 15:22   Poing Ressurection/History.bmx
+     6113  2007-08-17 21:27   Poing Ressurection/LevelEditor.bmx
+  1202688  2007-11-10 20:43   Poing Ressurection/LevelEditor.exe
+        0  2013-04-21 19:57   Poing Ressurection/Nowy folder/
+     2103  2007-09-05 15:22   Poing Ressurection/Nowy folder/History.bmx
+     7185  2007-08-21 14:12   Poing Ressurection/Nowy folder/LevelEditor.bmx
+     5418  2007-09-05 17:51   Poing Ressurection/Nowy folder/Poing.bmx
+     1695  2007-08-21 14:20   Poing Ressurection/Nowy folder/Stuff.txt
+      320  2007-11-09 22:03   Poing Ressurection/Nowy folder/TestLevel.txt
+     2702  2007-08-21 13:39   Poing Ressurection/Nowy folder/ball.bmx
+     4673  2007-09-05 15:15   Poing Ressurection/Nowy folder/blocks.bmx
+     1088  2007-09-05 15:00   Poing Ressurection/Nowy folder/draws.bmx
+     1935  2007-08-21 14:12   Poing Ressurection/Nowy folder/ediblocks.bmx
+      508  2007-08-18 00:58   Poing Ressurection/Nowy folder/effects.bmx
+     1178  2007-08-18 01:09   Poing Ressurection/Nowy folder/eyes.bmx
+      511  2007-08-21 14:06   Poing Ressurection/Nowy folder/images.bmx
+      827  2007-09-05 15:00   Poing Ressurection/Nowy folder/loader.bmx
+      119  2008-04-19 21:16   Poing Ressurection/Paddle.bmx
+    12203  2009-04-13 12:19   Poing Ressurection/Poing.blide
+     5482  2009-04-13 12:19   Poing Ressurection/Poing.bmx
+  2172928  2009-04-13 12:19   Poing Ressurection/Poing.debug.exe
+  2165248  2008-05-25 13:08   Poing Ressurection/Poing.exe
+     1695  2007-08-21 14:20   Poing Ressurection/Stuff.txt
+      316  2008-04-19 21:04   Poing Ressurection/TestLevel.txt
+     2096  2008-04-19 20:54   Poing Ressurection/ball.bmx
+     1088  2007-08-18 00:56   Poing Ressurection/blocks.bmx
+     1087  2007-08-18 01:11   Poing Ressurection/draws.bmx
+     1028  2007-08-17 21:25   Poing Ressurection/ediblocks.bmx
+      508  2007-08-18 00:58   Poing Ressurection/effects.bmx
+     1202  2008-04-19 20:55   Poing Ressurection/eyes.bmx
+      214  2007-08-17 20:13   Poing Ressurection/images.bmx
+      521  2008-04-19 20:54   Poing Ressurection/loader.bmx
+---------                     -------
+ 10643807                     118 files

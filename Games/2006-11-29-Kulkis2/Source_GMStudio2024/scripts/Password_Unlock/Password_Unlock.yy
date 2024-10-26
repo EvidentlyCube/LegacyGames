@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Password_Unlock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Password_Unlock",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

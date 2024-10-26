@@ -1,0 +1,4 @@
+Generate_Ingame("ibbbbbbbbbbbbbbbbbbbbubbbbbbbbqbbbbbbbbbbbbbububbbbbbqbbbwtbbbbwbbbbbbbbbbbebbbbbbbbbbbbbbbbbbbebbbbbbbbbbqbbbbbbbbbbrbbbobbbbbbbtqbbbbbybbbbbbbbbbbbbbbwbbbbbbbbbbbbbbb")
+global.l_title="Around and Around"
+global.l_author="Maurice Zarzycki"
+global.pathx=110

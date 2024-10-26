@@ -1,0 +1,3 @@
+synthmania/
+-----------
+Copyright Wojciech Panufnik (X-Ceed)

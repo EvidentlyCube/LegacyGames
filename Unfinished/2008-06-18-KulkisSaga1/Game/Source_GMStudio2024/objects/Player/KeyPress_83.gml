@@ -1,0 +1,5 @@
+file_bin_seek(global.save,0)
+file_bin_write_byte(global.save,global.level)
+file_bin_write_byte(global.save,floor(global.temp_play_x/25))
+file_bin_write_byte(global.save,floor(global.temp_play_y/25))
+file_bin_write_byte(global.save,floor(global.temp_play_spd*10)+125)

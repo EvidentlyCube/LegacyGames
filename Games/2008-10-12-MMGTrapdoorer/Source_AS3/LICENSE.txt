@@ -1,0 +1,10 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+src/
+scripts/
+--------------
+Copyright Maurycy Zarzycki
+MIT License.

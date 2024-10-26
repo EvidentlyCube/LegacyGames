@@ -1,0 +1,199 @@
+﻿# FILLER[[
+#  !"#$%&'()*+,-./0123
+# 456789:;<=>?@ABCDEFG
+# HIJKLMNOPQRSTUVWXYZ[
+# \]^_`abcdefghijklmno
+# pqrstuvwxyz{|}~´ÄÉÖÜ
+# ßáâãäçéêíóõöúüąćęŁłń
+# Śśźż
+# ]]
+
+key8=Backspace
+key9=Tabulacja
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Spacja
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Lewo
+key38=Góra
+key39=Prawo
+key40=Dół
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=P.Win
+key93=Menu
+key96=Num 0
+key97=Num 1
+key98=Num 2
+key99=Num 3
+key100=Num 4
+key101=Num 5
+key102=Num 6
+key103=Num 7
+key104=Num 8
+key105=Num 9
+key106=Num *
+key107=Num +
+key109=Num -
+key110=Num .
+key111=Num /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+
+
+keyClearDesc=Usuń Ścieżke
+keySoundDesc=Przełącz Dźwięk
+keyMusicDesc=Przełącz Muzykę
+
+choseLanguage=Wybierz język:
+
+preloadTitle=LINX
+preloadDesc=Łączenie ścieżek jeszcze nigdy nie było takie logiczne!
+
+Start Game=Rozpocznij grę
+Options=Opcje
+Credits=Twórcy
+Close=Zamknij
+
+Game by=Gra stworzona przez
+RETROCADE.net=RETROCADE.net
+Programming=Programowaine
+Maurycy Zarzycki=Maurycy Zarzycki
+Graphics=Grafika
+Aleksander Kowalczyk=Aleksander Kowalczyk
+Music=Muzyka
+Musics=ojciec, Ghidorah, *Macherman*,\nopal, Lesnik
+Sound Effects=Efekty dźwiekowe
+Various Resources=SFXR
+Translations=Tłumaczenia
+EN - Chris Allcock=EN - Chris Allcock
+PL - Maurycy Zarzycki=PL - Maurycy Zarzycki
+
+
+Game is Paused=Pauza
+Return to Game=Kontynuuj grę
+Restart=Rozpocznij etap od nowa
+Return to Title Screen=Wróc do ekranu tytułowego
+Pause - Game lost focus=Pauza - Kliknąłeś poza polem gry
+Click to continue=Kliknij by kontynuować
+Return to level selection=Wróć do wyboru etapów
+Click loses progress=Kliknięcie spowoduje utratę\ntwych dokonań w tym etapie!
+HelpButton=Pomoc i Solucje
+HelpTooltip=Potrzebujesz pomocy z etapem?\nLink otwiera się w nowym oknie.
+
+help1=Łącz bazy tego samego koloru.\nZmienaj kolor klikając na bazy.\nRysuj ścieżki na pustej podłodze.\nTrzymaj klawisz "%%" by usuwać ścieżki.
+help2=Ścieżki o różnych kolorach nie\nmogą się przecinać.
+help3=Rysowanie ścieżki na innej ścieżce\nautomatycznie usunie poprzednią.
+help4=Wiekszość etapów posiada limit ścieżek.\nTrzymaj klawisz "%%" by usuwać ścieżki! Użyj przycisku Czyść po lewej\nby usunąc wszystkie postawione ścieżki.
+help5=Pojedyńcze bazy muszą być połączone same z sobą.\nPamiętaj! Jeżeli masz problemy skorzystaj z opcji Pomoc,\ndostępnej w menu pauzy po kliknięciu w przycisk po lewej.
+help6=Pamiętaj o limicie ścieżek! Trzymaj %% by usuwać ścieżki.\nJeżeli chcesz zacząć od nowa wciśnij przycisk Czyśc dostępny po lewej.
+help7=Jeżeli nie możesz sobie poradzić, skorzystaj z opcji Pomoc w menu pauzy.
+
+Select level:=Wybierz etap:
+levels_regular=Zwykłe etapy:
+levels_easy=Łatwe etapy:
+levels_hard=Trudne etapy:
+
+secretHidden=???
+Paths:=Ścieżki:
+Level:=Etap:
+Menu=Pauza
+Clear=Czyść
+Eraser=Gumka
+C.Blind?=Ślep.barw?
+Enable Color Blind mode?=Tryb dla osób ze ślepotą barw
+eraserTooltip=Możesz także używać\nklawisza %% by w każdej\nchwili usuwać ścieżki!
+Level completed!=Etap pokonany!
+playNext=Włącz kolejny
+restart=Powtórz etap
+returnToSelection=Wróc do wyboru etapów
+CONGRATULATIONS!=GRATULACJE!
+Hit any key to continue!=Wciśnij jakikolwiek klawisz by kontynuować
+secretShow=Odtwórz ponownie Koniec Gry!
+loading=Wczytywanie:
+
+finishMessage=\n\nCałkiem nieźle, możesz teraz chwalić się\nwszystkim swoją inteligencją jak już\nmasz tą grę za sobą...\n...ale czy na pewno? Przejdź wszystkie trzy zestawy etapów!
+setEasy=Łatwy zestaw etapów do Linxa.\nLink otwiera się w nowym oknie.
+setHard=Trudny zestaw etapów do Linxa.\nLink otwiera się w nowym oknie.
+Play easy levelset=Graj w łatwy zestaw
+Play harder levelset=Graj w trudny zestaw
+Return to Menu=Powrót do menu
+
+Redefine keys:=Zmień klawisze:
+
+yousure=Na pewno?
+
+redefining=Zmieniasz klawisz:
+hitNew=Wciśnij nowy klawisz!

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setsync",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setsync",
+  "parent":{
+    "name":"DllScripts",
+    "path":"folders/Scripts/DllScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,101 @@
+# File: level.txt
+
+# This file contains information about the level.
+# Please note!
+# Each level is made of rooms.
+
+# Understanding level.txt:
+
+# L : unique name : width : height
+# If transformed to lowercase, unique name HAS to be equal to the suffix of
+#    filename, eg: level-root.txt has to have unique name ROOT.
+
+
+# R : x position : y position
+
+## B : character
+## T : tileID (Mandatory) : special data
+## I : item1 : item2 : item3 : item4 ...
+## M : objectID
+
+# D : room layout (32 x 28)
+# E : Ends room definition
+
+# R - The beginning of a room definition
+
+# B - Redefinies a tile of "character"
+# T - ID of the tile and some special data for that tile if needed
+# I - ID's of items lying on the tile
+# M - ID of an object lying on this tile
+
+# D - Definies layout of the room
+# E - Ends room definition
+L:ROOT:3:3
+
+R:1:1
+D:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+D:X.0.4.4.4.4.0.4.X.XX...X........
+D:X6X2X6X6X6X6X2X6X.............X.
+D:X.4.4.4.4.4.4.4.X...XX..........
+D:X6X2X6X6X6X6X2X6X...............
+D:X.4.0.4.4.4.4.4.X....X.X.....XX.
+D:X6X6X2X6X6X6X2X6X.......XX......
+D:X.4.4.4.4.0.4.0.X........XX..XX.
+D:X6X6X2X6X6X6X6X2X.X.......X.....
+D:X.4.4.4.4.4.4.4.X...............
+D:X2X6X6X6X6X6X6X2X............XX.
+D:X.0.0.0.0.4.4.4.X...X...........
+D:X6X6X6X6X6X6X2X6X......XX.......
+D:X.4.4.4.4.4.4.2.X..........X....
+D:X6X6X6X6X6X6X6X2X.X.............
+D:X.4.4.4.4.4.4.0.XX..............
+D:XXXXXXXXXXXXXXX2X..XX...........
+D:X1X1X1X1X1X1X1X3X........X.XX...
+D:XX1X1X1X5X1X1X3XX........X......
+D:X1X1X1X3X5X1X3X5X.....X.........
+D:XX3X1X3X1X5X3X5XXX...X..........
+D:X3X7X3X1X6X3X5X5X.....X.XX...XX.
+D:XX3X7X1X6X5X5X5XX....X..........
+D:X3X6X7X1X5X5X5X5X.X......X....XX
+D:XX3X6X3X5X5X5X5XX...X...........
+D:X2XXXXXXXXXXXXXXX...X.......XX..
+D:X..................XXX....X....X
+D:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+E:END
+
+R:2:1
+D:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+D:...............................X
+D:...............................X
+D:...............................X
+D:...............................X
+D:....X.X.XXX.XXX................X
+D:....X.X.X.X...X................X
+D:....XXX.XXX...X................X
+D:.....X..X.X...X.XX.............X
+D:.....X..X.X.XX..XX.............X
+D:.................X.............X
+D:................X..............X
+D:...............................X
+D:..X.X.X.X.XXX...XX..XXX.XXX....X
+D:..X.X.X.X.X.X...X.X..X...X.....X
+D:..XXX.X.X.X.X...X.X..X...X.....X
+D:...X..X.X.X.X...X.X..X...X.....X
+D:...X..XXX.XXX...XX..XXX..X.....X
+D:...............................X
+D:......XXXXXX..XXXXXX...XX.XX...X
+D:......XXXXXX..XXXXXX...XX.XX...X
+D:........XX....X.XX.X...XX.XX...X
+D:........XX......XX.....XX.XX...X
+D:........XX......XX......X..X...X
+D:......XXXXXX....XX.............X
+D:......XXXXXX...XXXX....XX.XX...X
+D:...............................X
+D:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+E:END
+
+
+# Used only in the first level, definies position of player:
+# P:roomX:roomY:x:y:direction
+
+P:1:1:1:1:0 

@@ -1,0 +1,52 @@
+<level>
+  <width>216</width>
+  <height>240</height>
+  <floorLayer set="tiles">
+    <tile x="96" y="0" tx="72" ty="192"/>
+    <tile x="0" y="72" tx="72" ty="192"/>
+    <tile x="72" y="72" tx="72" ty="192"/>
+    <tile x="96" y="72" tx="72" ty="192"/>
+    <tile x="120" y="72" tx="72" ty="192"/>
+    <tile x="192" y="72" tx="72" ty="192"/>
+    <tile x="96" y="96" tx="72" ty="192"/>
+    <tile x="72" y="144" tx="72" ty="192"/>
+    <tile x="96" y="144" tx="72" ty="192"/>
+    <tile x="120" y="144" tx="72" ty="192"/>
+    <tile x="72" y="216" tx="72" ty="192"/>
+    <tile x="120" y="216" tx="72" ty="192"/>
+  </floorLayer>
+  <solidLayer set="tiles">
+    <tile x="96" y="0" tx="24" ty="120"/>
+    <tile x="96" y="24" tx="0" ty="72"/>
+    <tile x="96" y="48" tx="24" ty="360"/>
+    <tile x="0" y="72" tx="0" ty="120"/>
+    <tile x="48" y="72" tx="48" ty="360"/>
+    <tile x="144" y="72" tx="48" ty="360"/>
+    <tile x="192" y="72" tx="48" ty="120"/>
+    <tile x="96" y="120" tx="120" ty="48"/>
+    <tile x="96" y="144" tx="168" ty="48"/>
+    <tile x="72" y="168" tx="24" ty="360"/>
+    <tile x="120" y="168" tx="24" ty="360"/>
+    <tile x="72" y="216" tx="72" ty="120"/>
+    <tile x="120" y="216" tx="72" ty="120"/>
+  </solidLayer>
+  <alternateLayer set="tiles"/>
+  <actors>
+    <buttonFire x="72" y="72">
+      <node x="0" y="72"/>
+    </buttonFire>
+    <buttonFire x="96" y="72">
+      <node x="96" y="0"/>
+    </buttonFire>
+    <buttonFire x="120" y="72">
+      <node x="192" y="72"/>
+    </buttonFire>
+    <buttonFire x="72" y="144">
+      <node x="72" y="216"/>
+    </buttonFire>
+    <buttonFire x="120" y="144">
+      <node x="120" y="216"/>
+    </buttonFire>
+    <player x="96" y="96"/>
+  </actors>
+</level>

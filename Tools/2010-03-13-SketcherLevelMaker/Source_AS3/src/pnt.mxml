@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" mouseDown="this.startDrag(false);SketcherLevelMaker.select(this);" mouseUp="this.stopDrag();" 
+    alpha="{SketcherLevelMaker.self._alpher.value}" includeInLayout="false"  enterFrame="resmash();" buttonMode="true" useHandCursor="true">
+    
+    <mx:filters>
+        <mx:GlowFilter blurX="3" blurY="3" strength="4" alpha="1" color="0"/>
+        <mx:DropShadowFilter distance="3" blurX="3" blurY="3" strength="0.8" />
+    </mx:filters>
+    <mx:Script>
+        <![CDATA[
+            public static var pts:Array = new Array;
+            
+            public var _loop:Boolean;
+            public var _newBody:Boolean;
+            public var _last:Boolean;
+            
+            public var smasherBack:smash;
+            public var smasherLoop:smash;
+            public var smasherNext:smash;
+            
+            public function update():void{
+                if (pts.indexOf(this) == 0){
+                    _newBody = true;
+                } else {
+                    _newBody = SketcherLevelMaker.self._newBody.selected;
+                }
+                _loop = SketcherLevelMaker.self._loop.selected;
+                
+                _last = SketcherLevelMaker.self._lastBody.selected;
+                
+                loopUpdate();   
+            }
+            
+            public function loopUpdate():void{
+                if (_loop){
+                    trace("niuf");
+                    if (!smasherLoop){
+                        smasherLoop = new smash();
+                        SketcherLevelMaker.self.smashers.addChild(smasherLoop);
+                    }
+                    smasherLoop.pointNext = this;
+                    for (var i:Number = pts.indexOf(this) - 1; i>=0; i--){
+                        if (pnt(pts[i])._newBody){
+                            smasherLoop.pointBack = pts[i];
+                            break;
+                        }
+                    }
+                    
+                    smasherLoop.update();
+                } else if (smasherLoop){
+                    smasherLoop.kill();
+                    smasherLoop = null;
+                }
+                redraw();
+                resmash();
+            }
+            
+            private function redraw():void{
+                graphics.clear();
+                if (_loop){
+                    graphics.beginFill(0x8888FF);
+                } else {
+                    graphics.beginFill(0xFF8888);
+                }
+                
+                var size:Number = _newBody?14:10;
+                
+                if (_last){
+                    graphics.drawRect(-size/2, -size/2, size, size);
+                } else {
+                    graphics.drawCircle(0, 0, size/2);
+                }
+            }
+            
+            public function resmash():void{
+                if (smasherBack){
+                    smasherBack.update();
+                }
+                if (smasherNext){
+                    smasherNext.update();
+                }
+                if (smasherLoop){
+                    smasherLoop.update();
+                }
+            }
+            
+            public function created():void{
+                redraw();
+                
+                smasherNext = new smash;
+                smasherNext.pointBack = this;
+                
+                SketcherLevelMaker.self.smashers.addChild(smasherNext);
+                trace(pts.indexOf(this));
+                if (pts.indexOf(this) > 0){
+                    smasherBack = pnt(pts[pts.indexOf(this)-1]).smasherNext;
+                    smasherBack.pointNext = this;
+                    smasherBack.update();
+                }
+            }
+            
+            public function newResmash():void{
+                
+            }
+            
+            public function sel():void{
+                var ct:ColorTransform = this.transform.colorTransform;
+                ct.blueOffset  = 100;
+                ct.greenOffset = 100;
+                ct.redOffset   = 100;
+                this.transform.colorTransform = ct;
+                
+                SketcherLevelMaker.self._loop.selected     = _loop;
+                SketcherLevelMaker.self._newBody.selected  = _newBody; 
+                SketcherLevelMaker.self._lastBody.selected = _last;
+            }
+            
+            public function unsel():void{
+                var ct:ColorTransform = this.transform.colorTransform;
+                ct.blueOffset  = 0;
+                ct.greenOffset = 0;
+                ct.redOffset   = 0;
+                this.transform.colorTransform = ct;
+            }
+            
+            public function kill():void{
+                if (smasherLoop){ smasherLoop.kill(); }
+                
+                if (smasherBack){
+                    smasherBack.pointNext = smasherNext.pointNext;
+                    smasherBack.update();
+                }
+                
+                pts.splice(pts.indexOf(this), 1);
+                
+                
+                if (smasherNext.pointNext){
+                    smasherNext.pointNext.smasherBack = smasherBack;
+                }
+                
+                smasherNext.kill();
+                
+                smasherNext = null;
+                smasherLoop = null;
+                
+                parent.removeChild(this);
+            }
+        ]]>
+    </mx:Script>
+</mx:Canvas>

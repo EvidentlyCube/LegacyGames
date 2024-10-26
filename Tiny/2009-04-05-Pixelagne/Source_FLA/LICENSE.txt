@@ -1,0 +1,11 @@
+Fonts/BMgermar.ttf
+------------------
+Copyright (C) 2001‐2004 BitmapMania / COOZ. All rights reserved.
+
+
+I/
+II/
+III/
+----
+Copyright Maurycy Zarzycki
+MIT License

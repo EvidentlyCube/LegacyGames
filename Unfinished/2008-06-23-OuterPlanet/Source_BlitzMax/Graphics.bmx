@@ -1,0 +1,71 @@
+
+Global GFX_FONT:TImage=LoadAnimImage("./Data/font.png",12,13,0,91)
+Global GFX_FONT_SPACES:Int[]=[5,10,7,5,4,0,3,10,9,9,4,6,10,6,10,4,4,9,4,4,4,4,4,4,4,4,10,10,8,6,8,4,4,4,4,4,4,4,4,4,4,10,4,4,5,3,4,4,4,4,4,4,4,4,4,3,4,4,4,9,4,9,6,6,8,4,4,4,4,4,6,4,4,10,10,4,9,2,4,4,4,4,6,4,5,4,4,2,4,4,4]
+
+Global GFX_Blocks:TImage=LoadAnimImage("./Data/blocks.png",25,25,0,221)
+Global GFX_CONVEYOR:TImage=LoadAnimImage("./Data/conveyor.png",25,25,0,5)
+Global GFX_P_Body:TImage=LoadImage("./Data/nplayer_body.png")
+Global GFX_P_Gun:TImage=LoadImage("./Data/nplayer_gun.png")
+Global GFX_P_Legs:TImage=LoadImage("./Data/nplayer_leg.png")
+Global GFX_P_LegFront:TImage=LoadImage("./Data/nplayer_leg1.png")
+Global GFX_P_LegBack:TImage=LoadImage("./Data/nplayer_leg2.png")
+	SetImageHandle(GFX_P_Body,5,15)
+	SetImageHandle(GFX_P_Gun,2,2.5)
+	SetImageHandle(GFX_P_Legs,5,0)
+	SetImageHandle(GFX_P_LegFront,3,0)
+	SetImageHandle(GFX_P_LegBack,3,0)
+Global GFX_PLASMA:TImage=LoadAnimImage("./Data/plasma.png",10,10,0,3)
+	SetImageHandle(GFX_PLASMA,5,5)
+Global GFX_ROCKET:TImage=LoadImage("./Data/rocket.png")
+	SetImageHandle(GFX_ROCKET,4,3.5)
+
+Global GFX_ELECTRO_SPOT:TImage=LoadImage("./Data/el.png")
+	SetImageHandle(GFX_ELECTRO_SPOT,5,5)
+Global GFX_ELECTRO_HAND:TImage=LoadImage("./Data/el2.png")
+	SetImageHandle(GFX_ELECTRO_HAND,0,5)
+
+	AutoMidHandle(1)
+Global GFX_GRENADE:TImage=LoadImage("./Data/grenade.png")
+Global GFX_ACIDBIG:TImage=LoadImage("./Data/acid1.png")
+Global GFX_ACIDSMALL:TImage=LoadImage("./Data/acid2.png")
+Global GFX_SHIELD:TImage=LoadImage("./Data/shield.png")
+Global GFX_EXPLOSION:TImage[8]
+GFX_EXPLOSION[0]=LoadAnimImage("./Data/flame1.png",89,89,0,7)
+GFX_EXPLOSION[1]=LoadAnimImage("./Data/flame2.png",89,89,0,7)
+GFX_EXPLOSION[2]=LoadAnimImage("./Data/flame3.png",89,89,0,7)
+GFX_EXPLOSION[3]=LoadAnimImage("./Data/flame4.png",89,89,0,7)
+GFX_EXPLOSION[4]=LoadAnimImage("./Data/flame5.png",89,89,0,7)
+GFX_EXPLOSION[5]=LoadAnimImage("./Data/flame6.png",89,89,0,7)
+GFX_EXPLOSION[6]=LoadAnimImage("./Data/flame7.png",89,89,0,7)
+Global GFX_CROSS:TImage=LoadImage("./Data/cross.png")
+Global GFX_FLAK:TImage=LoadImage("./Data/flak.png")
+Global GFX_FIREBALL:TImage=LoadImage("./Data/fireball.png")
+Global GFX_DEBRIS:TImage=LoadAnimImage("./Data/debris.png",5,5,0,5)
+
+Global GFX_E_CHOPPER:TImage=LoadAnimImage("./Data/e_chopper.png",16,15,0,4)
+	AutoMidHandle(0)
+	
+Global GFX_HUD_BACK:TImage=LoadImage("./Data/hud_back.png")
+Global GFX_HUD_BARS1:TImage=LoadAnimImage("./Data/hud_bars.png",25,75,0,3)
+	SetImageHandle(GFX_HUD_BARS1,6,5)
+Global GFX_HUD_BARS2:TImage=LoadAnimImage("./Data/hud_bars2.png",15,65,0,3)
+	SetImageHandle(GFX_HUD_BARS2,0,GFX_HUD_BARS2.height)
+Global GFX_HUD_MAP:Timage=LoadImage("./Data/hud_map.png")
+	
+Global GFX_TRAIL:TImage=LoadImage("./Data/trail.png")
+Global GFX_MUZZLES:TImage[4]
+GFX_MUZZLES[0]=LoadImage("./Data/plasmamuzzle.png")
+	SetImageHandle(GFX_MUZZLES[0],4,(GFX_MUZZLES[0].height-1)/2)
+GFX_MUZZLES[1]=LoadImage("./Data/flashmuzzle1.png")
+	SetImageHandle(GFX_MUZZLES[1],2,13.5)
+GFX_MUZZLES[2]=LoadImage("./Data/flashmuzzle2.png")
+	SetImageHandle(GFX_MUZZLES[2],2,13.5)
+GFX_MUZZLES[3]=LoadImage("./Data/flashmuzzle3.png")
+	SetImageHandle(GFX_MUZZLES[3],2,15)
+	
+Global GFX_E_MUTANT:TImage=LoadAnimImage("./Data/e_mutant.png",32,32,0,11)
+	SetImageHandle(GFX_E_MUTANT,15,8)
+
+Global GFX_E_BLOB:TImage=LoadImage("./Data/e_blob.png")
+	SetImageHandle(GFX_E_BLOB,5,10)
+

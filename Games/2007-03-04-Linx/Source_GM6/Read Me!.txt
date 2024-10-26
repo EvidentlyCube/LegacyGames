@@ -1,0 +1,35 @@
+Linx V1.20 by Maurice Zarzycki and Cage (04-03-2007)
+www.mauft.com
+You may not sell, change, distribute as yours the content of this game.
+
+1. Controls:
+LMB - Place Paths & Bases/Select Operating Color/Select Options
+RMB - Delete Objects
+Escape - Return to menu
+
+2. Gameplay:
+Linx is an unique logical game. You are presented with an operating field divided into 168 tiles - fourteen squares in a row and twelve per column! On the playfield you will find Bases occupying these tiles. Your objective is to connect the bases of the same color using the paths of the same color. The paths can only be connected to themselves orthogonally, one path per tile, and the different colors can't cross! Despite of its simplicity, this game will test your mind as well as patience, and bring you a lot of fun for many  hours!
+And then finally, there is a built-in editor, which allows you to create your own devious levels!
+AND to make it EVEN BETTER, you can share your creations with people thorough the whole world, by registering on the authors' site, and uploading levels to the on-line database! Of course you can also download the levels created by others, which will bring you even more fun and will make the game last for a lot more!
+
+3. Credits:
+First of all, special thanks to all the people who have created musics used in this game:
+Title Screen Tune:
+ - Ojciec "Usteczka" 
+Editor Tune:
+ - Strobe & Kmuland "Universal Network 2"
+Ingame Tunes:
+ - Ghidorah "Toilet Story 4 u"
+ - Macherman "XP1002"
+ - Opal "Tremendous"
+Game End Tune:
+ - Lesnik "Biesiada"
+
+
+Idea, Graphics, Sound Effects - Cage
+Programming, putting evertything altogether - Maurice Zarzycki
+Levels Making, Polishing - Cage; Maurice Zarzycki
+Beta Testing - Cage; Maurice Zarzycki; Gruby
+
+
+If you encounter any bug, unexpected game behaviour, or an pop-up error message please post about it on my website forums (www.forums.mauft.com) in the indicated category.

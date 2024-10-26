@@ -1,0 +1,43 @@
+<project>
+  <name>Kulkis 1.5</name>
+  <settings>
+    <bgColor>0x151224</bgColor>
+    <defaultWidth>256</defaultWidth>
+    <defaultHeight>224</defaultHeight>
+    <minWidth>256</minWidth>
+    <maxWidth>2560</maxWidth>
+    <minHeight>224</minHeight>
+    <maxHeight>2240</maxHeight>
+    <workingDirectory>.</workingDirectory>
+  </settings>
+
+  <values>
+    <integer name="KeysRequired" default="1" min="0" max="10" />
+  </values>
+
+  <tilesets> 
+    <tileset name="tiles" image="tileset.png" tileWidth="16" tileHeight="16" paletteScale="1"/>
+  </tilesets>
+
+  <objects>
+    <object name="spikesLoop" image="tileset.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetX="224" imageOffsetY="224">
+      <values>
+        <number name="speed" default="1" min="0.1" max="5"/>
+        <integer name="turnWait" default="0" min="0" max="999"/>
+      </values>
+      <nodes drawObject="true" lineMode="2"/>
+    </object>
+    <object name="spikesPingPong" image="tileset.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetX="224" imageOffsetY="224">
+      <values>
+        <number name="speed" default="1" min="0.1" max="5"/>
+        <integer name="turnWait" default="0" min="0" max="999"/>
+      </values>
+      <nodes drawObject="true" lineMode="1"/>
+    </object>
+  </objects>
+
+  <layers>
+    <tiles name="level" gridSize="16" tileset="tiles"/>
+    <objects name="actors" gridSize="16"/>
+  </layers>
+</project>

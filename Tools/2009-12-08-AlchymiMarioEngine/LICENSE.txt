@@ -1,0 +1,9 @@
+Graphics, Sounds effects and Music
+----------------------------------
+Copyright Nintendo and Maurycy Zarzycki
+
+
+Code
+----
+Copyright Maurycy Zarzycki
+Released under MIT License

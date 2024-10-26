@@ -1,0 +1,6 @@
+inst_2x2_exit_left.ix=624
+inst_2x2_exit_left.iy=80
+inst_2x2_exit_left.goto=ROOM_1x2
+inst_2x2_exit_right.ix=0
+inst_2x2_exit_right.iy=448
+inst_2x2_exit_right.goto=ROOM_3x2
