@@ -1,6 +1,6 @@
 # Kulkis II
 
- - **Original Release Date:** December 30, 2006
+ - **Original Release Date:** November 29, 2006
  - **Status:** Finished
  - **Technology:** Game Maker 6
  - **Download Links:**
