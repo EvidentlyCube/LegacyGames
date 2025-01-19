@@ -32,6 +32,7 @@ or play it with `ruffle` builds bundled with this repository:
 ## Credits
  - **Graphics** ⟶ Aleksander Kowalczyk (Cage), Maurycy Zarzycki
  - **Photos** ⟶ Unknown
+ - **Music** ⟶ Unknown
 
 
 # Development
