@@ -1,0 +1,301 @@
+{
+    "frames": [
+        {
+            "filename": "map-edge",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 1920,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_0",
+            "frame": {
+                "x": 1044,
+                "y": 309,
+                "w": 149,
+                "h": 116
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_1",
+            "frame": {
+                "x": 220,
+                "y": 661,
+                "w": 151,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_10",
+            "frame": {
+                "x": 507,
+                "y": 111,
+                "w": 249,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_11",
+            "frame": {
+                "x": 1264,
+                "y": 111,
+                "w": 251,
+                "h": 160
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_12",
+            "frame": {
+                "x": 1195,
+                "y": 309,
+                "w": 144,
+                "h": 112
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_13",
+            "frame": {
+                "x": 1341,
+                "y": 309,
+                "w": 147,
+                "h": 104
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_14",
+            "frame": {
+                "x": 883,
+                "y": 502,
+                "w": 220,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_15",
+            "frame": {
+                "x": 1,
+                "y": 661,
+                "w": 217,
+                "h": 149
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_16",
+            "frame": {
+                "x": 758,
+                "y": 111,
+                "w": 251,
+                "h": 162
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_17",
+            "frame": {
+                "x": 255,
+                "y": 111,
+                "w": 250,
+                "h": 182
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_2",
+            "frame": {
+                "x": 662,
+                "y": 502,
+                "w": 219,
+                "h": 144
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_3",
+            "frame": {
+                "x": 440,
+                "y": 502,
+                "w": 220,
+                "h": 146
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_4",
+            "frame": {
+                "x": 1011,
+                "y": 111,
+                "w": 251,
+                "h": 161
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_5",
+            "frame": {
+                "x": 1,
+                "y": 111,
+                "w": 252,
+                "h": 196
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_6",
+            "frame": {
+                "x": 891,
+                "y": 309,
+                "w": 151,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_7",
+            "frame": {
+                "x": 1105,
+                "y": 502,
+                "w": 144,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_8",
+            "frame": {
+                "x": 218,
+                "y": 502,
+                "w": 220,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_island_9",
+            "frame": {
+                "x": 1,
+                "y": 502,
+                "w": 215,
+                "h": 157
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_lock",
+            "frame": {
+                "x": 1,
+                "y": 309,
+                "w": 192,
+                "h": 191
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_ribbon",
+            "frame": {
+                "x": 1782,
+                "y": 111,
+                "w": 115,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_ribbon_victory2",
+            "frame": {
+                "x": 1490,
+                "y": 309,
+                "w": 200,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_shadow_2x2",
+            "frame": {
+                "x": 1251,
+                "y": 502,
+                "w": 155,
+                "h": 89
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_shadow_3x3",
+            "frame": {
+                "x": 460,
+                "y": 309,
+                "w": 229,
+                "h": 130
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_shadow_3x4",
+            "frame": {
+                "x": 195,
+                "y": 309,
+                "w": 263,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_shadow_4x3",
+            "frame": {
+                "x": 1517,
+                "y": 111,
+                "w": 263,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "map_up",
+            "frame": {
+                "x": 691,
+                "y": 309,
+                "w": 198,
+                "h": 128
+            },
+            "rotated": false,
+            "trimmed": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+intro/
+outro/
+------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International
+Voice of Ed Bretten
+
+
+sounds/
+-------
+Copyright original authors
+Creative Commons Attribution 4.0 International
+Sound effects by Joshua D. Young and Fabio Accardo

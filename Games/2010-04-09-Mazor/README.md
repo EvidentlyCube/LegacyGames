@@ -25,8 +25,8 @@ or play it with `ruffle` builds bundled with this repository:
 
 
 ## Controls
- * `Mouse` — Ship follows the cursor
- * `S` - Toggle sound
+ * `Mouse` ⟶ Ship follows the cursor
+ * `S` ⟶ Toggle sound
 
 
 ## Credits

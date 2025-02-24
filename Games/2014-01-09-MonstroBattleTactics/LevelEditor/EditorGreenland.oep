@@ -1,0 +1,177 @@
+<project>
+  <name>Tactic Engine - Monstro (Greenland Tileset)</name>
+  <settings>
+    <bgColor>0x000000</bgColor>
+    <defaultWidth>700</defaultWidth>
+    <defaultHeight>700</defaultHeight>
+    <minWidth>96</minWidth>
+    <minHeight>96</minHeight>
+    <maxWidth>3200</maxWidth>
+    <maxHeight>3200</maxHeight>
+    <sizeInTiles>true</sizeInTiles>
+    <tileWidth>32</tileWidth>
+    <tileHeight>32</tileHeight>
+    <workingDirectory>.</workingDirectory>
+    <id>net.retrocade.tactic.MonstroBattleTactics</id>
+  </settings>
+  <tilesets> 
+    <tileset name="tiles" image="gfx/tileset_greenland.png" tileWidth="32" tileHeight="32" paletteScale="1"/>
+  </tilesets>
+
+  <levelLibrary>
+    <level>Z:\Projects\Retrocamel_hg\TacticEngine\src\assets\level\demo\003.oel</level>
+    <level>Z:\Projects\Retrocamel_hg\TacticEngine\src\assets\level\demo\004.oel</level>
+    <level>Z:\Projects\Retrocamel_hg\TacticEngine\src\assets\level\demo\005.oel</level>
+  </levelLibrary>
+  <definitions>
+    <definition name="specializationValues">
+      <integer name="arrow" min="0" max="9" default="0"/>
+      <integer name="shield" min="0" max="9" default="0"/>
+      <integer name="skull" min="0" max="9" default="0"/>
+      <integer name="sword" min="0" max="9" default="0"/>
+      <integer name="heart" min="0" max="9" default="0"/>
+      <integer name="foot" min="0" max="9" default="0"/>
+      <integer name="stop" min="0" max="9" default="0"/>
+	  <integer name="hpRegen" min="0" max="9" default="0"/>
+      <boolean name="counterAttack" default="false"/>
+	  <boolean name="customStats" default="false"/>
+      <integer name="hp" min="0" max="99" default="2"/>
+      <integer name="attack" min="0" max="99" default="2"/>
+      <integer name="defense" min="0" max="99" default="2"/>
+      <integer name="movement" min="0" max="99" default="4"/>
+      <integer name="attackRangeMin" min="0" max="9" default="1"/>
+      <integer name="attackRangeMax" min="0" max="9" default="1"/>
+    </definition>
+  </definitions>
+  <values>
+    <string display="Title" name="title" default="" />
+	<text display="Description" name="description" default="" />
+    <select display="Tileset" name="tileset" default="greenland">
+      <option value="greenland">Greenland</option>
+      <option value="lava">Lava</option>
+      <option value="ice">Ice</option>
+    </select>
+    <select display="Victory condition" name="victoryCondition" default="destroyAll">
+      <option value="destroyAll">Destroy all units</option>
+      <option value="destroyFlag">Destroy enemy flag</option>
+      <option value="surviveTurns">Survive X turns </option>
+    </select>
+    <integer display="Survive turns" name="surviveTurns" default="0"/>
+    <select display="Loss condition" name="lossCondition" default="loseAll">
+      <option value="loseAll">Lose all units</option>
+      <option value="lossAny">Lose any unit</option>
+      <option value="loseFlag">Lose flag</option>
+      <option value="stallTurns">Stall X turns</option>
+    </select>
+    <integer display="Stall turns" name="stallTurns" default="0"/>
+	<integer display="Original level" name="origLevel" default="-1"/>
+	<select display="Original campaign" name="origCampaign" default="monster_hard">
+      <option value="human">Human</option>
+      <option value="monster">Monster</option>
+      <option value="human_hard">Human++</option>
+      <option value="monster_hard">Monster++</option>
+    </select>
+  </values>
+
+  <objects>
+    <object name="grunt" image="gfx/spriteset.png" width="32" height="32" imageWidth="29" imageHeight="36" imageOffsetX="177" imageOffsetY="163">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="soldier" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="44" imageOffsetX="2" imageOffsetY="2">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="pikeman" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="44" imageOffsetX="428" imageOffsetY="7">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="archer" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="36" imageOffsetX="178" imageOffsetY="26">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="knight" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="48" imageOffsetX="2" imageOffsetY="49">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="cavalry" image="gfx/spriteset.png" width="32" height="32" imageWidth="48" imageHeight="60" imageOffsetX="2" imageOffsetY="100">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="cottonBall"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="209" imageOffsetY="163">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="slime"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="2" imageOffsetY="163">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="shroom" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="48" imageOffsetX="2" imageOffsetY="198">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="gargoyle" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="48" imageOffsetX="2" imageOffsetY="249">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="minotaur" image="gfx/spriteset.png" width="32" height="32" imageWidth="48" imageHeight="48" imageOffsetX="2" imageOffsetY="300">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="manticore" image="gfx/spriteset.png" width="32" height="32" imageWidth="48" imageHeight="48" imageOffsetX="2" imageOffsetY="351">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="bomb" image="gfx/spriteset.png" width="32" height="32" imageWidth="30" imageHeight="21" imageOffsetX="220" imageOffsetY="269">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="assassin" image="gfx/spriteset.png" width="32" height="32" imageWidth="30" imageHeight="34" imageOffsetX="180" imageOffsetY="260">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="gelatinousCube" image="gfx/spriteset.png" width="32" height="32" imageWidth="30" imageHeight="29" imageOffsetX="293" imageOffsetY="305">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+    <object name="priest" image="gfx/spriteset.png" width="32" height="32" imageWidth="26" imageHeight="33" imageOffsetX="268" imageOffsetY="262">
+      <values>
+        <substitution name="specializationValues" />
+      </values>
+    </object>
+	<object name="tikiBlock" image="gfx/spriteset.png" width="32" height="32" imageWidth="22" imageHeight="44" imageOffsetX="288" imageOffsetY="202"/>
+    <object name="bonfire" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="53" imageOffsetX="180" imageOffsetY="201"/>
+	<object name="lantern" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="53" imageOffsetX="213" imageOffsetY="201"/>
+	<object name="torch" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="53" imageOffsetX="246" imageOffsetY="201"/>
+    <object name="trapLazy" image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="216" imageOffsetY="7"/>
+    <object name="trapSpikes0"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="251" imageOffsetY="7"/>
+    <object name="trapSpikes1"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="216" imageOffsetY="42"/>
+    <object name="trapSpikes2"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="251" imageOffsetY="42"/>
+    <object name="wallMovable"  image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="286" imageOffsetY="7"/>
+    <object name="wallFake"     image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="32" imageOffsetX="321" imageOffsetY="7"/>
+    <object name="flagHumans"   image="gfx/spriteset.png" width="32" height="32" imageWidth="32" imageHeight="42" imageOffsetX="355" imageOffsetY="7"/>
+    <object name="flagMonsters" image="gfx/spriteset.png" width="32" height="32" imageWidth="36" imageHeight="42" imageOffsetX="389" imageOffsetY="7"/>
+
+  </objects>
+  <layers>
+    <tiles name="layer0" gridSize="32" tileset="tiles"/>
+    <tiles name="layer1" gridSize="32" tileset="tiles"/>
+    <tiles name="layer2" gridSize="32" tileset="tiles"/>
+    <objects name="actors" gridSize="32"/>
+  </layers>
+</project>

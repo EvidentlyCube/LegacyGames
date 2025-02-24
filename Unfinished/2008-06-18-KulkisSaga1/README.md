@@ -46,7 +46,7 @@ to satisfy my nostalgia.
 
 ## Project Structure
  - `Art/` ⟶ All the graphics and screenshots I could find from the project
- - `Editors/` — Four editors for creating separate aspects of the game
+ - `Editors/` ⟶ Four editors for creating separate aspects of the game
  - `Game/` ⟶ The game itself as well as some older versions in the original format
  - `archive_filelist.txt` ⟶ Contents listing of the archive that contained the
    source code, with file modification dates

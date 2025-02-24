@@ -42,7 +42,7 @@ or play it with `ruffle` builds bundled with this repository:
 # Development
 ## Project Structure
  - `Source_AS3/` ⟶ The <GAME / PROTOTYPE>'s source files
- - `SWF/` - A compiled `.swf` file of the <GAME / PROTOTYPE>
+ - `SWF/` ⟶ A compiled `.swf` file of the <GAME / PROTOTYPE>
  - `play-win.bat` ⟶ A windows batch file that runs the SWF file in
    a bundled flash player
  - `play-linux.sh` ⟶ A shell script that runs the SWF file in

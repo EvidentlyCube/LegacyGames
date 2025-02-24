@@ -1,0 +1,12 @@
+gfx/
+----
+Copyright Aleksander (Cage) Kowalczyk
+Creative Commons Attribution 4.0 International
+
+
+EditorGreenland.oep
+EditorIce.oep
+EditorLava.oep
+-------------------
+Copyright Maurycy Zarzycki
+Creative Commons Attribution 4.0 International

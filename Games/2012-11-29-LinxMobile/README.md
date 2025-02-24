@@ -36,7 +36,7 @@ or play it with `ruffle` builds bundled with this repository:
 
 
 ## Controls
- - `LMB` — Draw / Erase paths
+ - `LMB` ⟶ Draw / Erase paths
 
 
 ## Credits
@@ -66,12 +66,12 @@ treat it more like a curiosity than a finished product.
 
 
 ## Project Structure
- - `LevelEditor/` — The project files for the Ogmo Editor that was used to make
- - `Source_AS3/` — The game's source files
- - `SWF/` - A compiled `.swf` file of the game
- - `play-win.bat` — A windows batch file that runs the SWF file in
+ - `LevelEditor/` ⟶ The project files for the Ogmo Editor that was used to make
+ - `Source_AS3/` ⟶ The game's source files
+ - `SWF/` ⟶ A compiled `.swf` file of the game
+ - `play-win.bat` ⟶ A windows batch file that runs the SWF file in
    a bundled flash player
- - `play-linux.sh` — A shell script that runs the SWF file in
+ - `play-linux.sh` ⟶ A shell script that runs the SWF file in
    a bundled flash player
  - `archive_filelist.txt` ⟶ Contents listing of the archive that contained the
    source code, with file modification dates

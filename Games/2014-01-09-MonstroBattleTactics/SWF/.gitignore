@@ -1,0 +1,4 @@
+# Because of the SWF's size it is not included here
+# Plus the game doesn't work that great in Ruffle
+
+*.swf

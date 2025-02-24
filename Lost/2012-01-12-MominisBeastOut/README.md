@@ -23,7 +23,7 @@ require an emulation.
 
 ## Project Structure
  - `APK/` ⟶ The Android's APK file for the game sourced from the internet.
- - `Media/` — Social media and web assets, sourced from the internet
+ - `Media/` ⟶ Social media and web assets, sourced from the internet
  - `Sources/` ⟶ All the available source files I still have of the game.
 
 ## Trivia

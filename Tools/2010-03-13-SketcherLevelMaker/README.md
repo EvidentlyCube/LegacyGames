@@ -31,7 +31,7 @@ A tool for creating levels for Sketcher games.
 # Development
 ## Project Structure
  - `Source_AS3/` ⟶ The tool's source files
- - `SWF/` - A compiled `.swf` file of the tool
+ - `SWF/` ⟶ A compiled `.swf` file of the tool
  - `play-win.bat` ⟶ A windows batch file that runs the SWF file in
    a bundled flash player
  - `play-linux.sh` ⟶ A shell script that runs the SWF file in

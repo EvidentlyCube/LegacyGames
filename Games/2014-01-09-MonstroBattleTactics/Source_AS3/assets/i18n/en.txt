@@ -1,0 +1,611 @@
+# Welcome!
+# Lines starting with # are comments
+# Translation works in such way: [identificationName]=[translation]
+# DO NOT modify the parts before "="
+# \n is replaced by a new-line, \t is replaced by two spaces
+# // at the end of the line allows you to continue the same line in the next:
+#
+# longText=Hello, this is a//
+#   long line.
+# will become:
+# Hello, this is a long line.
+# (notice that space was inserted after a, and the spaces before "long" were trimmed)
+#
+# /// does the same but inserts a line feed (so /// = \n//)
+# //// doest the same but inserts two line feeds (so //// = \n/// = \n\n//)
+#
+# Sometimes you will encounter %%. This is a token which is replaced by something, for example number:
+# score=You have scored %% points
+# will become
+# You have scored 1000 points
+#
+# You can freely move the %% around in the line
+#
+# If you have any questions just look around to see how everything looks already in here
+#
+# So to, translate a line simply replace everything that is after the equality sign with the translation, eg:
+#
+# someIdentifier=This is text to translate.
+# to:
+# someIdentifier=To jest tekst do przetlumaczenia.
+
+bottomBarMessage_0=Undo one move/action from the current turn.
+bottomBarMessage_1=You have undone all moves.
+bottomBarMessage_2=End the turn, it cannot be undone.
+bottomBarMessage_3=End unit movement.
+bottomBarMessage_4=You need to select an unit to end its movement.
+bottomBarMessage_5=Pause menu: change options, return to main menu, view victory conditions.
+bottomBarMessage_6=Zoom the playfield in.
+bottomBarMessage_7=Zoom the plafield out
+bottomBarMessage_8=Click to select and move this unit.
+bottomBarMessage_9=Click to see what tiles can this enemy unit reach.
+bottomBarMessage_10=Click to attack this unit.
+bottomBarMessage_11=Small spikes trap: deals 3 damage when a unit stands on it.
+bottomBarMessage_12=Medium spikes trap: deals 8 damage when a unit stands on it.
+bottomBarMessage_13=Large spikes trap: deals 20 damage when a unit stands on it.
+bottomBarMessage_14=Web trap: stuns the unit for the rest of this and next turn.
+bottomBarMessage_15=Hold mouse down to drag the unit around.
+bottomBarMessage_16=Release mouse button to move unit here.
+bottomBarMessage_17=Release mouse button to attack this unit.
+bottomBarMessage_18=This tile cannot be reached.
+bottomBarMessage_19=This enemy is outside your attack range, but you can target it if you move closer.
+bottomBarMessage_20=This enemy is outside your attack range.
+bottomBarMessage_21=...
+
+
+plot_text_1=Ludus is a peaceful land where ancient terror beasts and humans//
+    somehow coexist in perfect harmony. Absolute bliss and peace govern their//
+    lives, and any reasonable person would consider Ludus a pretty nifty place//
+    to live, terror beasts and all.
+plot_text_2=But such joy and laughter can never last forever, because that//
+    would be boring. So, once every few hundred years or so, a predictably//
+    unpredictable astrological phenomenon occurs wherein some angry people//
+    in the sky from a not-sky-at-all dimension called Terra come and shred//
+    their eternal peace to pieces. Who knows why, they're probably picked on or something.
+plot_text_3=Whenever they arrive, a fleet of floating islands are brought along.//
+    Their fields, divided into conveniently perfect squares, make up the//
+    battlefields where the humans and the ancient terror beasts battle//
+    for the amusement of these angry sky people.
+plot_text_4=Its pretty darn awful. The peaceful terror beasts dont really enjoy//
+    being terrifying, and the puny humans dont really enjoy being puny, but when//
+    the alternative is getting sky-peopled to death (it's bad),the result is//
+    friends killing friends and innocent terror beasts alike, hoping for the//
+    battles to end and for peace to return to the land.
+
+outro.human_0.text=Having no choice but to stab and perforate the mostly-docile-but-totally-not-when-angry Terror Beasts to the brink of extinction, the humans now reflect on the somewhat melancholy advent of The First New Era Ever, and would thrive marvellously with human supremacy and progress, if the whole thing just wasn't so sad.
+outro.human_1.text=The blood everywhere, and the bleating of the suffering, decimated ranks of the usually-friendly Terror Beasts is kind of a killjoy, let's face it.
+outro.human_2.text_a=Congratulations for completing Human Campaign!////
+	Human++ has been unlocked - 20 new and challenging missions just for you. You could of course do Monsters first which I recommend, but my job is not to tell you how to live your life.
+outro.human_2.text_b=Congratulations for completing Human Campaign!////
+	Wait wait, do I see right? You did Monster first? That's kinda... Splendid! I see you like to think out of the box, or at the very least your thoughts are out of order. Human++ was already unlocked so I don't have anything else to say to you, sorry.
+outro.human_2.text_c=Congratulations for completing Human Campaign!////
+	It smells like someone who doesn't particularly care about doing the first thing first. No, wait, it's just me. Anyway, Monster++ is now available for you to suffer through. I mean to enjoy! Damn those typos.
+
+outro.monster_0.text=So Ancient Terror Beasts are really terrifying when someone convinces them that using terror is a pretty solid plan to get out of a nasty situation. Turns out getting poked with a spear enough generally does the trick. Those silly humans never stood much of a chance.
+outro.monster_1.text=There was a fair amount of chomping and crunching sounds, a few squishy and goopy sounds, but mostly, there was just the shrieking and crying sounds of manliness being bitten in half and bravery being stomped on.
+outro.monster_2.text=After the great battle, the Ancient Terror Beasts calmed down and gazed upon the remains of the Puny Humans who were the same Friend Humans that once frolicked the land alongside them. And now they were all squished and stuff. The Ancient Terror Beasts, not being terribly bright, didn't put two and two together, however, and carried on being terrifying without a care in the world.
+outro.monster_3.text_a=Congratulations for completing Monster Campaign!////
+	Is there something wrong with humans in your opinion? I know, I know. I myself think the monsters are much cuter (have you seen goos and their little smiles?) Given the choice I'd do the same. Human++ has been unlocked but how about you give the regular human campaign a chance first?
+outro.monster_3.text_b=Congratulations for completing Monster Campaign!////
+	Alright, alright. You jumped from Human Campaign straight to this one, very good! There isn't any benefit for doing it the default way aside from the artificial satisfaction of the virtual narrator (me!) but I am grateful! Good luck with Human++!
+outro.monster_3.text_c=Congratulations for completing Monster Campaign!////
+	So, you did Monsters last? Do you perhaps dislike them? No, wait, I know! You must love them so much that you wanted to experience leading them for as long as you could without a stop, that must be it! Well then wait no more, Monster++ has been unlocked for you!
+
+outro.human_hard_0.text=The humans and Ancient Terror Beasts have been doing this a long time, but the humans actually have pretty neat brains and came up with a plan. The great philosophers of pretentious literature, micro-sustainability, pseudo-economics, Skygod Pantheon Guesswork History, smoke-and-mirror techniques, sacrificial mathematics, and rigged contest studies all totally know what they're doing.
+outro.human_hard_1.text=They managed to kill just enough of their friends, the Terror Beasts, to be entertaining and make those stupid Skygods go away. Hey, it beats total and utter eradication any day. Until next time!
+outro.human_hard_2.text_a=Congratulations for completing Human++ Campaign!////
+	It seems you decided to go out of order and left Monster Campaign for later. That's a very fair choice, considering Monster and Human levels have a lot in common. But you can't delay it any further. Monster++ can only be unlocked if you finish all the other campaigns first.
+outro.human_hard_2.text_b=Congratulations for completing Human++ Campaign!////
+	I see you like humans. Is there any chance it was caused by the fact that you are human yourself? I just want to ensure you that you should not fear monsters, they're a fuzzy, funny and fairly fantastic flock of forthright fuddles!
+outro.human_hard_2.text_c=Congratulations for completing Human++ Campaign!////
+	You rushed through the missions in the default order you say? That's a fantastic choice! This way the difficulty curve had fewer bumps along the way. Now that Monster++ is unlocked prepare for the final and most challenging challenges, challenger!
+
+outro.monster_hard_0.text=As it turns out, to everyone's complete surprise, Ancient Terror Beasts are actually conservationists and extremely clever, but it's purely on instinct, so they have no idea they're being clever which leads to some tricky classifications of intelligence but whatever. Ancient Terror Beasts actually like Puny Humans.
+outro.monster_hard_1.text=They think they're funny and smell weird and Terror Beasts are all about weird smells. However, Skygods smell like cinnamon and Terror Beasts know better than to trifle with spicy overlords so some Puny Humans maybe kinda needed to get squished so that cinnamon smell would go away, and go away they did.
+outro.monster_hard_2.text=But the Terror Beasts, true to their nature, made sure not to squish too many Puny Humans, because Terror Beasts need puny friends, too.
+
+outro.finale_0=Congratulations, Playgod! Thanks to you, the predictably unpredictable astrological phenomenon could occur, so that the puny humans and the ancient terror bests had a chance to...///
+ 	Actually let's cut this off while it's still funny.  As you probably have guessed already, Skygods are a metaphor for level designers and Playgods for the players.
+outro.finale_1=It's 10PM, Novemeber 23 when I am writing this. 10 days before Monstro ships on Steam and there is a lot of work left to do. We're missing 80 level descriptions, no achievement has been coded and Steam trading cards have no art yeet.//
+ 	The last three weeks of the development so far were a gigantic crunch - every free hour I spent on fixing bugs and adding new features. I am fairly sure I've done more wprl in this short amount of time than in the past year.//
+ 	Was it worth it? Only my future self will know. And you, because if you've got this far it means you've enjoyed the game, which is one of the main reasons why it was even created in the first place.
+outro.finale_2=Making Monstro was probably more pain than joy considering that the first release of the game at the beginning of 2014 was a total failure, less than 20 units sold in two years.//
+	It was very disheartening so we left the project on Steam Greenlight without much hope it'll ever be greenlit. When over a year later the information that it actually passed reached me I was angry and disappointed//
+	instead of happy, because it meant wasting more time on a dead game.
+outro.finale_3=But after some thinking we decided to give releasing it a try! At first the plan was to leave it as is, then we decided to change this and that and, in the end, almost every part of the game was at least slightly modified.//
+	If you ever wonder how the old release compares to this one search Newgrounds or Kongregate for Monstro, if I didn't remove the old demos by the time you read this.
+outro.finale_4=Enough of my ranting! I'd like to take the time to give the due credit to people who helped with the creation of this game:
+
+outro.finale_5=Sprites, Tiles, Illustrations, Trailers and almost all the other art:////
+	Aleksander Kowalczyk
+
+outro.finale_6=Music:////
+	Jesse Valentine
+
+outro.finale_7=Sound Effects:////
+	Joshua D. Young and Fabio Accardo
+
+outro.finale_8=Voice Acting:////
+	Ed Bretten (Intro/Outro)////
+	Seespace Labs (Unit voices):///
+	Siyence McGhee & Yogi Paliwal
+
+outro.finale_9=Fonts "Eboracum" and "New Rocker":////
+	Pilaster Davy / Pablo Impallari, Brenda Gallo
+
+outro.finale_10=Testing:////
+	Alex Diener, Aquator, Chris Alcock, Larrymurk, Roger Yates
+
+outro.finale_11=Special thanks:////
+	Caravelgames community (for support)///
+	Graham Blatz (for making intros, outros and level descriptions awesome)
+
+outro.finale_12=Thank you for playing! Let's meet again in a different game in the future!////
+    -Maurycy Zarzycki
+
+outro.finale_13=Monstro: Battle Tactics was brought to you by Retrocade.net
+
+enableInfoCheckingHeader=Enable info updates?
+enableInfoCheckingMessage=Monstro: Battle Tactics would like to connect to Retrocade servers and download a small file (<1 kbyte)//
+    which contains information about Steam Greenlight and Mobile version progress. If you enable the info updates//
+    you'll get an immediate feedback from within the game when steam version and mobile versions were released.
+
+
+optionsAutoUpdates=Update steam & mobile info on game start
+optionsEnableLights=Enable lighting in-game
+optionsEnableShadowcasting=Enable shadows
+optionsIsFullscreen=Fullscreen mode (F10)
+
+unitName_grunt=Grunt
+unitName_soldier=Soldier
+unitName_pikeman=Pikeman
+unitName_archer=Archer
+unitName_knight=Knight
+unitName_cavalry=Cavalry
+unitName_cottonBall=Goo
+unitName_slime=Slime
+unitName_shroom=Shroom
+unitName_gargoyle=Gargoyle
+unitName_minotaur=Minotaur
+unitName_manticore=Manticore
+unitName_wallMovable=Mobile Wall
+unitName_wallFake=Fake Wall
+unitName_flagHumans=King
+unitName_flagMonsters=Brain
+unitName_lantern=Lantern
+unitName_bonfire=Bonfire
+unitName_torch=Torch
+unitName_tikiBlock=Sacred Stone
+
+credits.header=Credits:
+
+credits.headers=Game created by:///
+	Production, Programming, Design, Idea:///
+	Sprites, Illustrations, GUI:///
+	Music:///
+	Sound Effets:///
+	Voice Acting:///
+	Level Design:///
+	Font "Eboracum":///
+	Font "New Rocker":///
+	Testing:///
+	///
+	Special Thanks:
+
+credits.body=Retrocade.net///
+	Maurycy Zarzycki///
+	Aleksander Kowalczyk///
+	Jesse Valentine///
+	Fabio Accardo, Joshua D. Young///
+	Ed Bretten | Seespace Labs: Siyence McGhee, Yogi Paliwal///
+	Maurycy Zarzycki///
+	Pilaster Davy///
+	Pablo Impallari, Brenda Gallo, Rodrigo Fuenzalida///
+	Alex Diener, Aquator, Chris Alcock///
+	Larrymurk, Roger Yates///
+	Caravelgames community, Graham Blatz
+
+tut.step_0=Click on a unit///
+	       to select it.
+tut.step_1=Click on a tile///
+           to move the unit.
+tut.step_2=End the turn by pressing the button on///
+			the left or by pressing space bar.
+tut.step_3=Continue moving towards the enemy.
+tut.step_4=Move your mouse over///
+		   the enemy unit.
+tut.step_5=What you see now is the unit's movement and attack range///
+		   as well as its predicted movement. Use this information///
+		   to avoid getting hit by the goo.////
+		   (Click to dismiss)
+
+tut.step_6=If you select a unit you can move your mouse///
+           over the stats window to see what each of them does.
+tut.step_7=Now attack the slime.
+tut.step_8=Its defense restored! Did you see it? This is a core mechanic///
+           in Monstro and it happens at the beginning of unit's turn.///
+           You'll need the help of the soldier to get past the slime's defenses.///
+           Should you get stuck, use the undo feature (key: Q).////
+           (Click to dismiss)
+
+tut.step_9=Traps spring only when a unit stands on them, it is safe to pass through.///
+  		   A web trap will stun a unit for a whole turn, while the///
+  		   pit and spike traps deal a certain amount damage.
+tut.step_10=That wasn't the most fortunate move.///
+			Undo (key: Q) back to the beginning and keep a closer eye on the floor,///
+			it hints which spaces are safe.
+tut.step_11=There is one very important pattern that enemies always follow.///
+            They prefer to attack from the sides, so given equal choice they'll///
+            try to move vertically and stand to the left or right of your unit.////
+            (Click to dismiss)
+
+tut.step_12=You, and only you, can take fake///
+			walls down to open new passages.
+tut.step_13=But was it a good choice? Be quick as wasting too many///
+			turns in this mission will result in a failure!////
+		   (Click to dismiss)
+
+tut.step_14=Sometimes keeping your distance is the best option, especially///
+			that you are not allowed to lose any unit in this mission.
+tut.step_15=A shroom came into the archer's range! Shoot it quickly and///
+			don't worry about the walls, they don't block ranged attacks!////
+			(Click to dismiss)
+
+tut.step_16=Mobile walls give a tremendous tactical advantage especially when accompanied///
+			by a ranged unit. They are invulnerable and act as a wall for enemies,///
+			while still allowing your units to pass through them without any problem.////
+			(Click to dismiss)
+
+tut.step_17=The little icon below your///
+			unit is a specialization.
+tut.step_18=Specializations modify units' stastistics. There are///
+			eight different specializations in the game and///
+			a unit can have up to three of them.///
+			Just don't stand around, run for the brain or else the shrooms will kill you!////
+			(Click to dismiss)
+
+tut.step_19=This is the last mission in the Introduction campaign.///
+			Afterwards you'll be all on your own. If you ever feel lost check the help (F1)///
+			where you can find explanation of all the mechanics in the game, including///
+			traps, specializations, controls and, most importantly,///
+			complete breakdown of enemy movement rules.////
+			Good luck!///
+			(Click to dismiss)
+
+help.header=Help
+help.gameRules=Game Rules
+help.controls=Controls
+help.monsterMovement=Monster Movement
+help.traps=Traps
+help.specializations=Specializations
+help.close=Close
+
+help.game_rules.header=Game Rules
+help.game_rules.body=<font size="18"><p align="justify">In Monstro: Battle Tactics you control one of the two armies - humans or monsters. The opposing armies move//
+    all of their units before giving the control to the other side. Most of the time the objective is to kill all enemy units, although some of the missions//
+    might have different victory and failure conditions.////
+    <font color="#000000" size="20">Each unit has five statistics</font>:///
+    <font color="#685020">Health</font> - the amount of damage the unit can withstand before dying.///
+    <font color="#685020">Defense</font> - the amount of damage unit can withstand before health begins depleting, restores fully each turn.///
+    <font color="#685020">Attack</font> - the amount of damage unit will deal when attacking.///
+    <font color="#685020">Attack</font> - the amount of damage unit will deal when attacking.///
+    <font color="#685020">Attack Range</font> - has both minimum and maximum value, a unit with minimum above 1 will not be able to attack enemies standing directly next to it.///
+    <font color="#685020">Moves per turn</font> - number of tiles the unit can move per turn.////
+    <font size="20" color="#000000">Damage calculation:</font>///
+    Each hit always does the same amount of damage equal to the attack. If the target has the defense above zero, it will be reduced first.//
+    Any damage left over from reducing the defense will reduce the health.</font></p>
+
+help.traps.header=Traps
+help.traps.body=<font size="18"><p align="justify">Traps spring when a unit STANDS on them - it is perfectly safe to walk through them.//
+	Triggering a trap will automatically end unit's turn and it won't be able to attack!////
+    <font size="20" color="#000000">Types of traps:</font>///
+    <font color="#685020">Web Trap</font> - Unit loses all remaining moves in the current turn and can't act during next turn. Disappears after use.///
+    <font color="#685020">Pit Trap</font> - Deals damage to a unit (even flying units). Does not disappear after use. Hits for 3 damage.///
+    <font color="#685020">Spike Trap</font> - Deals damage to a unit (even flying units). Does not disappear after use. Hits for 8 damage.///
+    <font color="#685020">Death Trap</font> - Deals damage to a unit (even flying units). Does not disappear after use. Hits for 20 damage.</font></p>
+
+help.specializations.header=Specializations
+help.specializations.body=<font size="18"><p align="justify">Specializations modify a unit's stats for the duration of the given mission. Specialization descriptions are//
+	displayed below unit stats.////
+    <font size="20" color="#000000">Types of specializations:</font>///
+    <font color="#685020">Arrow</font> - Increases max attack range by one, and sets min attack range to 2.///
+    <font color="#685020">Foot</font> - Increases the number of moves a unit can make per turn by 1.///
+    <font color="#685020">Heart</font> - Increases unit's health by 2.///
+    <font color="#685020">Shield</font> - Increases unit's defense by 2.///
+    <font color="#685020">Skull</font> - Reduces unit's defense to 0.///
+    <font color="#685020">Sword</font> - Increases unit's attack by 2.///
+    <font color="#685020">Star</font> - Unit has custom stats.///
+    <font color="#685020">Stop</font> - Unit can't move.</p></font>
+
+help.controls.header=Controls
+help.controls.body=<font size="18"><p align="justify">All actions in Monstro can be done with Mouse but for convenience there are various keyboard shortcuts.</font>////
+	<font color="#685020">To scroll</font> click and drag the island around. You can also use arrows or WSAD for that.///
+	<font color="#685020">To select a unit</font> click on it with your mouse.///
+	<font color="#685020">To deselect a unit</font> click outside the movement and attack range.///
+    <font color="#685020">To move a unit</font> click on a diagonally-stripped blue tile.///
+    <font color="#685020">To attack</font> make sure your unit is selected and that the enemy is in range (pulsating red tile marking underneath) then click on the enemy.///
+    <font color="#685020">To end a unit's move</font> click on it when it is selected.///
+    <font color="#685020">To zoom in and out</font> you can use the mouse wheel.</p></font>
+
+help.monster_movement.header=Enemy AI
+help.monster_movement.body=<font size="18"><p align="justify"><font size="20" color="#000000">Movement order:</font>///
+    Enemies move in the order from the strongest to weakest type. If there are multiple enemies of the same type, they move left to right, row by row, starting from the top-left corner of the map.////
+    <font size="20" color="#000000">AI:</font>///
+    1. [Prioritize attacking] Chose tiles from which we can attack any player unit.///
+	2. [Prioritize killing brain/king] Break ties by selecting tiles which allow the enemy to attack brain/king.///
+	3. [Prioritize dealing damage] Break ties by selecting tiles which allow the enemy to attack unit to deal most damage - killing > reducing health > reducing defense.///
+	4. [Prioritize not geting hit] Break ties by selecting tiles which can be attacked by the least number of player units.///
+	5. [Prioritize not blocking friends] Break ties by selecting tiles which can be reached by the least number of friends.///
+	6. [Prioritize closest] Break ties by selecting tiles which are closest to the enemy unit.///
+	7. [Prioritize vertical over horizontal] Break ties by selecting tiles which require moving further in vertical then horizontal axis.////
+	In case no player unit can be attacked, the movement is slightly different:///
+	1. [Prioritize getting close] Chose tiles which are closest to a player unit.///
+	2. [Prioritize vertical over horizontal] Break ties by selecting tiles which require moving further in vertical then horizontal axis.///
+	3. [Prioritize not geting hit] Break ties by selecting tiles which can be attacked by the least number of player units.
+
+timeout.header=Error!
+timeout.body=This version of Monstro no longer works///
+    the game will now quit.
+
+chrome_issue.header=Are you using Google Chrome?
+chrome_issue.body=Chrome's dedicated flash player has issues with games using GPU Acceleration. To enable the original flash player in Chrome:///
+    1. Open <font color="#FFFF00">chrome://plugins</font> in a new tab.///
+    2. Click <font color="#FFFF00">Details</font>.///
+    3. Find the flash player marked as <font color="#FFFF00">Type: PPAPI (out-of-process)</font> and click <font color="#8888FF">disable</font>.///
+    4. Reload this page.///
+    If you don't want to do that you should select the 30 FPS mode which will ensure no jittery but will also make the game less smooth.////
+    If you already have disabled Pepper Flash Player or are using a different browser, please run the game in 60 FPS.
+
+
+
+reviewer_nag=Version of Monstro for reviewers, not for distribution.//
+    "Monstro: Battle Tactics" by Retrocade.net
+
+
+preloader_info=Monstro: Battle Tactics (Demo version)///
+    Version: %%///
+    ///
+    %%
+preloader_loading=Loading %%%
+preloader_loaded=Please click to start.
+
+title_startGame=Start Game
+title_watchIntro=Watch Intro
+title_options_audio=Audio Options
+title_options_display=Display Options
+title_options_gameplay=Gameplay Options
+title_achievements=Achievements
+title_credits=Credits
+title_buyFullVersion=Buy Full Version
+title_voteOnSteam=Vote on Steam Greenlight
+title_buyMobileVersion=Buy Mobile Version
+title_quit=Quit
+
+title_continue=Continue last mission
+title_selectCampaign=Select Campaign
+title_campaign_tutorial=Introduction
+title_human=Human
+title_monster=Monster
+title_human++=Human++
+title_monster++=Monster++
+title_invalid=Invalid
+title_continueCombo=Continue %% #%%
+title_continueNo=No mission to continue
+
+title_selectMission=Select mission
+
+title_return=Return
+title_back=Back
+title_close=Close
+
+tap_screen=Press mouse to continue.
+
+
+conds_victoryIn=Victory in:
+conds_failureIn=Failure in:
+conds_turn=%% Turn
+conds_turns=%% Turns
+
+misc_enable=Enable
+misc_disable=Disable
+
+after.restart=Restart Mission
+after.next=Play Next Mission
+after.return=Return to Main Menu
+
+achievements.header=Achievements
+
+options.header=Options
+options.header.gameplay=Game options
+options.header.display=Display options
+options.header.sound=Audio options
+options.sound=Sound effects volume:
+options.sound.enable=Enable sound effects
+options.music=Music volume:
+options.music.enable=Enable music
+options.voices=Voices volume:
+options.voices.enable=Enable in-game voices
+options.speed=Game Speed:
+options.waitForClick=Wait for click on enemy attack
+options.altControls=Drag'n'drop controls enabled
+options.centerBeforeMove=Center on unit before moving
+options.fastwordOnMouseDown=Fastforward when mouse is down
+options.close=Close
+options.clearAchievements=Clear Achievements
+options.clearAchievements2=Are you sure?
+options.clearAchievements3=Are you really sure?
+options.clearAchievements4=Achievements cleared.
+options.header.gameplay.gameplay=Game flow
+options.header.gameplay.misc=Miscellaneous
+options.header.gameplay.lighting=Lighting
+options.header.gameplay.alt_controls=Drag'n'drop controls
+options.description.gameplay.alt_controls=Warning!///
+	These alternative controls are EXPERIMENTAL.//
+	They can contain bugs and graphical glitches.//
+	They will also completely disable Introduction's//
+	help tooltips!///
+	USE WITH CAUTION
+
+pause.header=Game Paused
+pause.continue=Resume
+pause.help=Help
+pause.restartMission=Restart Mission
+pause.options.video=Display Options
+pause.options.gameplay=Gameplay Options
+pause.options.sound=Audio Options
+pause.achievements=Achievements
+pause.return=Title Screen
+pause.mission=Mission #%%: "%%"
+pause.victory.header=Victory condition:
+pause.failure.header=Lose condition:
+pause.victory=Victory condition:\n%%
+pause.failure=Lose condition:\n%%
+pause.fullScreen=Toggle Full Screen
+
+campaign.tutorial=Introduction
+campaign.human=Human
+campaign.human++=Human++
+campaign.monster=Monster
+campaign.monster++=Monster++
+
+
+
+victory.destroyAllMonsters=Destroy all monsters
+victory.destroyAllHumans=Destroy all humans
+victory.destroyBrain=Destroy enemy brain
+victory.destroyKing=Destroy enemy king
+victory.surviveTurns=Survive %% turns
+failure.loseAll=Lose all units
+failure.loseAny=Lose any unit
+failure.loseKing=Lose king
+failure.loseBrain=Lose brain
+failure.stall=Take more than %% turns to win
+
+specialization.arrow=Attack range +1
+specialization.foot=Movement +1
+specialization.heart=HP +2
+specialization.shield=Defense +2
+specialization.skull=No defense
+specialization.sword=Attack +2
+specialization.stop=Cannot move
+specialization.star=Custom stats
+
+hint_1=Damage dealt is always equal to attack. First depleted is defense, then health.
+hint_2=The icons above units head are their remaining health and defense.
+hint_3=Defense fully restores at the beginning of each turn.
+hint_4=You can speed-up the action and change other things in the pause menu.
+hint_5=A very comprehensive monster AI description and other help items are available in pause menu.
+hint_6=The icons below units are their specializations and are described in their stat window.
+hint_7=Move your mouse over the trap to see what it does on the bottom bar.
+hint_8=Traps only activate when a unit stops on it, moving through won't work.
+
+attack_results=Attack results
+
+campaign_human=Human
+campaign_human_hard=Human++
+campaign_monster=Monster
+campaign_monster_hard=Monster++
+campaign_tutorial=Introduction
+
+introduction.completed.header=Introduction campaign completed
+introduction.completed.body=Congratulations on completing the introduction campaign!///
+	Now you are ready to tackle the real challenges!////
+	What would you like to do now?
+
+hud.button.menu=Pause menu///
+(Escape)
+hud.button.help=Help///
+(F1)
+hud.button.objectives=Mission objectives///
+(F2)
+hud.button.zoomIn=Zoom in///
+(Mouse wheel)
+hud.button.zoomOut=Zoom out///
+(Mouse wheel)
+hud.button.undo=Undo last move///
+(Q)
+hud.button.endTurn=End the turn///
+(Space)
+
+missionEndWindow.next=Play next mission
+missionEndWindow.title=Return to title
+missionEndWindow.undo=Undo last move
+missionEndWindow.change=Select mission
+missionEndWindow.restart=Restart mission
+
+trapName.trapLazy=Web Trap
+trapName.trapSpikes0=Pit Trap
+trapName.trapSpikes1=Spikes Trap
+trapName.trapSpikes2=Death Trap
+
+
+
+update_txt=<font size="18"><p align="left">Version 1.0.5 (Feb 19, 2025):///
+    - Fixed issues with achievements for Monsters++ Level 4 and 16///
+    - Released the source code for the game///
+	- Added an option to clear the achievements////
+Version 1.0.4 (Apr 9, 2016):///
+    - Added unit voices///
+    - "Wait for tap" is disabled by default and now accepts any input///
+    - Pause menu can be opened anytime///
+    - Any key can now be pressed to quicken failed/victory screen animation///
+    - "Q" can be used to undo from failed/victory screen</p></font>
+
+achievement.tooltip=<p align="center"><font size="20">%%</font>///
+	<font size="16">%%</font></p>
+
+achievement.unlocked=<p align="left"><font size="16">Achievement unlocked:</font>///
+	<font size="12">%%</font></p>
+
+achievement.title_0=Introduction to fun
+achievement.description_0=Complete Introduction campaign
+achievement.title_1=The price of victory
+achievement.description_1=Complete Human campaign
+achievement.title_2=Guesswork history
+achievement.description_2=Complete Human++ campaign
+achievement.title_3=No more frolicking
+achievement.description_3=Complete Monster campaign
+achievement.title_4=They smell like cinnamon
+achievement.description_4=Complete Monster++ campaign
+achievement.title_5=Paid the tribute
+achievement.description_5=Read credits
+achievement.title_6=Cleaning up the webs
+achievement.description_6=Introduction #3 - Make the gargoyle step on each web trap and complete the mission
+achievement.title_7=Way to go
+achievement.description_7=Introduction #6 - Kill the minotaur with the spike trap
+achievement.title_8=Goobsessive compulsive disorder
+achievement.description_8=Introduction #8 - Kill all the goos
+achievement.title_9=Not so mobile
+achievement.description_9=Human #3 - Finish the mission without moving the mobile walls
+achievement.title_10=Careful walls
+achievement.description_10=Human #13 - Finish the mission without losing HP
+achievement.title_11=Why did you even do that?
+achievement.description_11=Human #20 - Kill the slime and win the mission
+achievement.title_12=Tear down walls and their hearts
+achievement.description_12=Monster #7 - Finish the mission without losing a single unit
+achievement.title_13=So much thinking
+achievement.description_13=Monster #19 - Finish the mission without losing a single unit
+achievement.title_14=Couriers of destiny
+achievement.description_14=Monster #20 - Complete the mission without losing a single unit
+achievement.title_15=Stuck a little
+achievement.description_15=Human++ #8 - Complete the mission without losing a single unit
+achievement.title_16=People > King
+achievement.description_16=Human++ #12 - Complete the mission without losing a single unit
+achievement.title_17=Wasting troops
+achievement.description_17=Human++ #15 - Kill a manticore and complete the mission
+achievement.title_18=Glass horse
+achievement.description_18=Human++ #19 - Complete without getting hit
+achievement.title_19=We can do it too
+achievement.description_19=Monster++ #4 - Finish the mission without losing a single unit
+achievement.title_20=Too cool to fight
+achievement.description_20=Monster++ #5 - Complete the mission without the shroom attacking
+achievement.title_21=Goopocalypse
+achievement.description_21=Monster++ #16 - Kill all enemies and complete the mission
+achievement.title_22=Survival instinct
+achievement.description_22=Monster++ #19 - Complete the mission with 5 shrooms alive
+
+outdated.version=<p align="left"><font size="18">We have detected that you are not running the latest version of the game.///
+	Your version: %%. Latest version: %%.////
+	Changes:///
+	</font><font size="15">%%</font><font size="18">////
+	Please check with the website you've bought the game from for the installer for the latest version!</font></p>

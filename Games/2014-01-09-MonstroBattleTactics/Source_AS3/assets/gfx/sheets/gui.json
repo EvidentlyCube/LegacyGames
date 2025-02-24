@@ -1,0 +1,939 @@
+{
+    "frames": [
+        {
+            "filename": "TutorialIcon",
+            "frame": {
+                "x": 1489,
+                "y": 363,
+                "w": 25,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "arrow_down",
+            "frame": {
+                "x": 1518,
+                "y": 1175,
+                "w": 24,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "arrow_next",
+            "frame": {
+                "x": 1237,
+                "y": 879,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "blackRectangle",
+            "frame": {
+                "x": 1237,
+                "y": 827,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9",
+            "frame": {
+                "x": 1287,
+                "y": 897,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_disabled",
+            "frame": {
+                "x": 1287,
+                "y": 769,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_green",
+            "frame": {
+                "x": 1287,
+                "y": 833,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_green_over",
+            "frame": {
+                "x": 1287,
+                "y": 641,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_over",
+            "frame": {
+                "x": 1287,
+                "y": 961,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_red",
+            "frame": {
+                "x": 1287,
+                "y": 577,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "button_grid9_red_over",
+            "frame": {
+                "x": 1287,
+                "y": 705,
+                "w": 252,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "checkbox1",
+            "frame": {
+                "x": 1424,
+                "y": 1089,
+                "w": 34,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "checkbox2",
+            "frame": {
+                "x": 1460,
+                "y": 1089,
+                "w": 34,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursorSharingOption",
+            "frame": {
+                "x": 1263,
+                "y": 879,
+                "w": 20,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_attack",
+            "frame": {
+                "x": 1237,
+                "y": 931,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_attack2",
+            "frame": {
+                "x": 1237,
+                "y": 905,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_attack3",
+            "frame": {
+                "x": 1344,
+                "y": 1194,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_attack3_block",
+            "frame": {
+                "x": 1460,
+                "y": 1136,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_block",
+            "frame": {
+                "x": 1029,
+                "y": 983,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_block2",
+            "frame": {
+                "x": 1512,
+                "y": 1220,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_hold",
+            "frame": {
+                "x": 1482,
+                "y": 1025,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_hold_block",
+            "frame": {
+                "x": 1512,
+                "y": 1194,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_hover",
+            "frame": {
+                "x": 1402,
+                "y": 1194,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_point",
+            "frame": {
+                "x": 1516,
+                "y": 363,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_point2",
+            "frame": {
+                "x": 1344,
+                "y": 1136,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "cursor_turn",
+            "frame": {
+                "x": 1402,
+                "y": 1136,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "dragBackground",
+            "frame": {
+                "x": 360,
+                "y": 433,
+                "w": 347,
+                "h": 55
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "dragThumb",
+            "frame": {
+                "x": 1518,
+                "y": 1136,
+                "w": 16,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "flagConquered",
+            "frame": {
+                "x": 1424,
+                "y": 1025,
+                "w": 56,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "flagUnconquered",
+            "frame": {
+                "x": 1432,
+                "y": 392,
+                "w": 57,
+                "h": 61
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font12",
+            "frame": {
+                "x": 515,
+                "y": 1392,
+                "w": 512,
+                "h": 28
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font16",
+            "frame": {
+                "x": 1,
+                "y": 1392,
+                "w": 512,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font24",
+            "frame": {
+                "x": 926,
+                "y": 1280,
+                "w": 512,
+                "h": 69
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "font32",
+            "frame": {
+                "x": 1,
+                "y": 1280,
+                "w": 512,
+                "h": 110
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_attack",
+            "frame": {
+                "x": 1237,
+                "y": 775,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_help",
+            "frame": {
+                "x": 1287,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_help_disabled",
+            "frame": {
+                "x": 775,
+                "y": 1022,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_menu",
+            "frame": {
+                "x": 1,
+                "y": 506,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_menu_disabled",
+            "frame": {
+                "x": 517,
+                "y": 1022,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_objective",
+            "frame": {
+                "x": 259,
+                "y": 1022,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_objective_disabled",
+            "frame": {
+                "x": 1,
+                "y": 1022,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_turn",
+            "frame": {
+                "x": 1029,
+                "y": 517,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_turn_disabled",
+            "frame": {
+                "x": 259,
+                "y": 506,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_undo",
+            "frame": {
+                "x": 1029,
+                "y": 259,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_undo_disabled",
+            "frame": {
+                "x": 1029,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_zoom_in",
+            "frame": {
+                "x": 517,
+                "y": 764,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_zoom_in_disabled",
+            "frame": {
+                "x": 259,
+                "y": 764,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_zoom_out",
+            "frame": {
+                "x": 1,
+                "y": 764,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "icon_big_zoom_out_disabled",
+            "frame": {
+                "x": 771,
+                "y": 259,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_bg_256",
+            "frame": {
+                "x": 771,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_decor_left",
+            "frame": {
+                "x": 1287,
+                "y": 1136,
+                "w": 55,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_decor_right",
+            "frame": {
+                "x": 1432,
+                "y": 259,
+                "w": 55,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_frame_ribbon",
+            "frame": {
+                "x": 360,
+                "y": 1,
+                "w": 409,
+                "h": 430
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_frames3",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 357,
+                "h": 503
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_box_frames4",
+            "frame": {
+                "x": 1287,
+                "y": 259,
+                "w": 143,
+                "h": 201
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_ribbon_1_blue",
+            "frame": {
+                "x": 515,
+                "y": 1280,
+                "w": 409,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "menu_text_bg",
+            "frame": {
+                "x": 1287,
+                "y": 462,
+                "w": 249,
+                "h": 113
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "question_mark",
+            "frame": {
+                "x": 1237,
+                "y": 957,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "shadow",
+            "frame": {
+                "x": 517,
+                "y": 506,
+                "w": 32,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_atk_blue",
+            "frame": {
+                "x": 1489,
+                "y": 259,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_atk_green",
+            "frame": {
+                "x": 1081,
+                "y": 879,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_atk_red",
+            "frame": {
+                "x": 1133,
+                "y": 879,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_bsrk_blue",
+            "frame": {
+                "x": 1185,
+                "y": 879,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_bsrk_green",
+            "frame": {
+                "x": 1029,
+                "y": 931,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_bsrk_red",
+            "frame": {
+                "x": 1081,
+                "y": 931,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_def_blue",
+            "frame": {
+                "x": 1133,
+                "y": 931,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_def_green",
+            "frame": {
+                "x": 1185,
+                "y": 931,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_def_red",
+            "frame": {
+                "x": 771,
+                "y": 517,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_hp_blue",
+            "frame": {
+                "x": 823,
+                "y": 517,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_hp_green",
+            "frame": {
+                "x": 875,
+                "y": 517,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_hp_red",
+            "frame": {
+                "x": 927,
+                "y": 517,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_mov_blue",
+            "frame": {
+                "x": 1133,
+                "y": 827,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_mov_green",
+            "frame": {
+                "x": 1491,
+                "y": 392,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_mov_red",
+            "frame": {
+                "x": 1029,
+                "y": 827,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_rng_blue",
+            "frame": {
+                "x": 1081,
+                "y": 827,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_rng_green",
+            "frame": {
+                "x": 1185,
+                "y": 827,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_rng_red",
+            "frame": {
+                "x": 1489,
+                "y": 311,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_stp_blue",
+            "frame": {
+                "x": 1185,
+                "y": 775,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_stp_green",
+            "frame": {
+                "x": 1081,
+                "y": 775,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_stp_red",
+            "frame": {
+                "x": 1029,
+                "y": 775,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_str_blue",
+            "frame": {
+                "x": 1460,
+                "y": 1194,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_str_green",
+            "frame": {
+                "x": 1029,
+                "y": 879,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "stat_str_red",
+            "frame": {
+                "x": 1133,
+                "y": 775,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "window_grid9_header_shadow",
+            "frame": {
+                "x": 1287,
+                "y": 1025,
+                "w": 135,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false
+        },
+        {
+            "filename": "window_grid9_shadow",
+            "frame": {
+                "x": 1496,
+                "y": 1089,
+                "w": 34,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false
+        }
+    ]
+}

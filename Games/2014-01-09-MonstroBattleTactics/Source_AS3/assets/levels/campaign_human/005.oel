@@ -1,0 +1,119 @@
+<level title="Icy Plains" description="An old story has it that the first invasion by Skygods ever was actually a tea party. They all sat in front of each other, Ludus people on one side and the invaders on the other drinking brewed leaves from fancy cups. Skygods really love to mock this &quot;fanfiction&quot; (that's how they call it), so they replaced the fancy cups with weapons and sharp fangs and told the party participants to fight each other." tileset="ice" victoryCondition="destroyAll" surviveTurns="0" lossCondition="loseAll" stallTurns="0" origLevel="19" origCampaign="human">
+  <width>256</width>
+  <height>256</height>
+  <layer0 set="tiles">
+    <tile tx="736" ty="256" x="0" y="0"/>
+    <tile tx="672" ty="288" x="0" y="32"/>
+    <tile tx="832" ty="288" x="0" y="64"/>
+    <tile tx="832" ty="288" x="0" y="96"/>
+    <tile tx="832" ty="288" x="0" y="128"/>
+    <tile tx="832" ty="288" x="0" y="160"/>
+    <tile tx="832" ty="288" x="0" y="192"/>
+    <tile tx="832" ty="320" x="0" y="224"/>
+    <tile tx="384" ty="320" x="32" y="0"/>
+    <tile tx="384" ty="32" x="32" y="32"/>
+    <tile tx="32" ty="32" x="32" y="64"/>
+    <tile tx="32" ty="32" x="32" y="96"/>
+    <tile tx="32" ty="32" x="32" y="128"/>
+    <tile tx="32" ty="32" x="32" y="160"/>
+    <tile tx="32" ty="32" x="32" y="192"/>
+    <tile tx="864" ty="320" x="32" y="224"/>
+    <tile tx="864" ty="256" x="64" y="0"/>
+    <tile tx="32" ty="32" x="64" y="32"/>
+    <tile tx="32" ty="32" x="64" y="64"/>
+    <tile tx="352" ty="0" x="64" y="96"/>
+    <tile tx="64" ty="32" x="64" y="128"/>
+    <tile tx="352" ty="32" x="64" y="160"/>
+    <tile tx="32" ty="32" x="64" y="192"/>
+    <tile tx="864" ty="320" x="64" y="224"/>
+    <tile tx="864" ty="256" x="96" y="0"/>
+    <tile tx="32" ty="32" x="96" y="32"/>
+    <tile tx="32" ty="32" x="96" y="64"/>
+    <tile tx="32" ty="64" x="96" y="96"/>
+    <tile tx="0" ty="0" x="96" y="128"/>
+    <tile tx="384" ty="32" x="96" y="160"/>
+    <tile tx="32" ty="32" x="96" y="192"/>
+    <tile tx="864" ty="320" x="96" y="224"/>
+    <tile tx="864" ty="256" x="128" y="0"/>
+    <tile tx="32" ty="32" x="128" y="32"/>
+    <tile tx="32" ty="32" x="128" y="64"/>
+    <tile tx="384" ty="0" x="128" y="96"/>
+    <tile tx="384" ty="32" x="128" y="128"/>
+    <tile tx="32" ty="32" x="128" y="160"/>
+    <tile tx="32" ty="32" x="128" y="192"/>
+    <tile tx="864" ty="320" x="128" y="224"/>
+    <tile tx="416" ty="320" x="160" y="0"/>
+    <tile tx="64" ty="32" x="160" y="32"/>
+    <tile tx="352" ty="32" x="160" y="64"/>
+    <tile tx="32" ty="32" x="160" y="96"/>
+    <tile tx="32" ty="32" x="160" y="128"/>
+    <tile tx="352" ty="0" x="160" y="160"/>
+    <tile tx="64" ty="32" x="160" y="192"/>
+    <tile tx="416" ty="352" x="160" y="224"/>
+    <tile tx="768" ty="352" x="192" y="0"/>
+    <tile tx="160" ty="384" x="192" y="32"/>
+    <tile tx="32" ty="0" x="192" y="64"/>
+    <tile tx="32" ty="32" x="192" y="96"/>
+    <tile tx="32" ty="32" x="192" y="128"/>
+    <tile tx="32" ty="64" x="192" y="160"/>
+    <tile tx="0" ty="384" x="192" y="192"/>
+    <tile tx="768" ty="384" x="192" y="224"/>
+    <tile tx="576" ty="288" x="224" y="0"/>
+    <tile tx="608" ty="576" x="224" y="32"/>
+    <tile tx="704" ty="288" x="224" y="64"/>
+    <tile tx="896" ty="288" x="224" y="96"/>
+    <tile tx="896" ty="288" x="224" y="128"/>
+    <tile tx="704" ty="320" x="224" y="160"/>
+    <tile tx="544" ty="576" x="224" y="192"/>
+    <tile tx="800" ty="224" x="224" y="224"/>
+  </layer0>
+  <layer1 set="tiles">
+    <tile tx="640" ty="96" x="32" y="32"/>
+    <tile tx="640" ty="128" x="32" y="64"/>
+    <tile tx="704" ty="96" x="32" y="96"/>
+    <tile tx="608" ty="160" x="32" y="128"/>
+    <tile tx="672" ty="96" x="32" y="160"/>
+    <tile tx="704" ty="128" x="32" y="192"/>
+    <tile tx="640" ty="160" x="64" y="32"/>
+    <tile tx="704" ty="160" x="64" y="64"/>
+    <tile tx="704" ty="96" x="64" y="96"/>
+    <tile tx="704" ty="96" x="64" y="160"/>
+    <tile tx="640" ty="160" x="64" y="192"/>
+    <tile tx="672" ty="160" x="96" y="32"/>
+    <tile tx="736" ty="128" x="96" y="64"/>
+    <tile tx="672" ty="160" x="96" y="192"/>
+    <tile tx="800" ty="96" x="128" y="32"/>
+    <tile tx="608" ty="128" x="128" y="64"/>
+    <tile tx="704" ty="128" x="128" y="96"/>
+    <tile tx="736" ty="96" x="128" y="128"/>
+    <tile tx="800" ty="96" x="128" y="160"/>
+    <tile tx="672" ty="96" x="128" y="192"/>
+    <tile tx="672" ty="128" x="160" y="64"/>
+    <tile tx="800" ty="128" x="160" y="128"/>
+    <tile tx="704" ty="96" x="160" y="160"/>
+    <tile tx="768" ty="128" x="192" y="64"/>
+    <tile tx="736" ty="96" x="192" y="96"/>
+    <tile tx="768" ty="96" x="192" y="128"/>
+  </layer1>
+  <layer2 set="tiles"/>
+  <actors>
+    <soldier x="64" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="128" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="192" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="128" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="160" y="192" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <shroom x="192" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <shroom x="192" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <minotaur x="192" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <minotaur x="192" y="128" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <archer x="32" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <archer x="32" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+  </actors>
+</level>

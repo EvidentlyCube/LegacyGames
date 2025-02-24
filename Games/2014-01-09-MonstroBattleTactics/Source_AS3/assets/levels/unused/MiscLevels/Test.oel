@@ -1,0 +1,47 @@
+<level title="" victoryCondition="destroyAll" surviveTurns="0" lossCondition="loseAll" stallTurns="0">
+  <width>224</width>
+  <height>224</height>
+  <layer0 set="tiles">
+    <tile tx="32" ty="32" x="32" y="32"/>
+    <tile tx="32" ty="32" x="32" y="64"/>
+    <tile tx="32" ty="32" x="32" y="96"/>
+    <tile tx="32" ty="32" x="32" y="128"/>
+    <tile tx="32" ty="32" x="32" y="160"/>
+    <tile tx="32" ty="32" x="64" y="32"/>
+    <tile tx="32" ty="32" x="64" y="64"/>
+    <tile tx="32" ty="32" x="64" y="96"/>
+    <tile tx="32" ty="32" x="64" y="128"/>
+    <tile tx="32" ty="32" x="64" y="160"/>
+    <tile tx="32" ty="32" x="96" y="32"/>
+    <tile tx="32" ty="32" x="96" y="64"/>
+    <tile tx="32" ty="32" x="96" y="96"/>
+    <tile tx="32" ty="32" x="96" y="128"/>
+    <tile tx="32" ty="32" x="96" y="160"/>
+    <tile tx="32" ty="32" x="128" y="32"/>
+    <tile tx="32" ty="32" x="128" y="64"/>
+    <tile tx="32" ty="32" x="128" y="96"/>
+    <tile tx="32" ty="32" x="128" y="128"/>
+    <tile tx="32" ty="32" x="128" y="160"/>
+    <tile tx="32" ty="32" x="160" y="32"/>
+    <tile tx="32" ty="32" x="160" y="64"/>
+    <tile tx="32" ty="32" x="160" y="96"/>
+    <tile tx="32" ty="32" x="160" y="128"/>
+    <tile tx="32" ty="32" x="160" y="160"/>
+  </layer0>
+  <layer1 set="tiles"/>
+  <layer2 set="tiles"/>
+  <actors>
+    <soldier x="32" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <pikeman x="64" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <archer x="96" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <knight x="128" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cavalry x="160" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <slime x="32" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <shroom x="64" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <gargoyle x="96" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <minotaur x="128" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <manticore x="160" y="160" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="true" hp="99" attack="99" defense="99" movement="5" attackRangeMin="1" attackRangeMax="9"/>
+    <slime x="128" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" customStats="true" hp="99" attack="99" defense="99" movement="5" attackRangeMin="1" attackRangeMax="9"/>
+  </actors>
+</level>

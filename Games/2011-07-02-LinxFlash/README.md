@@ -50,12 +50,12 @@ or play it with `ruffle` builds bundled with this repository:
 
 # Development
 ## Project Structure
- - `Media/` — Social media and web assets
- - `Source_AS3/` — The <GAME / PROTOTYPE>'s source files
- - `SWF/` — A compiled `.swf` file of the <GAME / PROTOTYPE>
- - `play-win.bat` — A windows batch file that runs the SWF file in
+ - `Media/` ⟶ Social media and web assets
+ - `Source_AS3/` ⟶ The <GAME / PROTOTYPE>'s source files
+ - `SWF/` ⟶ A compiled `.swf` file of the <GAME / PROTOTYPE>
+ - `play-win.bat` ⟶ A windows batch file that runs the SWF file in
    a bundled flash player
- - `play-linux.sh` — A shell script that runs the SWF file in
+ - `play-linux.sh` ⟶ A shell script that runs the SWF file in
    a bundled flash player
  - `archive_filelist.txt` ⟶ Contents listing of the archive that contained the
    source code, with file modification dates

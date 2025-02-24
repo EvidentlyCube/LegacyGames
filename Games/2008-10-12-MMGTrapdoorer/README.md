@@ -43,7 +43,7 @@ or play it with `ruffle` builds bundled with this repository:
 ## Project Structure
  - `Editor/` ⟶ Level editor written in Blitz Max
  - `Source_AS3/` ⟶ The game's source files
- - `SWF/` - A compiled `.swf` file of the game
+ - `SWF/` ⟶ A compiled `.swf` file of the game
  - `play-win.bat` ⟶ A windows batch file that runs the SWF file in
    a bundled flash player
  - `play-linux.sh` ⟶ A shell script that runs the SWF file in
@@ -64,7 +64,7 @@ or play it with `ruffle` builds bundled with this repository:
 
 
 ## Links
- - Page for Commodore 64's "Sensitive" — https://www.lemon64.com/game/sensitive
+ - Page for Commodore 64's "Sensitive" ⟶ https://www.lemon64.com/game/sensitive
  - DROD's homepage ⟶ https://caravelgames.com/Articles/Games.html
  - Game's page on Mauft.com ⟶ https://web.archive.org/web/20081202093917/http://mauft.com/games/mmg—trapdoorer
  - Game's page on Newgrounds ⟶ https://www.newgrounds.com/portal/view/464278

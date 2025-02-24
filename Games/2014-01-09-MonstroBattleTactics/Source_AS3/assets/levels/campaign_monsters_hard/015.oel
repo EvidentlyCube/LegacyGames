@@ -1,0 +1,211 @@
+<level title="Shooting Gallery" description="" tileset="ice" victoryCondition="destroyFlag" surviveTurns="0" lossCondition="stallTurns" stallTurns="11" origLevel="19" origCampaign="monster_hard">
+  <width>416</width>
+  <height>416</height>
+  <layer0 set="tiles">
+    <tile tx="832" ty="256" x="0" y="0"/>
+    <tile tx="832" ty="288" x="0" y="32"/>
+    <tile tx="832" ty="288" x="0" y="64"/>
+    <tile tx="832" ty="288" x="0" y="96"/>
+    <tile tx="832" ty="288" x="0" y="128"/>
+    <tile tx="832" ty="288" x="0" y="160"/>
+    <tile tx="832" ty="288" x="0" y="192"/>
+    <tile tx="832" ty="288" x="0" y="224"/>
+    <tile tx="832" ty="288" x="0" y="256"/>
+    <tile tx="832" ty="288" x="0" y="288"/>
+    <tile tx="832" ty="288" x="0" y="320"/>
+    <tile tx="832" ty="288" x="0" y="352"/>
+    <tile tx="832" ty="320" x="0" y="384"/>
+    <tile tx="864" ty="256" x="32" y="0"/>
+    <tile tx="32" ty="32" x="32" y="32"/>
+    <tile tx="32" ty="32" x="32" y="64"/>
+    <tile tx="32" ty="32" x="32" y="96"/>
+    <tile tx="32" ty="32" x="32" y="128"/>
+    <tile tx="32" ty="32" x="32" y="160"/>
+    <tile tx="32" ty="32" x="32" y="192"/>
+    <tile tx="32" ty="32" x="32" y="224"/>
+    <tile tx="32" ty="32" x="32" y="256"/>
+    <tile tx="32" ty="32" x="32" y="288"/>
+    <tile tx="32" ty="32" x="32" y="320"/>
+    <tile tx="32" ty="32" x="32" y="352"/>
+    <tile tx="864" ty="320" x="32" y="384"/>
+    <tile tx="864" ty="256" x="64" y="0"/>
+    <tile tx="32" ty="32" x="64" y="32"/>
+    <tile tx="32" ty="32" x="64" y="64"/>
+    <tile tx="32" ty="32" x="64" y="96"/>
+    <tile tx="32" ty="32" x="64" y="128"/>
+    <tile tx="32" ty="32" x="64" y="160"/>
+    <tile tx="32" ty="32" x="64" y="192"/>
+    <tile tx="32" ty="32" x="64" y="224"/>
+    <tile tx="32" ty="32" x="64" y="256"/>
+    <tile tx="32" ty="32" x="64" y="288"/>
+    <tile tx="32" ty="32" x="64" y="320"/>
+    <tile tx="32" ty="32" x="64" y="352"/>
+    <tile tx="864" ty="320" x="64" y="384"/>
+    <tile tx="864" ty="256" x="96" y="0"/>
+    <tile tx="32" ty="32" x="96" y="32"/>
+    <tile tx="32" ty="32" x="96" y="64"/>
+    <tile tx="32" ty="32" x="96" y="96"/>
+    <tile tx="32" ty="32" x="96" y="128"/>
+    <tile tx="32" ty="32" x="96" y="160"/>
+    <tile tx="352" ty="0" x="96" y="192"/>
+    <tile tx="64" ty="32" x="96" y="224"/>
+    <tile tx="64" ty="32" x="96" y="256"/>
+    <tile tx="64" ty="32" x="96" y="288"/>
+    <tile tx="64" ty="32" x="96" y="320"/>
+    <tile tx="64" ty="32" x="96" y="352"/>
+    <tile tx="416" ty="352" x="96" y="384"/>
+    <tile tx="864" ty="256" x="128" y="0"/>
+    <tile tx="32" ty="32" x="128" y="32"/>
+    <tile tx="32" ty="32" x="128" y="64"/>
+    <tile tx="32" ty="32" x="128" y="96"/>
+    <tile tx="32" ty="32" x="128" y="128"/>
+    <tile tx="32" ty="32" x="128" y="160"/>
+    <tile tx="32" ty="64" x="128" y="192"/>
+    <tile tx="32" ty="224" x="128" y="224"/>
+    <tile tx="672" ty="64" x="128" y="256"/>
+    <tile tx="512" ty="64" x="128" y="288"/>
+    <tile tx="32" ty="224" x="128" y="320"/>
+    <tile tx="32" ty="224" x="128" y="352"/>
+    <tile tx="768" ty="320" x="128" y="384"/>
+    <tile tx="864" ty="256" x="160" y="0"/>
+    <tile tx="32" ty="32" x="160" y="32"/>
+    <tile tx="32" ty="32" x="160" y="64"/>
+    <tile tx="32" ty="32" x="160" y="96"/>
+    <tile tx="32" ty="32" x="160" y="128"/>
+    <tile tx="352" ty="0" x="160" y="160"/>
+    <tile tx="64" ty="64" x="160" y="192"/>
+    <tile tx="32" ty="224" x="160" y="224"/>
+    <tile tx="32" ty="224" x="160" y="256"/>
+    <tile tx="32" ty="224" x="160" y="288"/>
+    <tile tx="32" ty="224" x="160" y="320"/>
+    <tile tx="32" ty="224" x="160" y="352"/>
+    <tile tx="768" ty="320" x="160" y="384"/>
+    <tile tx="864" ty="256" x="192" y="0"/>
+    <tile tx="32" ty="32" x="192" y="32"/>
+    <tile tx="32" ty="32" x="192" y="64"/>
+    <tile tx="32" ty="32" x="192" y="96"/>
+    <tile tx="32" ty="32" x="192" y="128"/>
+    <tile tx="32" ty="64" x="192" y="160"/>
+    <tile tx="32" ty="224" x="192" y="192"/>
+    <tile tx="512" ty="64" x="192" y="224"/>
+    <tile tx="32" ty="224" x="192" y="256"/>
+    <tile tx="32" ty="224" x="192" y="288"/>
+    <tile tx="32" ty="224" x="192" y="320"/>
+    <tile tx="32" ty="224" x="192" y="352"/>
+    <tile tx="768" ty="320" x="192" y="384"/>
+    <tile tx="416" ty="320" x="224" y="0"/>
+    <tile tx="64" ty="32" x="224" y="32"/>
+    <tile tx="64" ty="32" x="224" y="64"/>
+    <tile tx="64" ty="32" x="224" y="96"/>
+    <tile tx="64" ty="32" x="224" y="128"/>
+    <tile tx="64" ty="64" x="224" y="160"/>
+    <tile tx="32" ty="224" x="224" y="192"/>
+    <tile tx="32" ty="224" x="224" y="224"/>
+    <tile tx="32" ty="224" x="224" y="256"/>
+    <tile tx="32" ty="224" x="224" y="288"/>
+    <tile tx="32" ty="224" x="224" y="320"/>
+    <tile tx="32" ty="224" x="224" y="352"/>
+    <tile tx="768" ty="320" x="224" y="384"/>
+    <tile tx="768" ty="256" x="256" y="0"/>
+    <tile tx="32" ty="224" x="256" y="32"/>
+    <tile tx="32" ty="224" x="256" y="64"/>
+    <tile tx="32" ty="224" x="256" y="96"/>
+    <tile tx="672" ty="64" x="256" y="128"/>
+    <tile tx="672" ty="64" x="256" y="160"/>
+    <tile tx="512" ty="64" x="256" y="192"/>
+    <tile tx="32" ty="224" x="256" y="224"/>
+    <tile tx="32" ty="224" x="256" y="256"/>
+    <tile tx="32" ty="224" x="256" y="288"/>
+    <tile tx="32" ty="224" x="256" y="320"/>
+    <tile tx="32" ty="224" x="256" y="352"/>
+    <tile tx="768" ty="320" x="256" y="384"/>
+    <tile tx="768" ty="256" x="288" y="0"/>
+    <tile tx="32" ty="224" x="288" y="32"/>
+    <tile tx="32" ty="224" x="288" y="64"/>
+    <tile tx="32" ty="224" x="288" y="96"/>
+    <tile tx="32" ty="224" x="288" y="128"/>
+    <tile tx="32" ty="224" x="288" y="160"/>
+    <tile tx="32" ty="224" x="288" y="192"/>
+    <tile tx="32" ty="224" x="288" y="224"/>
+    <tile tx="32" ty="224" x="288" y="256"/>
+    <tile tx="32" ty="224" x="288" y="288"/>
+    <tile tx="32" ty="224" x="288" y="320"/>
+    <tile tx="32" ty="224" x="288" y="352"/>
+    <tile tx="768" ty="320" x="288" y="384"/>
+    <tile tx="768" ty="256" x="320" y="0"/>
+    <tile tx="32" ty="224" x="320" y="32"/>
+    <tile tx="32" ty="224" x="320" y="64"/>
+    <tile tx="32" ty="224" x="320" y="96"/>
+    <tile tx="32" ty="224" x="320" y="128"/>
+    <tile tx="32" ty="224" x="320" y="160"/>
+    <tile tx="32" ty="224" x="320" y="192"/>
+    <tile tx="32" ty="224" x="320" y="224"/>
+    <tile tx="32" ty="224" x="320" y="256"/>
+    <tile tx="32" ty="224" x="320" y="288"/>
+    <tile tx="32" ty="224" x="320" y="320"/>
+    <tile tx="32" ty="224" x="320" y="352"/>
+    <tile tx="768" ty="320" x="320" y="384"/>
+    <tile tx="768" ty="256" x="352" y="0"/>
+    <tile tx="32" ty="224" x="352" y="32"/>
+    <tile tx="32" ty="224" x="352" y="64"/>
+    <tile tx="32" ty="224" x="352" y="96"/>
+    <tile tx="32" ty="224" x="352" y="128"/>
+    <tile tx="32" ty="224" x="352" y="160"/>
+    <tile tx="32" ty="224" x="352" y="192"/>
+    <tile tx="32" ty="224" x="352" y="224"/>
+    <tile tx="32" ty="224" x="352" y="256"/>
+    <tile tx="32" ty="224" x="352" y="288"/>
+    <tile tx="32" ty="224" x="352" y="320"/>
+    <tile tx="32" ty="224" x="352" y="352"/>
+    <tile tx="768" ty="320" x="352" y="384"/>
+    <tile tx="800" ty="256" x="384" y="0"/>
+    <tile tx="800" ty="288" x="384" y="32"/>
+    <tile tx="800" ty="288" x="384" y="64"/>
+    <tile tx="800" ty="288" x="384" y="96"/>
+    <tile tx="800" ty="288" x="384" y="128"/>
+    <tile tx="800" ty="288" x="384" y="160"/>
+    <tile tx="800" ty="288" x="384" y="192"/>
+    <tile tx="800" ty="288" x="384" y="224"/>
+    <tile tx="800" ty="288" x="384" y="256"/>
+    <tile tx="800" ty="288" x="384" y="288"/>
+    <tile tx="800" ty="288" x="384" y="320"/>
+    <tile tx="800" ty="288" x="384" y="352"/>
+    <tile tx="800" ty="320" x="384" y="384"/>
+  </layer0>
+  <layer1 set="tiles">
+    <tile tx="512" ty="0" x="128" y="224"/>
+    <tile tx="512" ty="0" x="192" y="192"/>
+    <tile tx="736" ty="64" x="192" y="224"/>
+    <tile tx="512" ty="0" x="256" y="96"/>
+    <tile tx="736" ty="32" x="256" y="192"/>
+  </layer1>
+  <layer2 set="tiles"/>
+  <actors>
+    <archer x="96" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <archer x="32" y="96" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="256" y="320" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="288" y="288" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="320" y="256" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="352" y="224" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="224" y="352" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="224" y="288" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="256" y="256" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="288" y="224" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <trapSpikes0 x="160" y="224"/>
+    <trapSpikes0 x="224" y="192"/>
+    <trapSpikes0 x="128" y="320"/>
+    <trapSpikes0 x="128" y="352"/>
+    <trapSpikes0 x="256" y="64"/>
+    <trapSpikes0 x="256" y="32"/>
+    <pikeman x="128" y="128" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <pikeman x="64" y="192" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <pikeman x="192" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <flagHumans x="32" y="32"/>
+    <soldier x="64" y="32" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="64" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <soldier x="32" y="64" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="1" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="320" y="320" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="288" y="352" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+    <cottonBall x="352" y="288" arrow="0" shield="0" skull="0" sword="0" heart="0" foot="0" stop="0" hpRegen="0" counterAttack="false" customStats="false" hp="2" attack="2" defense="2" movement="4" attackRangeMin="1" attackRangeMax="1"/>
+  </actors>
+</level>

@@ -42,7 +42,7 @@ or play it with `ruffle` builds bundled with this repository:
 
 # Development
 ## Project Structure
- - `Media/` — Social media and web assets
+ - `Media/` ⟶ Social media and web assets
  - `Source_AS3/` ⟶ The game's source files
  - `SWF/` ⟶ A compiled `.swf` file of the game
  - `play-win.bat` ⟶ A windows batch file that runs the SWF file in

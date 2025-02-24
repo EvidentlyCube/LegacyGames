@@ -29,10 +29,10 @@ or play it with `ruffle` builds bundled with this repository:
 
 
 ## Controls
- - `Mouse` — Interact, connect numbers
- - `F4` - Toggle scale modes
- - `F9` - Toggle quality
- - `F11` - Toggle fullscreen
+ - `Mouse` ⟶ Interact, connect numbers
+ - `F4` ⟶ Toggle scale modes
+ - `F9` ⟶ Toggle quality
+ - `F11` ⟶ Toggle fullscreen
 
 
 ## Credits

@@ -1,0 +1,160 @@
+WORKING ON:
+
+TO TEST:
+[#138] Check help files, again
+[#139] Add info about movement order to help
+[#140] Monster++ #4 achievement also unlocks Monster++ #16 achievement
+[#142] Monster++ 19 achievement is broken, I unlocked it even though I only had 2 shrooms alive
+[#144] I got Monster++ 16 after completing Monster++ 4 with its achievement.
+
+TODO:
+[#058] FPS detection with lighting enabled
+[#124] Make lighting downscale when too high screen resolution
+[#128] Update min specs:
+        But I'm not sure if my laptop's specs are very indicative in this case... oh well!
+        Got an i7 740QM processor http://ark.intel.com/products/49024/Intel-Core-i7-740QM-Processor-6M-cache-1_73-GHz
+        a geforce gt 425m http://www.geforce.com/hardware/notebook-gpus/geforce-gt-425m/specifications
+        8GB RAM, DirectX11, running Windows 7
+[#135] Allow undoing while an action is happening
+[#141] Add toggle for displaying full grid
+[#143] In Monster++ 12, I got all my units killed, and the game didn't immediately recognize my defeat
+[#145]
+
+
+
+TESTED:
+[#001] Sliders do not react to clicks, just dragging
+[#002] No menu under escape
+[#004] Select level directly from inside the game
+[#005] Windows should not appear but slide in
+[#006] Implement the map level selection
+[#007] Finish all introduction levels
+[#008] Improve intro background movement
+[#009] Add option to import ame state
+[#010] SOrt the levels from minijuegos version - Done
+[#011] Give name to each level
+[#012] Write description for each level
+[#013] Mouse click on Retrocade logo shouldn't skip anything in title screen
+[#014] Handle video files missing
+[#015] Intro should start Introduction campaign
+[#016] Add message boxes to introduction campaign
+[#017] Tooltips to buttons
+[#018] Add display for turns left
+[#019] Extensively test undo
+[#020] Test undo with victory/loss conditions with timers
+[#021] Continue doesn't store undo history
+[#022] Window size is incorrectly remembered
+[#023] Investigate Schik's "can't move in a corner" problem
+[#024] Turn left display should display "current turn / turns max" and color accordingly
+[#025] Intro watched after you already watched intro should return to title screen
+[#026] Current turn is not saved for continue
+[#027] Weird issue with entities being stored between levels ??? -> Play Introduction #1 then Introduction #2
+[#028] Drag buttons/Sliders don't work correctly when they're maxed
+[#029] Checkboxes didn't make sound
+[#030] Undo on "Q"
+[#031] Undo out of mission completed/failed screen
+[#032] Modal fade in/out
+[#033] Undoed web traps don't come back
+[#034] On Introduction completed detect which campaign we can continue
+[#035] Weird bug with pathmapping failing, try to reproduce
+[#036] Weird bug with enemy appearing outside map when loaded a save for Level #5 (probably was caused by dead entities)
+[#037] Make lanterns effectively invincible
+[#038] Flag targetting AI should skip "Closest to flag" step when flag is unreachable
+[#039] Go through tutorial texts again
+[#040] Disable all input in-game when menu is opened
+[#041] Victory/failure actions don't block HUD
+[#042] Also, dragging a unit to a square outside of both its movement and attacking range or on top of an obstacle creates a "you can move here" highlight on that square that stays until you hover over a unit that could actually move there!
+[#043] Sound effects disabling doesn't work
+[#044] Humans 8 = lost all units but mission is still going
+[#045] Selecting mission from pause menu should close the pause menu
+[#046] If the player restarts a mission via the pause menu TWICE in a row, the music will turn off. Any further restarts will toggle the music on and off :D
+[#047] Level selection too much vertical space below button
+[#048] Units lost, when undoing, do not get their moves reset on end turn
+[#049] Improve polish and visuals of various things
+[#050] Objective, help, pause icons don't have grayed out version
+[#051] Undoing from mission completion is wonky - last moved unit stays grayed out
+[#052] Undoing from mission failed won't work
+[#053] Add lanterns to levels
+[#054] Send Chaco (george@wanfried.com) information how to build Monstro
+[#055] Replace drag'n'drop system with regular select unit and move.
+[#056] Make the tutorial even better than it is now
+[#057] Lighting enabled should be the default state for the game
+[#059] Zoom x2 should be the default zoom state
+[#060] Rewrite enemy AI section
+[#061] Tooltips don't disappear after click
+[#062] Lighting is a little too dark - Added option to change lighting
+[#063] Tutorial levels are slightly too hard
+[#064] Fastforward when RMB is held during enemy turn
+[#065] Enemy movement target should be blue
+[#066] Redo Flag AI to work exactly as the regular AI, except it will attack the flag if possible
+[#067] Locks on unfinished missions need to be replaced
+[#068] Mission 3 graphical bug in bottom-right corner
+[#069] Stun graphic should display under HP
+[#070] Specializations are missing some of the tiny icons
+[#071] Disallow dragging when mouse is over units (?)
+[#073] Tooltips shouldn't appear on disabled buttons
+[#074] Hovering over stats should display a tooltip
+[#075] When level floats in there is a flicker of hud buttons for a turn
+[#076] Fix the issue with grid thingsies appearing for a split second at the begining of level sometimes
+[#077] Hovering over trap should display its stats
+[#079] Add Alex Diener & Aquator to the credits
+[#080] On level selection go to the last played level's page
+[#081] Spike trap volume reduce
+[#082] MonstroHudStatsWindow - Dispose
+[#083] MonstroHudAttackResults - Dispose
+[#084] Import progress window should work correctly with sliding
+[#085] Make sure all windows are untouchable when sliding
+[#086] Pause menu, clicking resume doesn't close correctly
+[#087] Title screen campaign selection, incorrect grouping (check groupings: objectives, select campaign, options gampeplay, options sound)
+[#088] Fast forward on click, mouse should be flushed after moving
+[#089] Clicking on the map multiple times before it closes fresezes the game
+[#091] Rework credits
+[#092] Test every button in every menu
+[#093] Ending turn should deselect everything
+[#094] Undoing should deselect everything
+[#095] Incomplete mission island should be slightly faded out
+[#096] Introduction campaign completed window should slide
+[#097] Missing texts in intro/outro
+[#099] Update the credits at the end of the game
+[#098] Remove text showers for intro/outro
+[#100] Feet small icon has artifact on the right
+[#101] Attack effects (or maybe def restore) have artifacts
+[#102] Minotaur attack plays twice
+[#106] Fix the islands on the map
+[#108] Enemy movement prediction should have a ghost
+[#109] Add achievements
+[#110] Grafiki od kejdza do Monstro OST na YT
+[#111] Grafiki od kejdza: achievements
+[#112] Grafiki od kejdza: trading cards
+[#113] Loading save file loses stun status from undo
+[#114] Problem with "mission failed's" undo - does it multiple times
+[#115] Ending turn with cursor over unit wont auto hover on it
+[#116] Selecting unit won't display end turn icon
+[#117] Finished mission 8, chose select mission, mission 7, freeze
+[#118] Rewrite help files
+[#119] Revise finale text
+[#121] Make last tutorial hints disappear after turn end or so - they are dismissable
+[#122] Human++ #7 move it farther
+[#123] Make lighting fail gracefully for too high screen resolutions
+[#126] Reorder Humans++ a little :(
+[#127] Disallow dragging while options screen is up
+[#129]Destoyed walls do not remain after state load
+[#130]Cursor is not reset when opening pause/help/objectives
+[#131]Specialization icons disappear on continue
+[#132] Disable "wait for tap" by default for new players
+[#133] "Wait for tap" should accept any key and mouse press
+[#134] Allow opening pause menu all the time
+[#136] Allow pressing (Q) to undo last move from mission failed/victory screen once the menu is visible
+[#137] Allow pressing any key to quicken/skip failed/victory screen animation
+
+ABANDONED:
+[#003] Add buttons to help for next/prev window
+[#072] Consider adding dots to the map
+[#078] (low priority) do hybrid controls
+[#090] Monster+ #15, mission does not end
+[#103] Update Retrocade logo with 60fps video
+[#104] Update Monstro title screen logo with 60fps video
+[#105] Replace the Monstro title screen background
+[#120] Zmienić "Humans Turn" i "Monsters Turn" na Humans' i Monsters'
+[#125] Add island ID to level's metadata
+[#107] Go through all the levels and make some of them prettier

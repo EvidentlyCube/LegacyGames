@@ -1,0 +1,38 @@
+assets/
+-------
+Check LICENSE.txt in each subdirectory
+
+
+src.starling/
+-------------
+Copyright Gamua
+Simplified BSD License
+
+
+src.lighting/
+-------------
+Copyright Adobe, Szenia Zadvornykh, others
+Check license of each file
+
+
+src.suspenders/
+---------------
+Copyright original authors
+MIT License
+
+
+libs/
+-----
+Copyright original authors
+
+
+src/
+scripts/
+src.framework/
+src.sheet_generator/
+src.utils/
+rebuildAssets.bat
+--------------------
+(Some file contain a different license listed at the top of the file)
+Copyright Maurycy Zarzycki
+MIT License

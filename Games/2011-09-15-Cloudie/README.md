@@ -33,7 +33,7 @@ or play it with `ruffle` builds bundled with this repository:
 
 # Development
 ## Project Structure
- - `Media/` — Social media and web assets
+ - `Media/` ⟶ Social media and web assets
  - `Source_FLA/` ⟶ The <GAME / PROTOTYPE>'s sources in the form of an `.fla` file
     and other source files
  - `SWF/` ⟶ A compiled `.swf` file of the <GAME / PROTOTYPE>

@@ -1,0 +1,10 @@
+bg/
+gameIcon/
+map/
+scenes/
+sheet_src/
+sheets/
+unused/
+----------
+Copyright Aleksander (Cage) Kowalczyk
+Creative Commons Attribution 4.0 International

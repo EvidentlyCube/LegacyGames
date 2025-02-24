@@ -1,0 +1,44 @@
+Achievements:
+
+Implement for sure
+Introduction #3 - Make the gargoyle step on each web trap and win the mission
+Cleaning up the webs
+
+Introduction #6 - Kill the minotaur with spike trap
+Way to go
+
+Introduction #8 - Kill all the goos
+Goobsessive Compulsive Disorder
+
+Human #3 - Finish the mission without moving the mobile walls
+
+Human #5 - Finish the mission without moving on the first turn
+
+Human #20 - Kill the slime and win the mission
+
+Monster #7 -  Finish the mission without losing a single unit
+
+Monster #19 - Finish the mission without losing a single unit
+Monster #20 - Complete the mission without losing a single unit
+
+Human++ #8 - Complete the mission without losing a single unit
+HUman++ #12 - Complete the mission without losing a single unit
+HUman++ #15 - Kill a manticore and complete the mission
+Human++ #19 - Complete without getting hit
+Monster++ #4 - Finish the mission without losing a single unit
+Monster++ #5 - Complete the mission without the shroom attacking
+Monster++ #10 - Complete the mission without the shroom attacking
+Monster++ #16 - Kill all enemies and complete the mission
+Monster++ #19 - Complete the mission with 5 shrooms alive
+
+
+Ranking of fun
+
++2
++1 Monster #1 - Finish the mission without losing a single unit
++1 Monster #8 - Finish the mission without losing a single unit
++0 Monster #2 - Finish the mission without losing a single unit
++0 Human #8 - Finish the mission without losing a single unit
++0 Human #7 - Finish the mission without losing a single unit
++0 Human #6 - Finish the mission without losing a single unit
+
