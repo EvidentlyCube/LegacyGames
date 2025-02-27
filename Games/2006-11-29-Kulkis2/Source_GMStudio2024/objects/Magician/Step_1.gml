@@ -1,6 +1,11 @@
 
 //Tiles Hunting
 //Sprawdza po kolei ka�de pole w poszukiwaniu tiles�w grupy pierwszej-pi�tej (depth=1.000.005-1.000.000)
+
+if (!surface_exists(global.surf_tiles)) {
+	global.surf_tiles = surface_create(800,600);
+}
+
 var ix,iy,dypth,ide;
 var layers = layer_get_all()
 surface_set_target(global.surf_tiles)

@@ -251,14 +251,17 @@ global.lif[59]=0
 /*--------------------------SURFACES GENERATING---------------------------*/
 
 global.surf_shadow=surface_create(800,600);
+global.surf_shadow_buffer=buffer_create(800 * 600 * 4, buffer_fixed, 1);
 surface_set_target(global.surf_shadow)
 draw_clear_alpha(make_color_rgb(1,0,0),0)
 surface_reset_target()
 global.surf_tiles=surface_create(800,600);
+global.surf_tiles_buffer=buffer_create(800 * 600 * 4, buffer_fixed, 1);
 surface_set_target(global.surf_tiles)
 draw_clear_alpha(make_color_rgb(1,0,0),0)
 surface_reset_target()
 global.surf_walls=surface_create(800,600, );
+global.surf_walls_buffer=buffer_create(800 * 600 * 4, buffer_fixed, 1);
 surface_set_target(global.surf_walls)
 draw_clear_alpha(make_color_rgb(1,0,0),0)
 surface_reset_target()
