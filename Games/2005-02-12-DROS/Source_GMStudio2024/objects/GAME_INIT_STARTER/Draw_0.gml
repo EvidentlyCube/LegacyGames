@@ -18,6 +18,7 @@ Press Any key to continue...
 
 
 2024 addendum:
+ - Use 789 / UIO / JKL to move when Numpad is not available
  - Press 'd' on this screen to enable debug mode:
    - Teleport with LMB
    - 'k' to kill all enemies
