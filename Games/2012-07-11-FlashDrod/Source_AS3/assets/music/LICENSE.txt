@@ -1,8 +1,14 @@
-MP3 files containing only silence
+Title.mp3
 ---------------------------------
-No copyright, public domain
+Copyright Emmett Plant, All Rights Reserved, Permission given to include those
+assets in this repository and forks for the purpose of archiving full source
+code of the project.
+Permission obtained from Emmett Plant via Email on 2025-04-07
 
 
-Files containing actual sound
------------------------------
-Copyright Caravel Games, they should not be here
+*.mp3
+-----
+Copyright Caravel Games, All Rights Reserved, Permission given to include those
+assets in this repository and forks for the purpose of archiving full source
+code of the project.
+Permission obtained from Mike Rimer via Email on 2024-12-09

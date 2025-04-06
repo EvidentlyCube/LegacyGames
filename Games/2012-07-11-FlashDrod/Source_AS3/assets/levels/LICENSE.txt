@@ -1,2 +1,3 @@
 Copyright Caravel Games
-Holds were created by volunteers from DROD community
+Holds were created by volunteers from DROD community based on the original
+King Dugan's Dungeon hold.

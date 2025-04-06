@@ -24,5 +24,7 @@ Copyright Caravel Games
 
 (all other files)
 -----------------
-Copyright Caravel Games and Maurycy Zarzycki
-The graphics contain original DROD graphics' shapes filled with color.
+Copyright Caravel Games, All Rights Reserved, Permission given to include those
+assets in this repository and forks for the purpose of archiving full source
+code of the project.
+Permission obtained from Mike Rimer via Email on 2024-12-09

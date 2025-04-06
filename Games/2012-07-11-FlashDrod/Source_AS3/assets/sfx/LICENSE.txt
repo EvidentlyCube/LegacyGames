@@ -1,8 +1,7 @@
-MP3 files containing only silence
----------------------------------
-No copyright, public domain
-
-
-Files containing actual sound
------------------------------
-Copyright Caravel Games, they should not be here
+*.mp3
+*.ogg
+-----------------
+Copyright Caravel Games, All Rights Reserved, Permission given to include those
+assets in this repository and forks for the purpose of archiving full source
+code of the project.
+Permission obtained from Mike Rimer via Email on 2024-12-09
