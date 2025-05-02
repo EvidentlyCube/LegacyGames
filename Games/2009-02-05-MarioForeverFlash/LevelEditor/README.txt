@@ -15,4 +15,12 @@ LevelEditor
 
 # How to use
 
-I don't know, you'll have to figure it out by yourself
+I don't know, you'll have to figure it out by yourself. The source code is in
+`Main.bmx` so that should be a good starting point.
+
+# There are no levels
+
+Yes, unfortunately it seems the levels I had in the repository for this project
+were actually Squario levels. My theory is that when I was making the MFF ones
+I never saved the levels to disk, only immediately exported them to the game's
+text format.
